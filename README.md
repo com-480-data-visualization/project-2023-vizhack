@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
-| | |
-| | |
+| Ekaterina Sedykh | 355093 |
+| Yuhan Bi | 335456 |
+| Olena Zavertiaieva | 364500 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
@@ -19,28 +19,43 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
+> For this project we are choosing three tobacco-centric datasets:  “Global Burden of Disease Study 2019 (GBD 2019) Smoking Tobacco Use Prevalence 1990-2019” ,  “Global Burden of Disease Study 2019 (GBD 2019) Chewing Tobacco Use Prevalence 1990-2019” and “Relative risks: smoking”. These datasets have been compiled and published by the Institute for Health Metrics and Evaluation (IHME), providing comprehensive and standardized information on smoking and chewing prevalence across countries, age groups, and genders. 
 >
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+> Due to the thorough quality checks performed by the IHME, the datasets are considered to be of high quality. As a result of its well-structured format, it is anticipated that only minimal preprocessing and data cleaning will be necessary.
+
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+> The general topic of our visualization is the global prevalence of smoking and chewing tobacco and its health implications. The main axes to be developed in this project are:
+> - The global and regional trends in smoking and chewing prevalence from 1990 to 2019.
+> - The differences in smoking and chewing tobacco prevalence as well as the number of current smokers across genders and age groups.
+> - The correlation between smoking prevalence and health risk outcomes such as morbidity and mortality among non-smokers, current smokers and different smoking cessation phase of former smokers.
+>
+> Our visualization aims to cater to individuals in the fields of public health, policymaking, and research who are interested in the areas of tobacco control, health promotion and disease prevention.
+
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
+> During the preprocessing phase, we will filter, aggregate, and transform the dataset to facilitate analysis and visualization. We will compute basic statistics, such as mean, median, mode, and standard deviation, to gain insights into the distribution of smoking prevalence across countries, age groups, and genders. Additional analyses may include identifying countries with the highest and lowest smoking prevalence and examining the change in smoking prevalence over time. All of this in the end will help us to better do data-driven storytelling.
+>
+> We’ll refer to our datasets as “Smoking” and “Chewing”. “Smoking” dataset has 20,970 entries 
 
 ### Related work
 
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+> There are studies done that have explored various aspects of the GBD 2019 dataset, such as the impact of smoking on health and the effectiveness of tobacco control policies [[1]](#Notes). We are planning to focus on dynamically visualizing the global and regional trends in smoking and chewing tobacco prevalence as well as illustrating the contrast between diseases that are attributable to different smoking status within the scope of genders and age groups. This approach will help convey the message more effectively to a broader audience, including non-specialists.
+> 
+> TO DO
+> 
+> Check: 
+> 
+> - https://www.healthdata.org/data-visualization/tobacco-visualization + https://vizhub.healthdata.org/tobacco/
+> - https://www.healthdata.org/data-visualization/importance-tobacco-control-mexico
+
+
+## Notes
+
+* **[1]** Reitsma, Marissa B., et al. "Spatial, temporal, and demographic patterns in prevalence of smoking tobacco use and attributable disease burden in 204 countries and territories, 1990–2019: a systematic analysis from the Global Burden of Disease Study 2019." The Lancet 397.10292 (2021): 2337-2360. 
 
 ## Milestone 2 (7th May, 5pm)
 
