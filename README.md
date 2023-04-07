@@ -38,17 +38,16 @@ Please, fill the following sections about your project.
 
 > During the preprocessing phase, we will filter, aggregate, and transform the dataset to facilitate analysis and visualization. We will compute basic statistics, such as mean, median, mode, and standard deviation, to gain insights into the distribution of smoking prevalence across countries, age groups, and genders. Additional analyses may include identifying countries with the highest and lowest smoking prevalence and examining the change in smoking prevalence over time. All of this in the end will help us to better do data-driven storytelling.
 >
-> We’ll refer to our datasets as “Smoking” and “Chewing”. “Smoking” dataset has 20,970 entries 
+> We’ll refer to our datasets as “Smoking” and “Chewing”. In [Explorative Analysis.ipynb] we are doing just simple exploration of the “smoking” dataset as it will be our main source of data. There we can see some trends of how different genders were smoking during set years, for example in men there is a clear increase, while for women after the peak in aroung 2007 the number of smoking women started to decrease. This trend of course has to be researched further so we can show actual correlation and not the faulty causes (for example maybe womens population decreased in these years). 
 
 ### Related work
 
 
 > There are studies done that have explored various aspects of the GBD 2019 dataset, such as the impact of smoking on health and the effectiveness of tobacco control policies [[1]](#Notes). We are planning to focus on dynamically visualizing the global and regional trends in smoking and chewing tobacco prevalence as well as illustrating the contrast between diseases that are attributable to different smoking status within the scope of genders and age groups. This approach will help convey the message more effectively to a broader audience, including non-specialists.
 > 
-> TO DO
 > 
-> Check: 
-> 
+>  
+> We have found some relevant visualization on tobacco usage topic which can help us in the beginning to show examples of how can be visualiza our data:
 > - https://www.healthdata.org/data-visualization/tobacco-visualization + https://vizhub.healthdata.org/tobacco/
 > - https://www.healthdata.org/data-visualization/importance-tobacco-control-mexico
 
