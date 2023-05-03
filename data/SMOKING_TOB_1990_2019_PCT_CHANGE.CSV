@@ -1,0 +1,1399 @@
+measure_name,location_id,location_name,sex_id,sex_name,age_group_id,age_group_name,val,upper,lower
+"% Change in Number of Smokers, 1990-2019",1,Global,1,Male,29,15+ years,0.183579612,0.200438301,0.166373289
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",1,Global,1,Male,29,15+ years,-0.275027726,-0.265055374,-0.285078994
+"% Change in Number of Smokers, 1990-2019",1,Global,2,Female,29,15+ years,0.027346583,0.066359023,-0.008665658
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",1,Global,2,Female,29,15+ years,-0.377421625,-0.354123161,-0.399461164
+"% Change in Number of Smokers, 1990-2019",1,Global,3,Both,29,15+ years,0.153778546,0.169123026,0.137887046
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",1,Global,3,Both,29,15+ years,-0.295709351,-0.286486313,-0.305203151
+"% Change in Number of Smokers, 1990-2019",4,"Southeast Asia, East Asia, and Oceania",1,Male,29,15+ years,0.292152776,0.324400543,0.258622176
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",4,"Southeast Asia, East Asia, and Oceania",1,Male,29,15+ years,-0.165647213,-0.145043549,-0.186339611
+"% Change in Number of Smokers, 1990-2019",4,"Southeast Asia, East Asia, and Oceania",2,Female,29,15+ years,0.412540431,0.634432762,0.204081998
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",4,"Southeast Asia, East Asia, and Oceania",2,Female,29,15+ years,-0.220729326,-0.109975499,-0.332329119
+"% Change in Number of Smokers, 1990-2019",4,"Southeast Asia, East Asia, and Oceania",3,Both,29,15+ years,0.300234049,0.334376322,0.264998926
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",4,"Southeast Asia, East Asia, and Oceania",3,Both,29,15+ years,-0.175168327,-0.154313305,-0.196672822
+"% Change in Number of Smokers, 1990-2019",5,East Asia,1,Male,29,15+ years,0.210877867,0.250049493,0.169701323
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",5,East Asia,1,Male,29,15+ years,-0.180983295,-0.154007402,-0.207979453
+"% Change in Number of Smokers, 1990-2019",5,East Asia,2,Female,29,15+ years,0.422535898,0.753961359,0.127051282
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",5,East Asia,2,Female,29,15+ years,-0.207091836,-0.038392589,-0.363592048
+"% Change in Number of Smokers, 1990-2019",5,East Asia,3,Both,29,15+ years,0.223072878,0.264309777,0.180042866
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",5,East Asia,3,Both,29,15+ years,-0.192961396,-0.165159134,-0.22178826
+"% Change in Number of Smokers, 1990-2019",6,China,1,Male,29,15+ years,0.208942701,0.248293463,0.16703666
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",6,China,1,Male,29,15+ years,-0.182132788,-0.154929847,-0.209768563
+"% Change in Number of Smokers, 1990-2019",6,China,2,Female,29,15+ years,0.437793907,0.785238378,0.130001694
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",6,China,2,Female,29,15+ years,-0.208608074,-0.035292566,-0.374062004
+"% Change in Number of Smokers, 1990-2019",6,China,3,Both,29,15+ years,0.221800317,0.264584311,0.177542705
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",6,China,3,Both,29,15+ years,-0.195144893,-0.165969342,-0.224606061
+"% Change in Number of Smokers, 1990-2019",7,Democratic People's Republic of Korea,1,Male,29,15+ years,0.496016542,0.622967193,0.385453825
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",7,Democratic People's Republic of Korea,1,Male,29,15+ years,-0.084728566,-0.009889939,-0.152958901
+"% Change in Number of Smokers, 1990-2019",7,Democratic People's Republic of Korea,2,Female,29,15+ years,0.616243663,1.223215021,0.126226688
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",7,Democratic People's Republic of Korea,2,Female,29,15+ years,0.115611235,0.511871322,-0.20741688
+"% Change in Number of Smokers, 1990-2019",7,Democratic People's Republic of Korea,3,Both,29,15+ years,0.504400059,0.624630395,0.386411243
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",7,Democratic People's Republic of Korea,3,Both,29,15+ years,0.004152104,0.086290316,-0.073982583
+"% Change in Number of Smokers, 1990-2019",8,Taiwan (Province of China),1,Male,29,15+ years,0.102573265,0.19548137,0.017360029
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",8,Taiwan (Province of China),1,Male,29,15+ years,-0.181778159,-0.115172438,-0.242741553
+"% Change in Number of Smokers, 1990-2019",8,Taiwan (Province of China),2,Female,29,15+ years,-0.096305067,0.247149851,-0.393944157
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",8,Taiwan (Province of China),2,Female,29,15+ years,-0.279160971,-0.009679441,-0.509570496
+"% Change in Number of Smokers, 1990-2019",8,Taiwan (Province of China),3,Both,29,15+ years,0.074949929,0.167234276,-0.010033775
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",8,Taiwan (Province of China),3,Both,29,15+ years,-0.216845668,-0.152830013,-0.279222063
+"% Change in Number of Smokers, 1990-2019",9,Southeast Asia,1,Male,29,15+ years,0.564767828,0.600482933,0.529441468
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",9,Southeast Asia,1,Male,29,15+ years,-0.125923691,-0.107466762,-0.14374278
+"% Change in Number of Smokers, 1990-2019",9,Southeast Asia,2,Female,29,15+ years,0.3786165,0.544991919,0.229154513
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",9,Southeast Asia,2,Female,29,15+ years,-0.299282557,-0.219853288,-0.369980796
+"% Change in Number of Smokers, 1990-2019",9,Southeast Asia,3,Both,29,15+ years,0.546621941,0.582846078,0.511468436
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",9,Southeast Asia,3,Both,29,15+ years,-0.132696679,-0.113687174,-0.152023259
+"% Change in Number of Smokers, 1990-2019",10,Cambodia,1,Male,29,15+ years,0.909525018,1.050932598,0.775155909
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",10,Cambodia,1,Male,29,15+ years,-0.197100225,-0.147033726,-0.243174982
+"% Change in Number of Smokers, 1990-2019",10,Cambodia,2,Female,29,15+ years,0.976729692,1.576695639,0.489838451
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",10,Cambodia,2,Female,29,15+ years,-0.139262478,0.10573548,-0.345729435
+"% Change in Number of Smokers, 1990-2019",10,Cambodia,3,Both,29,15+ years,0.915291994,1.054399793,0.781757842
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",10,Cambodia,3,Both,29,15+ years,-0.156964159,-0.102522595,-0.209617071
+"% Change in Number of Smokers, 1990-2019",11,Indonesia,1,Male,29,15+ years,0.838275041,0.907744923,0.76682583
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",11,Indonesia,1,Male,29,15+ years,0.069363563,0.106331582,0.031392334
+"% Change in Number of Smokers, 1990-2019",11,Indonesia,2,Female,29,15+ years,0.972626158,1.607335677,0.480441414
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",11,Indonesia,2,Female,29,15+ years,0.079930445,0.391736251,-0.172197803
+"% Change in Number of Smokers, 1990-2019",11,Indonesia,3,Both,29,15+ years,0.844303414,0.912838544,0.770116403
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",11,Indonesia,3,Both,29,15+ years,0.088640222,0.127474429,0.046510297
+"% Change in Number of Smokers, 1990-2019",12,Lao People's Democratic Republic,1,Male,29,15+ years,1.490580547,1.716395926,1.282587592
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",12,Lao People's Democratic Republic,1,Male,29,15+ years,0.09060713,0.171799258,0.010518734
+"% Change in Number of Smokers, 1990-2019",12,Lao People's Democratic Republic,2,Female,29,15+ years,1.761969166,2.716652531,0.945118296
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",12,Lao People's Democratic Republic,2,Female,29,15+ years,0.292652696,0.711826391,-0.062533376
+"% Change in Number of Smokers, 1990-2019",12,Lao People's Democratic Republic,3,Both,29,15+ years,1.516122789,1.720677625,1.291786225
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",12,Lao People's Democratic Republic,3,Both,29,15+ years,0.1457271,0.230912297,0.048719496
+"% Change in Number of Smokers, 1990-2019",13,Malaysia,1,Male,29,15+ years,0.729642912,0.877370482,0.586914143
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",13,Malaysia,1,Male,29,15+ years,-0.222921875,-0.160492004,-0.281012323
+"% Change in Number of Smokers, 1990-2019",13,Malaysia,2,Female,29,15+ years,0.547066403,1.172538999,0.067208431
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",13,Malaysia,2,Female,29,15+ years,-0.26047476,0.010439215,-0.474585191
+"% Change in Number of Smokers, 1990-2019",13,Malaysia,3,Both,29,15+ years,0.713763352,0.858813553,0.575495285
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",13,Malaysia,3,Both,29,15+ years,-0.199692144,-0.134536339,-0.259674033
+"% Change in Number of Smokers, 1990-2019",14,Maldives,1,Male,29,15+ years,3.255248712,3.625898083,2.881917309
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",14,Maldives,1,Male,29,15+ years,-0.060161183,0.007921724,-0.132816376
+"% Change in Number of Smokers, 1990-2019",14,Maldives,2,Female,29,15+ years,1.620058415,2.587752543,0.84517712
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",14,Maldives,2,Female,29,15+ years,-0.064846268,0.237592688,-0.328181704
+"% Change in Number of Smokers, 1990-2019",14,Maldives,3,Both,29,15+ years,3.047348368,3.408440975,2.697947818
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",14,Maldives,3,Both,29,15+ years,0.049371224,0.133396658,-0.030260837
+"% Change in Number of Smokers, 1990-2019",15,Myanmar,1,Male,29,15+ years,0.05212065,0.129671725,-0.023282876
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",15,Myanmar,1,Male,29,15+ years,-0.322051393,-0.277608962,-0.365861855
+"% Change in Number of Smokers, 1990-2019",15,Myanmar,2,Female,29,15+ years,0.015094962,0.297280286,-0.203465164
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",15,Myanmar,2,Female,29,15+ years,-0.486871331,-0.352589773,-0.595611785
+"% Change in Number of Smokers, 1990-2019",15,Myanmar,3,Both,29,15+ years,0.043669367,0.122733222,-0.030679447
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",15,Myanmar,3,Both,29,15+ years,-0.373641546,-0.3287885,-0.416725742
+"% Change in Number of Smokers, 1990-2019",16,Philippines,1,Male,29,15+ years,0.475068641,0.577981912,0.383157883
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",16,Philippines,1,Male,29,15+ years,-0.288641625,-0.246221873,-0.329490557
+"% Change in Number of Smokers, 1990-2019",16,Philippines,2,Female,29,15+ years,0.383253581,0.738284403,0.075030726
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",16,Philippines,2,Female,29,15+ years,-0.37724329,-0.226029002,-0.50661284
+"% Change in Number of Smokers, 1990-2019",16,Philippines,3,Both,29,15+ years,0.457480826,0.5620018,0.362745391
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",16,Philippines,3,Both,29,15+ years,-0.300037289,-0.253871317,-0.343882331
+"% Change in Number of Smokers, 1990-2019",17,Sri Lanka,1,Male,29,15+ years,-0.002394836,0.083119222,-0.079422942
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",17,Sri Lanka,1,Male,29,15+ years,-0.307802043,-0.249088038,-0.359511208
+"% Change in Number of Smokers, 1990-2019",17,Sri Lanka,2,Female,29,15+ years,-0.04798583,0.3386891,-0.3358462
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",17,Sri Lanka,2,Female,29,15+ years,-0.406699231,-0.174082074,-0.58395374
+"% Change in Number of Smokers, 1990-2019",17,Sri Lanka,3,Both,29,15+ years,-0.006507659,0.080994368,-0.081164213
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",17,Sri Lanka,3,Both,29,15+ years,-0.345231101,-0.289820578,-0.392495588
+"% Change in Number of Smokers, 1990-2019",18,Thailand,1,Male,29,15+ years,0.123172157,0.188383851,0.062512562
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",18,Thailand,1,Male,29,15+ years,-0.255164311,-0.214672339,-0.294083173
+"% Change in Number of Smokers, 1990-2019",18,Thailand,2,Female,29,15+ years,-0.058977631,0.212949199,-0.287088438
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",18,Thailand,2,Female,29,15+ years,-0.464627222,-0.314907782,-0.599067411
+"% Change in Number of Smokers, 1990-2019",18,Thailand,3,Both,29,15+ years,0.103029016,0.167605112,0.042778446
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",18,Thailand,3,Both,29,15+ years,-0.276785985,-0.236194945,-0.315477341
+"% Change in Number of Smokers, 1990-2019",19,Timor-Leste,1,Male,29,15+ years,0.770761358,0.878839893,0.660739985
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",19,Timor-Leste,1,Male,29,15+ years,0.014884252,0.067099712,-0.035500918
+"% Change in Number of Smokers, 1990-2019",19,Timor-Leste,2,Female,29,15+ years,0.95342655,1.694305672,0.388914174
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",19,Timor-Leste,2,Female,29,15+ years,-0.04146391,0.268997308,-0.30149763
+"% Change in Number of Smokers, 1990-2019",19,Timor-Leste,3,Both,29,15+ years,0.780671394,0.889020044,0.675654435
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",19,Timor-Leste,3,Both,29,15+ years,-0.00857592,0.044230866,-0.05846746
+"% Change in Number of Smokers, 1990-2019",20,Viet Nam,1,Male,29,15+ years,0.631684044,0.719777872,0.546464331
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",20,Viet Nam,1,Male,29,15+ years,-0.203458766,-0.163252163,-0.242139991
+"% Change in Number of Smokers, 1990-2019",20,Viet Nam,2,Female,29,15+ years,0.459718317,0.909359247,0.070463609
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",20,Viet Nam,2,Female,29,15+ years,-0.329048503,-0.133909955,-0.501909951
+"% Change in Number of Smokers, 1990-2019",20,Viet Nam,3,Both,29,15+ years,0.620112238,0.703013986,0.53391018
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",20,Viet Nam,3,Both,29,15+ years,-0.172608557,-0.131100595,-0.214393881
+"% Change in Number of Smokers, 1990-2019",21,Oceania,1,Male,29,15+ years,0.883238639,1.013858632,0.763595031
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",21,Oceania,1,Male,29,15+ years,-0.148951797,-0.095408656,-0.19710992
+"% Change in Number of Smokers, 1990-2019",21,Oceania,2,Female,29,15+ years,0.844349839,1.256346424,0.489925772
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",21,Oceania,2,Female,29,15+ years,-0.177155353,-0.012258051,-0.320599724
+"% Change in Number of Smokers, 1990-2019",21,Oceania,3,Both,29,15+ years,0.868916303,1.020174431,0.731984917
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",21,Oceania,3,Both,29,15+ years,-0.161374814,-0.09786718,-0.218027929
+"% Change in Number of Smokers, 1990-2019",22,Fiji,1,Male,29,15+ years,0.168480127,0.266029477,0.072005004
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",22,Fiji,1,Male,29,15+ years,-0.147759377,-0.079730764,-0.215531309
+"% Change in Number of Smokers, 1990-2019",22,Fiji,2,Female,29,15+ years,0.058799808,0.394367771,-0.202703217
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",22,Fiji,2,Female,29,15+ years,-0.189145414,0.062729054,-0.383635856
+"% Change in Number of Smokers, 1990-2019",22,Fiji,3,Both,29,15+ years,0.136519776,0.247127093,0.028346779
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",22,Fiji,3,Both,29,15+ years,-0.156986656,-0.074962104,-0.234605676
+"% Change in Number of Smokers, 1990-2019",23,Kiribati,1,Male,29,15+ years,0.806799421,0.922257004,0.69565985
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",23,Kiribati,1,Male,29,15+ years,0.069765798,0.132443452,0.009762532
+"% Change in Number of Smokers, 1990-2019",23,Kiribati,2,Female,29,15+ years,0.79245935,1.201570225,0.456710891
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",23,Kiribati,2,Female,29,15+ years,0.006805355,0.213039076,-0.166794659
+"% Change in Number of Smokers, 1990-2019",23,Kiribati,3,Both,29,15+ years,0.798250172,0.970838459,0.646572828
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",23,Kiribati,3,Both,29,15+ years,0.039295073,0.132442453,-0.038543029
+"% Change in Number of Smokers, 1990-2019",24,Marshall Islands,1,Male,29,15+ years,0.634719138,0.853308294,0.442135079
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",24,Marshall Islands,1,Male,29,15+ years,0.030949772,0.153356045,-0.078383958
+"% Change in Number of Smokers, 1990-2019",24,Marshall Islands,2,Female,29,15+ years,1.139730114,2.040558873,0.482429869
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",24,Marshall Islands,2,Female,29,15+ years,0.271448847,0.757458235,-0.091914285
+"% Change in Number of Smokers, 1990-2019",24,Marshall Islands,3,Both,29,15+ years,0.7140659,0.934406222,0.519056441
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",24,Marshall Islands,3,Both,29,15+ years,0.070697749,0.197472619,-0.043384765
+"% Change in Number of Smokers, 1990-2019",25,Micronesia (Federated States of),1,Male,29,15+ years,0.284132952,0.371347751,0.2012798
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",25,Micronesia (Federated States of),1,Male,29,15+ years,0.037253166,0.09827007,-0.023835025
+"% Change in Number of Smokers, 1990-2019",25,Micronesia (Federated States of),2,Female,29,15+ years,0.410873014,0.751205689,0.126442951
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",25,Micronesia (Federated States of),2,Female,29,15+ years,0.1243026,0.354520505,-0.095232383
+"% Change in Number of Smokers, 1990-2019",25,Micronesia (Federated States of),3,Both,29,15+ years,0.324683696,0.441645451,0.212380754
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",25,Micronesia (Federated States of),3,Both,29,15+ years,0.062893269,0.145579106,-0.019103749
+"% Change in Number of Smokers, 1990-2019",26,Papua New Guinea,1,Male,29,15+ years,1.114742469,1.313972626,0.931458809
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",26,Papua New Guinea,1,Male,29,15+ years,-0.173404496,-0.102180163,-0.238716373
+"% Change in Number of Smokers, 1990-2019",26,Papua New Guinea,2,Female,29,15+ years,1.046868951,1.70189774,0.529434333
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",26,Papua New Guinea,2,Female,29,15+ years,-0.21180973,0.008436751,-0.386682602
+"% Change in Number of Smokers, 1990-2019",26,Papua New Guinea,3,Both,29,15+ years,1.087904369,1.314738585,0.885607647
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",26,Papua New Guinea,3,Both,29,15+ years,-0.190367049,-0.109384399,-0.26170686
+"% Change in Number of Smokers, 1990-2019",27,Samoa,1,Male,29,15+ years,0.286753675,0.406486405,0.171196729
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",27,Samoa,1,Male,29,15+ years,-0.114153553,-0.043463449,-0.184323839
+"% Change in Number of Smokers, 1990-2019",27,Samoa,2,Female,29,15+ years,0.28444707,0.669969544,-0.036460832
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",27,Samoa,2,Female,29,15+ years,-0.116449833,0.130681242,-0.324981625
+"% Change in Number of Smokers, 1990-2019",27,Samoa,3,Both,29,15+ years,0.282574596,0.416748023,0.145902254
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",27,Samoa,3,Both,29,15+ years,-0.117800537,-0.03515799,-0.198026557
+"% Change in Number of Smokers, 1990-2019",28,Solomon Islands,1,Male,29,15+ years,1.200016614,1.38618487,1.035741884
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",28,Solomon Islands,1,Male,29,15+ years,0.039005354,0.116938555,-0.029197947
+"% Change in Number of Smokers, 1990-2019",28,Solomon Islands,2,Female,29,15+ years,1.363626693,2.109839875,0.767129017
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",28,Solomon Islands,2,Female,29,15+ years,0.06997967,0.360004876,-0.163803424
+"% Change in Number of Smokers, 1990-2019",28,Solomon Islands,3,Both,29,15+ years,1.235266752,1.458555847,1.028955233
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",28,Solomon Islands,3,Both,29,15+ years,0.024848767,0.110083744,-0.06367772
+"% Change in Number of Smokers, 1990-2019",29,Tonga,1,Male,29,15+ years,-0.082309442,-0.014499273,-0.142747426
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",29,Tonga,1,Male,29,15+ years,-0.223394357,-0.172007401,-0.269559057
+"% Change in Number of Smokers, 1990-2019",29,Tonga,2,Female,29,15+ years,0.19497929,0.495506546,-0.069854667
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",29,Tonga,2,Female,29,15+ years,-0.012098954,0.221040144,-0.205603071
+"% Change in Number of Smokers, 1990-2019",29,Tonga,3,Both,29,15+ years,-0.026104927,0.050041774,-0.102146827
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",29,Tonga,3,Both,29,15+ years,-0.182494705,-0.123115629,-0.234035279
+"% Change in Number of Smokers, 1990-2019",30,Vanuatu,1,Male,29,15+ years,0.858304579,1.036871422,0.683164542
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",30,Vanuatu,1,Male,29,15+ years,-0.118113164,-0.038965564,-0.193602627
+"% Change in Number of Smokers, 1990-2019",30,Vanuatu,2,Female,29,15+ years,0.772343253,1.590807351,0.160854271
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",30,Vanuatu,2,Female,29,15+ years,-0.178217611,0.142217684,-0.433823299
+"% Change in Number of Smokers, 1990-2019",30,Vanuatu,3,Both,29,15+ years,0.839587209,1.039581856,0.656039214
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",30,Vanuatu,3,Both,29,15+ years,-0.145948008,-0.061704997,-0.219977394
+"% Change in Number of Smokers, 1990-2019",31,"Central Europe, Eastern Europe, and Central Asia",1,Male,29,15+ years,-0.14992738,-0.133062363,-0.167864091
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",31,"Central Europe, Eastern Europe, and Central Asia",1,Male,29,15+ years,-0.215776529,-0.200097234,-0.231912703
+"% Change in Number of Smokers, 1990-2019",31,"Central Europe, Eastern Europe, and Central Asia",2,Female,29,15+ years,0.007098278,0.072965011,-0.053238014
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",31,"Central Europe, Eastern Europe, and Central Asia",2,Female,29,15+ years,-0.043670527,0.019953163,-0.102073467
+"% Change in Number of Smokers, 1990-2019",31,"Central Europe, Eastern Europe, and Central Asia",3,Both,29,15+ years,-0.110512718,-0.08884275,-0.129200511
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",31,"Central Europe, Eastern Europe, and Central Asia",3,Both,29,15+ years,-0.16607772,-0.145943446,-0.183795666
+"% Change in Number of Smokers, 1990-2019",32,Central Asia,1,Male,29,15+ years,0.39092638,0.436348567,0.345338143
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",32,Central Asia,1,Male,29,15+ years,-0.123297937,-0.096113871,-0.150772565
+"% Change in Number of Smokers, 1990-2019",32,Central Asia,2,Female,29,15+ years,0.447069905,0.665854773,0.228128809
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",32,Central Asia,2,Female,29,15+ years,-0.05971468,0.077770632,-0.196816095
+"% Change in Number of Smokers, 1990-2019",32,Central Asia,3,Both,29,15+ years,0.396149116,0.440711035,0.349147507
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",32,Central Asia,3,Both,29,15+ years,-0.110351355,-0.083448761,-0.13904021
+"% Change in Number of Smokers, 1990-2019",33,Armenia,1,Male,29,15+ years,-0.079529226,-0.030595095,-0.129423721
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",33,Armenia,1,Male,29,15+ years,-0.084181785,-0.03889631,-0.131470033
+"% Change in Number of Smokers, 1990-2019",33,Armenia,2,Female,29,15+ years,-0.002065605,0.406027185,-0.306778009
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",33,Armenia,2,Female,29,15+ years,-0.051909718,0.349661535,-0.339027691
+"% Change in Number of Smokers, 1990-2019",33,Armenia,3,Both,29,15+ years,-0.076208619,-0.025873048,-0.126954802
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",33,Armenia,3,Both,29,15+ years,-0.084810894,-0.036826386,-0.134245232
+"% Change in Number of Smokers, 1990-2019",34,Azerbaijan,1,Male,29,15+ years,0.734823198,0.877960731,0.604425752
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",34,Azerbaijan,1,Male,29,15+ years,-0.015467348,0.057780536,-0.085029161
+"% Change in Number of Smokers, 1990-2019",34,Azerbaijan,2,Female,29,15+ years,1.080163431,2.143937118,0.339196507
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",34,Azerbaijan,2,Female,29,15+ years,0.30825148,0.917134096,-0.136508932
+"% Change in Number of Smokers, 1990-2019",34,Azerbaijan,3,Both,29,15+ years,0.749021909,0.885885309,0.623132085
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",34,Azerbaijan,3,Both,29,15+ years,0.03064623,0.107190434,-0.03923654
+"% Change in Number of Smokers, 1990-2019",35,Georgia,1,Male,29,15+ years,-0.255829346,-0.200901063,-0.303445822
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",35,Georgia,1,Male,29,15+ years,0.057969903,0.136225717,-0.009333373
+"% Change in Number of Smokers, 1990-2019",35,Georgia,2,Female,29,15+ years,-0.277614315,-0.058688031,-0.453767734
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",35,Georgia,2,Female,29,15+ years,0.113156188,0.451869966,-0.1674532
+"% Change in Number of Smokers, 1990-2019",35,Georgia,3,Both,29,15+ years,-0.259739197,-0.208258559,-0.309364463
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",35,Georgia,3,Both,29,15+ years,0.091503996,0.168081583,0.019764852
+"% Change in Number of Smokers, 1990-2019",36,Kazakhstan,1,Male,29,15+ years,0.040510431,0.102418802,-0.020896542
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",36,Kazakhstan,1,Male,29,15+ years,-0.148987966,-0.100471167,-0.198760519
+"% Change in Number of Smokers, 1990-2019",36,Kazakhstan,2,Female,29,15+ years,0.21522909,0.577476037,-0.11860086
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",36,Kazakhstan,2,Female,29,15+ years,0.028835184,0.331123661,-0.25315685
+"% Change in Number of Smokers, 1990-2019",36,Kazakhstan,3,Both,29,15+ years,0.063117184,0.135205759,-0.004780516
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",36,Kazakhstan,3,Both,29,15+ years,-0.124008148,-0.065003218,-0.178490465
+"% Change in Number of Smokers, 1990-2019",37,Kyrgyzstan,1,Male,29,15+ years,0.53874802,0.634293078,0.449842491
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",37,Kyrgyzstan,1,Male,29,15+ years,-0.053862684,-0.002505662,-0.104541514
+"% Change in Number of Smokers, 1990-2019",37,Kyrgyzstan,2,Female,29,15+ years,1.450330992,2.403243007,0.754497322
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",37,Kyrgyzstan,2,Female,29,15+ years,0.490025896,1.053819318,0.075168659
+"% Change in Number of Smokers, 1990-2019",37,Kyrgyzstan,3,Both,29,15+ years,0.598373722,0.704778377,0.501821272
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",37,Kyrgyzstan,3,Both,29,15+ years,-0.016707095,0.042009974,-0.073039439
+"% Change in Number of Smokers, 1990-2019",38,Mongolia,1,Male,29,15+ years,1.206521645,1.372963689,1.060383025
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",38,Mongolia,1,Male,29,15+ years,0.110348372,0.184944141,0.042382646
+"% Change in Number of Smokers, 1990-2019",38,Mongolia,2,Female,29,15+ years,2.194049884,3.278077141,1.289955502
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",38,Mongolia,2,Female,29,15+ years,0.444343593,0.889236763,0.076721802
+"% Change in Number of Smokers, 1990-2019",38,Mongolia,3,Both,29,15+ years,1.304596755,1.480918302,1.142222855
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",38,Mongolia,3,Both,29,15+ years,0.123320801,0.201271247,0.054130671
+"% Change in Number of Smokers, 1990-2019",39,Tajikistan,1,Male,29,15+ years,0.2048916,0.367400743,0.05432916
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",39,Tajikistan,1,Male,29,15+ years,-0.457905702,-0.394132401,-0.517358352
+"% Change in Number of Smokers, 1990-2019",39,Tajikistan,2,Female,29,15+ years,0.268284008,0.875338208,-0.190799581
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",39,Tajikistan,2,Female,29,15+ years,-0.417235547,-0.150146009,-0.61727054
+"% Change in Number of Smokers, 1990-2019",39,Tajikistan,3,Both,29,15+ years,0.20715067,0.358439689,0.063847452
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",39,Tajikistan,3,Both,29,15+ years,-0.451055527,-0.389812501,-0.508825388
+"% Change in Number of Smokers, 1990-2019",40,Turkmenistan,1,Male,29,15+ years,-0.047881438,0.06832677,-0.156490492
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",40,Turkmenistan,1,Male,29,15+ years,-0.465040219,-0.403872586,-0.522032516
+"% Change in Number of Smokers, 1990-2019",40,Turkmenistan,2,Female,29,15+ years,0.055994568,0.52695689,-0.309336774
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",40,Turkmenistan,2,Female,29,15+ years,-0.373998179,-0.099090172,-0.582945344
+"% Change in Number of Smokers, 1990-2019",40,Turkmenistan,3,Both,29,15+ years,-0.038887383,0.077845667,-0.141048471
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",40,Turkmenistan,3,Both,29,15+ years,-0.43035294,-0.367389196,-0.487837226
+"% Change in Number of Smokers, 1990-2019",41,Uzbekistan,1,Male,29,15+ years,1.898357077,2.295209662,1.502933689
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",41,Uzbekistan,1,Male,29,15+ years,0.363473012,0.535180298,0.195568814
+"% Change in Number of Smokers, 1990-2019",41,Uzbekistan,2,Female,29,15+ years,2.070776558,3.58539562,1.023935728
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",41,Uzbekistan,2,Female,29,15+ years,0.478936719,1.169784581,-0.003349477
+"% Change in Number of Smokers, 1990-2019",41,Uzbekistan,3,Both,29,15+ years,1.905638781,2.296238011,1.536953338
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",41,Uzbekistan,3,Both,29,15+ years,0.369758738,0.534061896,0.20641277
+"% Change in Number of Smokers, 1990-2019",42,Central Europe,1,Male,29,15+ years,-0.253115407,-0.233683313,-0.271155543
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",42,Central Europe,1,Male,29,15+ years,-0.247031978,-0.228123499,-0.265247592
+"% Change in Number of Smokers, 1990-2019",42,Central Europe,2,Female,29,15+ years,-0.122578937,-0.080825167,-0.165876365
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",42,Central Europe,2,Female,29,15+ years,-0.084691317,-0.039628927,-0.13018661
+"% Change in Number of Smokers, 1990-2019",42,Central Europe,3,Both,29,15+ years,-0.204116967,-0.185025567,-0.222949813
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",42,Central Europe,3,Both,29,15+ years,-0.182545028,-0.161952255,-0.202950074
+"% Change in Number of Smokers, 1990-2019",43,Albania,1,Male,29,15+ years,0.261219518,0.362255088,0.168222354
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",43,Albania,1,Male,29,15+ years,0.253826294,0.342620322,0.1647058
+"% Change in Number of Smokers, 1990-2019",43,Albania,2,Female,29,15+ years,0.961704647,1.590095591,0.425604217
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",43,Albania,2,Female,29,15+ years,0.849607376,1.448569346,0.351031781
+"% Change in Number of Smokers, 1990-2019",43,Albania,3,Both,29,15+ years,0.349478631,0.465161318,0.237631788
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",43,Albania,3,Both,29,15+ years,0.306538298,0.410108255,0.203987143
+"% Change in Number of Smokers, 1990-2019",44,Bosnia and Herzegovina,1,Male,29,15+ years,-0.081834323,0.002239436,-0.162606714
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",44,Bosnia and Herzegovina,1,Male,29,15+ years,0.17509353,0.277039409,0.074895822
+"% Change in Number of Smokers, 1990-2019",44,Bosnia and Herzegovina,2,Female,29,15+ years,0.088868635,0.315053777,-0.101246634
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",44,Bosnia and Herzegovina,2,Female,29,15+ years,0.411390795,0.70269471,0.160951878
+"% Change in Number of Smokers, 1990-2019",44,Bosnia and Herzegovina,3,Both,29,15+ years,-0.022135694,0.075236465,-0.107214379
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",44,Bosnia and Herzegovina,3,Both,29,15+ years,0.259479528,0.379827746,0.148749697
+"% Change in Number of Smokers, 1990-2019",45,Bulgaria,1,Male,29,15+ years,-0.354076394,-0.307785867,-0.399828754
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",45,Bulgaria,1,Male,29,15+ years,-0.203803235,-0.149420083,-0.260249334
+"% Change in Number of Smokers, 1990-2019",45,Bulgaria,2,Female,29,15+ years,-0.36658034,-0.249769991,-0.462413345
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",45,Bulgaria,2,Female,29,15+ years,-0.162142432,-0.003996416,-0.295161988
+"% Change in Number of Smokers, 1990-2019",45,Bulgaria,3,Both,29,15+ years,-0.360196182,-0.308138883,-0.409551757
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",45,Bulgaria,3,Both,29,15+ years,-0.184926233,-0.116677273,-0.250079045
+"% Change in Number of Smokers, 1990-2019",46,Croatia,1,Male,29,15+ years,-0.277449747,-0.226969082,-0.328469558
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",46,Croatia,1,Male,29,15+ years,-0.176056148,-0.118217606,-0.232868629
+"% Change in Number of Smokers, 1990-2019",46,Croatia,2,Female,29,15+ years,-0.234524914,-0.127662532,-0.337393997
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",46,Croatia,2,Female,29,15+ years,-0.116805434,0.007548207,-0.2345086
+"% Change in Number of Smokers, 1990-2019",46,Croatia,3,Both,29,15+ years,-0.259129531,-0.205102931,-0.310355627
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",46,Croatia,3,Both,29,15+ years,-0.146326551,-0.084760078,-0.205608145
+"% Change in Number of Smokers, 1990-2019",47,Czechia,1,Male,29,15+ years,-0.168242937,-0.102952391,-0.226087957
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",47,Czechia,1,Male,29,15+ years,-0.216976622,-0.159024933,-0.275050147
+"% Change in Number of Smokers, 1990-2019",47,Czechia,2,Female,29,15+ years,-0.204424379,-0.098210374,-0.295431601
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",47,Czechia,2,Female,29,15+ years,-0.201959533,-0.096073626,-0.290613956
+"% Change in Number of Smokers, 1990-2019",47,Czechia,3,Both,29,15+ years,-0.183820822,-0.128832621,-0.236744801
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",47,Czechia,3,Both,29,15+ years,-0.206971116,-0.152056018,-0.260549884
+"% Change in Number of Smokers, 1990-2019",48,Hungary,1,Male,29,15+ years,-0.247980542,-0.195214343,-0.299290934
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",48,Hungary,1,Male,29,15+ years,-0.217209179,-0.155922045,-0.271904843
+"% Change in Number of Smokers, 1990-2019",48,Hungary,2,Female,29,15+ years,-0.2352678,-0.128752811,-0.332854707
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",48,Hungary,2,Female,29,15+ years,-0.18441455,-0.063227368,-0.293958583
+"% Change in Number of Smokers, 1990-2019",48,Hungary,3,Both,29,15+ years,-0.242929853,-0.191327013,-0.293639979
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",48,Hungary,3,Both,29,15+ years,-0.20062444,-0.141579383,-0.257160617
+"% Change in Number of Smokers, 1990-2019",49,North Macedonia,1,Male,29,15+ years,0.215118057,0.309536966,0.12875677
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",49,North Macedonia,1,Male,29,15+ years,-0.022434464,0.054771946,-0.093092412
+"% Change in Number of Smokers, 1990-2019",49,North Macedonia,2,Female,29,15+ years,0.215518741,0.454125883,-0.001365613
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",49,North Macedonia,2,Female,29,15+ years,0.043754863,0.251324903,-0.147014134
+"% Change in Number of Smokers, 1990-2019",49,North Macedonia,3,Both,29,15+ years,0.212719599,0.320894766,0.110714329
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",49,North Macedonia,3,Both,29,15+ years,0.006163912,0.096582259,-0.079308536
+"% Change in Number of Smokers, 1990-2019",50,Montenegro,1,Male,29,15+ years,0.018252839,0.110308841,-0.068569714
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",50,Montenegro,1,Male,29,15+ years,-0.083528873,-0.002937962,-0.160015106
+"% Change in Number of Smokers, 1990-2019",50,Montenegro,2,Female,29,15+ years,0.10397096,0.312952581,-0.075413374
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",50,Montenegro,2,Female,29,15+ years,0.00505272,0.200486002,-0.157699398
+"% Change in Number of Smokers, 1990-2019",50,Montenegro,3,Both,29,15+ years,0.054513885,0.154490891,-0.039052184
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",50,Montenegro,3,Both,29,15+ years,-0.044601718,0.042981569,-0.127586108
+"% Change in Number of Smokers, 1990-2019",51,Poland,1,Male,29,15+ years,-0.338654606,-0.29959369,-0.372290843
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",51,Poland,1,Male,29,15+ years,-0.404933529,-0.371990406,-0.436131839
+"% Change in Number of Smokers, 1990-2019",51,Poland,2,Female,29,15+ years,-0.106614518,-0.021410188,-0.193538812
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",51,Poland,2,Female,29,15+ years,-0.177549382,-0.091721863,-0.257697886
+"% Change in Number of Smokers, 1990-2019",51,Poland,3,Both,29,15+ years,-0.254918616,-0.218801565,-0.290525468
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",51,Poland,3,Both,29,15+ years,-0.317981855,-0.283829958,-0.34939642
+"% Change in Number of Smokers, 1990-2019",52,Romania,1,Male,29,15+ years,-0.305717019,-0.256238511,-0.35496426
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",52,Romania,1,Male,29,15+ years,-0.188201061,-0.12819692,-0.24731147
+"% Change in Number of Smokers, 1990-2019",52,Romania,2,Female,29,15+ years,-0.107928063,0.02820077,-0.236111168
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",52,Romania,2,Female,29,15+ years,0.089140971,0.250670735,-0.058491591
+"% Change in Number of Smokers, 1990-2019",52,Romania,3,Both,29,15+ years,-0.244258156,-0.195770313,-0.295895314
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",52,Romania,3,Both,29,15+ years,-0.098186939,-0.04161831,-0.157807803
+"% Change in Number of Smokers, 1990-2019",53,Serbia,1,Male,29,15+ years,-0.111372554,-0.040952158,-0.178480053
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",53,Serbia,1,Male,29,15+ years,-0.063042264,0.013436969,-0.133791266
+"% Change in Number of Smokers, 1990-2019",53,Serbia,2,Female,29,15+ years,0.114222208,0.292899799,-0.047681725
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",53,Serbia,2,Female,29,15+ years,0.202783689,0.398173551,0.02252293
+"% Change in Number of Smokers, 1990-2019",53,Serbia,3,Both,29,15+ years,-0.015475001,0.06516677,-0.094262424
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",53,Serbia,3,Both,29,15+ years,0.051534908,0.139424308,-0.033983478
+"% Change in Number of Smokers, 1990-2019",54,Slovakia,1,Male,29,15+ years,-0.125694266,-0.045760432,-0.201488913
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",54,Slovakia,1,Male,29,15+ years,-0.233264764,-0.162205354,-0.299733517
+"% Change in Number of Smokers, 1990-2019",54,Slovakia,2,Female,29,15+ years,-0.105448868,0.101266,-0.272926021
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",54,Slovakia,2,Female,29,15+ years,-0.149313448,0.049418423,-0.314008369
+"% Change in Number of Smokers, 1990-2019",54,Slovakia,3,Both,29,15+ years,-0.120181729,-0.033348257,-0.198544963
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",54,Slovakia,3,Both,29,15+ years,-0.199192909,-0.120576542,-0.272811651
+"% Change in Number of Smokers, 1990-2019",55,Slovenia,1,Male,29,15+ years,-0.068694708,0.032102552,-0.153479312
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",55,Slovenia,1,Male,29,15+ years,-0.109774698,-0.014464051,-0.1911933
+"% Change in Number of Smokers, 1990-2019",55,Slovenia,2,Female,29,15+ years,0.094806331,0.311202943,-0.102264841
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",55,Slovenia,2,Female,29,15+ years,0.090499269,0.30749212,-0.112785332
+"% Change in Number of Smokers, 1990-2019",55,Slovenia,3,Both,29,15+ years,-0.004035206,0.095965421,-0.103444944
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",55,Slovenia,3,Both,29,15+ years,-0.026307077,0.072206132,-0.121098152
+"% Change in Number of Smokers, 1990-2019",56,Eastern Europe,1,Male,29,15+ years,-0.198896269,-0.174995115,-0.224436262
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",56,Eastern Europe,1,Male,29,15+ years,-0.193741855,-0.168471769,-0.220046918
+"% Change in Number of Smokers, 1990-2019",56,Eastern Europe,2,Female,29,15+ years,0.123145269,0.270986543,-0.006772015
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",56,Eastern Europe,2,Female,29,15+ years,0.159434237,0.313386255,0.022439079
+"% Change in Number of Smokers, 1990-2019",56,Eastern Europe,3,Both,29,15+ years,-0.135054631,-0.1014665,-0.164520216
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",56,Eastern Europe,3,Both,29,15+ years,-0.114930377,-0.078904996,-0.147411253
+"% Change in Number of Smokers, 1990-2019",57,Belarus,1,Male,29,15+ years,-0.057188763,0.009368049,-0.121416449
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",57,Belarus,1,Male,29,15+ years,-0.051483838,0.014227477,-0.117727215
+"% Change in Number of Smokers, 1990-2019",57,Belarus,2,Female,29,15+ years,0.138045314,0.456166937,-0.122535765
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",57,Belarus,2,Female,29,15+ years,0.314563783,0.690615128,0.005699989
+"% Change in Number of Smokers, 1990-2019",57,Belarus,3,Both,29,15+ years,-0.008316005,0.078845529,-0.091644841
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",57,Belarus,3,Both,29,15+ years,0.049775386,0.144473956,-0.040695372
+"% Change in Number of Smokers, 1990-2019",58,Estonia,1,Male,29,15+ years,-0.361772853,-0.322866832,-0.397657772
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",58,Estonia,1,Male,29,15+ years,-0.282664223,-0.239410147,-0.325367968
+"% Change in Number of Smokers, 1990-2019",58,Estonia,2,Female,29,15+ years,-0.262678433,-0.166399905,-0.357556947
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",58,Estonia,2,Female,29,15+ years,-0.129414177,-0.014198962,-0.24766916
+"% Change in Number of Smokers, 1990-2019",58,Estonia,3,Both,29,15+ years,-0.327986369,-0.286327287,-0.362520484
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",58,Estonia,3,Both,29,15+ years,-0.219447578,-0.170507457,-0.264790003
+"% Change in Number of Smokers, 1990-2019",59,Latvia,1,Male,29,15+ years,-0.353247023,-0.315485042,-0.386724155
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",59,Latvia,1,Male,29,15+ years,-0.128745388,-0.079752351,-0.174215617
+"% Change in Number of Smokers, 1990-2019",59,Latvia,2,Female,29,15+ years,-0.324647085,-0.190158335,-0.437036696
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",59,Latvia,2,Female,29,15+ years,-0.033345389,0.154978064,-0.188380234
+"% Change in Number of Smokers, 1990-2019",59,Latvia,3,Both,29,15+ years,-0.345468628,-0.302141045,-0.388593066
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",59,Latvia,3,Both,29,15+ years,-0.085945364,-0.023858803,-0.145467278
+"% Change in Number of Smokers, 1990-2019",60,Lithuania,1,Male,29,15+ years,-0.352404885,-0.309752442,-0.39401427
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",60,Lithuania,1,Male,29,15+ years,-0.185445298,-0.128899633,-0.238944336
+"% Change in Number of Smokers, 1990-2019",60,Lithuania,2,Female,29,15+ years,-0.065607696,0.082419455,-0.19448798
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",60,Lithuania,2,Female,29,15+ years,0.288557227,0.503675428,0.103635696
+"% Change in Number of Smokers, 1990-2019",60,Lithuania,3,Both,29,15+ years,-0.277285182,-0.22995449,-0.32246624
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",60,Lithuania,3,Both,29,15+ years,-0.05282896,0.012118806,-0.116490851
+"% Change in Number of Smokers, 1990-2019",61,Republic of Moldova,1,Male,29,15+ years,-0.003738261,0.086565877,-0.082904621
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",61,Republic of Moldova,1,Male,29,15+ years,0.03884107,0.130424692,-0.042445674
+"% Change in Number of Smokers, 1990-2019",61,Republic of Moldova,2,Female,29,15+ years,-0.034280024,0.292264598,-0.274449362
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",61,Republic of Moldova,2,Female,29,15+ years,0.117295411,0.477448763,-0.171799604
+"% Change in Number of Smokers, 1990-2019",61,Republic of Moldova,3,Both,29,15+ years,-0.010212412,0.080889565,-0.092945581
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",61,Republic of Moldova,3,Both,29,15+ years,0.075509334,0.174959576,-0.014902244
+"% Change in Number of Smokers, 1990-2019",62,Russian Federation,1,Male,29,15+ years,-0.147968798,-0.109942382,-0.184031502
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",62,Russian Federation,1,Male,29,15+ years,-0.176291224,-0.138549893,-0.210659033
+"% Change in Number of Smokers, 1990-2019",62,Russian Federation,2,Female,29,15+ years,0.302287729,0.537109952,0.10007149
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",62,Russian Federation,2,Female,29,15+ years,0.261359382,0.496880332,0.056678499
+"% Change in Number of Smokers, 1990-2019",62,Russian Federation,3,Both,29,15+ years,-0.065635994,-0.016045612,-0.109624498
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",62,Russian Federation,3,Both,29,15+ years,-0.089552082,-0.040461258,-0.133938774
+"% Change in Number of Smokers, 1990-2019",63,Ukraine,1,Male,29,15+ years,-0.355871558,-0.321414,-0.388732779
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",63,Ukraine,1,Male,29,15+ years,-0.283057792,-0.244111105,-0.321440631
+"% Change in Number of Smokers, 1990-2019",63,Ukraine,2,Female,29,15+ years,-0.207011143,-0.027940824,-0.36334595
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",63,Ukraine,2,Female,29,15+ years,-0.078532553,0.124269837,-0.260466413
+"% Change in Number of Smokers, 1990-2019",63,Ukraine,3,Both,29,15+ years,-0.324904467,-0.282832257,-0.365704148
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",63,Ukraine,3,Both,29,15+ years,-0.228961279,-0.1775779,-0.278439
+"% Change in Number of Smokers, 1990-2019",64,High-income,1,Male,29,15+ years,-0.188270835,-0.173336061,-0.201749334
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",64,High-income,1,Male,29,15+ years,-0.321866803,-0.309599413,-0.333908347
+"% Change in Number of Smokers, 1990-2019",64,High-income,2,Female,29,15+ years,-0.156008241,-0.12525224,-0.183022748
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",64,High-income,2,Female,29,15+ years,-0.288487226,-0.261852706,-0.311777685
+"% Change in Number of Smokers, 1990-2019",64,High-income,3,Both,29,15+ years,-0.175755128,-0.161661694,-0.189487039
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",64,High-income,3,Both,29,15+ years,-0.305708772,-0.293535674,-0.317759833
+"% Change in Number of Smokers, 1990-2019",65,High-income Asia Pacific,1,Male,29,15+ years,-0.291818923,-0.261109662,-0.321972839
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",65,High-income Asia Pacific,1,Male,29,15+ years,-0.369466558,-0.33991935,-0.396643813
+"% Change in Number of Smokers, 1990-2019",65,High-income Asia Pacific,2,Female,29,15+ years,-0.203118296,-0.092301389,-0.304262443
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",65,High-income Asia Pacific,2,Female,29,15+ years,-0.256376884,-0.146529231,-0.356851939
+"% Change in Number of Smokers, 1990-2019",65,High-income Asia Pacific,3,Both,29,15+ years,-0.276875511,-0.246745611,-0.304914196
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",65,High-income Asia Pacific,3,Both,29,15+ years,-0.338117571,-0.308065765,-0.36428002
+"% Change in Number of Smokers, 1990-2019",66,Brunei Darussalam,1,Male,29,15+ years,0.318373166,0.485150435,0.172210774
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",66,Brunei Darussalam,1,Male,29,15+ years,-0.333127828,-0.258311579,-0.403783496
+"% Change in Number of Smokers, 1990-2019",66,Brunei Darussalam,2,Female,29,15+ years,0.534056024,1.150923068,0.048715572
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",66,Brunei Darussalam,2,Female,29,15+ years,-0.312913363,-0.077522353,-0.50939082
+"% Change in Number of Smokers, 1990-2019",66,Brunei Darussalam,3,Both,29,15+ years,0.341506765,0.501015531,0.200648391
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",66,Brunei Darussalam,3,Both,29,15+ years,-0.339635175,-0.262449059,-0.403123433
+"% Change in Number of Smokers, 1990-2019",67,Japan,1,Male,29,15+ years,-0.414297418,-0.380416523,-0.447249147
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",67,Japan,1,Male,29,15+ years,-0.417021504,-0.379545227,-0.45267288
+"% Change in Number of Smokers, 1990-2019",67,Japan,2,Female,29,15+ years,-0.252265819,-0.130548186,-0.358890444
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",67,Japan,2,Female,29,15+ years,-0.235591378,-0.096472705,-0.35185717
+"% Change in Number of Smokers, 1990-2019",67,Japan,3,Both,29,15+ years,-0.383635786,-0.351328247,-0.416450836
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",67,Japan,3,Both,29,15+ years,-0.375258429,-0.33693542,-0.412351655
+"% Change in Number of Smokers, 1990-2019",68,Republic of Korea,1,Male,29,15+ years,0.045605111,0.125401884,-0.029663085
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",68,Republic of Korea,1,Male,29,15+ years,-0.251552311,-0.195371896,-0.303916965
+"% Change in Number of Smokers, 1990-2019",68,Republic of Korea,2,Female,29,15+ years,0.072192634,0.481144203,-0.253002891
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",68,Republic of Korea,2,Female,29,15+ years,-0.183869786,0.115168634,-0.428288395
+"% Change in Number of Smokers, 1990-2019",68,Republic of Korea,3,Both,29,15+ years,0.046524066,0.131392572,-0.028376727
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",68,Republic of Korea,3,Both,29,15+ years,-0.216434095,-0.152635658,-0.269468074
+"% Change in Number of Smokers, 1990-2019",69,Singapore,1,Male,29,15+ years,0.422513657,0.61380086,0.249236146
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",69,Singapore,1,Male,29,15+ years,-0.313364279,-0.224628481,-0.395888016
+"% Change in Number of Smokers, 1990-2019",69,Singapore,2,Female,29,15+ years,0.239673392,0.695983331,-0.13243565
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",69,Singapore,2,Female,29,15+ years,-0.326204363,-0.08896425,-0.521129124
+"% Change in Number of Smokers, 1990-2019",69,Singapore,3,Both,29,15+ years,0.371227722,0.54784539,0.20896373
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",69,Singapore,3,Both,29,15+ years,-0.308558751,-0.219897029,-0.388437002
+"% Change in Number of Smokers, 1990-2019",70,Australasia,1,Male,29,15+ years,-0.250328001,-0.197602458,-0.301764435
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",70,Australasia,1,Male,29,15+ years,-0.461805615,-0.423269577,-0.500033964
+"% Change in Number of Smokers, 1990-2019",70,Australasia,2,Female,29,15+ years,-0.215484093,-0.109407179,-0.310661391
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",70,Australasia,2,Female,29,15+ years,-0.464789609,-0.390392151,-0.531200572
+"% Change in Number of Smokers, 1990-2019",70,Australasia,3,Both,29,15+ years,-0.234139476,-0.179383762,-0.286164726
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",70,Australasia,3,Both,29,15+ years,-0.463399793,-0.42359742,-0.501489324
+"% Change in Number of Smokers, 1990-2019",71,Australia,1,Male,29,15+ years,-0.258502886,-0.195502177,-0.316781924
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",71,Australia,1,Male,29,15+ years,-0.480519327,-0.436670313,-0.524126587
+"% Change in Number of Smokers, 1990-2019",71,Australia,2,Female,29,15+ years,-0.204144905,-0.080111762,-0.317677589
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",71,Australia,2,Female,29,15+ years,-0.468480633,-0.380253026,-0.548693585
+"% Change in Number of Smokers, 1990-2019",71,Australia,3,Both,29,15+ years,-0.233554987,-0.168348174,-0.295540041
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",71,Australia,3,Both,29,15+ years,-0.475115021,-0.430692396,-0.517720755
+"% Change in Number of Smokers, 1990-2019",72,New Zealand,1,Male,29,15+ years,-0.204550286,-0.154509112,-0.250478146
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",72,New Zealand,1,Male,29,15+ years,-0.35556967,-0.31390768,-0.395078662
+"% Change in Number of Smokers, 1990-2019",72,New Zealand,2,Female,29,15+ years,-0.269941711,-0.200286009,-0.334086574
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",72,New Zealand,2,Female,29,15+ years,-0.447628188,-0.394722107,-0.498243977
+"% Change in Number of Smokers, 1990-2019",72,New Zealand,3,Both,29,15+ years,-0.237064332,-0.197991633,-0.27533571
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",72,New Zealand,3,Both,29,15+ years,-0.401826114,-0.370115549,-0.430979941
+"% Change in Number of Smokers, 1990-2019",73,Western Europe,1,Male,29,15+ years,-0.205110037,-0.190599301,-0.220008242
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",73,Western Europe,1,Male,29,15+ years,-0.28760732,-0.273955432,-0.302136964
+"% Change in Number of Smokers, 1990-2019",73,Western Europe,2,Female,29,15+ years,-0.153461913,-0.1275027,-0.179742602
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",73,Western Europe,2,Female,29,15+ years,-0.241875704,-0.217665958,-0.267477861
+"% Change in Number of Smokers, 1990-2019",73,Western Europe,3,Both,29,15+ years,-0.183111394,-0.168493305,-0.197119901
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",73,Western Europe,3,Both,29,15+ years,-0.264722792,-0.250943462,-0.278231554
+"% Change in Number of Smokers, 1990-2019",74,Andorra,1,Male,29,15+ years,0.100302345,0.228244367,-0.009807668
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",74,Andorra,1,Male,29,15+ years,-0.251613378,-0.172129242,-0.328023718
+"% Change in Number of Smokers, 1990-2019",74,Andorra,2,Female,29,15+ years,0.224273443,0.555394028,-0.055570373
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",74,Andorra,2,Female,29,15+ years,-0.197887142,0.015607768,-0.379389532
+"% Change in Number of Smokers, 1990-2019",74,Andorra,3,Both,29,15+ years,0.146147478,0.282623445,0.020502382
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",74,Andorra,3,Both,29,15+ years,-0.235571114,-0.141472087,-0.318239782
+"% Change in Number of Smokers, 1990-2019",75,Austria,1,Male,29,15+ years,-0.006896791,0.059284903,-0.070276723
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",75,Austria,1,Male,29,15+ years,-0.142185148,-0.08335261,-0.199194108
+"% Change in Number of Smokers, 1990-2019",75,Austria,2,Female,29,15+ years,0.042854008,0.163397217,-0.066467503
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",75,Austria,2,Female,29,15+ years,-0.104919561,0.003837083,-0.202009951
+"% Change in Number of Smokers, 1990-2019",75,Austria,3,Both,29,15+ years,0.013180855,0.077731292,-0.044715461
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",75,Austria,3,Both,29,15+ years,-0.120242646,-0.062122855,-0.172870538
+"% Change in Number of Smokers, 1990-2019",76,Belgium,1,Male,29,15+ years,-0.318393923,-0.279032149,-0.357726736
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",76,Belgium,1,Male,29,15+ years,-0.393420263,-0.356113132,-0.431349354
+"% Change in Number of Smokers, 1990-2019",76,Belgium,2,Female,29,15+ years,-0.187307771,-0.110799733,-0.261963562
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",76,Belgium,2,Female,29,15+ years,-0.284846368,-0.210572174,-0.355557835
+"% Change in Number of Smokers, 1990-2019",76,Belgium,3,Both,29,15+ years,-0.263626433,-0.224084172,-0.303110676
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",76,Belgium,3,Both,29,15+ years,-0.345660648,-0.308946571,-0.382807443
+"% Change in Number of Smokers, 1990-2019",77,Cyprus,1,Male,29,15+ years,0.748054892,0.901491822,0.618412519
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",77,Cyprus,1,Male,29,15+ years,-0.05428929,0.028545706,-0.124817933
+"% Change in Number of Smokers, 1990-2019",77,Cyprus,2,Female,29,15+ years,0.697410467,1.107575076,0.330767855
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",77,Cyprus,2,Female,29,15+ years,-0.115776496,0.095701433,-0.307853823
+"% Change in Number of Smokers, 1990-2019",77,Cyprus,3,Both,29,15+ years,0.727350734,0.887297151,0.564227496
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",77,Cyprus,3,Both,29,15+ years,-0.080955986,0.002193465,-0.170378118
+"% Change in Number of Smokers, 1990-2019",78,Denmark,1,Male,29,15+ years,-0.426192309,-0.391709265,-0.459005693
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",78,Denmark,1,Male,29,15+ years,-0.491935777,-0.457274525,-0.522947773
+"% Change in Number of Smokers, 1990-2019",78,Denmark,2,Female,29,15+ years,-0.445006477,-0.395169924,-0.489537203
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",78,Denmark,2,Female,29,15+ years,-0.495151255,-0.444302802,-0.540360621
+"% Change in Number of Smokers, 1990-2019",78,Denmark,3,Both,29,15+ years,-0.435686064,-0.408434575,-0.46432139
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",78,Denmark,3,Both,29,15+ years,-0.492897731,-0.463504459,-0.521702163
+"% Change in Number of Smokers, 1990-2019",79,Finland,1,Male,29,15+ years,-0.226121452,-0.176055625,-0.271591893
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",79,Finland,1,Male,29,15+ years,-0.279211358,-0.231720325,-0.322908984
+"% Change in Number of Smokers, 1990-2019",79,Finland,2,Female,29,15+ years,-0.278838509,-0.185187773,-0.361740002
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",79,Finland,2,Female,29,15+ years,-0.311781533,-0.21499425,-0.393127033
+"% Change in Number of Smokers, 1990-2019",79,Finland,3,Both,29,15+ years,-0.249254046,-0.203544557,-0.294433448
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",79,Finland,3,Both,29,15+ years,-0.289989554,-0.244957522,-0.336198012
+"% Change in Number of Smokers, 1990-2019",80,France,1,Male,29,15+ years,-0.108399612,-0.062606492,-0.150516436
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",80,France,1,Male,29,15+ years,-0.171930988,-0.128501075,-0.214226074
+"% Change in Number of Smokers, 1990-2019",80,France,2,Female,29,15+ years,0.109435003,0.199772152,0.020922441
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",80,France,2,Female,29,15+ years,-0.011767077,0.07535387,-0.093510687
+"% Change in Number of Smokers, 1990-2019",80,France,3,Both,29,15+ years,-0.018172883,0.027140272,-0.061263716
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",80,France,3,Both,29,15+ years,-0.103310581,-0.059534553,-0.143033922
+"% Change in Number of Smokers, 1990-2019",81,Germany,1,Male,29,15+ years,-0.162560274,-0.115343702,-0.208283439
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",81,Germany,1,Male,29,15+ years,-0.206939328,-0.161994555,-0.251979761
+"% Change in Number of Smokers, 1990-2019",81,Germany,2,Female,29,15+ years,-0.164738029,-0.094317062,-0.231451207
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",81,Germany,2,Female,29,15+ years,-0.179552904,-0.103374234,-0.252073614
+"% Change in Number of Smokers, 1990-2019",81,Germany,3,Both,29,15+ years,-0.163588431,-0.122425095,-0.202981989
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",81,Germany,3,Both,29,15+ years,-0.188891724,-0.148984637,-0.230291834
+"% Change in Number of Smokers, 1990-2019",82,Greece,1,Male,29,15+ years,-0.176572056,-0.138708225,-0.213561344
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",82,Greece,1,Male,29,15+ years,-0.184316882,-0.145433611,-0.221785178
+"% Change in Number of Smokers, 1990-2019",82,Greece,2,Female,29,15+ years,0.063568113,0.161448469,-0.030695259
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",82,Greece,2,Female,29,15+ years,-0.006203906,0.086726169,-0.099934727
+"% Change in Number of Smokers, 1990-2019",82,Greece,3,Both,29,15+ years,-0.08795601,-0.045630974,-0.129250801
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",82,Greece,3,Both,29,15+ years,-0.114321163,-0.072975048,-0.153484149
+"% Change in Number of Smokers, 1990-2019",83,Iceland,1,Male,29,15+ years,-0.296957348,-0.2252223,-0.360726399
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",83,Iceland,1,Male,29,15+ years,-0.513776745,-0.463360967,-0.558323018
+"% Change in Number of Smokers, 1990-2019",83,Iceland,2,Female,29,15+ years,-0.26389944,-0.126295294,-0.38945982
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",83,Iceland,2,Female,29,15+ years,-0.477133229,-0.377549406,-0.565969843
+"% Change in Number of Smokers, 1990-2019",83,Iceland,3,Both,29,15+ years,-0.282203359,-0.208398277,-0.345798924
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",83,Iceland,3,Both,29,15+ years,-0.497041431,-0.445077607,-0.540679062
+"% Change in Number of Smokers, 1990-2019",84,Ireland,1,Male,29,15+ years,-0.129215657,-0.06505873,-0.196096264
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",84,Ireland,1,Male,29,15+ years,-0.387048735,-0.337064793,-0.437735888
+"% Change in Number of Smokers, 1990-2019",84,Ireland,2,Female,29,15+ years,0.017314514,0.129714648,-0.089132381
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",84,Ireland,2,Female,29,15+ years,-0.278004377,-0.196444107,-0.357229575
+"% Change in Number of Smokers, 1990-2019",84,Ireland,3,Both,29,15+ years,-0.060237749,-0.000343127,-0.1190516
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",84,Ireland,3,Both,29,15+ years,-0.336136207,-0.291907324,-0.381210695
+"% Change in Number of Smokers, 1990-2019",85,Israel,1,Male,29,15+ years,0.290665016,0.406154522,0.178729135
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",85,Israel,1,Male,29,15+ years,-0.338387122,-0.278755496,-0.396867847
+"% Change in Number of Smokers, 1990-2019",85,Israel,2,Female,29,15+ years,0.14571454,0.386763317,-0.068572344
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",85,Israel,2,Female,29,15+ years,-0.397963712,-0.273555656,-0.512461505
+"% Change in Number of Smokers, 1990-2019",85,Israel,3,Both,29,15+ years,0.232184358,0.360662876,0.114673433
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",85,Israel,3,Both,29,15+ years,-0.357613863,-0.291033127,-0.421728067
+"% Change in Number of Smokers, 1990-2019",86,Italy,1,Male,29,15+ years,-0.290485378,-0.248622161,-0.328802919
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",86,Italy,1,Male,29,15+ years,-0.304958735,-0.263412975,-0.346401207
+"% Change in Number of Smokers, 1990-2019",86,Italy,2,Female,29,15+ years,-0.254219689,-0.188911439,-0.317533486
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",86,Italy,2,Female,29,15+ years,-0.281012397,-0.211771122,-0.345010068
+"% Change in Number of Smokers, 1990-2019",86,Italy,3,Both,29,15+ years,-0.275827075,-0.236490808,-0.311974323
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",86,Italy,3,Both,29,15+ years,-0.29105788,-0.253237586,-0.328003217
+"% Change in Number of Smokers, 1990-2019",87,Luxembourg,1,Male,29,15+ years,0.115372577,0.208376802,0.033696506
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",87,Luxembourg,1,Male,29,15+ years,-0.316131077,-0.254057677,-0.367961767
+"% Change in Number of Smokers, 1990-2019",87,Luxembourg,2,Female,29,15+ years,0.104277085,0.229312153,-0.024548644
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",87,Luxembourg,2,Female,29,15+ years,-0.279173494,-0.191287212,-0.362832543
+"% Change in Number of Smokers, 1990-2019",87,Luxembourg,3,Both,29,15+ years,0.110052222,0.186364347,0.034118431
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",87,Luxembourg,3,Both,29,15+ years,-0.298258946,-0.2473129,-0.346313944
+"% Change in Number of Smokers, 1990-2019",88,Malta,1,Male,29,15+ years,-0.193328159,-0.113087347,-0.264112912
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",88,Malta,1,Male,29,15+ years,-0.359893443,-0.29517017,-0.418590916
+"% Change in Number of Smokers, 1990-2019",88,Malta,2,Female,29,15+ years,-0.039015293,0.147477137,-0.205390458
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",88,Malta,2,Female,29,15+ years,-0.150000355,0.02214691,-0.309064298
+"% Change in Number of Smokers, 1990-2019",88,Malta,3,Both,29,15+ years,-0.135407194,-0.05458188,-0.206414373
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",88,Malta,3,Both,29,15+ years,-0.275667004,-0.206712897,-0.339593017
+"% Change in Number of Smokers, 1990-2019",89,Netherlands,1,Male,29,15+ years,-0.352450653,-0.314181463,-0.388201059
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",89,Netherlands,1,Male,29,15+ years,-0.424462481,-0.389149231,-0.460372999
+"% Change in Number of Smokers, 1990-2019",89,Netherlands,2,Female,29,15+ years,-0.390629293,-0.339573746,-0.441106565
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",89,Netherlands,2,Female,29,15+ years,-0.467634388,-0.415493765,-0.517024118
+"% Change in Number of Smokers, 1990-2019",89,Netherlands,3,Both,29,15+ years,-0.370379255,-0.338842807,-0.400954039
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",89,Netherlands,3,Both,29,15+ years,-0.442883143,-0.412515416,-0.472309447
+"% Change in Number of Smokers, 1990-2019",90,Norway,1,Male,29,15+ years,-0.358760161,-0.29665934,-0.414679554
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",90,Norway,1,Male,29,15+ years,-0.498386968,-0.448517087,-0.544334438
+"% Change in Number of Smokers, 1990-2019",90,Norway,2,Female,29,15+ years,-0.467103653,-0.380254836,-0.544944609
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",90,Norway,2,Female,29,15+ years,-0.576347421,-0.503514976,-0.638727735
+"% Change in Number of Smokers, 1990-2019",90,Norway,3,Both,29,15+ years,-0.411381675,-0.358180884,-0.461710625
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",90,Norway,3,Both,29,15+ years,-0.534729129,-0.490718729,-0.575925934
+"% Change in Number of Smokers, 1990-2019",91,Portugal,1,Male,29,15+ years,-0.148419583,-0.102794691,-0.192033527
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",91,Portugal,1,Male,29,15+ years,-0.186761784,-0.142069195,-0.231366646
+"% Change in Number of Smokers, 1990-2019",91,Portugal,2,Female,29,15+ years,0.31323186,0.456002502,0.177268581
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",91,Portugal,2,Female,29,15+ years,0.306054381,0.454483554,0.164280959
+"% Change in Number of Smokers, 1990-2019",91,Portugal,3,Both,29,15+ years,-0.010279612,0.043356852,-0.063862877
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",91,Portugal,3,Both,29,15+ years,-0.03463918,0.019283761,-0.089738425
+"% Change in Number of Smokers, 1990-2019",92,Spain,1,Male,29,15+ years,-0.262685687,-0.222030277,-0.301080701
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",92,Spain,1,Male,29,15+ years,-0.395763166,-0.360355447,-0.429035281
+"% Change in Number of Smokers, 1990-2019",92,Spain,2,Female,29,15+ years,-0.084354889,0.006945804,-0.163432209
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",92,Spain,2,Female,29,15+ years,-0.236045089,-0.162660079,-0.302281028
+"% Change in Number of Smokers, 1990-2019",92,Spain,3,Both,29,15+ years,-0.194894666,-0.151063975,-0.233390123
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",92,Spain,3,Both,29,15+ years,-0.329186257,-0.292851715,-0.362075319
+"% Change in Number of Smokers, 1990-2019",93,Sweden,1,Male,29,15+ years,-0.324903595,-0.258350534,-0.387094088
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",93,Sweden,1,Male,29,15+ years,-0.446415184,-0.388017816,-0.499576194
+"% Change in Number of Smokers, 1990-2019",93,Sweden,2,Female,29,15+ years,-0.345313131,-0.244188293,-0.430997423
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",93,Sweden,2,Female,29,15+ years,-0.470887501,-0.387058747,-0.545262905
+"% Change in Number of Smokers, 1990-2019",93,Sweden,3,Both,29,15+ years,-0.336179461,-0.272424088,-0.392291806
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",93,Sweden,3,Both,29,15+ years,-0.458805885,-0.40219479,-0.508425452
+"% Change in Number of Smokers, 1990-2019",94,Switzerland,1,Male,29,15+ years,-0.027055882,0.036451523,-0.089781862
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",94,Switzerland,1,Male,29,15+ years,-0.235184493,-0.183517792,-0.28601606
+"% Change in Number of Smokers, 1990-2019",94,Switzerland,2,Female,29,15+ years,0.065388794,0.190124134,-0.054563811
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",94,Switzerland,2,Female,29,15+ years,-0.189271228,-0.083487776,-0.286129324
+"% Change in Number of Smokers, 1990-2019",94,Switzerland,3,Both,29,15+ years,0.011909019,0.076383386,-0.050794276
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",94,Switzerland,3,Both,29,15+ years,-0.211578576,-0.158739306,-0.262601484
+"% Change in Number of Smokers, 1990-2019",95,United Kingdom,1,Male,29,15+ years,-0.255712675,-0.212963231,-0.299103735
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",95,United Kingdom,1,Male,29,15+ years,-0.357441863,-0.32004336,-0.397235917
+"% Change in Number of Smokers, 1990-2019",95,United Kingdom,2,Female,29,15+ years,-0.333917324,-0.268968398,-0.395877328
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",95,United Kingdom,2,Female,29,15+ years,-0.425364024,-0.365983244,-0.483515764
+"% Change in Number of Smokers, 1990-2019",95,United Kingdom,3,Both,29,15+ years,-0.294290714,-0.253903723,-0.332063733
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",95,United Kingdom,3,Both,29,15+ years,-0.38811588,-0.35203491,-0.420960736
+"% Change in Number of Smokers, 1990-2019",96,Southern Latin America,1,Male,29,15+ years,0.219834276,0.309150312,0.137040735
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",96,Southern Latin America,1,Male,29,15+ years,-0.172270466,-0.112528702,-0.227622933
+"% Change in Number of Smokers, 1990-2019",96,Southern Latin America,2,Female,29,15+ years,0.17030682,0.34395441,0.005983443
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",96,Southern Latin America,2,Female,29,15+ years,-0.200128318,-0.080248762,-0.312377693
+"% Change in Number of Smokers, 1990-2019",96,Southern Latin America,3,Both,29,15+ years,0.196492088,0.28905994,0.113123972
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",96,Southern Latin America,3,Both,29,15+ years,-0.183656894,-0.120934902,-0.240668211
+"% Change in Number of Smokers, 1990-2019",97,Argentina,1,Male,29,15+ years,0.226622329,0.368429138,0.105021567
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",97,Argentina,1,Male,29,15+ years,-0.175249447,-0.079436177,-0.25724651
+"% Change in Number of Smokers, 1990-2019",97,Argentina,2,Female,29,15+ years,0.161953593,0.436614095,-0.064221563
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",97,Argentina,2,Female,29,15+ years,-0.225713376,-0.040688461,-0.379120339
+"% Change in Number of Smokers, 1990-2019",97,Argentina,3,Both,29,15+ years,0.196185846,0.339092194,0.073105619
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",97,Argentina,3,Both,29,15+ years,-0.197165279,-0.101882328,-0.279090771
+"% Change in Number of Smokers, 1990-2019",98,Chile,1,Male,29,15+ years,0.285627785,0.405928612,0.176783255
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",98,Chile,1,Male,29,15+ years,-0.129827913,-0.049076821,-0.206164181
+"% Change in Number of Smokers, 1990-2019",98,Chile,2,Female,29,15+ years,0.231813328,0.486899143,0.022772879
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",98,Chile,2,Female,29,15+ years,-0.126663108,0.048933407,-0.270032346
+"% Change in Number of Smokers, 1990-2019",98,Chile,3,Both,29,15+ years,0.257473966,0.390378709,0.134711322
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",98,Chile,3,Both,29,15+ years,-0.127795022,-0.03286471,-0.211412421
+"% Change in Number of Smokers, 1990-2019",99,Uruguay,1,Male,29,15+ years,-0.121088807,-0.027962541,-0.19814446
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",99,Uruguay,1,Male,29,15+ years,-0.230093568,-0.147769306,-0.300019781
+"% Change in Number of Smokers, 1990-2019",99,Uruguay,2,Female,29,15+ years,-0.049871548,0.150645127,-0.221025114
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",99,Uruguay,2,Female,29,15+ years,-0.181253541,-0.005525727,-0.336655358
+"% Change in Number of Smokers, 1990-2019",99,Uruguay,3,Both,29,15+ years,-0.092403599,0.00090367,-0.174291917
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",99,Uruguay,3,Both,29,15+ years,-0.210023944,-0.127812455,-0.286129149
+"% Change in Number of Smokers, 1990-2019",100,High-income North America,1,Male,29,15+ years,-0.104221218,-0.058840321,-0.14684156
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",100,High-income North America,1,Male,29,15+ years,-0.318189954,-0.282277976,-0.352946116
+"% Change in Number of Smokers, 1990-2019",100,High-income North America,2,Female,29,15+ years,-0.201545615,-0.132474495,-0.26812452
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",100,High-income North America,2,Female,29,15+ years,-0.398509655,-0.34513399,-0.448374358
+"% Change in Number of Smokers, 1990-2019",100,High-income North America,3,Both,29,15+ years,-0.150626256,-0.109707779,-0.18978108
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",100,High-income North America,3,Both,29,15+ years,-0.354616559,-0.324692362,-0.384536398
+"% Change in Number of Smokers, 1990-2019",101,Canada,1,Male,29,15+ years,-0.294546559,-0.232979959,-0.355828434
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",101,Canada,1,Male,29,15+ years,-0.467843675,-0.419842089,-0.516629627
+"% Change in Number of Smokers, 1990-2019",101,Canada,2,Female,29,15+ years,-0.298578428,-0.179234069,-0.405435593
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",101,Canada,2,Female,29,15+ years,-0.482147473,-0.388562849,-0.565078225
+"% Change in Number of Smokers, 1990-2019",101,Canada,3,Both,29,15+ years,-0.296550985,-0.233039807,-0.355618211
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",101,Canada,3,Both,29,15+ years,-0.474058872,-0.423878016,-0.520387593
+"% Change in Number of Smokers, 1990-2019",102,United States of America,1,Male,29,15+ years,-0.078455557,-0.026842465,-0.128510061
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",102,United States of America,1,Male,29,15+ years,-0.298355894,-0.257492908,-0.337451742
+"% Change in Number of Smokers, 1990-2019",102,United States of America,2,Female,29,15+ years,-0.188558519,-0.110919218,-0.260654969
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",102,United States of America,2,Female,29,15+ years,-0.387200475,-0.326531945,-0.441700708
+"% Change in Number of Smokers, 1990-2019",102,United States of America,3,Both,29,15+ years,-0.130983416,-0.086201639,-0.173826674
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",102,United States of America,3,Both,29,15+ years,-0.338691737,-0.303585858,-0.371036906
+"% Change in Number of Smokers, 1990-2019",103,Latin America and Caribbean,1,Male,29,15+ years,-0.151441752,-0.118914195,-0.181004622
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",103,Latin America and Caribbean,1,Male,29,15+ years,-0.523122806,-0.505859751,-0.539249835
+"% Change in Number of Smokers, 1990-2019",103,Latin America and Caribbean,2,Female,29,15+ years,-0.281040511,-0.22580954,-0.333042498
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",103,Latin America and Caribbean,2,Female,29,15+ years,-0.596122589,-0.565368334,-0.625418607
+"% Change in Number of Smokers, 1990-2019",103,Latin America and Caribbean,3,Both,29,15+ years,-0.19814206,-0.169049594,-0.224932883
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",103,Latin America and Caribbean,3,Both,29,15+ years,-0.5498777,-0.533811868,-0.565115381
+"% Change in Number of Smokers, 1990-2019",104,Caribbean,1,Male,29,15+ years,0.075183011,0.139997431,0.011997298
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",104,Caribbean,1,Male,29,15+ years,-0.309025808,-0.270033914,-0.346265296
+"% Change in Number of Smokers, 1990-2019",104,Caribbean,2,Female,29,15+ years,-0.022429356,0.142589953,-0.165508028
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",104,Caribbean,2,Female,29,15+ years,-0.370930494,-0.269338532,-0.458889269
+"% Change in Number of Smokers, 1990-2019",104,Caribbean,3,Both,29,15+ years,0.041305927,0.112721559,-0.020872282
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",104,Caribbean,3,Both,29,15+ years,-0.329931382,-0.285527423,-0.369547599
+"% Change in Number of Smokers, 1990-2019",105,Antigua and Barbuda,1,Male,29,15+ years,1.413525089,1.788215866,1.040056905
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",105,Antigua and Barbuda,1,Male,29,15+ years,0.314424197,0.52685058,0.11793333
+"% Change in Number of Smokers, 1990-2019",105,Antigua and Barbuda,2,Female,29,15+ years,1.277157493,2.199206702,0.589130304
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",105,Antigua and Barbuda,2,Female,29,15+ years,0.314844079,0.819492325,-0.064205892
+"% Change in Number of Smokers, 1990-2019",105,Antigua and Barbuda,3,Both,29,15+ years,1.357293429,1.738338705,1.010587437
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",105,Antigua and Barbuda,3,Both,29,15+ years,0.315132027,0.520381909,0.126409658
+"% Change in Number of Smokers, 1990-2019",106,Bahamas,1,Male,29,15+ years,0.665026896,0.949948022,0.431294538
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",106,Bahamas,1,Male,29,15+ years,-0.00303739,0.154695896,-0.135963994
+"% Change in Number of Smokers, 1990-2019",106,Bahamas,2,Female,29,15+ years,0.454822612,1.107586416,0.007643591
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",106,Bahamas,2,Female,29,15+ years,-0.114147846,0.270850318,-0.383620284
+"% Change in Number of Smokers, 1990-2019",106,Bahamas,3,Both,29,15+ years,0.604378514,0.848582573,0.38542749
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",106,Bahamas,3,Both,29,15+ years,-0.033771338,0.110864058,-0.159474966
+"% Change in Number of Smokers, 1990-2019",107,Barbados,1,Male,29,15+ years,0.036722882,0.200326168,-0.102081046
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",107,Barbados,1,Male,29,15+ years,-0.154195289,-0.026513237,-0.266022767
+"% Change in Number of Smokers, 1990-2019",107,Barbados,2,Female,29,15+ years,0.077190023,0.523055827,-0.257925663
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",107,Barbados,2,Female,29,15+ years,-0.032455089,0.380093099,-0.342147297
+"% Change in Number of Smokers, 1990-2019",107,Barbados,3,Both,29,15+ years,0.041818569,0.205177122,-0.094294755
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",107,Barbados,3,Both,29,15+ years,-0.121331541,0.01881074,-0.240676022
+"% Change in Number of Smokers, 1990-2019",108,Belize,1,Male,29,15+ years,1.787378012,2.20891205,1.411959751
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",108,Belize,1,Male,29,15+ years,0.019491913,0.157270456,-0.111312052
+"% Change in Number of Smokers, 1990-2019",108,Belize,2,Female,29,15+ years,2.077096136,3.395257789,0.957475544
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",108,Belize,2,Female,29,15+ years,0.092394421,0.502937809,-0.258797448
+"% Change in Number of Smokers, 1990-2019",108,Belize,3,Both,29,15+ years,1.821063566,2.218854104,1.429921481
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",108,Belize,3,Both,29,15+ years,0.005187185,0.133180155,-0.117223213
+"% Change in Number of Smokers, 1990-2019",109,Cuba,1,Male,29,15+ years,-0.096455811,0.000201438,-0.183795406
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",109,Cuba,1,Male,29,15+ years,-0.259041868,-0.182068901,-0.327727521
+"% Change in Number of Smokers, 1990-2019",109,Cuba,2,Female,29,15+ years,-0.195549811,0.043253169,-0.390535055
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",109,Cuba,2,Female,29,15+ years,-0.341657164,-0.150545652,-0.491637962
+"% Change in Number of Smokers, 1990-2019",109,Cuba,3,Both,29,15+ years,-0.133594129,-0.028499708,-0.223580282
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",109,Cuba,3,Both,29,15+ years,-0.289150231,-0.209315742,-0.359720265
+"% Change in Number of Smokers, 1990-2019",110,Dominica,1,Male,29,15+ years,0.090828304,0.280730041,-0.062956171
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",110,Dominica,1,Male,29,15+ years,-0.027256961,0.135248605,-0.169629521
+"% Change in Number of Smokers, 1990-2019",110,Dominica,2,Female,29,15+ years,-0.062930451,0.291655917,-0.359996651
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",110,Dominica,2,Female,29,15+ years,-0.068750625,0.27544711,-0.353293158
+"% Change in Number of Smokers, 1990-2019",110,Dominica,3,Both,29,15+ years,0.038127061,0.200702509,-0.110667408
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",110,Dominica,3,Both,29,15+ years,-0.030930326,0.120335812,-0.165656209
+"% Change in Number of Smokers, 1990-2019",111,Dominican Republic,1,Male,29,15+ years,0.89268001,1.15966111,0.662928585
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",111,Dominican Republic,1,Male,29,15+ years,-0.07149441,0.059735072,-0.180118343
+"% Change in Number of Smokers, 1990-2019",111,Dominican Republic,2,Female,29,15+ years,0.564124535,1.005245596,0.197589936
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",111,Dominican Republic,2,Female,29,15+ years,-0.210077178,0.011765302,-0.396015791
+"% Change in Number of Smokers, 1990-2019",111,Dominican Republic,3,Both,29,15+ years,0.740679564,0.986538927,0.509521072
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",111,Dominican Republic,3,Both,29,15+ years,-0.131320338,-0.007920416,-0.242560788
+"% Change in Number of Smokers, 1990-2019",112,Grenada,1,Male,29,15+ years,0.837674887,1.129212221,0.564097062
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",112,Grenada,1,Male,29,15+ years,0.073347765,0.237169287,-0.078239733
+"% Change in Number of Smokers, 1990-2019",112,Grenada,2,Female,29,15+ years,0.492922805,1.115753948,0.00323979
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",112,Grenada,2,Female,29,15+ years,0.026679188,0.442888318,-0.304529325
+"% Change in Number of Smokers, 1990-2019",112,Grenada,3,Both,29,15+ years,0.741316505,1.009481276,0.502488919
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",112,Grenada,3,Both,29,15+ years,0.091952584,0.24849925,-0.060965509
+"% Change in Number of Smokers, 1990-2019",113,Guyana,1,Male,29,15+ years,0.227858354,0.40759363,0.074290249
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",113,Guyana,1,Male,29,15+ years,0.064512304,0.208508751,-0.064093936
+"% Change in Number of Smokers, 1990-2019",113,Guyana,2,Female,29,15+ years,0.056868405,0.471804666,-0.281131628
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",113,Guyana,2,Female,29,15+ years,-0.096173837,0.225731259,-0.367443821
+"% Change in Number of Smokers, 1990-2019",113,Guyana,3,Both,29,15+ years,0.194978267,0.3511987,0.050945842
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",113,Guyana,3,Both,29,15+ years,0.030390503,0.158644033,-0.080704653
+"% Change in Number of Smokers, 1990-2019",114,Haiti,1,Male,29,15+ years,0.221900365,0.389889984,0.065156135
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",114,Haiti,1,Male,29,15+ years,-0.45784847,-0.383685214,-0.525734753
+"% Change in Number of Smokers, 1990-2019",114,Haiti,2,Female,29,15+ years,0.196809926,0.688260713,-0.202961994
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",114,Haiti,2,Female,29,15+ years,-0.485525318,-0.27495291,-0.652050155
+"% Change in Number of Smokers, 1990-2019",114,Haiti,3,Both,29,15+ years,0.211184758,0.38326689,0.046771721
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",114,Haiti,3,Both,29,15+ years,-0.475126545,-0.405022065,-0.544157616
+"% Change in Number of Smokers, 1990-2019",115,Jamaica,1,Male,29,15+ years,0.122156457,0.25971065,-0.007211141
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",115,Jamaica,1,Male,29,15+ years,-0.264549706,-0.17465446,-0.347574583
+"% Change in Number of Smokers, 1990-2019",115,Jamaica,2,Female,29,15+ years,0.123761259,0.461735625,-0.144865517
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",115,Jamaica,2,Female,29,15+ years,-0.218244424,0.002333362,-0.401114657
+"% Change in Number of Smokers, 1990-2019",115,Jamaica,3,Both,29,15+ years,0.120101411,0.250182647,0.00234053
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",115,Jamaica,3,Both,29,15+ years,-0.248795123,-0.170707075,-0.323670357
+"% Change in Number of Smokers, 1990-2019",116,Saint Lucia,1,Male,29,15+ years,0.561035046,0.794169378,0.349990267
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",116,Saint Lucia,1,Male,29,15+ years,-0.133034099,-0.008790318,-0.239871751
+"% Change in Number of Smokers, 1990-2019",116,Saint Lucia,2,Female,29,15+ years,0.320823962,0.853265516,-0.096000674
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",116,Saint Lucia,2,Female,29,15+ years,-0.142261653,0.183126996,-0.392750486
+"% Change in Number of Smokers, 1990-2019",116,Saint Lucia,3,Both,29,15+ years,0.497195868,0.710153022,0.311352726
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",116,Saint Lucia,3,Both,29,15+ years,-0.118475318,0.003751583,-0.222283296
+"% Change in Number of Smokers, 1990-2019",117,Saint Vincent and the Grenadines,1,Male,29,15+ years,0.241417823,0.413787734,0.087109416
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",117,Saint Vincent and the Grenadines,1,Male,29,15+ years,-0.049317194,0.074489407,-0.157504788
+"% Change in Number of Smokers, 1990-2019",117,Saint Vincent and the Grenadines,2,Female,29,15+ years,0.120965514,0.58409101,-0.242335978
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",117,Saint Vincent and the Grenadines,2,Female,29,15+ years,0.020380892,0.413997403,-0.289056604
+"% Change in Number of Smokers, 1990-2019",117,Saint Vincent and the Grenadines,3,Both,29,15+ years,0.215909873,0.378237233,0.071604307
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",117,Saint Vincent and the Grenadines,3,Both,29,15+ years,-0.022811443,0.098758123,-0.131517757
+"% Change in Number of Smokers, 1990-2019",118,Suriname,1,Male,29,15+ years,0.355458263,0.503493583,0.21752412
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",118,Suriname,1,Male,29,15+ years,-0.176688833,-0.089596565,-0.254730969
+"% Change in Number of Smokers, 1990-2019",118,Suriname,2,Female,29,15+ years,0.287912524,0.74520446,-0.088436121
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",118,Suriname,2,Female,29,15+ years,-0.254533448,0.009497319,-0.468658693
+"% Change in Number of Smokers, 1990-2019",118,Suriname,3,Both,29,15+ years,0.336877829,0.488644867,0.193638087
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",118,Suriname,3,Both,29,15+ years,-0.205861734,-0.118545499,-0.284133426
+"% Change in Number of Smokers, 1990-2019",119,Trinidad and Tobago,1,Male,29,15+ years,0.199844027,0.346909583,0.06209942
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",119,Trinidad and Tobago,1,Male,29,15+ years,-0.126592202,-0.023394975,-0.224030981
+"% Change in Number of Smokers, 1990-2019",119,Trinidad and Tobago,2,Female,29,15+ years,0.164815781,0.613363221,-0.178449263
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",119,Trinidad and Tobago,2,Female,29,15+ years,-0.078795374,0.263355607,-0.340111588
+"% Change in Number of Smokers, 1990-2019",119,Trinidad and Tobago,3,Both,29,15+ years,0.18852488,0.333815138,0.051290745
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",119,Trinidad and Tobago,3,Both,29,15+ years,-0.112352283,-0.00847522,-0.21445604
+"% Change in Number of Smokers, 1990-2019",120,Andean Latin America,1,Male,29,15+ years,0.66442972,0.805729486,0.529765149
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",120,Andean Latin America,1,Male,29,15+ years,-0.1689331,-0.104734145,-0.230812385
+"% Change in Number of Smokers, 1990-2019",120,Andean Latin America,2,Female,29,15+ years,0.583370693,0.949408026,0.254576379
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",120,Andean Latin America,2,Female,29,15+ years,-0.173642478,0.009944766,-0.334156903
+"% Change in Number of Smokers, 1990-2019",120,Andean Latin America,3,Both,29,15+ years,0.639230717,0.777747441,0.504245676
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",120,Andean Latin America,3,Both,29,15+ years,-0.168293372,-0.105642327,-0.229790319
+"% Change in Number of Smokers, 1990-2019",121,Bolivia (Plurinational State of),1,Male,29,15+ years,1.109903514,1.413857781,0.834654072
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",121,Bolivia (Plurinational State of),1,Male,29,15+ years,-0.075840373,0.050910233,-0.18860384
+"% Change in Number of Smokers, 1990-2019",121,Bolivia (Plurinational State of),2,Female,29,15+ years,1.155475345,1.998856893,0.483284988
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",121,Bolivia (Plurinational State of),2,Female,29,15+ years,-0.003264875,0.365608032,-0.291091834
+"% Change in Number of Smokers, 1990-2019",121,Bolivia (Plurinational State of),3,Both,29,15+ years,1.111589453,1.436517058,0.823412039
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",121,Bolivia (Plurinational State of),3,Both,29,15+ years,-0.049547483,0.081244263,-0.170700101
+"% Change in Number of Smokers, 1990-2019",122,Ecuador,1,Male,29,15+ years,0.998715481,1.212085386,0.785744919
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",122,Ecuador,1,Male,29,15+ years,-0.083724825,0.007767077,-0.172387775
+"% Change in Number of Smokers, 1990-2019",122,Ecuador,2,Female,29,15+ years,0.780413169,1.39976429,0.319776242
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",122,Ecuador,2,Female,29,15+ years,-0.1811176,0.075387578,-0.386859853
+"% Change in Number of Smokers, 1990-2019",122,Ecuador,3,Both,29,15+ years,0.952357192,1.153123084,0.754750641
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",122,Ecuador,3,Both,29,15+ years,-0.103996802,-0.015559893,-0.186789963
+"% Change in Number of Smokers, 1990-2019",123,Peru,1,Male,29,15+ years,0.155523049,0.358107029,-0.033397141
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",123,Peru,1,Male,29,15+ years,-0.354252695,-0.245710356,-0.45357428
+"% Change in Number of Smokers, 1990-2019",123,Peru,2,Female,29,15+ years,0.321855019,0.884112845,-0.110769163
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",123,Peru,2,Female,29,15+ years,-0.23213958,0.092430189,-0.470642342
+"% Change in Number of Smokers, 1990-2019",123,Peru,3,Both,29,15+ years,0.202035755,0.422706506,0.008912769
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",123,Peru,3,Both,29,15+ years,-0.314498079,-0.196247367,-0.415205811
+"% Change in Number of Smokers, 1990-2019",124,Central Latin America,1,Male,29,15+ years,0.078571918,0.129835294,0.029555225
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",124,Central Latin America,1,Male,29,15+ years,-0.400835852,-0.375010485,-0.426166468
+"% Change in Number of Smokers, 1990-2019",124,Central Latin America,2,Female,29,15+ years,0.056825821,0.207579924,-0.072526956
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",124,Central Latin America,2,Female,29,15+ years,-0.421577027,-0.343932886,-0.48963941
+"% Change in Number of Smokers, 1990-2019",124,Central Latin America,3,Both,29,15+ years,0.071459247,0.126927295,0.018480975
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",124,Central Latin America,3,Both,29,15+ years,-0.409486222,-0.381922682,-0.436907748
+"% Change in Number of Smokers, 1990-2019",125,Colombia,1,Male,29,15+ years,-0.228428364,-0.125146684,-0.316330078
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",125,Colombia,1,Male,29,15+ years,-0.536060837,-0.480969743,-0.586731916
+"% Change in Number of Smokers, 1990-2019",125,Colombia,2,Female,29,15+ years,0.148445535,0.503341394,-0.142372381
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",125,Colombia,2,Female,29,15+ years,-0.333281173,-0.136187488,-0.493002674
+"% Change in Number of Smokers, 1990-2019",125,Colombia,3,Both,29,15+ years,-0.110503414,0.007942124,-0.223289165
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",125,Colombia,3,Both,29,15+ years,-0.470730507,-0.404098004,-0.534178329
+"% Change in Number of Smokers, 1990-2019",126,Costa Rica,1,Male,29,15+ years,-0.00862643,0.12728872,-0.127215512
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",126,Costa Rica,1,Male,29,15+ years,-0.458850678,-0.38840335,-0.521864994
+"% Change in Number of Smokers, 1990-2019",126,Costa Rica,2,Female,29,15+ years,-0.047470714,0.247173024,-0.286356748
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",126,Costa Rica,2,Female,29,15+ years,-0.481978759,-0.321423609,-0.60681217
+"% Change in Number of Smokers, 1990-2019",126,Costa Rica,3,Both,29,15+ years,-0.025349534,0.114086951,-0.144854398
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",126,Costa Rica,3,Both,29,15+ years,-0.474360367,-0.404542751,-0.53576594
+"% Change in Number of Smokers, 1990-2019",127,El Salvador,1,Male,29,15+ years,0.749952922,1.057809846,0.478581674
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",127,El Salvador,1,Male,29,15+ years,0.342807904,0.552210067,0.153630618
+"% Change in Number of Smokers, 1990-2019",127,El Salvador,2,Female,29,15+ years,1.052319058,1.892415051,0.356904831
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",127,El Salvador,2,Female,29,15+ years,0.368790726,0.878282438,-0.050544277
+"% Change in Number of Smokers, 1990-2019",127,El Salvador,3,Both,29,15+ years,0.795914959,1.070668745,0.54471926
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",127,El Salvador,3,Both,29,15+ years,0.305350596,0.490566635,0.131990677
+"% Change in Number of Smokers, 1990-2019",128,Guatemala,1,Male,29,15+ years,1.350489004,1.684143058,1.051490231
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",128,Guatemala,1,Male,29,15+ years,-0.145583642,-0.043113292,-0.247652048
+"% Change in Number of Smokers, 1990-2019",128,Guatemala,2,Female,29,15+ years,1.81881938,2.932960231,0.939839824
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",128,Guatemala,2,Female,29,15+ years,-0.050019222,0.296544042,-0.321281982
+"% Change in Number of Smokers, 1990-2019",128,Guatemala,3,Both,29,15+ years,1.419081509,1.74822648,1.118561637
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",128,Guatemala,3,Both,29,15+ years,-0.151612359,-0.048616146,-0.246668362
+"% Change in Number of Smokers, 1990-2019",129,Honduras,1,Male,29,15+ years,1.026392467,1.286629412,0.795717243
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",129,Honduras,1,Male,29,15+ years,-0.199352748,-0.104632551,-0.284307875
+"% Change in Number of Smokers, 1990-2019",129,Honduras,2,Female,29,15+ years,1.484220237,2.319241269,0.796931164
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",129,Honduras,2,Female,29,15+ years,-0.117723862,0.164286748,-0.353373394
+"% Change in Number of Smokers, 1990-2019",129,Honduras,3,Both,29,15+ years,1.096523277,1.355628092,0.861566493
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",129,Honduras,3,Both,29,15+ years,-0.202023975,-0.113154184,-0.283632704
+"% Change in Number of Smokers, 1990-2019",130,Mexico,1,Male,29,15+ years,0.044680858,0.118145107,-0.023926402
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",130,Mexico,1,Male,29,15+ years,-0.406283228,-0.368182003,-0.442658192
+"% Change in Number of Smokers, 1990-2019",130,Mexico,2,Female,29,15+ years,-0.084614474,0.099414522,-0.258627612
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",130,Mexico,2,Female,29,15+ years,-0.481499462,-0.382727003,-0.571247924
+"% Change in Number of Smokers, 1990-2019",130,Mexico,3,Both,29,15+ years,0.005998673,0.083660564,-0.064537785
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",130,Mexico,3,Both,29,15+ years,-0.429752608,-0.389516418,-0.464413068
+"% Change in Number of Smokers, 1990-2019",131,Nicaragua,1,Male,29,15+ years,0.659496247,0.915353541,0.434316558
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",131,Nicaragua,1,Male,29,15+ years,-0.232876075,-0.127202099,-0.331594482
+"% Change in Number of Smokers, 1990-2019",131,Nicaragua,2,Female,29,15+ years,0.744691099,1.537473298,0.140699702
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",131,Nicaragua,2,Female,29,15+ years,-0.16230799,0.173575914,-0.423500878
+"% Change in Number of Smokers, 1990-2019",131,Nicaragua,3,Both,29,15+ years,0.67040891,0.916302266,0.454815428
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",131,Nicaragua,3,Both,29,15+ years,-0.216739623,-0.113154562,-0.312238946
+"% Change in Number of Smokers, 1990-2019",132,Panama,1,Male,29,15+ years,0.188975146,0.351906632,0.041079726
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",132,Panama,1,Male,29,15+ years,-0.390829386,-0.31087723,-0.462810301
+"% Change in Number of Smokers, 1990-2019",132,Panama,2,Female,29,15+ years,0.189756743,0.676176375,-0.176509529
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",132,Panama,2,Female,29,15+ years,-0.359378208,-0.105606589,-0.544624207
+"% Change in Number of Smokers, 1990-2019",132,Panama,3,Both,29,15+ years,0.184347325,0.360733934,0.027133499
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",132,Panama,3,Both,29,15+ years,-0.38774073,-0.300511986,-0.462130778
+"% Change in Number of Smokers, 1990-2019",133,Venezuela (Bolivarian Republic of),1,Male,29,15+ years,0.147070985,0.313730282,-0.002393834
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",133,Venezuela (Bolivarian Republic of),1,Male,29,15+ years,-0.352900722,-0.269916382,-0.425736458
+"% Change in Number of Smokers, 1990-2019",133,Venezuela (Bolivarian Republic of),2,Female,29,15+ years,0.257472572,0.680971095,-0.091441598
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",133,Venezuela (Bolivarian Republic of),2,Female,29,15+ years,-0.321589149,-0.110002285,-0.498498137
+"% Change in Number of Smokers, 1990-2019",133,Venezuela (Bolivarian Republic of),3,Both,29,15+ years,0.179957333,0.34445116,0.030652532
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",133,Venezuela (Bolivarian Republic of),3,Both,29,15+ years,-0.346889695,-0.261252117,-0.425388166
+"% Change in Number of Smokers, 1990-2019",134,Tropical Latin America,1,Male,29,15+ years,-0.497891022,-0.454678912,-0.536313556
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",134,Tropical Latin America,1,Male,29,15+ years,-0.71541023,-0.691875874,-0.737064647
+"% Change in Number of Smokers, 1990-2019",134,Tropical Latin America,2,Female,29,15+ years,-0.546777104,-0.489134295,-0.60205325
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",134,Tropical Latin America,2,Female,29,15+ years,-0.742619216,-0.707997365,-0.77621401
+"% Change in Number of Smokers, 1990-2019",134,Tropical Latin America,3,Both,29,15+ years,-0.518600609,-0.484587264,-0.550620707
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",134,Tropical Latin America,3,Both,29,15+ years,-0.726833835,-0.707324962,-0.74511553
+"% Change in Number of Smokers, 1990-2019",135,Brazil,1,Male,29,15+ years,-0.517471948,-0.473438983,-0.557153507
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",135,Brazil,1,Male,29,15+ years,-0.72485692,-0.701012565,-0.746999705
+"% Change in Number of Smokers, 1990-2019",135,Brazil,2,Female,29,15+ years,-0.556015782,-0.49758535,-0.612545867
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",135,Brazil,2,Female,29,15+ years,-0.746706024,-0.711625804,-0.780028204
+"% Change in Number of Smokers, 1990-2019",135,Brazil,3,Both,29,15+ years,-0.533948565,-0.497935039,-0.565849408
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",135,Brazil,3,Both,29,15+ years,-0.734098741,-0.713886461,-0.752441248
+"% Change in Number of Smokers, 1990-2019",136,Paraguay,1,Male,29,15+ years,0.293865865,0.438643351,0.142994155
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",136,Paraguay,1,Male,29,15+ years,-0.396536714,-0.334009993,-0.462828734
+"% Change in Number of Smokers, 1990-2019",136,Paraguay,2,Female,29,15+ years,0.259709304,0.657256611,-0.058925831
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",136,Paraguay,2,Female,29,15+ years,-0.419363124,-0.246776563,-0.564219611
+"% Change in Number of Smokers, 1990-2019",136,Paraguay,3,Both,29,15+ years,0.282077045,0.433591855,0.140850391
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",136,Paraguay,3,Both,29,15+ years,-0.402167163,-0.336732942,-0.462767677
+"% Change in Number of Smokers, 1990-2019",137,North Africa and Middle East,1,Male,29,15+ years,1.035124849,1.096073351,0.976016211
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",137,North Africa and Middle East,1,Male,29,15+ years,-0.112125382,-0.087489111,-0.136325975
+"% Change in Number of Smokers, 1990-2019",137,North Africa and Middle East,2,Female,29,15+ years,1.085899279,1.310811483,0.871129445
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",137,North Africa and Middle East,2,Female,29,15+ years,-0.028789702,0.072265734,-0.127454295
+"% Change in Number of Smokers, 1990-2019",137,North Africa and Middle East,3,Both,29,15+ years,1.041492732,1.106294631,0.980762082
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",137,North Africa and Middle East,3,Both,29,15+ years,-0.089616111,-0.064120487,-0.115604002
+"% Change in Number of Smokers, 1990-2019",138,North Africa and Middle East,1,Male,29,15+ years,1.035124849,1.096073351,0.976016211
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",138,North Africa and Middle East,1,Male,29,15+ years,-0.112125382,-0.087489111,-0.136325975
+"% Change in Number of Smokers, 1990-2019",138,North Africa and Middle East,2,Female,29,15+ years,1.085899279,1.310811483,0.871129445
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",138,North Africa and Middle East,2,Female,29,15+ years,-0.028789702,0.072265734,-0.127454295
+"% Change in Number of Smokers, 1990-2019",138,North Africa and Middle East,3,Both,29,15+ years,1.041492732,1.106294631,0.980762082
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",138,North Africa and Middle East,3,Both,29,15+ years,-0.089616111,-0.064120487,-0.115604002
+"% Change in Number of Smokers, 1990-2019",139,Algeria,1,Male,29,15+ years,1.058155635,1.289650558,0.82944796
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",139,Algeria,1,Male,29,15+ years,-0.070079507,0.023079082,-0.161976905
+"% Change in Number of Smokers, 1990-2019",139,Algeria,2,Female,29,15+ years,0.541155651,1.198119507,0.016616198
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",139,Algeria,2,Female,29,15+ years,-0.287200094,-0.006991722,-0.514716355
+"% Change in Number of Smokers, 1990-2019",139,Algeria,3,Both,29,15+ years,1.022442092,1.255660226,0.797971832
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",139,Algeria,3,Both,29,15+ years,-0.078049241,0.013099577,-0.168403491
+"% Change in Number of Smokers, 1990-2019",140,Bahrain,1,Male,29,15+ years,2.66723638,3.181661108,2.240305266
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",140,Bahrain,1,Male,29,15+ years,-0.010252349,0.100214157,-0.11055747
+"% Change in Number of Smokers, 1990-2019",140,Bahrain,2,Female,29,15+ years,1.977455953,2.947895344,1.16669935
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",140,Bahrain,2,Female,29,15+ years,-0.206687667,0.026750609,-0.403719773
+"% Change in Number of Smokers, 1990-2019",140,Bahrain,3,Both,29,15+ years,2.574484076,3.019704181,2.154860626
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",140,Bahrain,3,Both,29,15+ years,-0.031010325,0.071367029,-0.126969578
+"% Change in Number of Smokers, 1990-2019",141,Egypt,1,Male,29,15+ years,1.370004322,1.571243467,1.179624531
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",141,Egypt,1,Male,29,15+ years,0.130774811,0.218803086,0.048831078
+"% Change in Number of Smokers, 1990-2019",141,Egypt,2,Female,29,15+ years,0.975795882,2.033320336,0.254106752
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",141,Egypt,2,Female,29,15+ years,0.024088339,0.505074609,-0.31670774
+"% Change in Number of Smokers, 1990-2019",141,Egypt,3,Both,29,15+ years,1.357637684,1.553972644,1.171577489
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",141,Egypt,3,Both,29,15+ years,0.155690364,0.244445685,0.072029995
+"% Change in Number of Smokers, 1990-2019",142,Iran (Islamic Republic of),1,Male,29,15+ years,1.269638278,1.552827312,1.005722262
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",142,Iran (Islamic Republic of),1,Male,29,15+ years,0.023031256,0.146256912,-0.087407079
+"% Change in Number of Smokers, 1990-2019",142,Iran (Islamic Republic of),2,Female,29,15+ years,1.341468654,2.242350292,0.577670393
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",142,Iran (Islamic Republic of),2,Female,29,15+ years,0.08276972,0.479262908,-0.266951665
+"% Change in Number of Smokers, 1990-2019",142,Iran (Islamic Republic of),3,Both,29,15+ years,1.273669038,1.547516246,1.019021459
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",142,Iran (Islamic Republic of),3,Both,29,15+ years,0.021317261,0.1380317,-0.089821646
+"% Change in Number of Smokers, 1990-2019",143,Iraq,1,Male,29,15+ years,1.532572224,1.76796623,1.312505566
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",143,Iraq,1,Male,29,15+ years,-0.188011305,-0.115010742,-0.252048406
+"% Change in Number of Smokers, 1990-2019",143,Iraq,2,Female,29,15+ years,1.450201921,2.441247862,0.649433273
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",143,Iraq,2,Female,29,15+ years,-0.221301818,0.065146586,-0.450337651
+"% Change in Number of Smokers, 1990-2019",143,Iraq,3,Both,29,15+ years,1.521742307,1.748965604,1.30006922
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",143,Iraq,3,Both,29,15+ years,-0.190057863,-0.124052541,-0.2527437
+"% Change in Number of Smokers, 1990-2019",144,Jordan,1,Male,29,15+ years,3.522050468,3.863957723,3.197901024
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",144,Jordan,1,Male,29,15+ years,0.113662155,0.182984444,0.046363556
+"% Change in Number of Smokers, 1990-2019",144,Jordan,2,Female,29,15+ years,3.172828013,4.592128618,2.024881002
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",144,Jordan,2,Female,29,15+ years,0.105742479,0.445765536,-0.157574182
+"% Change in Number of Smokers, 1990-2019",144,Jordan,3,Both,29,15+ years,3.45147994,3.854734798,3.095703562
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",144,Jordan,3,Both,29,15+ years,0.136664797,0.219493873,0.058740283
+"% Change in Number of Smokers, 1990-2019",145,Kuwait,1,Male,29,15+ years,1.203649892,1.447678674,0.98018848
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",145,Kuwait,1,Male,29,15+ years,-0.142048421,-0.061764686,-0.216355281
+"% Change in Number of Smokers, 1990-2019",145,Kuwait,2,Female,29,15+ years,1.936893546,3.235988865,0.925110304
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",145,Kuwait,2,Female,29,15+ years,-0.085701408,0.24323807,-0.363258516
+"% Change in Number of Smokers, 1990-2019",145,Kuwait,3,Both,29,15+ years,1.251980108,1.510897457,1.0251348
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",145,Kuwait,3,Both,29,15+ years,-0.218997066,-0.147035903,-0.287431287
+"% Change in Number of Smokers, 1990-2019",146,Lebanon,1,Male,29,15+ years,1.324674951,1.551366588,1.117435283
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",146,Lebanon,1,Male,29,15+ years,0.25062446,0.365413653,0.143552973
+"% Change in Number of Smokers, 1990-2019",146,Lebanon,2,Female,29,15+ years,1.915066819,2.634188648,1.31659092
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",146,Lebanon,2,Female,29,15+ years,0.450606902,0.802195532,0.158125961
+"% Change in Number of Smokers, 1990-2019",146,Lebanon,3,Both,29,15+ years,1.514051338,1.774693169,1.274016568
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",146,Lebanon,3,Both,29,15+ years,0.314344901,0.444414508,0.194921889
+"% Change in Number of Smokers, 1990-2019",147,Libya,1,Male,29,15+ years,1.32157637,1.568422061,1.091134316
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",147,Libya,1,Male,29,15+ years,0.00602375,0.107025338,-0.083692975
+"% Change in Number of Smokers, 1990-2019",147,Libya,2,Female,29,15+ years,1.176695853,2.237545118,0.399040776
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",147,Libya,2,Female,29,15+ years,-0.021032727,0.384038449,-0.341811386
+"% Change in Number of Smokers, 1990-2019",147,Libya,3,Both,29,15+ years,1.314052506,1.55094025,1.089041225
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",147,Libya,3,Both,29,15+ years,-0.059387867,0.028220151,-0.140429708
+"% Change in Number of Smokers, 1990-2019",148,Morocco,1,Male,29,15+ years,0.200013251,0.336764869,0.08440108
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",148,Morocco,1,Male,29,15+ years,-0.331592448,-0.260577639,-0.393070247
+"% Change in Number of Smokers, 1990-2019",148,Morocco,2,Female,29,15+ years,0.13979718,0.710675839,-0.275900851
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",148,Morocco,2,Female,29,15+ years,-0.313121614,0.010165483,-0.542663303
+"% Change in Number of Smokers, 1990-2019",148,Morocco,3,Both,29,15+ years,0.195646907,0.32673141,0.077470622
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",148,Morocco,3,Both,29,15+ years,-0.324311541,-0.254356057,-0.386089509
+"% Change in Number of Smokers, 1990-2019",149,Palestine,1,Male,29,15+ years,1.858441173,2.089160393,1.637493339
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",149,Palestine,1,Male,29,15+ years,-0.08483731,-0.020518525,-0.146752659
+"% Change in Number of Smokers, 1990-2019",149,Palestine,2,Female,29,15+ years,2.012402778,3.106246361,1.123392808
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",149,Palestine,2,Female,29,15+ years,-0.032324666,0.289158102,-0.294498555
+"% Change in Number of Smokers, 1990-2019",149,Palestine,3,Both,29,15+ years,1.867703523,2.096415112,1.639451177
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",149,Palestine,3,Both,29,15+ years,-0.044004917,0.023482249,-0.109317855
+"% Change in Number of Smokers, 1990-2019",150,Oman,1,Male,29,15+ years,1.688021971,2.073456816,1.359665461
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",150,Oman,1,Male,29,15+ years,-0.24582042,-0.165050426,-0.324242467
+"% Change in Number of Smokers, 1990-2019",150,Oman,2,Female,29,15+ years,1.665446712,2.814663553,0.807226944
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",150,Oman,2,Female,29,15+ years,-0.110099279,0.231117186,-0.373675295
+"% Change in Number of Smokers, 1990-2019",150,Oman,3,Both,29,15+ years,1.68480627,2.059151152,1.342120996
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",150,Oman,3,Both,29,15+ years,-0.214127049,-0.125925975,-0.296333636
+"% Change in Number of Smokers, 1990-2019",151,Qatar,1,Male,29,15+ years,6.446182245,7.667469446,5.379489231
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",151,Qatar,1,Male,29,15+ years,-0.041336279,0.085029757,-0.153925727
+"% Change in Number of Smokers, 1990-2019",151,Qatar,2,Female,29,15+ years,4.422737582,7.377558619,2.3527618
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",151,Qatar,2,Female,29,15+ years,0.041422496,0.546858442,-0.328755435
+"% Change in Number of Smokers, 1990-2019",151,Qatar,3,Both,29,15+ years,6.345763933,7.533446998,5.346106609
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",151,Qatar,3,Both,29,15+ years,0.011185053,0.138882858,-0.10002803
+"% Change in Number of Smokers, 1990-2019",152,Saudi Arabia,1,Male,29,15+ years,3.449119716,3.954334729,2.99206827
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",152,Saudi Arabia,1,Male,29,15+ years,0.390167992,0.53613532,0.261767908
+"% Change in Number of Smokers, 1990-2019",152,Saudi Arabia,2,Female,29,15+ years,3.33593465,5.328450074,1.825100555
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",152,Saudi Arabia,2,Female,29,15+ years,0.453292317,0.996316133,0.002410125
+"% Change in Number of Smokers, 1990-2019",152,Saudi Arabia,3,Both,29,15+ years,3.437119378,3.928718488,3.014402268
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",152,Saudi Arabia,3,Both,29,15+ years,0.378249302,0.513875434,0.25646427
+"% Change in Number of Smokers, 1990-2019",153,Syrian Arab Republic,1,Male,29,15+ years,0.198860033,0.313559586,0.092592508
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",153,Syrian Arab Republic,1,Male,29,15+ years,-0.164834409,-0.098434802,-0.233089043
+"% Change in Number of Smokers, 1990-2019",153,Syrian Arab Republic,2,Female,29,15+ years,0.287117163,0.825583821,-0.158485327
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",153,Syrian Arab Republic,2,Female,29,15+ years,-0.232792383,0.060730313,-0.471138589
+"% Change in Number of Smokers, 1990-2019",153,Syrian Arab Republic,3,Both,29,15+ years,0.208263697,0.322078896,0.094934856
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",153,Syrian Arab Republic,3,Both,29,15+ years,-0.232928971,-0.165523237,-0.298777741
+"% Change in Number of Smokers, 1990-2019",154,Tunisia,1,Male,29,15+ years,0.503726483,0.616946573,0.397845663
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",154,Tunisia,1,Male,29,15+ years,-0.111308961,-0.049867623,-0.169875705
+"% Change in Number of Smokers, 1990-2019",154,Tunisia,2,Female,29,15+ years,0.418304675,0.980801541,-0.03269734
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",154,Tunisia,2,Female,29,15+ years,-0.199017719,0.107569711,-0.435029385
+"% Change in Number of Smokers, 1990-2019",154,Tunisia,3,Both,29,15+ years,0.496883695,0.610434716,0.394001964
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",154,Tunisia,3,Both,29,15+ years,-0.135439117,-0.075010421,-0.189223127
+"% Change in Number of Smokers, 1990-2019",155,Turkey,1,Male,29,15+ years,0.339307017,0.424547515,0.254486351
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",155,Turkey,1,Male,29,15+ years,-0.218359867,-0.172159556,-0.263446497
+"% Change in Number of Smokers, 1990-2019",155,Turkey,2,Female,29,15+ years,0.869406143,1.183175665,0.575092474
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",155,Turkey,2,Female,29,15+ years,0.145928758,0.334978281,-0.034768273
+"% Change in Number of Smokers, 1990-2019",155,Turkey,3,Both,29,15+ years,0.458024268,0.546747371,0.365117009
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",155,Turkey,3,Both,29,15+ years,-0.134979472,-0.083584147,-0.189909398
+"% Change in Number of Smokers, 1990-2019",156,United Arab Emirates,1,Male,29,15+ years,3.992463398,4.769889267,3.287065524
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",156,United Arab Emirates,1,Male,29,15+ years,-0.210080402,-0.108315194,-0.304733031
+"% Change in Number of Smokers, 1990-2019",156,United Arab Emirates,2,Female,29,15+ years,5.141293814,8.148846521,2.90637702
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",156,United Arab Emirates,2,Female,29,15+ years,0.025799152,0.44115141,-0.269980596
+"% Change in Number of Smokers, 1990-2019",156,United Arab Emirates,3,Both,29,15+ years,4.045322432,4.819271295,3.342653419
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",156,United Arab Emirates,3,Both,29,15+ years,-0.196189512,-0.101204777,-0.290533198
+"% Change in Number of Smokers, 1990-2019",157,Yemen,1,Male,29,15+ years,1.787029529,2.109320844,1.466072902
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",157,Yemen,1,Male,29,15+ years,-0.046362973,0.052680213,-0.141137355
+"% Change in Number of Smokers, 1990-2019",157,Yemen,2,Female,29,15+ years,2.04261837,3.190184275,1.177350417
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",157,Yemen,2,Female,29,15+ years,0.044136966,0.401547182,-0.240486544
+"% Change in Number of Smokers, 1990-2019",157,Yemen,3,Both,29,15+ years,1.829555986,2.159419529,1.487603818
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",157,Yemen,3,Both,29,15+ years,-0.029025829,0.079768585,-0.131258336
+"% Change in Number of Smokers, 1990-2019",158,South Asia,1,Male,29,15+ years,0.222122616,0.277898762,0.167382388
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",158,South Asia,1,Male,29,15+ years,-0.377559729,-0.350841073,-0.40401444
+"% Change in Number of Smokers, 1990-2019",158,South Asia,2,Female,29,15+ years,0.380802292,0.679128654,0.129431314
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",158,South Asia,2,Female,29,15+ years,-0.341388721,-0.211278626,-0.457584032
+"% Change in Number of Smokers, 1990-2019",158,South Asia,3,Both,29,15+ years,0.237291889,0.297159025,0.17829749
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",158,South Asia,3,Both,29,15+ years,-0.391476044,-0.363295464,-0.418512915
+"% Change in Number of Smokers, 1990-2019",159,South Asia,1,Male,29,15+ years,0.222122616,0.277898762,0.167382388
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",159,South Asia,1,Male,29,15+ years,-0.377559729,-0.350841073,-0.40401444
+"% Change in Number of Smokers, 1990-2019",159,South Asia,2,Female,29,15+ years,0.380802292,0.679128654,0.129431314
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",159,South Asia,2,Female,29,15+ years,-0.341388721,-0.211278626,-0.457584032
+"% Change in Number of Smokers, 1990-2019",159,South Asia,3,Both,29,15+ years,0.237291889,0.297159025,0.17829749
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",159,South Asia,3,Both,29,15+ years,-0.391476044,-0.363295464,-0.418512915
+"% Change in Number of Smokers, 1990-2019",160,Afghanistan,1,Male,29,15+ years,11.18369732,13.30361077,9.237652277
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",160,Afghanistan,1,Male,29,15+ years,2.045454446,2.541812124,1.58061783
+"% Change in Number of Smokers, 1990-2019",160,Afghanistan,2,Female,29,15+ years,7.995783709,11.96045739,4.978032686
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",160,Afghanistan,2,Female,29,15+ years,1.786134516,2.853127506,0.933650313
+"% Change in Number of Smokers, 1990-2019",160,Afghanistan,3,Both,29,15+ years,10.60683752,12.36641418,9.001943771
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",160,Afghanistan,3,Both,29,15+ years,2.213582445,2.681094828,1.766856714
+"% Change in Number of Smokers, 1990-2019",161,Bangladesh,1,Male,29,15+ years,0.653935838,0.758253098,0.548638793
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",161,Bangladesh,1,Male,29,15+ years,-0.114091085,-0.062474468,-0.166503156
+"% Change in Number of Smokers, 1990-2019",161,Bangladesh,2,Female,29,15+ years,0.820067082,1.446467693,0.306223114
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",161,Bangladesh,2,Female,29,15+ years,-0.27894952,-0.043589557,-0.47689824
+"% Change in Number of Smokers, 1990-2019",161,Bangladesh,3,Both,29,15+ years,0.659740017,0.764230263,0.557166046
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",161,Bangladesh,3,Both,29,15+ years,-0.180137243,-0.133464774,-0.228025087
+"% Change in Number of Smokers, 1990-2019",162,Bhutan,1,Male,29,15+ years,0.235892537,0.441559063,0.044947586
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",162,Bhutan,1,Male,29,15+ years,-0.12872056,-0.002283653,-0.240829414
+"% Change in Number of Smokers, 1990-2019",162,Bhutan,2,Female,29,15+ years,0.476431453,1.144253928,-0.041211368
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",162,Bhutan,2,Female,29,15+ years,-0.046206171,0.315593929,-0.337728602
+"% Change in Number of Smokers, 1990-2019",162,Bhutan,3,Both,29,15+ years,0.277231424,0.496132601,0.093342661
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",162,Bhutan,3,Both,29,15+ years,-0.116951285,0.006608252,-0.225827603
+"% Change in Number of Smokers, 1990-2019",163,India,1,Male,29,15+ years,0.150052046,0.22049294,0.081155377
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",163,India,1,Male,29,15+ years,-0.409649319,-0.375544483,-0.44225908
+"% Change in Number of Smokers, 1990-2019",163,India,2,Female,29,15+ years,0.404388852,0.814281975,0.062435834
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",163,India,2,Female,29,15+ years,-0.312475121,-0.128790491,-0.465980643
+"% Change in Number of Smokers, 1990-2019",163,India,3,Both,29,15+ years,0.173419813,0.246240392,0.103316879
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",163,India,3,Both,29,15+ years,-0.414720327,-0.380017665,-0.447908177
+"% Change in Number of Smokers, 1990-2019",164,Nepal,1,Male,29,15+ years,0.166488695,0.256230138,0.083166073
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",164,Nepal,1,Male,29,15+ years,-0.37017043,-0.325593187,-0.413733207
+"% Change in Number of Smokers, 1990-2019",164,Nepal,2,Female,29,15+ years,-0.024832014,0.178314862,-0.205616001
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",164,Nepal,2,Female,29,15+ years,-0.53962117,-0.445890021,-0.619091554
+"% Change in Number of Smokers, 1990-2019",164,Nepal,3,Both,29,15+ years,0.096688963,0.197155663,0.006972902
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",164,Nepal,3,Both,29,15+ years,-0.451024934,-0.401951957,-0.493611547
+"% Change in Number of Smokers, 1990-2019",165,Pakistan,1,Male,29,15+ years,0.296220996,0.425283484,0.176259134
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",165,Pakistan,1,Male,29,15+ years,-0.391794295,-0.336418473,-0.442912112
+"% Change in Number of Smokers, 1990-2019",165,Pakistan,2,Female,29,15+ years,0.452481058,1.019795173,0.030733275
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",165,Pakistan,2,Female,29,15+ years,-0.407217536,-0.18042278,-0.579878679
+"% Change in Number of Smokers, 1990-2019",165,Pakistan,3,Both,29,15+ years,0.312306994,0.440272322,0.194114756
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",165,Pakistan,3,Both,29,15+ years,-0.412979743,-0.362029736,-0.46121241
+"% Change in Number of Smokers, 1990-2019",166,Sub-Saharan Africa,1,Male,29,15+ years,0.772403167,0.824790418,0.7228903
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",166,Sub-Saharan Africa,1,Male,29,15+ years,-0.228066651,-0.205931155,-0.247027472
+"% Change in Number of Smokers, 1990-2019",166,Sub-Saharan Africa,2,Female,29,15+ years,0.610811709,0.747342271,0.480013567
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",166,Sub-Saharan Africa,2,Female,29,15+ years,-0.341097441,-0.288743122,-0.391280003
+"% Change in Number of Smokers, 1990-2019",166,Sub-Saharan Africa,3,Both,29,15+ years,0.746288169,0.791151453,0.698778937
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",166,Sub-Saharan Africa,3,Both,29,15+ years,-0.25914957,-0.240765137,-0.277232643
+"% Change in Number of Smokers, 1990-2019",167,Central Sub-Saharan Africa,1,Male,29,15+ years,1.3989795,1.633192199,1.165156934
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",167,Central Sub-Saharan Africa,1,Male,29,15+ years,-0.064718202,0.018508341,-0.145512538
+"% Change in Number of Smokers, 1990-2019",167,Central Sub-Saharan Africa,2,Female,29,15+ years,1.393777387,2.006293126,0.870164742
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",167,Central Sub-Saharan Africa,2,Female,29,15+ years,-0.047213529,0.189073707,-0.261305088
+"% Change in Number of Smokers, 1990-2019",167,Central Sub-Saharan Africa,3,Both,29,15+ years,1.397017608,1.61953753,1.188820144
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",167,Central Sub-Saharan Africa,3,Both,29,15+ years,-0.051654213,0.031612739,-0.127214252
+"% Change in Number of Smokers, 1990-2019",168,Angola,1,Male,29,15+ years,1.324754982,1.65914272,1.043603504
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",168,Angola,1,Male,29,15+ years,-0.132370004,-0.016128792,-0.232598203
+"% Change in Number of Smokers, 1990-2019",168,Angola,2,Female,29,15+ years,1.840365009,3.011276839,0.975396428
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",168,Angola,2,Female,29,15+ years,-0.098720745,0.235293178,-0.365910602
+"% Change in Number of Smokers, 1990-2019",168,Angola,3,Both,29,15+ years,1.378583082,1.702347494,1.101950839
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",168,Angola,3,Both,29,15+ years,-0.180617492,-0.084430663,-0.267765931
+"% Change in Number of Smokers, 1990-2019",169,Central African Republic,1,Male,29,15+ years,0.501580286,0.748682055,0.276252934
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",169,Central African Republic,1,Male,29,15+ years,-0.258410805,-0.150875857,-0.360013876
+"% Change in Number of Smokers, 1990-2019",169,Central African Republic,2,Female,29,15+ years,0.5031681,1.244549802,-0.021306141
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",169,Central African Republic,2,Female,29,15+ years,-0.261316119,0.04372111,-0.501846299
+"% Change in Number of Smokers, 1990-2019",169,Central African Republic,3,Both,29,15+ years,0.498537405,0.730224698,0.288358502
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",169,Central African Republic,3,Both,29,15+ years,-0.257358236,-0.152399697,-0.357956586
+"% Change in Number of Smokers, 1990-2019",170,Congo,1,Male,29,15+ years,2.381670289,2.941554047,1.926603601
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",170,Congo,1,Male,29,15+ years,0.287628397,0.476698716,0.137266207
+"% Change in Number of Smokers, 1990-2019",170,Congo,2,Female,29,15+ years,1.965650542,3.488670538,0.751372665
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",170,Congo,2,Female,29,15+ years,0.202989935,0.756350514,-0.241195832
+"% Change in Number of Smokers, 1990-2019",170,Congo,3,Both,29,15+ years,2.332405783,2.82956454,1.89826091
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",170,Congo,3,Both,29,15+ years,0.316448727,0.501424232,0.162528815
+"% Change in Number of Smokers, 1990-2019",171,Democratic Republic of the Congo,1,Male,29,15+ years,1.411847117,1.739856586,1.105355905
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",171,Democratic Republic of the Congo,1,Male,29,15+ years,-0.059316983,0.05719924,-0.170655794
+"% Change in Number of Smokers, 1990-2019",171,Democratic Republic of the Congo,2,Female,29,15+ years,1.22463692,2.243576004,0.479027168
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",171,Democratic Republic of the Congo,2,Female,29,15+ years,-0.064887161,0.34937567,-0.381512101
+"% Change in Number of Smokers, 1990-2019",171,Democratic Republic of the Congo,3,Both,29,15+ years,1.397491303,1.713526713,1.111961999
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",171,Democratic Republic of the Congo,3,Both,29,15+ years,-0.024081036,0.095712652,-0.132945668
+"% Change in Number of Smokers, 1990-2019",172,Equatorial Guinea,1,Male,29,15+ years,3.569194373,4.306477018,2.924944001
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",172,Equatorial Guinea,1,Male,29,15+ years,0.019252859,0.157028337,-0.106617276
+"% Change in Number of Smokers, 1990-2019",172,Equatorial Guinea,2,Female,29,15+ years,2.50444723,4.87186137,0.943035188
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",172,Equatorial Guinea,2,Female,29,15+ years,0.042673037,0.582244405,-0.361876459
+"% Change in Number of Smokers, 1990-2019",172,Equatorial Guinea,3,Both,29,15+ years,3.435646845,4.153061702,2.785706921
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",172,Equatorial Guinea,3,Both,29,15+ years,0.118376756,0.267775592,-0.01399919
+"% Change in Number of Smokers, 1990-2019",173,Gabon,1,Male,29,15+ years,1.347106231,1.730569893,1.017917604
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",173,Gabon,1,Male,29,15+ years,0.172770362,0.352316596,0.014217842
+"% Change in Number of Smokers, 1990-2019",173,Gabon,2,Female,29,15+ years,1.706640216,3.151040637,0.647687066
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",173,Gabon,2,Female,29,15+ years,0.260885696,0.843427096,-0.171375189
+"% Change in Number of Smokers, 1990-2019",173,Gabon,3,Both,29,15+ years,1.386271241,1.747186969,1.075735001
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",173,Gabon,3,Both,29,15+ years,0.141541341,0.298307039,0.002596984
+"% Change in Number of Smokers, 1990-2019",174,Eastern Sub-Saharan Africa,1,Male,29,15+ years,0.794919741,0.878430437,0.720932771
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",174,Eastern Sub-Saharan Africa,1,Male,29,15+ years,-0.236796104,-0.203974453,-0.264394698
+"% Change in Number of Smokers, 1990-2019",174,Eastern Sub-Saharan Africa,2,Female,29,15+ years,0.988926476,1.218819708,0.774133738
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",174,Eastern Sub-Saharan Africa,2,Female,29,15+ years,-0.185554992,-0.096888928,-0.264918257
+"% Change in Number of Smokers, 1990-2019",174,Eastern Sub-Saharan Africa,3,Both,29,15+ years,0.82165234,0.900269373,0.750959713
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",174,Eastern Sub-Saharan Africa,3,Both,29,15+ years,-0.229380766,-0.198830931,-0.256106624
+"% Change in Number of Smokers, 1990-2019",175,Burundi,1,Male,29,15+ years,0.454530501,0.664209886,0.267475176
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",175,Burundi,1,Male,29,15+ years,-0.362606662,-0.284694572,-0.435415265
+"% Change in Number of Smokers, 1990-2019",175,Burundi,2,Female,29,15+ years,0.437416216,1.070764598,-0.01806805
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",175,Burundi,2,Female,29,15+ years,-0.318609474,-0.042840874,-0.528632305
+"% Change in Number of Smokers, 1990-2019",175,Burundi,3,Both,29,15+ years,0.445536473,0.634909858,0.265733384
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",175,Burundi,3,Both,29,15+ years,-0.320235765,-0.238164541,-0.398229698
+"% Change in Number of Smokers, 1990-2019",176,Comoros,1,Male,29,15+ years,0.719089386,0.933713158,0.510006898
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",176,Comoros,1,Male,29,15+ years,-0.155851271,-0.056748747,-0.250411451
+"% Change in Number of Smokers, 1990-2019",176,Comoros,2,Female,29,15+ years,0.754691651,1.654183591,0.109443892
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",176,Comoros,2,Female,29,15+ years,-0.062584598,0.352539523,-0.35095576
+"% Change in Number of Smokers, 1990-2019",176,Comoros,3,Both,29,15+ years,0.717439821,0.935229047,0.519553268
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",176,Comoros,3,Both,29,15+ years,-0.138787613,-0.039200542,-0.226811201
+"% Change in Number of Smokers, 1990-2019",177,Djibouti,1,Male,29,15+ years,2.642243768,3.060571486,2.260883596
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",177,Djibouti,1,Male,29,15+ years,0.15900325,0.276026742,0.056228639
+"% Change in Number of Smokers, 1990-2019",177,Djibouti,2,Female,29,15+ years,2.600447574,4.212690642,1.429713932
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",177,Djibouti,2,Female,29,15+ years,0.144480043,0.610835094,-0.188012956
+"% Change in Number of Smokers, 1990-2019",177,Djibouti,3,Both,29,15+ years,2.630138958,3.033046623,2.241870086
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",177,Djibouti,3,Both,29,15+ years,0.145120621,0.255845871,0.046578321
+"% Change in Number of Smokers, 1990-2019",178,Eritrea,1,Male,29,15+ years,1.094643026,1.473843945,0.752933776
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",178,Eritrea,1,Male,29,15+ years,-0.21911103,-0.088288579,-0.334217863
+"% Change in Number of Smokers, 1990-2019",178,Eritrea,2,Female,29,15+ years,0.98806289,1.962464144,0.235894286
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",178,Eritrea,2,Female,29,15+ years,-0.208319067,0.135120681,-0.487613888
+"% Change in Number of Smokers, 1990-2019",178,Eritrea,3,Both,29,15+ years,1.085203419,1.456192418,0.758322415
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",178,Eritrea,3,Both,29,15+ years,-0.192958158,-0.063001461,-0.311516903
+"% Change in Number of Smokers, 1990-2019",179,Ethiopia,1,Male,29,15+ years,0.964924668,1.297492833,0.674273045
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",179,Ethiopia,1,Male,29,15+ years,-0.154568634,-0.024812357,-0.26665599
+"% Change in Number of Smokers, 1990-2019",179,Ethiopia,2,Female,29,15+ years,1.17296126,2.189815358,0.444887682
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",179,Ethiopia,2,Female,29,15+ years,-0.03303457,0.371012004,-0.332722253
+"% Change in Number of Smokers, 1990-2019",179,Ethiopia,3,Both,29,15+ years,0.981856402,1.27868778,0.713007391
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",179,Ethiopia,3,Both,29,15+ years,-0.139867104,-0.016364588,-0.244566592
+"% Change in Number of Smokers, 1990-2019",180,Kenya,1,Male,29,15+ years,0.686599202,0.884300403,0.500820243
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",180,Kenya,1,Male,29,15+ years,-0.358295658,-0.288365258,-0.421775536
+"% Change in Number of Smokers, 1990-2019",180,Kenya,2,Female,29,15+ years,0.76096952,1.525301725,0.15076714
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",180,Kenya,2,Female,29,15+ years,-0.351704166,-0.099392774,-0.543895235
+"% Change in Number of Smokers, 1990-2019",180,Kenya,3,Both,29,15+ years,0.690753844,0.873077682,0.504629288
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",180,Kenya,3,Both,29,15+ years,-0.360598557,-0.296170326,-0.422205144
+"% Change in Number of Smokers, 1990-2019",181,Madagascar,1,Male,29,15+ years,0.572055556,0.758205578,0.394330869
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",181,Madagascar,1,Male,29,15+ years,-0.376862858,-0.309346141,-0.439537913
+"% Change in Number of Smokers, 1990-2019",181,Madagascar,2,Female,29,15+ years,0.551515852,1.229532709,0.04309713
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",181,Madagascar,2,Female,29,15+ years,-0.401082916,-0.165410779,-0.576609219
+"% Change in Number of Smokers, 1990-2019",181,Madagascar,3,Both,29,15+ years,0.567097494,0.733495992,0.394245571
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",181,Madagascar,3,Both,29,15+ years,-0.38091625,-0.319158869,-0.442312064
+"% Change in Number of Smokers, 1990-2019",182,Malawi,1,Male,29,15+ years,1.009649122,1.245683182,0.794939408
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",182,Malawi,1,Male,29,15+ years,-0.002330434,0.101257318,-0.099886952
+"% Change in Number of Smokers, 1990-2019",182,Malawi,2,Female,29,15+ years,0.877544152,1.627754984,0.287313484
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",182,Malawi,2,Female,29,15+ years,-0.155297677,0.176135669,-0.417129431
+"% Change in Number of Smokers, 1990-2019",182,Malawi,3,Both,29,15+ years,0.987764006,1.223741322,0.775314345
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",182,Malawi,3,Both,29,15+ years,-0.044814864,0.058848476,-0.140438033
+"% Change in Number of Smokers, 1990-2019",183,Mauritius,1,Male,29,15+ years,0.160150551,0.250598903,0.074980862
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",183,Mauritius,1,Male,29,15+ years,-0.129845173,-0.069312357,-0.191908023
+"% Change in Number of Smokers, 1990-2019",183,Mauritius,2,Female,29,15+ years,0.192048889,0.602772698,-0.132527342
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",183,Mauritius,2,Female,29,15+ years,-0.076505529,0.232771869,-0.320632737
+"% Change in Number of Smokers, 1990-2019",183,Mauritius,3,Both,29,15+ years,0.161771146,0.261251784,0.079871853
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",183,Mauritius,3,Both,29,15+ years,-0.121882168,-0.052925971,-0.184414877
+"% Change in Number of Smokers, 1990-2019",184,Mozambique,1,Male,29,15+ years,1.083931547,1.378179872,0.812061388
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",184,Mozambique,1,Male,29,15+ years,-0.055222593,0.065693159,-0.171842121
+"% Change in Number of Smokers, 1990-2019",184,Mozambique,2,Female,29,15+ years,1.098483803,1.924167288,0.442682625
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",184,Mozambique,2,Female,29,15+ years,-0.0730123,0.278651407,-0.341227179
+"% Change in Number of Smokers, 1990-2019",184,Mozambique,3,Both,29,15+ years,1.080003163,1.357785517,0.81372422
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",184,Mozambique,3,Both,29,15+ years,-0.060368853,0.06139799,-0.173153842
+"% Change in Number of Smokers, 1990-2019",185,Rwanda,1,Male,29,15+ years,1.06173932,1.337651053,0.80347382
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",185,Rwanda,1,Male,29,15+ years,-0.01512025,0.10894192,-0.121095816
+"% Change in Number of Smokers, 1990-2019",185,Rwanda,2,Female,29,15+ years,1.097808491,1.764067941,0.573661235
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",185,Rwanda,2,Female,29,15+ years,-0.018235499,0.292791277,-0.261089462
+"% Change in Number of Smokers, 1990-2019",185,Rwanda,3,Both,29,15+ years,1.065011577,1.331243766,0.816238938
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",185,Rwanda,3,Both,29,15+ years,-0.023372792,0.094372384,-0.135611096
+"% Change in Number of Smokers, 1990-2019",186,Seychelles,1,Male,29,15+ years,0.566832248,0.738171435,0.4026572
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",186,Seychelles,1,Male,29,15+ years,-0.109489299,-0.01988253,-0.197030381
+"% Change in Number of Smokers, 1990-2019",186,Seychelles,2,Female,29,15+ years,0.32895372,0.866835327,-0.087836649
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",186,Seychelles,2,Female,29,15+ years,-0.05933387,0.300718627,-0.339979946
+"% Change in Number of Smokers, 1990-2019",186,Seychelles,3,Both,29,15+ years,0.526908399,0.684869694,0.371312363
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",186,Seychelles,3,Both,29,15+ years,-0.057212076,0.032044941,-0.150664306
+"% Change in Number of Smokers, 1990-2019",187,Somalia,1,Male,29,15+ years,1.442493032,1.82970857,1.07967071
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",187,Somalia,1,Male,29,15+ years,-0.157033836,-0.041798136,-0.269152158
+"% Change in Number of Smokers, 1990-2019",187,Somalia,2,Female,29,15+ years,1.294397265,2.285326142,0.538270659
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",187,Somalia,2,Female,29,15+ years,-0.179403514,0.119882139,-0.431266729
+"% Change in Number of Smokers, 1990-2019",187,Somalia,3,Both,29,15+ years,1.418868707,1.791316505,1.091005961
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",187,Somalia,3,Both,29,15+ years,-0.162832017,-0.051294409,-0.261059281
+"% Change in Number of Smokers, 1990-2019",189,United Republic of Tanzania,1,Male,29,15+ years,0.436995525,0.60864248,0.266616032
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",189,United Republic of Tanzania,1,Male,29,15+ years,-0.389002252,-0.31762341,-0.452200317
+"% Change in Number of Smokers, 1990-2019",189,United Republic of Tanzania,2,Female,29,15+ years,0.78141653,1.452917272,0.243412218
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",189,United Republic of Tanzania,2,Female,29,15+ years,-0.27724792,-0.019568318,-0.490426889
+"% Change in Number of Smokers, 1990-2019",189,United Republic of Tanzania,3,Both,29,15+ years,0.477707496,0.65325717,0.315909562
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",189,United Republic of Tanzania,3,Both,29,15+ years,-0.374120123,-0.30517341,-0.440932704
+"% Change in Number of Smokers, 1990-2019",190,Uganda,1,Male,29,15+ years,0.777029992,1.028687651,0.557819915
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",190,Uganda,1,Male,29,15+ years,-0.240276212,-0.150008688,-0.324004644
+"% Change in Number of Smokers, 1990-2019",190,Uganda,2,Female,29,15+ years,1.714282316,2.770856987,0.942644506
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",190,Uganda,2,Female,29,15+ years,-0.01003117,0.311916165,-0.262023161
+"% Change in Number of Smokers, 1990-2019",190,Uganda,3,Both,29,15+ years,0.92813829,1.199481508,0.698210319
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",190,Uganda,3,Both,29,15+ years,-0.216105783,-0.125058483,-0.300043384
+"% Change in Number of Smokers, 1990-2019",191,Zambia,1,Male,29,15+ years,1.787434846,2.114339251,1.481420732
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",191,Zambia,1,Male,29,15+ years,0.044290035,0.159847865,-0.058675617
+"% Change in Number of Smokers, 1990-2019",191,Zambia,2,Female,29,15+ years,1.817676809,2.928986635,0.947481639
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",191,Zambia,2,Female,29,15+ years,-0.100482768,0.186347489,-0.325433087
+"% Change in Number of Smokers, 1990-2019",191,Zambia,3,Both,29,15+ years,1.785430396,2.121440514,1.473201306
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",191,Zambia,3,Both,29,15+ years,0.022021415,0.129232066,-0.074964275
+"% Change in Number of Smokers, 1990-2019",192,Southern Sub-Saharan Africa,1,Male,29,15+ years,0.437676453,0.512036044,0.370093579
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",192,Southern Sub-Saharan Africa,1,Male,29,15+ years,-0.226799173,-0.189049577,-0.259811307
+"% Change in Number of Smokers, 1990-2019",192,Southern Sub-Saharan Africa,2,Female,29,15+ years,0.137234111,0.364457509,-0.071994413
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",192,Southern Sub-Saharan Africa,2,Female,29,15+ years,-0.367608734,-0.256604547,-0.477953694
+"% Change in Number of Smokers, 1990-2019",192,Southern Sub-Saharan Africa,3,Both,29,15+ years,0.361460539,0.447691747,0.282686584
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",192,Southern Sub-Saharan Africa,3,Both,29,15+ years,-0.256284532,-0.214211429,-0.296800724
+"% Change in Number of Smokers, 1990-2019",193,Botswana,1,Male,29,15+ years,1.357050765,1.599779581,1.120316428
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",193,Botswana,1,Male,29,15+ years,-0.064824945,0.018991598,-0.145505874
+"% Change in Number of Smokers, 1990-2019",193,Botswana,2,Female,29,15+ years,0.81584582,1.465361024,0.326858927
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",193,Botswana,2,Female,29,15+ years,-0.190511446,0.072551605,-0.379655387
+"% Change in Number of Smokers, 1990-2019",193,Botswana,3,Both,29,15+ years,1.224736916,1.456582844,1.006435871
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",193,Botswana,3,Both,29,15+ years,-0.071368365,0.014563023,-0.153425128
+"% Change in Number of Smokers, 1990-2019",194,Lesotho,1,Male,29,15+ years,0.916903858,1.117620512,0.72628943
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",194,Lesotho,1,Male,29,15+ years,0.295496417,0.4232288,0.171398366
+"% Change in Number of Smokers, 1990-2019",194,Lesotho,2,Female,29,15+ years,0.338233465,1.005906218,-0.117357279
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",194,Lesotho,2,Female,29,15+ years,0.044073713,0.509037603,-0.27947852
+"% Change in Number of Smokers, 1990-2019",194,Lesotho,3,Both,29,15+ years,0.883891163,1.066844765,0.698669313
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",194,Lesotho,3,Both,29,15+ years,0.299803372,0.418592336,0.172900609
+"% Change in Number of Smokers, 1990-2019",195,Namibia,1,Male,29,15+ years,0.546948125,0.732489994,0.380390091
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",195,Namibia,1,Male,29,15+ years,-0.216329246,-0.133347663,-0.294001712
+"% Change in Number of Smokers, 1990-2019",195,Namibia,2,Female,29,15+ years,0.511342713,0.969537695,0.119616669
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",195,Namibia,2,Female,29,15+ years,-0.257022669,-0.050110428,-0.435669733
+"% Change in Number of Smokers, 1990-2019",195,Namibia,3,Both,29,15+ years,0.531135131,0.708480411,0.360607406
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",195,Namibia,3,Both,29,15+ years,-0.234958907,-0.147434659,-0.317799107
+"% Change in Number of Smokers, 1990-2019",196,South Africa,1,Male,29,15+ years,0.361945565,0.447922213,0.285704358
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",196,South Africa,1,Male,29,15+ years,-0.275038028,-0.233387613,-0.313452081
+"% Change in Number of Smokers, 1990-2019",196,South Africa,2,Female,29,15+ years,0.086269035,0.335913976,-0.135665217
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",196,South Africa,2,Female,29,15+ years,-0.380462255,-0.248473912,-0.502077584
+"% Change in Number of Smokers, 1990-2019",196,South Africa,3,Both,29,15+ years,0.285518022,0.378656325,0.196398363
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",196,South Africa,3,Both,29,15+ years,-0.293503388,-0.244904861,-0.341206068
+"% Change in Number of Smokers, 1990-2019",197,Eswatini,1,Male,29,15+ years,0.301024781,0.493515429,0.134884836
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",197,Eswatini,1,Male,29,15+ years,-0.309178639,-0.215069917,-0.388773708
+"% Change in Number of Smokers, 1990-2019",197,Eswatini,2,Female,29,15+ years,0.30608888,0.847721172,-0.08164792
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",197,Eswatini,2,Female,29,15+ years,-0.269085664,-0.001705469,-0.474335135
+"% Change in Number of Smokers, 1990-2019",197,Eswatini,3,Both,29,15+ years,0.298956524,0.480252809,0.1386055
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",197,Eswatini,3,Both,29,15+ years,-0.286257499,-0.195559241,-0.368856944
+"% Change in Number of Smokers, 1990-2019",198,Zimbabwe,1,Male,29,15+ years,0.709884847,0.899923789,0.541526855
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",198,Zimbabwe,1,Male,29,15+ years,0.035881267,0.131875999,-0.053285007
+"% Change in Number of Smokers, 1990-2019",198,Zimbabwe,2,Female,29,15+ years,0.922590805,1.678444446,0.353052506
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",198,Zimbabwe,2,Female,29,15+ years,-0.08901582,0.240547142,-0.358750309
+"% Change in Number of Smokers, 1990-2019",198,Zimbabwe,3,Both,29,15+ years,0.726086408,0.906344155,0.549362374
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",198,Zimbabwe,3,Both,29,15+ years,-0.03246734,0.053203322,-0.119979536
+"% Change in Number of Smokers, 1990-2019",199,Western Sub-Saharan Africa,1,Male,29,15+ years,0.780412787,0.877754445,0.688179866
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",199,Western Sub-Saharan Africa,1,Male,29,15+ years,-0.230402636,-0.188975195,-0.26933741
+"% Change in Number of Smokers, 1990-2019",199,Western Sub-Saharan Africa,2,Female,29,15+ years,0.781150902,1.048704711,0.535326447
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",199,Western Sub-Saharan Africa,2,Female,29,15+ years,-0.336528229,-0.237362277,-0.428537766
+"% Change in Number of Smokers, 1990-2019",199,Western Sub-Saharan Africa,3,Both,29,15+ years,0.779870969,0.870826993,0.692629503
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",199,Western Sub-Saharan Africa,3,Both,29,15+ years,-0.278864292,-0.244016628,-0.312198989
+"% Change in Number of Smokers, 1990-2019",200,Benin,1,Male,29,15+ years,0.679261827,0.936891744,0.447386564
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",200,Benin,1,Male,29,15+ years,-0.422903922,-0.344477293,-0.495755246
+"% Change in Number of Smokers, 1990-2019",200,Benin,2,Female,29,15+ years,0.560808645,1.206125803,0.047777482
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",200,Benin,2,Female,29,15+ years,-0.451417946,-0.236340097,-0.6303473
+"% Change in Number of Smokers, 1990-2019",200,Benin,3,Both,29,15+ years,0.655525067,0.886816423,0.44262981
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",200,Benin,3,Both,29,15+ years,-0.412941573,-0.341341752,-0.480888711
+"% Change in Number of Smokers, 1990-2019",201,Burkina Faso,1,Male,29,15+ years,0.962573441,1.236258454,0.70682474
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",201,Burkina Faso,1,Male,29,15+ years,-0.281701058,-0.18438376,-0.367454789
+"% Change in Number of Smokers, 1990-2019",201,Burkina Faso,2,Female,29,15+ years,0.726001179,1.608580762,0.109134164
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",201,Burkina Faso,2,Female,29,15+ years,-0.324055315,-0.011286136,-0.551065701
+"% Change in Number of Smokers, 1990-2019",201,Burkina Faso,3,Both,29,15+ years,0.934165151,1.197042874,0.683729793
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",201,Burkina Faso,3,Both,29,15+ years,-0.265745219,-0.172206509,-0.353405891
+"% Change in Number of Smokers, 1990-2019",202,Cameroon,1,Male,29,15+ years,1.105534226,1.417006075,0.807519518
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",202,Cameroon,1,Male,29,15+ years,-0.339440774,-0.246638445,-0.425075326
+"% Change in Number of Smokers, 1990-2019",202,Cameroon,2,Female,29,15+ years,1.404853524,2.541536032,0.582753924
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",202,Cameroon,2,Female,29,15+ years,-0.24071125,0.062033445,-0.472421784
+"% Change in Number of Smokers, 1990-2019",202,Cameroon,3,Both,29,15+ years,1.127039536,1.424919216,0.852891155
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",202,Cameroon,3,Both,29,15+ years,-0.318065767,-0.228349259,-0.397811592
+"% Change in Number of Smokers, 1990-2019",203,Cabo Verde,1,Male,29,15+ years,0.456509087,0.726268786,0.241890735
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",203,Cabo Verde,1,Male,29,15+ years,-0.455230335,-0.368917756,-0.532964907
+"% Change in Number of Smokers, 1990-2019",203,Cabo Verde,2,Female,29,15+ years,0.31560265,0.846758623,-0.054562056
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",203,Cabo Verde,2,Female,29,15+ years,-0.352340896,-0.096325515,-0.543772765
+"% Change in Number of Smokers, 1990-2019",203,Cabo Verde,3,Both,29,15+ years,0.416025117,0.649647415,0.217865712
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",203,Cabo Verde,3,Both,29,15+ years,-0.377724572,-0.277623186,-0.461193104
+"% Change in Number of Smokers, 1990-2019",204,Chad,1,Male,29,15+ years,0.8755998,1.155488683,0.624189026
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",204,Chad,1,Male,29,15+ years,-0.303529669,-0.205044957,-0.388910736
+"% Change in Number of Smokers, 1990-2019",204,Chad,2,Female,29,15+ years,0.678351115,1.480758761,0.094949116
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",204,Chad,2,Female,29,15+ years,-0.337241542,-0.076079895,-0.540275793
+"% Change in Number of Smokers, 1990-2019",204,Chad,3,Both,29,15+ years,0.834095459,1.094459828,0.604840927
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",204,Chad,3,Both,29,15+ years,-0.284053485,-0.195350303,-0.365795936
+"% Change in Number of Smokers, 1990-2019",205,Côte d'Ivoire,1,Male,29,15+ years,1.664867313,2.086623678,1.303304554
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",205,Côte d'Ivoire,1,Male,29,15+ years,0.108973461,0.269449336,-0.031341709
+"% Change in Number of Smokers, 1990-2019",205,Côte d'Ivoire,2,Female,29,15+ years,1.493243348,2.60820485,0.627647587
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",205,Côte d'Ivoire,2,Female,29,15+ years,0.009602424,0.376327642,-0.287500098
+"% Change in Number of Smokers, 1990-2019",205,Côte d'Ivoire,3,Both,29,15+ years,1.634836885,2.030585621,1.281163865
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",205,Côte d'Ivoire,3,Both,29,15+ years,0.089313382,0.231506009,-0.04081448
+"% Change in Number of Smokers, 1990-2019",206,Gambia,1,Male,29,15+ years,0.678310411,0.880455388,0.495016112
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",206,Gambia,1,Male,29,15+ years,-0.323799341,-0.25140777,-0.392246349
+"% Change in Number of Smokers, 1990-2019",206,Gambia,2,Female,29,15+ years,0.901886697,1.834956073,0.174339422
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",206,Gambia,2,Female,29,15+ years,-0.349814927,-0.091444496,-0.552122643
+"% Change in Number of Smokers, 1990-2019",206,Gambia,3,Both,29,15+ years,0.687194205,0.886912047,0.498355886
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",206,Gambia,3,Both,29,15+ years,-0.352969831,-0.285545696,-0.417794775
+"% Change in Number of Smokers, 1990-2019",207,Ghana,1,Male,29,15+ years,1.271262877,1.655270774,0.918727801
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",207,Ghana,1,Male,29,15+ years,-0.074123127,0.072703096,-0.206653004
+"% Change in Number of Smokers, 1990-2019",207,Ghana,2,Female,29,15+ years,1.775330742,3.198172212,0.821456475
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",207,Ghana,2,Female,29,15+ years,0.063747864,0.563961386,-0.266700021
+"% Change in Number of Smokers, 1990-2019",207,Ghana,3,Both,29,15+ years,1.344801814,1.72852727,0.999396976
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",207,Ghana,3,Both,29,15+ years,-0.087855287,0.044177392,-0.208660959
+"% Change in Number of Smokers, 1990-2019",208,Guinea,1,Male,29,15+ years,0.857381733,1.097528756,0.633240424
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",208,Guinea,1,Male,29,15+ years,-0.08866259,0.020674485,-0.192769565
+"% Change in Number of Smokers, 1990-2019",208,Guinea,2,Female,29,15+ years,0.955371684,1.766114171,0.325817474
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",208,Guinea,2,Female,29,15+ years,-0.056486393,0.300837989,-0.348576311
+"% Change in Number of Smokers, 1990-2019",208,Guinea,3,Both,29,15+ years,0.861602223,1.09468108,0.651985015
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",208,Guinea,3,Both,29,15+ years,-0.092339941,0.011597421,-0.189110127
+"% Change in Number of Smokers, 1990-2019",209,Guinea-Bissau,1,Male,29,15+ years,1.529098581,2.043120487,1.077642936
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",209,Guinea-Bissau,1,Male,29,15+ years,0.163326402,0.385151951,-0.022023051
+"% Change in Number of Smokers, 1990-2019",209,Guinea-Bissau,2,Female,29,15+ years,1.143417536,2.090319535,0.403060075
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",209,Guinea-Bissau,2,Female,29,15+ years,0.033897951,0.467047379,-0.290862458
+"% Change in Number of Smokers, 1990-2019",209,Guinea-Bissau,3,Both,29,15+ years,1.469672219,1.932090842,1.055205611
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",209,Guinea-Bissau,3,Both,29,15+ years,0.158263761,0.346556399,-0.021165727
+"% Change in Number of Smokers, 1990-2019",210,Liberia,1,Male,29,15+ years,1.471748503,1.874385369,1.125629677
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",210,Liberia,1,Male,29,15+ years,-0.127522559,0.006464358,-0.241623217
+"% Change in Number of Smokers, 1990-2019",210,Liberia,2,Female,29,15+ years,1.925365342,3.217049869,0.919506503
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",210,Liberia,2,Female,29,15+ years,0.016166506,0.433315322,-0.308139197
+"% Change in Number of Smokers, 1990-2019",210,Liberia,3,Both,29,15+ years,1.529655188,1.896545409,1.184331829
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",210,Liberia,3,Both,29,15+ years,-0.093061224,0.033661008,-0.209316077
+"% Change in Number of Smokers, 1990-2019",211,Mali,1,Male,29,15+ years,2.240715362,2.73107134,1.850780723
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",211,Mali,1,Male,29,15+ years,0.269689487,0.43998182,0.123572789
+"% Change in Number of Smokers, 1990-2019",211,Mali,2,Female,29,15+ years,2.394489292,3.882228031,1.261535671
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",211,Mali,2,Female,29,15+ years,0.476172206,1.132982392,-0.023897906
+"% Change in Number of Smokers, 1990-2019",211,Mali,3,Both,29,15+ years,2.247464771,2.679932958,1.875277466
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",211,Mali,3,Both,29,15+ years,0.318505509,0.468317975,0.182404082
+"% Change in Number of Smokers, 1990-2019",212,Mauritania,1,Male,29,15+ years,0.614996054,0.836967126,0.435799907
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",212,Mauritania,1,Male,29,15+ years,-0.215671627,-0.118090997,-0.294965067
+"% Change in Number of Smokers, 1990-2019",212,Mauritania,2,Female,29,15+ years,0.883108179,1.638133422,0.313606544
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",212,Mauritania,2,Female,29,15+ years,-0.122762906,0.205760128,-0.393192166
+"% Change in Number of Smokers, 1990-2019",212,Mauritania,3,Both,29,15+ years,0.666341017,0.879355159,0.480440811
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",212,Mauritania,3,Both,29,15+ years,-0.202087959,-0.108891574,-0.287798373
+"% Change in Number of Smokers, 1990-2019",213,Niger,1,Male,29,15+ years,2.066995725,2.656377833,1.566029959
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",213,Niger,1,Male,29,15+ years,0.119927986,0.307702077,-0.051703505
+"% Change in Number of Smokers, 1990-2019",213,Niger,2,Female,29,15+ years,2.421065857,4.262632136,1.066558117
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",213,Niger,2,Female,29,15+ years,0.182804537,0.688632426,-0.219345493
+"% Change in Number of Smokers, 1990-2019",213,Niger,3,Both,29,15+ years,2.092820397,2.67385506,1.618857167
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",213,Niger,3,Both,29,15+ years,0.120295904,0.299066133,-0.037881628
+"% Change in Number of Smokers, 1990-2019",214,Nigeria,1,Male,29,15+ years,0.256644353,0.444143301,0.087721659
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",214,Nigeria,1,Male,29,15+ years,-0.385475942,-0.30053071,-0.466518836
+"% Change in Number of Smokers, 1990-2019",214,Nigeria,2,Female,29,15+ years,0.314311185,0.877433628,-0.102569737
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",214,Nigeria,2,Female,29,15+ years,-0.532825767,-0.331945667,-0.678573937
+"% Change in Number of Smokers, 1990-2019",214,Nigeria,3,Both,29,15+ years,0.26207239,0.44060871,0.095210965
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",214,Nigeria,3,Both,29,15+ years,-0.462629311,-0.391648509,-0.5286473
+"% Change in Number of Smokers, 1990-2019",215,Sao Tome and Principe,1,Male,29,15+ years,1.83566313,2.307405474,1.40011899
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",215,Sao Tome and Principe,1,Male,29,15+ years,0.242102799,0.432625748,0.054343246
+"% Change in Number of Smokers, 1990-2019",215,Sao Tome and Principe,2,Female,29,15+ years,1.239241576,2.208094135,0.514082032
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",215,Sao Tome and Principe,2,Female,29,15+ years,0.150821475,0.705436566,-0.237552141
+"% Change in Number of Smokers, 1990-2019",215,Sao Tome and Principe,3,Both,29,15+ years,1.706186823,2.08893236,1.340623481
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",215,Sao Tome and Principe,3,Both,29,15+ years,0.257778413,0.438754858,0.089088259
+"% Change in Number of Smokers, 1990-2019",216,Senegal,1,Male,29,15+ years,0.081870149,0.235606216,-0.052555193
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",216,Senegal,1,Male,29,15+ years,-0.52343155,-0.459804025,-0.575440054
+"% Change in Number of Smokers, 1990-2019",216,Senegal,2,Female,29,15+ years,0.336624076,0.957206718,-0.131738769
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",216,Senegal,2,Female,29,15+ years,-0.411652129,-0.175428514,-0.603515839
+"% Change in Number of Smokers, 1990-2019",216,Senegal,3,Both,29,15+ years,0.100360216,0.248392899,-0.029099885
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",216,Senegal,3,Both,29,15+ years,-0.508555743,-0.445981828,-0.560007662
+"% Change in Number of Smokers, 1990-2019",217,Sierra Leone,1,Male,29,15+ years,1.107384227,1.370509535,0.880610887
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",217,Sierra Leone,1,Male,29,15+ years,-0.131455289,-0.030678699,-0.214100344
+"% Change in Number of Smokers, 1990-2019",217,Sierra Leone,2,Female,29,15+ years,0.75623567,1.428069925,0.223916485
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",217,Sierra Leone,2,Female,29,15+ years,-0.26136318,0.003074315,-0.468445812
+"% Change in Number of Smokers, 1990-2019",217,Sierra Leone,3,Both,29,15+ years,1.010849702,1.265674134,0.77540094
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",217,Sierra Leone,3,Both,29,15+ years,-0.152691603,-0.053651807,-0.240645422
+"% Change in Number of Smokers, 1990-2019",218,Togo,1,Male,29,15+ years,0.530455209,0.758064743,0.321998874
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",218,Togo,1,Male,29,15+ years,-0.427607077,-0.354595784,-0.497555435
+"% Change in Number of Smokers, 1990-2019",218,Togo,2,Female,29,15+ years,0.64443394,1.343713382,0.084504904
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",218,Togo,2,Female,29,15+ years,-0.373406018,-0.119141314,-0.575483265
+"% Change in Number of Smokers, 1990-2019",218,Togo,3,Both,29,15+ years,0.541445051,0.75783762,0.341276707
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",218,Togo,3,Both,29,15+ years,-0.421404186,-0.348704457,-0.488544984
+"% Change in Number of Smokers, 1990-2019",298,American Samoa,1,Male,29,15+ years,0.198056363,0.324595474,0.080036837
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",298,American Samoa,1,Male,29,15+ years,-0.041423768,0.054828337,-0.126851036
+"% Change in Number of Smokers, 1990-2019",298,American Samoa,2,Female,29,15+ years,0.239296756,0.643427532,-0.091607509
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",298,American Samoa,2,Female,29,15+ years,-0.041943074,0.252152445,-0.276876599
+"% Change in Number of Smokers, 1990-2019",298,American Samoa,3,Both,29,15+ years,0.208376028,0.360843586,0.072489491
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",298,American Samoa,3,Both,29,15+ years,-0.052833449,0.05577752,-0.153245658
+"% Change in Number of Smokers, 1990-2019",305,Bermuda,1,Male,29,15+ years,0.073259653,0.238917296,-0.067330665
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",305,Bermuda,1,Male,29,15+ years,-0.00775708,0.147212738,-0.136049456
+"% Change in Number of Smokers, 1990-2019",305,Bermuda,2,Female,29,15+ years,0.055198889,0.445826831,-0.236235152
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",305,Bermuda,2,Female,29,15+ years,-0.024535056,0.333837426,-0.28770851
+"% Change in Number of Smokers, 1990-2019",305,Bermuda,3,Both,29,15+ years,0.062358604,0.230275076,-0.072165703
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",305,Bermuda,3,Both,29,15+ years,-0.014250187,0.143908438,-0.137698952
+"% Change in Number of Smokers, 1990-2019",320,Cook Islands,1,Male,29,15+ years,-0.114086033,-0.022517259,-0.202817291
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",320,Cook Islands,1,Male,29,15+ years,-0.098100438,-0.002761091,-0.186517441
+"% Change in Number of Smokers, 1990-2019",320,Cook Islands,2,Female,29,15+ years,0.065556243,0.357681822,-0.1677695
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",320,Cook Islands,2,Female,29,15+ years,-0.007740569,0.25896822,-0.217998014
+"% Change in Number of Smokers, 1990-2019",320,Cook Islands,3,Both,29,15+ years,-0.050297939,0.063620837,-0.150845084
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",320,Cook Islands,3,Both,29,15+ years,-0.08578659,0.021992144,-0.183792788
+"% Change in Number of Smokers, 1990-2019",349,Greenland,1,Male,29,15+ years,-0.138123927,-0.059692591,-0.217408752
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",349,Greenland,1,Male,29,15+ years,-0.102177543,-0.020500066,-0.180421245
+"% Change in Number of Smokers, 1990-2019",349,Greenland,2,Female,29,15+ years,0.024118036,0.230387277,-0.156001843
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",349,Greenland,2,Female,29,15+ years,-0.053157446,0.135573345,-0.209917506
+"% Change in Number of Smokers, 1990-2019",349,Greenland,3,Both,29,15+ years,-0.07188842,0.023723635,-0.163427882
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",349,Greenland,3,Both,29,15+ years,-0.084517804,0.003574345,-0.169371126
+"% Change in Number of Smokers, 1990-2019",351,Guam,1,Male,29,15+ years,0.000236795,0.105679762,-0.095047625
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",351,Guam,1,Male,29,15+ years,-0.145725833,-0.060781212,-0.224028036
+"% Change in Number of Smokers, 1990-2019",351,Guam,2,Female,29,15+ years,0.177065997,0.444381754,-0.060370486
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",351,Guam,2,Female,29,15+ years,-0.082798935,0.122152542,-0.263682963
+"% Change in Number of Smokers, 1990-2019",351,Guam,3,Both,29,15+ years,0.057949261,0.164459495,-0.043215376
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",351,Guam,3,Both,29,15+ years,-0.132977164,-0.047928924,-0.210915291
+"% Change in Number of Smokers, 1990-2019",367,Monaco,1,Male,29,15+ years,-0.108310285,0.001400251,-0.204696378
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",367,Monaco,1,Male,29,15+ years,-0.248582319,-0.156979347,-0.328999982
+"% Change in Number of Smokers, 1990-2019",367,Monaco,2,Female,29,15+ years,-0.072486529,0.168709108,-0.287556534
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",367,Monaco,2,Female,29,15+ years,-0.194970143,0.022066547,-0.386734824
+"% Change in Number of Smokers, 1990-2019",367,Monaco,3,Both,29,15+ years,-0.094474423,0.022533981,-0.205709031
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",367,Monaco,3,Both,29,15+ years,-0.224699196,-0.120448062,-0.324154643
+"% Change in Number of Smokers, 1990-2019",369,Nauru,1,Male,29,15+ years,0.06932858,0.174653407,-0.027726123
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",369,Nauru,1,Male,29,15+ years,-0.04085358,0.044270911,-0.118139262
+"% Change in Number of Smokers, 1990-2019",369,Nauru,2,Female,29,15+ years,0.097133883,0.319576397,-0.086805715
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",369,Nauru,2,Female,29,15+ years,-0.071740439,0.098418368,-0.221351607
+"% Change in Number of Smokers, 1990-2019",369,Nauru,3,Both,29,15+ years,0.081027313,0.193641547,-0.027881676
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",369,Nauru,3,Both,29,15+ years,-0.059162338,0.026688798,-0.142793689
+"% Change in Number of Smokers, 1990-2019",374,Niue,1,Male,29,15+ years,-0.210507833,-0.110874146,-0.29688219
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",374,Niue,1,Male,29,15+ years,-0.075320956,0.039903325,-0.176216788
+"% Change in Number of Smokers, 1990-2019",374,Niue,2,Female,29,15+ years,-0.173619713,0.105195799,-0.378767013
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",374,Niue,2,Female,29,15+ years,-0.013100884,0.322757075,-0.262041707
+"% Change in Number of Smokers, 1990-2019",374,Niue,3,Both,29,15+ years,-0.200418372,-0.092764978,-0.295254615
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",374,Niue,3,Both,29,15+ years,-0.056392868,0.072899249,-0.172357329
+"% Change in Number of Smokers, 1990-2019",376,Northern Mariana Islands,1,Male,29,15+ years,-0.163109376,-0.07254134,-0.249029918
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",376,Northern Mariana Islands,1,Male,29,15+ years,-0.130708468,-0.04452297,-0.210633073
+"% Change in Number of Smokers, 1990-2019",376,Northern Mariana Islands,2,Female,29,15+ years,-0.150456867,0.17926351,-0.379860627
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",376,Northern Mariana Islands,2,Female,29,15+ years,-0.176632297,0.088375362,-0.375747642
+"% Change in Number of Smokers, 1990-2019",376,Northern Mariana Islands,3,Both,29,15+ years,-0.162208269,-0.062510929,-0.25398334
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",376,Northern Mariana Islands,3,Both,29,15+ years,-0.169767207,-0.077661168,-0.250661203
+"% Change in Number of Smokers, 1990-2019",380,Palau,1,Male,29,15+ years,0.314455237,0.462953478,0.180860249
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",380,Palau,1,Male,29,15+ years,-0.067087225,0.031191699,-0.154219256
+"% Change in Number of Smokers, 1990-2019",380,Palau,2,Female,29,15+ years,0.099202424,0.43115682,-0.182749671
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",380,Palau,2,Female,29,15+ years,-0.019576238,0.251712441,-0.254691458
+"% Change in Number of Smokers, 1990-2019",380,Palau,3,Both,29,15+ years,0.253993104,0.402282029,0.122740871
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",380,Palau,3,Both,29,15+ years,-0.014138208,0.093787209,-0.116028054
+"% Change in Number of Smokers, 1990-2019",385,Puerto Rico,1,Male,29,15+ years,-0.144709803,-0.048762798,-0.226298894
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",385,Puerto Rico,1,Male,29,15+ years,-0.183223877,-0.088752205,-0.26354151
+"% Change in Number of Smokers, 1990-2019",385,Puerto Rico,2,Female,29,15+ years,-0.08503866,0.128470729,-0.266704739
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",385,Puerto Rico,2,Female,29,15+ years,-0.141941121,0.064366121,-0.317808256
+"% Change in Number of Smokers, 1990-2019",385,Puerto Rico,3,Both,29,15+ years,-0.125064013,-0.031535724,-0.209919322
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",385,Puerto Rico,3,Both,29,15+ years,-0.167803826,-0.076259116,-0.252246253
+"% Change in Number of Smokers, 1990-2019",393,Saint Kitts and Nevis,1,Male,29,15+ years,1.015405968,1.409092357,0.680600419
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",393,Saint Kitts and Nevis,1,Male,29,15+ years,0.015564896,0.20132663,-0.150112742
+"% Change in Number of Smokers, 1990-2019",393,Saint Kitts and Nevis,2,Female,29,15+ years,0.854537169,1.603192695,0.252893692
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",393,Saint Kitts and Nevis,2,Female,29,15+ years,-0.000613234,0.413093334,-0.323530462
+"% Change in Number of Smokers, 1990-2019",393,Saint Kitts and Nevis,3,Both,29,15+ years,0.971022419,1.315303654,0.668529656
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",393,Saint Kitts and Nevis,3,Both,29,15+ years,0.025813918,0.205894874,-0.125795448
+"% Change in Number of Smokers, 1990-2019",396,San Marino,1,Male,29,15+ years,-0.208856929,-0.120023589,-0.296467914
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",396,San Marino,1,Male,29,15+ years,-0.405168247,-0.334396344,-0.473386249
+"% Change in Number of Smokers, 1990-2019",396,San Marino,2,Female,29,15+ years,-0.070024538,0.172127662,-0.280877119
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",396,San Marino,2,Female,29,15+ years,-0.359542791,-0.183437524,-0.506825032
+"% Change in Number of Smokers, 1990-2019",396,San Marino,3,Both,29,15+ years,-0.150948328,-0.034531714,-0.255096505
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",396,San Marino,3,Both,29,15+ years,-0.388850013,-0.3014706,-0.466025133
+"% Change in Number of Smokers, 1990-2019",413,Tokelau,1,Male,29,15+ years,-0.032936634,0.076511271,-0.129854052
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",413,Tokelau,1,Male,29,15+ years,-0.052992248,0.050460804,-0.144493245
+"% Change in Number of Smokers, 1990-2019",413,Tokelau,2,Female,29,15+ years,-0.071699372,0.227002333,-0.319733658
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",413,Tokelau,2,Female,29,15+ years,0.001155762,0.314861383,-0.261121415
+"% Change in Number of Smokers, 1990-2019",413,Tokelau,3,Both,29,15+ years,-0.047234038,0.068187559,-0.15577731
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",413,Tokelau,3,Both,29,15+ years,-0.013320964,0.104656387,-0.120387196
+"% Change in Number of Smokers, 1990-2019",416,Tuvalu,1,Male,29,15+ years,0.631193294,0.7850441,0.497182313
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",416,Tuvalu,1,Male,29,15+ years,0.034912419,0.129694964,-0.046303922
+"% Change in Number of Smokers, 1990-2019",416,Tuvalu,2,Female,29,15+ years,0.318305897,0.73904401,-0.010056758
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",416,Tuvalu,2,Female,29,15+ years,0.09728987,0.432586147,-0.176515905
+"% Change in Number of Smokers, 1990-2019",416,Tuvalu,3,Both,29,15+ years,0.519103981,0.701903996,0.361278546
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",416,Tuvalu,3,Both,29,15+ years,0.109216889,0.23807382,-0.003480137
+"% Change in Number of Smokers, 1990-2019",422,United States Virgin Islands,1,Male,29,15+ years,-0.165125694,-0.024211948,-0.287789069
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",422,United States Virgin Islands,1,Male,29,15+ years,-0.233309755,-0.099672507,-0.342638498
+"% Change in Number of Smokers, 1990-2019",422,United States Virgin Islands,2,Female,29,15+ years,-0.143708291,0.164996882,-0.383741435
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",422,United States Virgin Islands,2,Female,29,15+ years,-0.242747596,0.028865445,-0.46300864
+"% Change in Number of Smokers, 1990-2019",422,United States Virgin Islands,3,Both,29,15+ years,-0.160193031,-0.018680064,-0.290792198
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",422,United States Virgin Islands,3,Both,29,15+ years,-0.240994313,-0.108643222,-0.359710285
+"% Change in Number of Smokers, 1990-2019",435,South Sudan,1,Male,29,15+ years,0.169863354,0.350249962,0.003074941
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",435,South Sudan,1,Male,29,15+ years,-0.1768544,-0.070677444,-0.28220932
+"% Change in Number of Smokers, 1990-2019",435,South Sudan,2,Female,29,15+ years,0.525681132,1.135803638,0.045733679
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",435,South Sudan,2,Female,29,15+ years,-0.184128975,0.093408981,-0.423260508
+"% Change in Number of Smokers, 1990-2019",435,South Sudan,3,Both,29,15+ years,0.201090652,0.368974901,0.04804726
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",435,South Sudan,3,Both,29,15+ years,-0.249589716,-0.159633856,-0.335681069
+"% Change in Number of Smokers, 1990-2019",522,Sudan,1,Male,29,15+ years,1.021245268,1.307674597,0.753659403
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",522,Sudan,1,Male,29,15+ years,-0.122788891,-0.005391703,-0.229008716
+"% Change in Number of Smokers, 1990-2019",522,Sudan,2,Female,29,15+ years,0.974147188,1.96082696,0.260123929
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",522,Sudan,2,Female,29,15+ years,-0.151625211,0.234371925,-0.42548441
+"% Change in Number of Smokers, 1990-2019",522,Sudan,3,Both,29,15+ years,1.012327944,1.285242212,0.767452227
+"% Change in Age-Standardized Smoking Prevalence, 1990-2019",522,Sudan,3,Both,29,15+ years,-0.119490299,-0.009638567,-0.219479636
