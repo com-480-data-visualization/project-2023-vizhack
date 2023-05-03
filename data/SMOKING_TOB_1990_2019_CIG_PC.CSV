@@ -1,0 +1,467 @@
+measure_name,location_id,location_name,sex_id,sex_name,age_group_id,age_group_name,year_id,val,upper,lower
+Cigarette-Equivalents Per Capita,1,Global,3,Both,29,15+ years,1990,1484.256502,1531.563739,1436.151878
+Cigarette-Equivalents Per Capita,1,Global,3,Both,29,15+ years,2019,1113.754663,1161.263946,1069.765828
+Cigarette-Equivalents Per Capita,4,"Southeast Asia, East Asia, and Oceania",3,Both,29,15+ years,1990,1827.374739,1959.359086,1692.900863
+Cigarette-Equivalents Per Capita,4,"Southeast Asia, East Asia, and Oceania",3,Both,29,15+ years,2019,1778.846098,1927.560165,1640.645875
+Cigarette-Equivalents Per Capita,5,East Asia,3,Both,29,15+ years,1990,2089.743405,2267.199999,1908.30151
+Cigarette-Equivalents Per Capita,5,East Asia,3,Both,29,15+ years,2019,2125.624008,2345.478203,1927.886944
+Cigarette-Equivalents Per Capita,6,China,3,Both,29,15+ years,1990,2099.164393,2282.300158,1915.322938
+Cigarette-Equivalents Per Capita,6,China,3,Both,29,15+ years,2019,2148.267434,2372.981154,1945.478472
+Cigarette-Equivalents Per Capita,7,Democratic People's Republic of Korea,3,Both,29,15+ years,1990,1425.400747,1634.585811,1235.468745
+Cigarette-Equivalents Per Capita,7,Democratic People's Republic of Korea,3,Both,29,15+ years,2019,1346.623595,1677.039713,1060.005714
+Cigarette-Equivalents Per Capita,8,Taiwan (Province of China),3,Both,29,15+ years,1990,2228.778307,2607.137476,1886.60974
+Cigarette-Equivalents Per Capita,8,Taiwan (Province of China),3,Both,29,15+ years,2019,1627.260034,2015.093793,1322.524994
+Cigarette-Equivalents Per Capita,9,Southeast Asia,3,Both,29,15+ years,1990,1148.923867,1220.148611,1081.761671
+Cigarette-Equivalents Per Capita,9,Southeast Asia,3,Both,29,15+ years,2019,1035.732738,1126.205034,951.6261937
+Cigarette-Equivalents Per Capita,10,Cambodia,3,Both,29,15+ years,1990,997.0700444,1117.174434,887.5653928
+Cigarette-Equivalents Per Capita,10,Cambodia,3,Both,29,15+ years,2019,1164.361429,1463.52344,924.6445732
+Cigarette-Equivalents Per Capita,11,Indonesia,3,Both,29,15+ years,1990,1025.305173,1173.206493,888.5773687
+Cigarette-Equivalents Per Capita,11,Indonesia,3,Both,29,15+ years,2019,1139.261734,1340.091028,954.5148542
+Cigarette-Equivalents Per Capita,12,Lao People's Democratic Republic,3,Both,29,15+ years,1990,1127.461415,1223.656837,1031.102683
+Cigarette-Equivalents Per Capita,12,Lao People's Democratic Republic,3,Both,29,15+ years,2019,1167.884483,1475.976723,901.0677158
+Cigarette-Equivalents Per Capita,13,Malaysia,3,Both,29,15+ years,1990,1286.348518,1427.935759,1146.442741
+Cigarette-Equivalents Per Capita,13,Malaysia,3,Both,29,15+ years,2019,932.1626105,1059.691715,823.1277115
+Cigarette-Equivalents Per Capita,14,Maldives,3,Both,29,15+ years,1990,1523.298625,1731.728482,1317.8572
+Cigarette-Equivalents Per Capita,14,Maldives,3,Both,29,15+ years,2019,1198.274534,1415.50631,1000.492223
+Cigarette-Equivalents Per Capita,15,Myanmar,3,Both,29,15+ years,1990,1718.008107,1951.6584,1492.35601
+Cigarette-Equivalents Per Capita,15,Myanmar,3,Both,29,15+ years,2019,1014.776182,1248.777317,820.0125735
+Cigarette-Equivalents Per Capita,16,Philippines,3,Both,29,15+ years,1990,1619.552398,1769.931694,1468.956343
+Cigarette-Equivalents Per Capita,16,Philippines,3,Both,29,15+ years,2019,1170.305572,1388.825096,979.5304841
+Cigarette-Equivalents Per Capita,17,Sri Lanka,3,Both,29,15+ years,1990,732.8475221,812.2909013,660.4125476
+Cigarette-Equivalents Per Capita,17,Sri Lanka,3,Both,29,15+ years,2019,403.2287755,469.4643783,340.353073
+Cigarette-Equivalents Per Capita,18,Thailand,3,Both,29,15+ years,1990,1084.552427,1197.410079,989.7715206
+Cigarette-Equivalents Per Capita,18,Thailand,3,Both,29,15+ years,2019,782.2024953,935.9663792,651.8842154
+Cigarette-Equivalents Per Capita,19,Timor-Leste,3,Both,29,15+ years,1990,1156.526565,1504.583206,890.0893768
+Cigarette-Equivalents Per Capita,19,Timor-Leste,3,Both,29,15+ years,2019,1057.41209,1346.338074,809.863473
+Cigarette-Equivalents Per Capita,20,Viet Nam,3,Both,29,15+ years,1990,850.2596579,1008.022338,704.2748898
+Cigarette-Equivalents Per Capita,20,Viet Nam,3,Both,29,15+ years,2019,941.9660881,1150.136454,764.8906615
+Cigarette-Equivalents Per Capita,21,Oceania,3,Both,29,15+ years,1990,982.4296531,1172.913758,828.1881743
+Cigarette-Equivalents Per Capita,21,Oceania,3,Both,29,15+ years,2019,949.7766262,1144.137001,784.4903595
+Cigarette-Equivalents Per Capita,22,Fiji,3,Both,29,15+ years,1990,789.9628735,871.4695183,718.2518147
+Cigarette-Equivalents Per Capita,22,Fiji,3,Both,29,15+ years,2019,712.0616245,844.4728947,600.1081706
+Cigarette-Equivalents Per Capita,23,Kiribati,3,Both,29,15+ years,1990,1072.717416,1198.579669,967.564584
+Cigarette-Equivalents Per Capita,23,Kiribati,3,Both,29,15+ years,2019,1381.494876,1665.147072,1114.93611
+Cigarette-Equivalents Per Capita,24,Marshall Islands,3,Both,29,15+ years,1990,989.3751671,1266.50844,758.0795547
+Cigarette-Equivalents Per Capita,24,Marshall Islands,3,Both,29,15+ years,2019,965.6242364,1239.07085,753.0415711
+Cigarette-Equivalents Per Capita,25,Micronesia (Federated States of),3,Both,29,15+ years,1990,989.5126232,1275.138979,762.5404254
+Cigarette-Equivalents Per Capita,25,Micronesia (Federated States of),3,Both,29,15+ years,2019,959.1213681,1229.669499,732.4421614
+Cigarette-Equivalents Per Capita,26,Papua New Guinea,3,Both,29,15+ years,1990,989.5822816,1266.775195,758.7163608
+Cigarette-Equivalents Per Capita,26,Papua New Guinea,3,Both,29,15+ years,2019,954.4450721,1211.710918,745.8616812
+Cigarette-Equivalents Per Capita,27,Samoa,3,Both,29,15+ years,1990,1875.583213,2131.71528,1642.858747
+Cigarette-Equivalents Per Capita,27,Samoa,3,Both,29,15+ years,2019,1806.99363,2211.8891,1426.651051
+Cigarette-Equivalents Per Capita,28,Solomon Islands,3,Both,29,15+ years,1990,1095.6695,1202.912032,1000.696899
+Cigarette-Equivalents Per Capita,28,Solomon Islands,3,Both,29,15+ years,2019,1073.804518,1250.560052,904.1515057
+Cigarette-Equivalents Per Capita,29,Tonga,3,Both,29,15+ years,1990,989.3671738,1259.419576,757.2300255
+Cigarette-Equivalents Per Capita,29,Tonga,3,Both,29,15+ years,2019,958.6165375,1216.657354,732.7627331
+Cigarette-Equivalents Per Capita,30,Vanuatu,3,Both,29,15+ years,1990,466.9250309,525.0454914,414.7065532
+Cigarette-Equivalents Per Capita,30,Vanuatu,3,Both,29,15+ years,2019,442.3766027,544.3850247,354.7167498
+Cigarette-Equivalents Per Capita,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,29,15+ years,1990,1945.434612,2049.624517,1852.728899
+Cigarette-Equivalents Per Capita,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,29,15+ years,2019,1769.806732,1921.212102,1628.98106
+Cigarette-Equivalents Per Capita,32,Central Asia,3,Both,29,15+ years,1990,1242.085772,1336.652589,1160.034376
+Cigarette-Equivalents Per Capita,32,Central Asia,3,Both,29,15+ years,2019,1152.168108,1234.474247,1073.560519
+Cigarette-Equivalents Per Capita,33,Armenia,3,Both,29,15+ years,1990,2021.427523,2263.748418,1795.036973
+Cigarette-Equivalents Per Capita,33,Armenia,3,Both,29,15+ years,2019,1911.064785,2345.789329,1537.400067
+Cigarette-Equivalents Per Capita,34,Azerbaijan,3,Both,29,15+ years,1990,1285.236636,1529.252898,1081.312446
+Cigarette-Equivalents Per Capita,34,Azerbaijan,3,Both,29,15+ years,2019,1639.728709,1871.774604,1428.307727
+Cigarette-Equivalents Per Capita,35,Georgia,3,Both,29,15+ years,1990,1577.622103,1852.404127,1341.476897
+Cigarette-Equivalents Per Capita,35,Georgia,3,Both,29,15+ years,2019,1770.473172,2104.226757,1457.208639
+Cigarette-Equivalents Per Capita,36,Kazakhstan,3,Both,29,15+ years,1990,1544.933491,1861.514843,1278.869199
+Cigarette-Equivalents Per Capita,36,Kazakhstan,3,Both,29,15+ years,2019,1420.379299,1749.688537,1130.689156
+Cigarette-Equivalents Per Capita,37,Kyrgyzstan,3,Both,29,15+ years,1990,1884.774173,2115.734641,1667.047553
+Cigarette-Equivalents Per Capita,37,Kyrgyzstan,3,Both,29,15+ years,2019,1915.426713,2304.836679,1570.836264
+Cigarette-Equivalents Per Capita,38,Mongolia,3,Both,29,15+ years,1990,911.6141849,1022.180514,816.0428128
+Cigarette-Equivalents Per Capita,38,Mongolia,3,Both,29,15+ years,2019,1137.772872,1348.00075,949.6098478
+Cigarette-Equivalents Per Capita,39,Tajikistan,3,Both,29,15+ years,1990,1569.918754,1857.136307,1339.379672
+Cigarette-Equivalents Per Capita,39,Tajikistan,3,Both,29,15+ years,2019,1152.767218,1447.409249,903.1468245
+Cigarette-Equivalents Per Capita,40,Turkmenistan,3,Both,29,15+ years,1990,2090.524697,2322.693031,1871.323146
+Cigarette-Equivalents Per Capita,40,Turkmenistan,3,Both,29,15+ years,2019,1527.778564,1791.688907,1273.100735
+Cigarette-Equivalents Per Capita,41,Uzbekistan,3,Both,29,15+ years,1990,437.9554954,529.8099483,363.8679487
+Cigarette-Equivalents Per Capita,41,Uzbekistan,3,Both,29,15+ years,2019,518.0155863,599.3101238,439.9971465
+Cigarette-Equivalents Per Capita,42,Central Europe,3,Both,29,15+ years,1990,2532.70595,2717.816784,2376.740014
+Cigarette-Equivalents Per Capita,42,Central Europe,3,Both,29,15+ years,2019,1852.693248,2000.740826,1714.107198
+Cigarette-Equivalents Per Capita,43,Albania,3,Both,29,15+ years,1990,1894.040861,2224.731864,1621.799298
+Cigarette-Equivalents Per Capita,43,Albania,3,Both,29,15+ years,2019,1941.384044,2305.846372,1615.441019
+Cigarette-Equivalents Per Capita,44,Bosnia and Herzegovina,3,Both,29,15+ years,1990,1880.231523,2118.421409,1638.114158
+Cigarette-Equivalents Per Capita,44,Bosnia and Herzegovina,3,Both,29,15+ years,2019,2332.02501,2710.567276,2009.276436
+Cigarette-Equivalents Per Capita,45,Bulgaria,3,Both,29,15+ years,1990,3798.555595,4277.603462,3332.138732
+Cigarette-Equivalents Per Capita,45,Bulgaria,3,Both,29,15+ years,2019,2502.415249,2916.960493,2143.584933
+Cigarette-Equivalents Per Capita,46,Croatia,3,Both,29,15+ years,1990,2717.41652,3051.441431,2427.817868
+Cigarette-Equivalents Per Capita,46,Croatia,3,Both,29,15+ years,2019,2021.559862,2418.02745,1686.639316
+Cigarette-Equivalents Per Capita,47,Czechia,3,Both,29,15+ years,1990,2248.913598,2572.286293,1968.307419
+Cigarette-Equivalents Per Capita,47,Czechia,3,Both,29,15+ years,2019,1915.941602,2336.764974,1583.466795
+Cigarette-Equivalents Per Capita,48,Hungary,3,Both,29,15+ years,1990,2897.141998,3284.190946,2555.325597
+Cigarette-Equivalents Per Capita,48,Hungary,3,Both,29,15+ years,2019,1919.712013,2284.76289,1592.318152
+Cigarette-Equivalents Per Capita,49,North Macedonia,3,Both,29,15+ years,1990,2773.166147,3325.161359,2308.396119
+Cigarette-Equivalents Per Capita,49,North Macedonia,3,Both,29,15+ years,2019,2535.95438,2905.153012,2196.825524
+Cigarette-Equivalents Per Capita,50,Montenegro,3,Both,29,15+ years,1990,2837.961166,3339.491601,2373.68766
+Cigarette-Equivalents Per Capita,50,Montenegro,3,Both,29,15+ years,2019,2913.67821,3482.235619,2365.521312
+Cigarette-Equivalents Per Capita,51,Poland,3,Both,29,15+ years,1990,2914.503457,3465.064122,2473.522677
+Cigarette-Equivalents Per Capita,51,Poland,3,Both,29,15+ years,2019,1732.030955,2114.810149,1401.454324
+Cigarette-Equivalents Per Capita,52,Romania,3,Both,29,15+ years,1990,1887.521358,2196.810013,1632.313759
+Cigarette-Equivalents Per Capita,52,Romania,3,Both,29,15+ years,2019,1485.22612,1784.950229,1210.431415
+Cigarette-Equivalents Per Capita,53,Serbia,3,Both,29,15+ years,1990,2069.646115,2359.926977,1821.729884
+Cigarette-Equivalents Per Capita,53,Serbia,3,Both,29,15+ years,2019,2132.977311,2562.420202,1754.606941
+Cigarette-Equivalents Per Capita,54,Slovakia,3,Both,29,15+ years,1990,1772.212017,2028.154826,1546.190703
+Cigarette-Equivalents Per Capita,54,Slovakia,3,Both,29,15+ years,2019,1397.759003,1638.670315,1185.005157
+Cigarette-Equivalents Per Capita,55,Slovenia,3,Both,29,15+ years,1990,2804.411051,3043.349687,2572.478101
+Cigarette-Equivalents Per Capita,55,Slovenia,3,Both,29,15+ years,2019,2446.641746,2813.301317,2100.791237
+Cigarette-Equivalents Per Capita,56,Eastern Europe,3,Both,29,15+ years,1990,1841.699189,2003.691524,1689.288562
+Cigarette-Equivalents Per Capita,56,Eastern Europe,3,Both,29,15+ years,2019,1999.841866,2283.395407,1743.96784
+Cigarette-Equivalents Per Capita,57,Belarus,3,Both,29,15+ years,1990,2154.542226,2564.345524,1780.928763
+Cigarette-Equivalents Per Capita,57,Belarus,3,Both,29,15+ years,2019,2083.120785,2537.267113,1733.149549
+Cigarette-Equivalents Per Capita,58,Estonia,3,Both,29,15+ years,1990,1834.394374,2041.259447,1637.732604
+Cigarette-Equivalents Per Capita,58,Estonia,3,Both,29,15+ years,2019,1826.332629,2140.635535,1553.765321
+Cigarette-Equivalents Per Capita,59,Latvia,3,Both,29,15+ years,1990,2130.35805,2507.484719,1810.085437
+Cigarette-Equivalents Per Capita,59,Latvia,3,Both,29,15+ years,2019,1570.634469,1957.777495,1261.975549
+Cigarette-Equivalents Per Capita,60,Lithuania,3,Both,29,15+ years,1990,1638.549854,1903.156086,1414.0275
+Cigarette-Equivalents Per Capita,60,Lithuania,3,Both,29,15+ years,2019,1368.36139,1623.401009,1139.22761
+Cigarette-Equivalents Per Capita,61,Republic of Moldova,3,Both,29,15+ years,1990,2087.996815,2594.485462,1667.15362
+Cigarette-Equivalents Per Capita,61,Republic of Moldova,3,Both,29,15+ years,2019,2219.184601,2784.91251,1755.89489
+Cigarette-Equivalents Per Capita,62,Russian Federation,3,Both,29,15+ years,1990,1794.643186,2011.567755,1603.504628
+Cigarette-Equivalents Per Capita,62,Russian Federation,3,Both,29,15+ years,2019,2116.211054,2502.048982,1767.156652
+Cigarette-Equivalents Per Capita,63,Ukraine,3,Both,29,15+ years,1990,1893.464724,2206.264873,1626.228164
+Cigarette-Equivalents Per Capita,63,Ukraine,3,Both,29,15+ years,2019,1639.750032,2026.1991,1323.582481
+Cigarette-Equivalents Per Capita,64,High-income,3,Both,29,15+ years,1990,2348.798451,2453.079167,2246.784592
+Cigarette-Equivalents Per Capita,64,High-income,3,Both,29,15+ years,2019,1465.011962,1550.707609,1387.432141
+Cigarette-Equivalents Per Capita,65,High-income Asia Pacific,3,Both,29,15+ years,1990,2145.666145,2389.38288,1929.701333
+Cigarette-Equivalents Per Capita,65,High-income Asia Pacific,3,Both,29,15+ years,2019,1503.562859,1717.479926,1307.695279
+Cigarette-Equivalents Per Capita,66,Brunei Darussalam,3,Both,29,15+ years,1990,2145.064793,2591.782201,1775.931546
+Cigarette-Equivalents Per Capita,66,Brunei Darussalam,3,Both,29,15+ years,2019,1518.736548,1930.518646,1190.1523
+Cigarette-Equivalents Per Capita,67,Japan,3,Both,29,15+ years,1990,2148.40111,2443.201491,1864.37606
+Cigarette-Equivalents Per Capita,67,Japan,3,Both,29,15+ years,2019,1520.142126,1797.294364,1260.105298
+Cigarette-Equivalents Per Capita,68,Republic of Korea,3,Both,29,15+ years,1990,2222.062168,2599.003537,1907.37278
+Cigarette-Equivalents Per Capita,68,Republic of Korea,3,Both,29,15+ years,2019,1565.216346,1894.70577,1279.838475
+Cigarette-Equivalents Per Capita,69,Singapore,3,Both,29,15+ years,1990,921.1629447,1095.325694,769.0040698
+Cigarette-Equivalents Per Capita,69,Singapore,3,Both,29,15+ years,2019,547.6730001,636.3817658,470.5302051
+Cigarette-Equivalents Per Capita,70,Australasia,3,Both,29,15+ years,1990,1653.931429,1752.282557,1562.676055
+Cigarette-Equivalents Per Capita,70,Australasia,3,Both,29,15+ years,2019,1069.444844,1209.578886,940.4993284
+Cigarette-Equivalents Per Capita,71,Australia,3,Both,29,15+ years,1990,1671.866803,1788.274983,1567.052152
+Cigarette-Equivalents Per Capita,71,Australia,3,Both,29,15+ years,2019,1095.052482,1268.89177,946.8515254
+Cigarette-Equivalents Per Capita,72,New Zealand,3,Both,29,15+ years,1990,1565.442416,1689.39349,1455.111943
+Cigarette-Equivalents Per Capita,72,New Zealand,3,Both,29,15+ years,2019,929.5031255,1114.900233,769.315258
+Cigarette-Equivalents Per Capita,73,Western Europe,3,Both,29,15+ years,1990,2261.720799,2396.905987,2140.769342
+Cigarette-Equivalents Per Capita,73,Western Europe,3,Both,29,15+ years,2019,1540.598564,1662.756376,1432.130845
+Cigarette-Equivalents Per Capita,74,Andorra,3,Both,29,15+ years,1990,2147.62276,2759.612901,1639.584827
+Cigarette-Equivalents Per Capita,74,Andorra,3,Both,29,15+ years,2019,1795.997427,2288.414848,1384.544501
+Cigarette-Equivalents Per Capita,75,Austria,3,Both,29,15+ years,1990,1722.613601,1822.413217,1633.002428
+Cigarette-Equivalents Per Capita,75,Austria,3,Both,29,15+ years,2019,2268.389755,2580.216639,1972.414057
+Cigarette-Equivalents Per Capita,76,Belgium,3,Both,29,15+ years,1990,2625.529799,2852.396414,2394.757248
+Cigarette-Equivalents Per Capita,76,Belgium,3,Both,29,15+ years,2019,1955.261114,2210.37786,1713.219605
+Cigarette-Equivalents Per Capita,77,Cyprus,3,Both,29,15+ years,1990,2422.465011,2665.661659,2196.128601
+Cigarette-Equivalents Per Capita,77,Cyprus,3,Both,29,15+ years,2019,2234.023099,2729.454426,1843.879423
+Cigarette-Equivalents Per Capita,78,Denmark,3,Both,29,15+ years,1990,2594.513256,2947.171653,2261.898317
+Cigarette-Equivalents Per Capita,78,Denmark,3,Both,29,15+ years,2019,1973.207418,2359.320798,1642.137345
+Cigarette-Equivalents Per Capita,79,Finland,3,Both,29,15+ years,1990,1384.104086,1509.96216,1275.212889
+Cigarette-Equivalents Per Capita,79,Finland,3,Both,29,15+ years,2019,1225.803452,1451.120003,1039.245978
+Cigarette-Equivalents Per Capita,80,France,3,Both,29,15+ years,1990,1865.02199,2173.84135,1582.205066
+Cigarette-Equivalents Per Capita,80,France,3,Both,29,15+ years,2019,1316.269043,1605.877973,1072.32029
+Cigarette-Equivalents Per Capita,81,Germany,3,Both,29,15+ years,1990,2359.020291,2739.193337,2003.495537
+Cigarette-Equivalents Per Capita,81,Germany,3,Both,29,15+ years,2019,1648.721566,2009.172051,1344.663347
+Cigarette-Equivalents Per Capita,82,Greece,3,Both,29,15+ years,1990,3474.421326,4030.923777,2968.246191
+Cigarette-Equivalents Per Capita,82,Greece,3,Both,29,15+ years,2019,2367.454543,2957.703243,1880.847452
+Cigarette-Equivalents Per Capita,83,Iceland,3,Both,29,15+ years,1990,2694.399782,3065.311946,2374.358823
+Cigarette-Equivalents Per Capita,83,Iceland,3,Both,29,15+ years,2019,1820.430089,2198.376684,1503.48345
+Cigarette-Equivalents Per Capita,84,Ireland,3,Both,29,15+ years,1990,2164.344512,2417.736238,1910.654835
+Cigarette-Equivalents Per Capita,84,Ireland,3,Both,29,15+ years,2019,1353.80561,1619.0803,1110.434327
+Cigarette-Equivalents Per Capita,85,Israel,3,Both,29,15+ years,1990,1817.12017,2086.796839,1567.341617
+Cigarette-Equivalents Per Capita,85,Israel,3,Both,29,15+ years,2019,1252.633948,1515.037489,1026.155166
+Cigarette-Equivalents Per Capita,86,Italy,3,Both,29,15+ years,1990,2040.382856,2392.274777,1728.846948
+Cigarette-Equivalents Per Capita,86,Italy,3,Both,29,15+ years,2019,1517.097935,1834.70934,1222.146291
+Cigarette-Equivalents Per Capita,87,Luxembourg,3,Both,29,15+ years,1990,2139.52333,2782.894526,1648.770574
+Cigarette-Equivalents Per Capita,87,Luxembourg,3,Both,29,15+ years,2019,1789.985711,2281.445628,1368.817024
+Cigarette-Equivalents Per Capita,88,Malta,3,Both,29,15+ years,1990,2782.655669,3098.147503,2471.718327
+Cigarette-Equivalents Per Capita,88,Malta,3,Both,29,15+ years,2019,2054.874425,2477.059011,1697.318073
+Cigarette-Equivalents Per Capita,89,Netherlands,3,Both,29,15+ years,1990,2439.428164,2919.091143,2036.40139
+Cigarette-Equivalents Per Capita,89,Netherlands,3,Both,29,15+ years,2019,1446.520101,1764.667435,1151.067224
+Cigarette-Equivalents Per Capita,90,Norway,3,Both,29,15+ years,1990,1489.067841,1609.553692,1379.476137
+Cigarette-Equivalents Per Capita,90,Norway,3,Both,29,15+ years,2019,1031.526058,1167.802351,910.8515815
+Cigarette-Equivalents Per Capita,91,Portugal,3,Both,29,15+ years,1990,1749.922459,2074.234682,1458.79075
+Cigarette-Equivalents Per Capita,91,Portugal,3,Both,29,15+ years,2019,1247.840355,1532.396945,993.1937967
+Cigarette-Equivalents Per Capita,92,Spain,3,Both,29,15+ years,1990,3040.932056,3593.490409,2567.529649
+Cigarette-Equivalents Per Capita,92,Spain,3,Both,29,15+ years,2019,1908.874131,2320.612946,1551.057696
+Cigarette-Equivalents Per Capita,93,Sweden,3,Both,29,15+ years,1990,1596.322012,1786.443582,1419.620512
+Cigarette-Equivalents Per Capita,93,Sweden,3,Both,29,15+ years,2019,1410.140095,1713.879825,1148.587108
+Cigarette-Equivalents Per Capita,94,Switzerland,3,Both,29,15+ years,1990,2767.719145,3269.615452,2321.045642
+Cigarette-Equivalents Per Capita,94,Switzerland,3,Both,29,15+ years,2019,2016.337505,2493.620396,1623.36777
+Cigarette-Equivalents Per Capita,95,United Kingdom,3,Both,29,15+ years,1990,2233.553079,2507.732983,1997.280347
+Cigarette-Equivalents Per Capita,95,United Kingdom,3,Both,29,15+ years,2019,1189.306925,1417.234264,989.7323696
+Cigarette-Equivalents Per Capita,96,Southern Latin America,3,Both,29,15+ years,1990,1440.945942,1547.58265,1337.761766
+Cigarette-Equivalents Per Capita,96,Southern Latin America,3,Both,29,15+ years,2019,1183.96535,1341.765941,1054.127345
+Cigarette-Equivalents Per Capita,97,Argentina,3,Both,29,15+ years,1990,1593.808974,1745.80193,1455.469718
+Cigarette-Equivalents Per Capita,97,Argentina,3,Both,29,15+ years,2019,1316.267381,1544.0672,1135.34404
+Cigarette-Equivalents Per Capita,98,Chile,3,Both,29,15+ years,1990,1043.384689,1198.527406,907.2022501
+Cigarette-Equivalents Per Capita,98,Chile,3,Both,29,15+ years,2019,794.0283125,944.1686274,665.8962029
+Cigarette-Equivalents Per Capita,99,Uruguay,3,Both,29,15+ years,1990,1509.987363,1703.502078,1328.962291
+Cigarette-Equivalents Per Capita,99,Uruguay,3,Both,29,15+ years,2019,1512.057783,1794.678774,1273.438772
+Cigarette-Equivalents Per Capita,100,High-income North America,3,Both,29,15+ years,1990,2803.637938,3051.832603,2560.76523
+Cigarette-Equivalents Per Capita,100,High-income North America,3,Both,29,15+ years,2019,1437.817115,1617.932475,1261.795705
+Cigarette-Equivalents Per Capita,101,Canada,3,Both,29,15+ years,1990,2508.258518,2795.371132,2230.46492
+Cigarette-Equivalents Per Capita,101,Canada,3,Both,29,15+ years,2019,1448.572723,1698.259947,1227.641548
+Cigarette-Equivalents Per Capita,102,United States of America,3,Both,29,15+ years,1990,2835.472676,3113.017525,2571.326142
+Cigarette-Equivalents Per Capita,102,United States of America,3,Both,29,15+ years,2019,1436.551108,1632.544161,1236.259342
+Cigarette-Equivalents Per Capita,103,Latin America and Caribbean,3,Both,29,15+ years,1990,1077.119488,1148.223465,1008.250114
+Cigarette-Equivalents Per Capita,103,Latin America and Caribbean,3,Both,29,15+ years,2019,695.8472959,782.9391066,625.7400485
+Cigarette-Equivalents Per Capita,104,Caribbean,3,Both,29,15+ years,1990,1219.01012,1294.207803,1145.982789
+Cigarette-Equivalents Per Capita,104,Caribbean,3,Both,29,15+ years,2019,884.1773694,985.3413004,792.5395633
+Cigarette-Equivalents Per Capita,105,Antigua and Barbuda,3,Both,29,15+ years,1990,437.7318276,516.4359992,365.737401
+Cigarette-Equivalents Per Capita,105,Antigua and Barbuda,3,Both,29,15+ years,2019,507.7647666,619.4437426,406.7383726
+Cigarette-Equivalents Per Capita,106,Bahamas,3,Both,29,15+ years,1990,535.3152898,651.4425427,437.9960388
+Cigarette-Equivalents Per Capita,106,Bahamas,3,Both,29,15+ years,2019,520.5825346,669.7564727,410.2833414
+Cigarette-Equivalents Per Capita,107,Barbados,3,Both,29,15+ years,1990,681.2312102,748.2681231,618.7855581
+Cigarette-Equivalents Per Capita,107,Barbados,3,Both,29,15+ years,2019,591.8853649,717.4715694,484.2207566
+Cigarette-Equivalents Per Capita,108,Belize,3,Both,29,15+ years,1990,574.7548324,650.23157,501.7387809
+Cigarette-Equivalents Per Capita,108,Belize,3,Both,29,15+ years,2019,563.1472197,700.3870016,447.5024558
+Cigarette-Equivalents Per Capita,109,Cuba,3,Both,29,15+ years,1990,2419.383794,2625.879222,2217.797756
+Cigarette-Equivalents Per Capita,109,Cuba,3,Both,29,15+ years,2019,1863.84405,2230.408582,1542.332485
+Cigarette-Equivalents Per Capita,110,Dominica,3,Both,29,15+ years,1990,492.6093104,554.8017377,436.9441561
+Cigarette-Equivalents Per Capita,110,Dominica,3,Both,29,15+ years,2019,457.2287214,553.9395019,370.336052
+Cigarette-Equivalents Per Capita,111,Dominican Republic,3,Both,29,15+ years,1990,765.8292949,896.8564296,647.6468747
+Cigarette-Equivalents Per Capita,111,Dominican Republic,3,Both,29,15+ years,2019,773.1325344,966.7614599,619.0263649
+Cigarette-Equivalents Per Capita,112,Grenada,3,Both,29,15+ years,1990,443.2011344,521.8104932,378.3119797
+Cigarette-Equivalents Per Capita,112,Grenada,3,Both,29,15+ years,2019,426.8178532,535.951642,337.2793935
+Cigarette-Equivalents Per Capita,113,Guyana,3,Both,29,15+ years,1990,599.1015291,656.9188165,550.2107169
+Cigarette-Equivalents Per Capita,113,Guyana,3,Both,29,15+ years,2019,563.9020696,708.340151,444.8045049
+Cigarette-Equivalents Per Capita,114,Haiti,3,Both,29,15+ years,1990,280.7801832,310.8208543,252.7838471
+Cigarette-Equivalents Per Capita,114,Haiti,3,Both,29,15+ years,2019,199.6267466,240.1777339,164.0489046
+Cigarette-Equivalents Per Capita,115,Jamaica,3,Both,29,15+ years,1990,1040.524228,1126.11867,957.4421116
+Cigarette-Equivalents Per Capita,115,Jamaica,3,Both,29,15+ years,2019,943.4021721,1114.621465,796.7566836
+Cigarette-Equivalents Per Capita,116,Saint Lucia,3,Both,29,15+ years,1990,770.3110425,864.7530666,680.8344659
+Cigarette-Equivalents Per Capita,116,Saint Lucia,3,Both,29,15+ years,2019,653.7218098,777.9309744,542.8239033
+Cigarette-Equivalents Per Capita,117,Saint Vincent and the Grenadines,3,Both,29,15+ years,1990,467.7009453,545.1501235,402.7200998
+Cigarette-Equivalents Per Capita,117,Saint Vincent and the Grenadines,3,Both,29,15+ years,2019,522.4484233,670.0139374,405.9294252
+Cigarette-Equivalents Per Capita,118,Suriname,3,Both,29,15+ years,1990,1536.948466,1671.83571,1413.901909
+Cigarette-Equivalents Per Capita,118,Suriname,3,Both,29,15+ years,2019,1223.74979,1493.956475,979.113782
+Cigarette-Equivalents Per Capita,119,Trinidad and Tobago,3,Both,29,15+ years,1990,1054.024358,1147.244189,968.5244598
+Cigarette-Equivalents Per Capita,119,Trinidad and Tobago,3,Both,29,15+ years,2019,808.4006356,979.708039,655.3242052
+Cigarette-Equivalents Per Capita,120,Andean Latin America,3,Both,29,15+ years,1990,337.2797557,368.7384992,309.1543818
+Cigarette-Equivalents Per Capita,120,Andean Latin America,3,Both,29,15+ years,2019,257.3294515,290.4177055,227.8085892
+Cigarette-Equivalents Per Capita,121,Bolivia (Plurinational State of),3,Both,29,15+ years,1990,391.9904474,437.6582669,351.6771797
+Cigarette-Equivalents Per Capita,121,Bolivia (Plurinational State of),3,Both,29,15+ years,2019,267.8629803,308.9587318,231.2857271
+Cigarette-Equivalents Per Capita,122,Ecuador,3,Both,29,15+ years,1990,509.9340578,594.224422,432.5055203
+Cigarette-Equivalents Per Capita,122,Ecuador,3,Both,29,15+ years,2019,321.0743686,400.2534415,256.1791211
+Cigarette-Equivalents Per Capita,123,Peru,3,Both,29,15+ years,1990,241.4504972,279.1783655,210.8374795
+Cigarette-Equivalents Per Capita,123,Peru,3,Both,29,15+ years,2019,220.6275208,267.4024975,179.6105183
+Cigarette-Equivalents Per Capita,124,Central Latin America,3,Both,29,15+ years,1990,803.304834,869.9794333,737.4116431
+Cigarette-Equivalents Per Capita,124,Central Latin America,3,Both,29,15+ years,2019,505.9956299,553.9081461,457.636329
+Cigarette-Equivalents Per Capita,125,Colombia,3,Both,29,15+ years,1990,870.1535981,989.8899169,763.6122313
+Cigarette-Equivalents Per Capita,125,Colombia,3,Both,29,15+ years,2019,542.5380794,636.3569888,461.8424298
+Cigarette-Equivalents Per Capita,126,Costa Rica,3,Both,29,15+ years,1990,797.5308711,885.5338459,722.4065493
+Cigarette-Equivalents Per Capita,126,Costa Rica,3,Both,29,15+ years,2019,535.708635,615.2411859,463.2967304
+Cigarette-Equivalents Per Capita,127,El Salvador,3,Both,29,15+ years,1990,464.2168713,520.9890524,410.9400076
+Cigarette-Equivalents Per Capita,127,El Salvador,3,Both,29,15+ years,2019,527.5572876,638.8984647,426.6904527
+Cigarette-Equivalents Per Capita,128,Guatemala,3,Both,29,15+ years,1990,500.6733217,605.599183,412.7982149
+Cigarette-Equivalents Per Capita,128,Guatemala,3,Both,29,15+ years,2019,451.7876267,561.3229297,359.930093
+Cigarette-Equivalents Per Capita,129,Honduras,3,Both,29,15+ years,1990,919.2409921,1008.225823,835.0926487
+Cigarette-Equivalents Per Capita,129,Honduras,3,Both,29,15+ years,2019,783.790678,961.2134462,635.7389564
+Cigarette-Equivalents Per Capita,130,Mexico,3,Both,29,15+ years,1990,774.7220892,886.8772959,663.0663328
+Cigarette-Equivalents Per Capita,130,Mexico,3,Both,29,15+ years,2019,426.0563165,507.7059644,348.5393038
+Cigarette-Equivalents Per Capita,131,Nicaragua,3,Both,29,15+ years,1990,771.6475358,867.5088528,686.1178955
+Cigarette-Equivalents Per Capita,131,Nicaragua,3,Both,29,15+ years,2019,616.0239337,749.9881261,501.2146414
+Cigarette-Equivalents Per Capita,132,Panama,3,Both,29,15+ years,1990,606.5976995,666.8858452,550.9069375
+Cigarette-Equivalents Per Capita,132,Panama,3,Both,29,15+ years,2019,546.5506844,676.7931343,427.6984811
+Cigarette-Equivalents Per Capita,133,Venezuela (Bolivarian Republic of),3,Both,29,15+ years,1990,1043.845007,1182.22082,918.7127103
+Cigarette-Equivalents Per Capita,133,Venezuela (Bolivarian Republic of),3,Both,29,15+ years,2019,695.4894389,842.6745002,566.4458825
+Cigarette-Equivalents Per Capita,134,Tropical Latin America,3,Both,29,15+ years,1990,1524.173223,1686.770939,1364.196771
+Cigarette-Equivalents Per Capita,134,Tropical Latin America,3,Both,29,15+ years,2019,994.4785121,1205.371535,822.853775
+Cigarette-Equivalents Per Capita,135,Brazil,3,Both,29,15+ years,1990,1533.072737,1700.940379,1369.026546
+Cigarette-Equivalents Per Capita,135,Brazil,3,Both,29,15+ years,2019,992.7907056,1207.173743,819.4433988
+Cigarette-Equivalents Per Capita,136,Paraguay,3,Both,29,15+ years,1990,1196.757574,1454.236817,987.0216008
+Cigarette-Equivalents Per Capita,136,Paraguay,3,Both,29,15+ years,2019,1047.24392,1331.409425,820.2490345
+Cigarette-Equivalents Per Capita,137,North Africa and Middle East,3,Both,29,15+ years,1990,1396.323665,1466.483405,1322.376121
+Cigarette-Equivalents Per Capita,137,North Africa and Middle East,3,Both,29,15+ years,2019,1133.57038,1210.693368,1060.599425
+Cigarette-Equivalents Per Capita,138,North Africa and Middle East,3,Both,29,15+ years,1990,1396.323665,1466.483405,1322.376121
+Cigarette-Equivalents Per Capita,138,North Africa and Middle East,3,Both,29,15+ years,2019,1133.57038,1210.693368,1060.599425
+Cigarette-Equivalents Per Capita,139,Algeria,3,Both,29,15+ years,1990,1259.079364,1381.657971,1149.344082
+Cigarette-Equivalents Per Capita,139,Algeria,3,Both,29,15+ years,2019,1134.384185,1295.191746,987.6957763
+Cigarette-Equivalents Per Capita,140,Bahrain,3,Both,29,15+ years,1990,1235.821854,1597.359033,980.6284229
+Cigarette-Equivalents Per Capita,140,Bahrain,3,Both,29,15+ years,2019,1176.767352,1492.760495,908.5825916
+Cigarette-Equivalents Per Capita,141,Egypt,3,Both,29,15+ years,1990,1259.122218,1443.761331,1086.763924
+Cigarette-Equivalents Per Capita,141,Egypt,3,Both,29,15+ years,2019,1292.676022,1552.272903,1075.373223
+Cigarette-Equivalents Per Capita,142,Iran (Islamic Republic of),3,Both,29,15+ years,1990,816.3432882,929.9986437,719.8764828
+Cigarette-Equivalents Per Capita,142,Iran (Islamic Republic of),3,Both,29,15+ years,2019,792.428295,974.3091543,642.1915327
+Cigarette-Equivalents Per Capita,143,Iraq,3,Both,29,15+ years,1990,1893.669929,2170.613302,1643.254345
+Cigarette-Equivalents Per Capita,143,Iraq,3,Both,29,15+ years,2019,1453.251317,1767.076182,1174.105227
+Cigarette-Equivalents Per Capita,144,Jordan,3,Both,29,15+ years,1990,1969.193343,2187.982604,1765.778088
+Cigarette-Equivalents Per Capita,144,Jordan,3,Both,29,15+ years,2019,1450.355316,1725.08808,1193.062072
+Cigarette-Equivalents Per Capita,145,Kuwait,3,Both,29,15+ years,1990,2233.623474,2584.517923,1913.714887
+Cigarette-Equivalents Per Capita,145,Kuwait,3,Both,29,15+ years,2019,1924.988756,2347.913894,1559.988427
+Cigarette-Equivalents Per Capita,146,Lebanon,3,Both,29,15+ years,1990,2037.000437,2435.740061,1716.241543
+Cigarette-Equivalents Per Capita,146,Lebanon,3,Both,29,15+ years,2019,2209.754407,2744.145381,1729.305138
+Cigarette-Equivalents Per Capita,147,Libya,3,Both,29,15+ years,1990,1241.309825,1345.976908,1136.712826
+Cigarette-Equivalents Per Capita,147,Libya,3,Both,29,15+ years,2019,1024.001709,1269.169236,827.7103223
+Cigarette-Equivalents Per Capita,148,Morocco,3,Both,29,15+ years,1990,943.8392743,1063.885722,839.4089141
+Cigarette-Equivalents Per Capita,148,Morocco,3,Both,29,15+ years,2019,630.7223976,739.2435315,535.9994585
+Cigarette-Equivalents Per Capita,149,Palestine,3,Both,29,15+ years,1990,1231.600928,1563.162146,956.6909089
+Cigarette-Equivalents Per Capita,149,Palestine,3,Both,29,15+ years,2019,1173.626612,1522.542116,912.1412191
+Cigarette-Equivalents Per Capita,150,Oman,3,Both,29,15+ years,1990,1157.900485,1273.225009,1047.043145
+Cigarette-Equivalents Per Capita,150,Oman,3,Both,29,15+ years,2019,1140.832663,1425.760918,899.4466564
+Cigarette-Equivalents Per Capita,151,Qatar,3,Both,29,15+ years,1990,1242.72778,1578.898585,953.6758922
+Cigarette-Equivalents Per Capita,151,Qatar,3,Both,29,15+ years,2019,1171.685636,1472.337405,906.0989076
+Cigarette-Equivalents Per Capita,152,Saudi Arabia,3,Both,29,15+ years,1990,1233.872644,1557.043237,955.8681257
+Cigarette-Equivalents Per Capita,152,Saudi Arabia,3,Both,29,15+ years,2019,1167.062234,1486.086231,903.2331903
+Cigarette-Equivalents Per Capita,153,Syrian Arab Republic,3,Both,29,15+ years,1990,1554.092954,1734.63819,1402.165225
+Cigarette-Equivalents Per Capita,153,Syrian Arab Republic,3,Both,29,15+ years,2019,1233.557734,1529.610969,991.7352329
+Cigarette-Equivalents Per Capita,154,Tunisia,3,Both,29,15+ years,1990,1821.010154,2137.833936,1556.305473
+Cigarette-Equivalents Per Capita,154,Tunisia,3,Both,29,15+ years,2019,1511.967536,1824.871201,1243.763276
+Cigarette-Equivalents Per Capita,155,Turkey,3,Both,29,15+ years,1990,2670.934303,3040.62338,2359.368375
+Cigarette-Equivalents Per Capita,155,Turkey,3,Both,29,15+ years,2019,1771.283437,2147.626619,1437.516092
+Cigarette-Equivalents Per Capita,156,United Arab Emirates,3,Both,29,15+ years,1990,1395.446104,1540.293154,1250.203211
+Cigarette-Equivalents Per Capita,156,United Arab Emirates,3,Both,29,15+ years,2019,1293.603581,1619.247217,1015.79233
+Cigarette-Equivalents Per Capita,157,Yemen,3,Both,29,15+ years,1990,1542.820268,1794.351815,1310.986906
+Cigarette-Equivalents Per Capita,157,Yemen,3,Both,29,15+ years,2019,1391.887788,1712.648491,1130.488383
+Cigarette-Equivalents Per Capita,158,South Asia,3,Both,29,15+ years,1990,712.5482432,766.9075452,663.4556938
+Cigarette-Equivalents Per Capita,158,South Asia,3,Both,29,15+ years,2019,557.6324203,634.1184437,490.0885854
+Cigarette-Equivalents Per Capita,159,South Asia,3,Both,29,15+ years,1990,712.5482432,766.9075452,663.4556938
+Cigarette-Equivalents Per Capita,159,South Asia,3,Both,29,15+ years,2019,557.6324203,634.1184437,490.0885854
+Cigarette-Equivalents Per Capita,160,Afghanistan,3,Both,29,15+ years,1990,274.1269573,320.5580209,232.9144462
+Cigarette-Equivalents Per Capita,160,Afghanistan,3,Both,29,15+ years,2019,444.3346322,546.1715003,355.3950032
+Cigarette-Equivalents Per Capita,161,Bangladesh,3,Both,29,15+ years,1990,558.5738322,601.2554017,517.4786352
+Cigarette-Equivalents Per Capita,161,Bangladesh,3,Both,29,15+ years,2019,445.6797733,522.6732552,373.9529059
+Cigarette-Equivalents Per Capita,162,Bhutan,3,Both,29,15+ years,1990,720.5045696,916.2289662,555.4027447
+Cigarette-Equivalents Per Capita,162,Bhutan,3,Both,29,15+ years,2019,629.7094589,801.3376647,482.4806572
+Cigarette-Equivalents Per Capita,163,India,3,Both,29,15+ years,1990,699.3977302,768.3339546,638.0310049
+Cigarette-Equivalents Per Capita,163,India,3,Both,29,15+ years,2019,558.5458191,656.3285973,473.0227356
+Cigarette-Equivalents Per Capita,164,Nepal,3,Both,29,15+ years,1990,621.04009,689.80115,561.9455998
+Cigarette-Equivalents Per Capita,164,Nepal,3,Both,29,15+ years,2019,478.4811061,570.0235188,395.6612767
+Cigarette-Equivalents Per Capita,165,Pakistan,3,Both,29,15+ years,1990,976.8753133,1027.437081,927.8753203
+Cigarette-Equivalents Per Capita,165,Pakistan,3,Both,29,15+ years,2019,642.0392042,733.557162,557.868295
+Cigarette-Equivalents Per Capita,166,Sub-Saharan Africa,3,Both,29,15+ years,1990,413.9141467,429.2868253,399.3031182
+Cigarette-Equivalents Per Capita,166,Sub-Saharan Africa,3,Both,29,15+ years,2019,321.120824,335.7997965,307.0485978
+Cigarette-Equivalents Per Capita,167,Central Sub-Saharan Africa,3,Both,29,15+ years,1990,313.9395718,334.5862116,294.8815619
+Cigarette-Equivalents Per Capita,167,Central Sub-Saharan Africa,3,Both,29,15+ years,2019,298.1416956,334.7935898,264.2858342
+Cigarette-Equivalents Per Capita,168,Angola,3,Both,29,15+ years,1990,665.149925,722.4439281,613.260347
+Cigarette-Equivalents Per Capita,168,Angola,3,Both,29,15+ years,2019,586.1772439,676.0943965,507.2291695
+Cigarette-Equivalents Per Capita,169,Central African Republic,3,Both,29,15+ years,1990,352.1963656,410.4976359,299.5395375
+Cigarette-Equivalents Per Capita,169,Central African Republic,3,Both,29,15+ years,2019,286.5447312,346.8388385,229.9605619
+Cigarette-Equivalents Per Capita,170,Congo,3,Both,29,15+ years,1990,311.4767619,351.1709903,275.6410104
+Cigarette-Equivalents Per Capita,170,Congo,3,Both,29,15+ years,2019,328.1484862,395.0321749,273.354258
+Cigarette-Equivalents Per Capita,171,Democratic Republic of the Congo,3,Both,29,15+ years,1990,216.6660055,241.1487013,193.7493485
+Cigarette-Equivalents Per Capita,171,Democratic Republic of the Congo,3,Both,29,15+ years,2019,196.0522221,243.4840134,156.3054249
+Cigarette-Equivalents Per Capita,172,Equatorial Guinea,3,Both,29,15+ years,1990,361.2719785,468.0387593,277.4153651
+Cigarette-Equivalents Per Capita,172,Equatorial Guinea,3,Both,29,15+ years,2019,354.7575322,455.0531512,271.3286903
+Cigarette-Equivalents Per Capita,173,Gabon,3,Both,29,15+ years,1990,324.6686943,366.2613884,286.5450115
+Cigarette-Equivalents Per Capita,173,Gabon,3,Both,29,15+ years,2019,350.900386,440.5476807,277.4375391
+Cigarette-Equivalents Per Capita,174,Eastern Sub-Saharan Africa,3,Both,29,15+ years,1990,300.0955552,312.5511124,288.4274844
+Cigarette-Equivalents Per Capita,174,Eastern Sub-Saharan Africa,3,Both,29,15+ years,2019,260.0471449,276.8677165,244.1177649
+Cigarette-Equivalents Per Capita,175,Burundi,3,Both,29,15+ years,1990,428.1586874,491.4903344,372.7137006
+Cigarette-Equivalents Per Capita,175,Burundi,3,Both,29,15+ years,2019,292.2416778,365.0870268,229.9914105
+Cigarette-Equivalents Per Capita,176,Comoros,3,Both,29,15+ years,1990,337.1938289,428.7825578,255.8879784
+Cigarette-Equivalents Per Capita,176,Comoros,3,Both,29,15+ years,2019,315.9371381,397.7787272,246.0976304
+Cigarette-Equivalents Per Capita,177,Djibouti,3,Both,29,15+ years,1990,697.332631,882.5848166,537.0065251
+Cigarette-Equivalents Per Capita,177,Djibouti,3,Both,29,15+ years,2019,654.8158746,834.6670203,501.7287357
+Cigarette-Equivalents Per Capita,178,Eritrea,3,Both,29,15+ years,1990,337.3310366,433.6096052,257.7823842
+Cigarette-Equivalents Per Capita,178,Eritrea,3,Both,29,15+ years,2019,312.8997835,401.831339,240.3103812
+Cigarette-Equivalents Per Capita,179,Ethiopia,3,Both,29,15+ years,1990,114.9007559,123.6289259,106.0083252
+Cigarette-Equivalents Per Capita,179,Ethiopia,3,Both,29,15+ years,2019,95.11144818,110.0134563,81.01665301
+Cigarette-Equivalents Per Capita,180,Kenya,3,Both,29,15+ years,1990,364.995047,419.193673,315.7193931
+Cigarette-Equivalents Per Capita,180,Kenya,3,Both,29,15+ years,2019,333.8730457,391.9920917,279.6839339
+Cigarette-Equivalents Per Capita,181,Madagascar,3,Both,29,15+ years,1990,498.4362445,543.1589173,458.2634968
+Cigarette-Equivalents Per Capita,181,Madagascar,3,Both,29,15+ years,2019,279.5111945,334.7825757,229.7202289
+Cigarette-Equivalents Per Capita,182,Malawi,3,Both,29,15+ years,1990,335.4840955,408.5437364,272.1579609
+Cigarette-Equivalents Per Capita,182,Malawi,3,Both,29,15+ years,2019,326.1953629,413.7798845,254.0664026
+Cigarette-Equivalents Per Capita,183,Mauritius,3,Both,29,15+ years,1990,1136.334914,1228.331107,1053.766197
+Cigarette-Equivalents Per Capita,183,Mauritius,3,Both,29,15+ years,2019,915.699019,1081.741903,768.4444903
+Cigarette-Equivalents Per Capita,184,Mozambique,3,Both,29,15+ years,1990,334.0046529,357.3553056,307.3946697
+Cigarette-Equivalents Per Capita,184,Mozambique,3,Both,29,15+ years,2019,308.273887,389.1185905,241.6956822
+Cigarette-Equivalents Per Capita,185,Rwanda,3,Both,29,15+ years,1990,459.9366407,555.7187194,372.0969191
+Cigarette-Equivalents Per Capita,185,Rwanda,3,Both,29,15+ years,2019,487.9498812,603.8830778,386.0863902
+Cigarette-Equivalents Per Capita,186,Seychelles,3,Both,29,15+ years,1990,1435.482922,1553.552801,1332.435439
+Cigarette-Equivalents Per Capita,186,Seychelles,3,Both,29,15+ years,2019,1337.291242,1652.96538,1083.433214
+Cigarette-Equivalents Per Capita,187,Somalia,3,Both,29,15+ years,1990,335.0446952,423.0862803,260.262763
+Cigarette-Equivalents Per Capita,187,Somalia,3,Both,29,15+ years,2019,315.6342192,401.7561412,241.220229
+Cigarette-Equivalents Per Capita,189,United Republic of Tanzania,3,Both,29,15+ years,1990,415.7664772,456.8349693,374.8464796
+Cigarette-Equivalents Per Capita,189,United Republic of Tanzania,3,Both,29,15+ years,2019,345.6008647,410.3605569,290.6835757
+Cigarette-Equivalents Per Capita,190,Uganda,3,Both,29,15+ years,1990,251.098896,288.7566627,219.7292849
+Cigarette-Equivalents Per Capita,190,Uganda,3,Both,29,15+ years,2019,249.1517984,312.5072642,196.0335753
+Cigarette-Equivalents Per Capita,191,Zambia,3,Both,29,15+ years,1990,308.165288,343.5369267,273.8616776
+Cigarette-Equivalents Per Capita,191,Zambia,3,Both,29,15+ years,2019,296.2504164,366.5544164,232.9681866
+Cigarette-Equivalents Per Capita,192,Southern Sub-Saharan Africa,3,Both,29,15+ years,1990,1260.527931,1390.743114,1142.633477
+Cigarette-Equivalents Per Capita,192,Southern Sub-Saharan Africa,3,Both,29,15+ years,2019,810.9816675,930.1691856,702.7740489
+Cigarette-Equivalents Per Capita,193,Botswana,3,Both,29,15+ years,1990,962.7787747,1083.407,861.8803317
+Cigarette-Equivalents Per Capita,193,Botswana,3,Both,29,15+ years,2019,798.0684714,958.2884053,664.8263919
+Cigarette-Equivalents Per Capita,194,Lesotho,3,Both,29,15+ years,1990,1121.689565,1257.731664,1001.928499
+Cigarette-Equivalents Per Capita,194,Lesotho,3,Both,29,15+ years,2019,1228.713565,1469.76849,1004.635973
+Cigarette-Equivalents Per Capita,195,Namibia,3,Both,29,15+ years,1990,357.9696882,428.9462537,296.4976747
+Cigarette-Equivalents Per Capita,195,Namibia,3,Both,29,15+ years,2019,293.6810731,358.1087041,238.3924482
+Cigarette-Equivalents Per Capita,196,South Africa,3,Both,29,15+ years,1990,1426.398111,1600.117752,1268.859787
+Cigarette-Equivalents Per Capita,196,South Africa,3,Both,29,15+ years,2019,806.5038049,954.4821933,667.3599049
+Cigarette-Equivalents Per Capita,197,Eswatini,3,Both,29,15+ years,1990,269.2084199,300.9198609,240.7884111
+Cigarette-Equivalents Per Capita,197,Eswatini,3,Both,29,15+ years,2019,230.3017407,290.6228332,183.217158
+Cigarette-Equivalents Per Capita,198,Zimbabwe,3,Both,29,15+ years,1990,931.8037275,1130.361142,766.1074319
+Cigarette-Equivalents Per Capita,198,Zimbabwe,3,Both,29,15+ years,2019,898.3672255,1132.376771,693.5353262
+Cigarette-Equivalents Per Capita,199,Western Sub-Saharan Africa,3,Both,29,15+ years,1990,324.2754494,341.2294675,309.8847175
+Cigarette-Equivalents Per Capita,199,Western Sub-Saharan Africa,3,Both,29,15+ years,2019,298.4621393,319.5610506,278.8476206
+Cigarette-Equivalents Per Capita,200,Benin,3,Both,29,15+ years,1990,350.9817263,403.6979723,301.3077492
+Cigarette-Equivalents Per Capita,200,Benin,3,Both,29,15+ years,2019,285.1714074,348.5371023,228.8309561
+Cigarette-Equivalents Per Capita,201,Burkina Faso,3,Both,29,15+ years,1990,273.9047633,324.1866013,229.8281085
+Cigarette-Equivalents Per Capita,201,Burkina Faso,3,Both,29,15+ years,2019,241.3764413,298.3448195,193.2644325
+Cigarette-Equivalents Per Capita,202,Cameroon,3,Both,29,15+ years,1990,431.819403,506.3090419,364.8078359
+Cigarette-Equivalents Per Capita,202,Cameroon,3,Both,29,15+ years,2019,358.0988595,434.8832421,294.9018668
+Cigarette-Equivalents Per Capita,203,Cabo Verde,3,Both,29,15+ years,1990,339.2400718,367.695871,313.9309798
+Cigarette-Equivalents Per Capita,203,Cabo Verde,3,Both,29,15+ years,2019,211.8179842,248.606968,180.6501062
+Cigarette-Equivalents Per Capita,204,Chad,3,Both,29,15+ years,1990,341.835143,439.5691091,263.2609254
+Cigarette-Equivalents Per Capita,204,Chad,3,Both,29,15+ years,2019,318.4417877,412.8016198,246.6862639
+Cigarette-Equivalents Per Capita,205,Côte d'Ivoire,3,Both,29,15+ years,1990,750.1574904,834.1846806,669.2275613
+Cigarette-Equivalents Per Capita,205,Côte d'Ivoire,3,Both,29,15+ years,2019,734.1810932,881.3715363,603.2016704
+Cigarette-Equivalents Per Capita,206,Gambia,3,Both,29,15+ years,1990,627.2311275,706.0023497,557.4535068
+Cigarette-Equivalents Per Capita,206,Gambia,3,Both,29,15+ years,2019,448.5131326,549.565109,368.258082
+Cigarette-Equivalents Per Capita,207,Ghana,3,Both,29,15+ years,1990,209.4794718,226.2842637,191.7818341
+Cigarette-Equivalents Per Capita,207,Ghana,3,Both,29,15+ years,2019,209.3583194,249.892255,173.6160527
+Cigarette-Equivalents Per Capita,208,Guinea,3,Both,29,15+ years,1990,595.1344578,665.4048601,528.4817933
+Cigarette-Equivalents Per Capita,208,Guinea,3,Both,29,15+ years,2019,567.5911586,688.828881,472.6171885
+Cigarette-Equivalents Per Capita,209,Guinea-Bissau,3,Both,29,15+ years,1990,165.9905217,177.6856861,154.8055383
+Cigarette-Equivalents Per Capita,209,Guinea-Bissau,3,Both,29,15+ years,2019,179.2215511,212.5150341,150.4537531
+Cigarette-Equivalents Per Capita,210,Liberia,3,Both,29,15+ years,1990,241.7454848,271.0245996,214.4897948
+Cigarette-Equivalents Per Capita,210,Liberia,3,Both,29,15+ years,2019,222.7370568,269.5803276,182.5131558
+Cigarette-Equivalents Per Capita,211,Mali,3,Both,29,15+ years,1990,185.6699056,211.6947633,162.9577003
+Cigarette-Equivalents Per Capita,211,Mali,3,Both,29,15+ years,2019,251.6501129,299.4987058,208.670793
+Cigarette-Equivalents Per Capita,212,Mauritania,3,Both,29,15+ years,1990,544.9970602,578.7541021,511.3271401
+Cigarette-Equivalents Per Capita,212,Mauritania,3,Both,29,15+ years,2019,412.0613159,506.9699911,329.6349656
+Cigarette-Equivalents Per Capita,213,Niger,3,Both,29,15+ years,1990,179.9700568,205.2972292,157.8175865
+Cigarette-Equivalents Per Capita,213,Niger,3,Both,29,15+ years,2019,228.8466905,279.2205404,183.5245592
+Cigarette-Equivalents Per Capita,214,Nigeria,3,Both,29,15+ years,1990,225.4515271,253.0644795,199.8255386
+Cigarette-Equivalents Per Capita,214,Nigeria,3,Both,29,15+ years,2019,223.5674522,261.1970769,191.1934061
+Cigarette-Equivalents Per Capita,215,Sao Tome and Principe,3,Both,29,15+ years,1990,143.4354033,166.3030722,122.4253165
+Cigarette-Equivalents Per Capita,215,Sao Tome and Principe,3,Both,29,15+ years,2019,161.4986434,196.7757188,131.2400554
+Cigarette-Equivalents Per Capita,216,Senegal,3,Both,29,15+ years,1990,684.6553722,736.8868896,635.8585236
+Cigarette-Equivalents Per Capita,216,Senegal,3,Both,29,15+ years,2019,504.9461758,624.7277923,404.797817
+Cigarette-Equivalents Per Capita,217,Sierra Leone,3,Both,29,15+ years,1990,406.0448411,433.0319304,380.3495454
+Cigarette-Equivalents Per Capita,217,Sierra Leone,3,Both,29,15+ years,2019,334.5221283,406.5354386,274.4309939
+Cigarette-Equivalents Per Capita,218,Togo,3,Both,29,15+ years,1990,809.9197255,937.9341426,695.969894
+Cigarette-Equivalents Per Capita,218,Togo,3,Both,29,15+ years,2019,625.5463337,781.6545948,492.8447372
+Cigarette-Equivalents Per Capita,298,American Samoa,3,Both,29,15+ years,1990,983.669866,1259.660954,750.5312315
+Cigarette-Equivalents Per Capita,298,American Samoa,3,Both,29,15+ years,2019,962.958999,1229.337727,734.2430871
+Cigarette-Equivalents Per Capita,305,Bermuda,3,Both,29,15+ years,1990,753.9319494,913.5282334,609.3989389
+Cigarette-Equivalents Per Capita,305,Bermuda,3,Both,29,15+ years,2019,761.1747117,916.0010416,606.9160017
+Cigarette-Equivalents Per Capita,320,Cook Islands,3,Both,29,15+ years,1990,990.0346996,1261.375669,772.5719124
+Cigarette-Equivalents Per Capita,320,Cook Islands,3,Both,29,15+ years,2019,958.2860697,1218.801458,731.0491478
+Cigarette-Equivalents Per Capita,349,Greenland,3,Both,29,15+ years,1990,2401.490313,3118.257016,1810.975102
+Cigarette-Equivalents Per Capita,349,Greenland,3,Both,29,15+ years,2019,1837.016275,2358.817448,1410.666583
+Cigarette-Equivalents Per Capita,351,Guam,3,Both,29,15+ years,1990,989.716897,1244.084361,763.233492
+Cigarette-Equivalents Per Capita,351,Guam,3,Both,29,15+ years,2019,959.5851611,1225.108055,726.411498
+Cigarette-Equivalents Per Capita,367,Monaco,3,Both,29,15+ years,1990,2135.994552,2716.109538,1645.238659
+Cigarette-Equivalents Per Capita,367,Monaco,3,Both,29,15+ years,2019,1773.6034,2299.130782,1343.316378
+Cigarette-Equivalents Per Capita,369,Nauru,3,Both,29,15+ years,1990,985.8261704,1264.65113,753.9857412
+Cigarette-Equivalents Per Capita,369,Nauru,3,Both,29,15+ years,2019,963.1005342,1223.515045,732.1594636
+Cigarette-Equivalents Per Capita,374,Niue,3,Both,29,15+ years,1990,994.2590062,1268.620607,762.5242829
+Cigarette-Equivalents Per Capita,374,Niue,3,Both,29,15+ years,2019,962.2961819,1211.695116,749.4854302
+Cigarette-Equivalents Per Capita,376,Northern Mariana Islands,3,Both,29,15+ years,1990,987.3396696,1259.578605,760.7823192
+Cigarette-Equivalents Per Capita,376,Northern Mariana Islands,3,Both,29,15+ years,2019,959.7678964,1239.321713,736.0550637
+Cigarette-Equivalents Per Capita,380,Palau,3,Both,29,15+ years,1990,1000.038625,1278.473522,769.7120858
+Cigarette-Equivalents Per Capita,380,Palau,3,Both,29,15+ years,2019,964.5013169,1234.522664,744.6200833
+Cigarette-Equivalents Per Capita,385,Puerto Rico,3,Both,29,15+ years,1990,682.7465707,868.8532159,519.3296293
+Cigarette-Equivalents Per Capita,385,Puerto Rico,3,Both,29,15+ years,2019,648.2644556,826.4698596,496.286418
+Cigarette-Equivalents Per Capita,393,Saint Kitts and Nevis,3,Both,29,15+ years,1990,383.4174201,434.9251382,338.0414598
+Cigarette-Equivalents Per Capita,393,Saint Kitts and Nevis,3,Both,29,15+ years,2019,389.6513191,471.9459134,312.9217568
+Cigarette-Equivalents Per Capita,396,San Marino,3,Both,29,15+ years,1990,2160.440262,2746.515815,1692.114661
+Cigarette-Equivalents Per Capita,396,San Marino,3,Both,29,15+ years,2019,1793.046359,2323.795259,1377.127017
+Cigarette-Equivalents Per Capita,413,Tokelau,3,Both,29,15+ years,1990,989.9150905,1272.021794,765.5119533
+Cigarette-Equivalents Per Capita,413,Tokelau,3,Both,29,15+ years,2019,963.3026052,1219.77156,739.4525745
+Cigarette-Equivalents Per Capita,416,Tuvalu,3,Both,29,15+ years,1990,988.7828209,1265.117501,774.6887705
+Cigarette-Equivalents Per Capita,416,Tuvalu,3,Both,29,15+ years,2019,959.8200998,1224.64117,734.6646833
+Cigarette-Equivalents Per Capita,422,United States Virgin Islands,3,Both,29,15+ years,1990,681.8171727,867.7109969,520.210421
+Cigarette-Equivalents Per Capita,422,United States Virgin Islands,3,Both,29,15+ years,2019,648.0239994,821.50337,497.6456222
+Cigarette-Equivalents Per Capita,435,South Sudan,3,Both,29,15+ years,1990,337.087376,431.0232958,256.2754359
+Cigarette-Equivalents Per Capita,435,South Sudan,3,Both,29,15+ years,2019,317.3185264,410.8880235,241.9579234
+Cigarette-Equivalents Per Capita,522,Sudan,3,Both,29,15+ years,1990,170.6133652,200.0585773,142.3711416
+Cigarette-Equivalents Per Capita,522,Sudan,3,Both,29,15+ years,2019,227.0247449,279.9196146,180.7731291
