@@ -1,0 +1,931 @@
+date,name,category,value
+1990,China,East Asia,279346994.1
+1991,China,East Asia,285893059.4
+1992,China,East Asia,291247088.1
+1993,China,East Asia,295310851.8
+1994,China,East Asia,297898575.3
+1995,China,East Asia,299390944.5
+1996,China,East Asia,299702870.6
+1997,China,East Asia,298897736.4
+1998,China,East Asia,297478616.1
+1999,China,East Asia,295875737.9
+2000,China,East Asia,294513195.9
+2001,China,East Asia,293774908.4
+2002,China,East Asia,293862140.9
+2003,China,East Asia,294913235.5
+2004,China,East Asia,296917556.3
+2005,China,East Asia,299925921.8
+2006,China,East Asia,303689716.3
+2007,China,East Asia,307967148.9
+2008,China,East Asia,312662721.2
+2009,China,East Asia,317553720.4
+2010,China,East Asia,322335913.2
+2011,China,East Asia,326404738.0
+2012,China,East Asia,329920255.7
+2013,China,East Asia,332757258.3
+2014,China,East Asia,335121681.7
+2015,China,East Asia,336900376.5
+2016,China,East Asia,338180339.4
+2017,China,East Asia,339170276.8
+2018,China,East Asia,340117159.6
+2019,China,East Asia,341263781.6
+1990,Democratic People's Republic of Korea,East Asia,3563398.725
+1991,Democratic People's Republic of Korea,East Asia,3672969.159
+1992,Democratic People's Republic of Korea,East Asia,3782045.239
+1993,Democratic People's Republic of Korea,East Asia,3889420.984
+1994,Democratic People's Republic of Korea,East Asia,3995223.808
+1995,Democratic People's Republic of Korea,East Asia,4090221.583
+1996,Democratic People's Republic of Korea,East Asia,4180100.65
+1997,Democratic People's Republic of Korea,East Asia,4272932.281
+1998,Democratic People's Republic of Korea,East Asia,4362302.02
+1999,Democratic People's Republic of Korea,East Asia,4447959.372
+2000,Democratic People's Republic of Korea,East Asia,4510589.099
+2001,Democratic People's Republic of Korea,East Asia,4556458.052
+2002,Democratic People's Republic of Korea,East Asia,4595079.115
+2003,Democratic People's Republic of Korea,East Asia,4642535.262
+2004,Democratic People's Republic of Korea,East Asia,4699119.106
+2005,Democratic People's Republic of Korea,East Asia,4755328.798
+2006,Democratic People's Republic of Korea,East Asia,4802866.914
+2007,Democratic People's Republic of Korea,East Asia,4850092.448
+2008,Democratic People's Republic of Korea,East Asia,4891398.871
+2009,Democratic People's Republic of Korea,East Asia,4932410.106
+2010,Democratic People's Republic of Korea,East Asia,4973629.667
+2011,Democratic People's Republic of Korea,East Asia,5011282.055
+2012,Democratic People's Republic of Korea,East Asia,5049497.407
+2013,Democratic People's Republic of Korea,East Asia,5089692.119
+2014,Democratic People's Republic of Korea,East Asia,5130835.635
+2015,Democratic People's Republic of Korea,East Asia,5171666.131
+2016,Democratic People's Republic of Korea,East Asia,5208906.576
+2017,Democratic People's Republic of Korea,East Asia,5244940.736
+2018,Democratic People's Republic of Korea,East Asia,5300059.36
+2019,Democratic People's Republic of Korea,East Asia,5355657.916
+1990,Taiwan (Province of China),East Asia,4295442.319
+1991,Taiwan (Province of China),East Asia,4333659.505
+1992,Taiwan (Province of China),East Asia,4367709.52
+1993,Taiwan (Province of China),East Asia,4400149.791
+1994,Taiwan (Province of China),East Asia,4430247.844
+1995,Taiwan (Province of China),East Asia,4464201.398
+1996,Taiwan (Province of China),East Asia,4506381.245
+1997,Taiwan (Province of China),East Asia,4541171.917
+1998,Taiwan (Province of China),East Asia,4569668.997
+1999,Taiwan (Province of China),East Asia,4589440.161
+2000,Taiwan (Province of China),East Asia,4600180.332
+2001,Taiwan (Province of China),East Asia,4607343.272
+2002,Taiwan (Province of China),East Asia,4612419.225
+2003,Taiwan (Province of China),East Asia,4618067.112
+2004,Taiwan (Province of China),East Asia,4622645.022
+2005,Taiwan (Province of China),East Asia,4629785.904
+2006,Taiwan (Province of China),East Asia,4633046.122
+2007,Taiwan (Province of China),East Asia,4644487.706
+2008,Taiwan (Province of China),East Asia,4656090.69
+2009,Taiwan (Province of China),East Asia,4651234.918
+2010,Taiwan (Province of China),East Asia,4633667.966
+2011,Taiwan (Province of China),East Asia,4613267.376
+2012,Taiwan (Province of China),East Asia,4596205.798
+2013,Taiwan (Province of China),East Asia,4608881.245
+2014,Taiwan (Province of China),East Asia,4620053.824
+2015,Taiwan (Province of China),East Asia,4638699.861
+2016,Taiwan (Province of China),East Asia,4634951.064
+2017,Taiwan (Province of China),East Asia,4632587.371
+2018,Taiwan (Province of China),East Asia,4626801.942
+2019,Taiwan (Province of China),East Asia,4612609.528
+1990,Cambodia,Southeast Asia,1240208.777
+1991,Cambodia,Southeast Asia,1293223.848
+1992,Cambodia,Southeast Asia,1349732.813
+1993,Cambodia,Southeast Asia,1407109.701
+1994,Cambodia,Southeast Asia,1463150.221
+1995,Cambodia,Southeast Asia,1519568.608
+1996,Cambodia,Southeast Asia,1575425.52
+1997,Cambodia,Southeast Asia,1632802.693
+1998,Cambodia,Southeast Asia,1690251.458
+1999,Cambodia,Southeast Asia,1745168.309
+2000,Cambodia,Southeast Asia,1789992.523
+2001,Cambodia,Southeast Asia,1826386.303
+2002,Cambodia,Southeast Asia,1856303.458
+2003,Cambodia,Southeast Asia,1880622.014
+2004,Cambodia,Southeast Asia,1900139.089
+2005,Cambodia,Southeast Asia,1910446.615
+2006,Cambodia,Southeast Asia,1925118.416
+2007,Cambodia,Southeast Asia,1941972.046
+2008,Cambodia,Southeast Asia,1958362.331
+2009,Cambodia,Southeast Asia,1974861.597
+2010,Cambodia,Southeast Asia,1991501.429
+2011,Cambodia,Southeast Asia,2007947.702
+2012,Cambodia,Southeast Asia,2025499.704
+2013,Cambodia,Southeast Asia,2049384.252
+2014,Cambodia,Southeast Asia,2078341.233
+2015,Cambodia,Southeast Asia,2122060.394
+2016,Cambodia,Southeast Asia,2174643.88
+2017,Cambodia,Southeast Asia,2236221.814
+2018,Cambodia,Southeast Asia,2303156.37
+2019,Cambodia,Southeast Asia,2373559.505
+1990,Indonesia,Southeast Asia,33342215.98
+1991,Indonesia,Southeast Asia,34371917.58
+1992,Indonesia,Southeast Asia,35473811.62
+1993,Indonesia,Southeast Asia,36667152.24
+1994,Indonesia,Southeast Asia,37978174.44
+1995,Indonesia,Southeast Asia,39376896.01
+1996,Indonesia,Southeast Asia,40851848.05
+1997,Indonesia,Southeast Asia,42371807.82
+1998,Indonesia,Southeast Asia,43895467.47
+1999,Indonesia,Southeast Asia,45417678.99
+2000,Indonesia,Southeast Asia,46912381.6
+2001,Indonesia,Southeast Asia,48348401.58
+2002,Indonesia,Southeast Asia,49656836.59
+2003,Indonesia,Southeast Asia,50908478.49
+2004,Indonesia,Southeast Asia,52161796.91
+2005,Indonesia,Southeast Asia,53357146.89
+2006,Indonesia,Southeast Asia,54523380.86
+2007,Indonesia,Southeast Asia,55634489.61
+2008,Indonesia,Southeast Asia,56676331.91
+2009,Indonesia,Southeast Asia,57634789.33
+2010,Indonesia,Southeast Asia,58471987.36
+2011,Indonesia,Southeast Asia,59161999.53
+2012,Indonesia,Southeast Asia,59700243.67
+2013,Indonesia,Southeast Asia,60046700.5
+2014,Indonesia,Southeast Asia,60231096.97
+2015,Indonesia,Southeast Asia,60339803.71
+2016,Indonesia,Southeast Asia,60450508.73
+2017,Indonesia,Southeast Asia,60667413.86
+2018,Indonesia,Southeast Asia,61020636.37
+2019,Indonesia,Southeast Asia,61477057.23
+1990,Lao People's Democratic Republic,Southeast Asia,528983.7475
+1991,Lao People's Democratic Republic,Southeast Asia,537355.8201
+1992,Lao People's Democratic Republic,Southeast Asia,547578.3274
+1993,Lao People's Democratic Republic,Southeast Asia,559027.2257
+1994,Lao People's Democratic Republic,Southeast Asia,571885.3271
+1995,Lao People's Democratic Republic,Southeast Asia,585986.6527
+1996,Lao People's Democratic Republic,Southeast Asia,601396.2012
+1997,Lao People's Democratic Republic,Southeast Asia,617622.3825
+1998,Lao People's Democratic Republic,Southeast Asia,634802.7887
+1999,Lao People's Democratic Republic,Southeast Asia,653044.1588
+2000,Lao People's Democratic Republic,Southeast Asia,671867.5845
+2001,Lao People's Democratic Republic,Southeast Asia,691536.2966
+2002,Lao People's Democratic Republic,Southeast Asia,711791.5928
+2003,Lao People's Democratic Republic,Southeast Asia,732614.4485
+2004,Lao People's Democratic Republic,Southeast Asia,755451.7766
+2005,Lao People's Democratic Republic,Southeast Asia,781148.2396
+2006,Lao People's Democratic Republic,Southeast Asia,809558.7975
+2007,Lao People's Democratic Republic,Southeast Asia,843852.0635
+2008,Lao People's Democratic Republic,Southeast Asia,879495.8348
+2009,Lao People's Democratic Republic,Southeast Asia,917315.9159
+2010,Lao People's Democratic Republic,Southeast Asia,956690.565
+2011,Lao People's Democratic Republic,Southeast Asia,996827.89
+2012,Lao People's Democratic Republic,Southeast Asia,1039068.201
+2013,Lao People's Democratic Republic,Southeast Asia,1082329.058
+2014,Lao People's Democratic Republic,Southeast Asia,1126836.396
+2015,Lao People's Democratic Republic,Southeast Asia,1171227.829
+2016,Lao People's Democratic Republic,Southeast Asia,1211063.1
+2017,Lao People's Democratic Republic,Southeast Asia,1250959.433
+2018,Lao People's Democratic Republic,Southeast Asia,1290657.087
+2019,Lao People's Democratic Republic,Southeast Asia,1329454.093
+1990,Malaysia,Southeast Asia,3180766.498
+1991,Malaysia,Southeast Asia,3287554.121
+1992,Malaysia,Southeast Asia,3403466.049
+1993,Malaysia,Southeast Asia,3527963.716
+1994,Malaysia,Southeast Asia,3658995.663
+1995,Malaysia,Southeast Asia,3792474.493
+1996,Malaysia,Southeast Asia,3931630.561
+1997,Malaysia,Southeast Asia,4072277.353
+1998,Malaysia,Southeast Asia,4210568.444
+1999,Malaysia,Southeast Asia,4345935.888
+2000,Malaysia,Southeast Asia,4472106.219
+2001,Malaysia,Southeast Asia,4580515.283
+2002,Malaysia,Southeast Asia,4675980.725
+2003,Malaysia,Southeast Asia,4753047.202
+2004,Malaysia,Southeast Asia,4804629.938
+2005,Malaysia,Southeast Asia,4847127.942
+2006,Malaysia,Southeast Asia,4889881.99
+2007,Malaysia,Southeast Asia,4936761.143
+2008,Malaysia,Southeast Asia,4978849.254
+2009,Malaysia,Southeast Asia,5010671.227
+2010,Malaysia,Southeast Asia,5038000.363
+2011,Malaysia,Southeast Asia,5064140.558
+2012,Malaysia,Southeast Asia,5102485.153
+2013,Malaysia,Southeast Asia,5135351.108
+2014,Malaysia,Southeast Asia,5170162.78
+2015,Malaysia,Southeast Asia,5210868.037
+2016,Malaysia,Southeast Asia,5257527.214
+2017,Malaysia,Southeast Asia,5311808.383
+2018,Malaysia,Southeast Asia,5376550.296
+2019,Malaysia,Southeast Asia,5445585.46
+1990,Maldives,Southeast Asia,32350.93856
+1991,Maldives,Southeast Asia,33021.48921
+1992,Maldives,Southeast Asia,33679.00768
+1993,Maldives,Southeast Asia,34337.92206
+1994,Maldives,Southeast Asia,35081.73212
+1995,Maldives,Southeast Asia,35935.92829
+1996,Maldives,Southeast Asia,36908.09891
+1997,Maldives,Southeast Asia,37950.93738
+1998,Maldives,Southeast Asia,38974.18619
+1999,Maldives,Southeast Asia,39930.54208
+2000,Maldives,Southeast Asia,40816.61427
+2001,Maldives,Southeast Asia,41612.59897
+2002,Maldives,Southeast Asia,42488.604
+2003,Maldives,Southeast Asia,43543.39935
+2004,Maldives,Southeast Asia,44834.43973
+2005,Maldives,Southeast Asia,46514.31812
+2006,Maldives,Southeast Asia,48710.46086
+2007,Maldives,Southeast Asia,51677.86199
+2008,Maldives,Southeast Asia,55407.59377
+2009,Maldives,Southeast Asia,59843.71284
+2010,Maldives,Southeast Asia,64846.25879
+2011,Maldives,Southeast Asia,70453.1738
+2012,Maldives,Southeast Asia,77136.23234
+2013,Maldives,Southeast Asia,84215.90641
+2014,Maldives,Southeast Asia,91746.1119
+2015,Maldives,Southeast Asia,99391.57022
+2016,Maldives,Southeast Asia,107169.7883
+2017,Maldives,Southeast Asia,115059.5734
+2018,Maldives,Southeast Asia,122950.5423
+2019,Maldives,Southeast Asia,130783.97
+1990,Myanmar,Southeast Asia,9073225.275
+1991,Myanmar,Southeast Asia,9077333.285
+1992,Myanmar,Southeast Asia,9075710.462
+1993,Myanmar,Southeast Asia,9070875.194
+1994,Myanmar,Southeast Asia,9062005.941
+1995,Myanmar,Southeast Asia,9051346.437
+1996,Myanmar,Southeast Asia,9045961.862
+1997,Myanmar,Southeast Asia,9040572.361
+1998,Myanmar,Southeast Asia,9030424.643
+1999,Myanmar,Southeast Asia,9018269.11
+2000,Myanmar,Southeast Asia,8991294.888
+2001,Myanmar,Southeast Asia,8964014.364
+2002,Myanmar,Southeast Asia,8920919.641
+2003,Myanmar,Southeast Asia,8870243.373
+2004,Myanmar,Southeast Asia,8803467.969
+2005,Myanmar,Southeast Asia,8745315.996
+2006,Myanmar,Southeast Asia,8687694.533
+2007,Myanmar,Southeast Asia,8630885.821
+2008,Myanmar,Southeast Asia,8569671.375
+2009,Myanmar,Southeast Asia,8530653.739
+2010,Myanmar,Southeast Asia,8534237.85
+2011,Myanmar,Southeast Asia,8557113.332
+2012,Myanmar,Southeast Asia,8608063.811
+2013,Myanmar,Southeast Asia,8666224.142
+2014,Myanmar,Southeast Asia,8762196.546
+2015,Myanmar,Southeast Asia,8869667.124
+2016,Myanmar,Southeast Asia,9006815.813
+2017,Myanmar,Southeast Asia,9148183.621
+2018,Myanmar,Southeast Asia,9301091.581
+2019,Myanmar,Southeast Asia,9461944.937
+1990,Philippines,Southeast Asia,13108222.86
+1991,Philippines,Southeast Asia,13468377.19
+1992,Philippines,Southeast Asia,13828682.13
+1993,Philippines,Southeast Asia,14187072.29
+1994,Philippines,Southeast Asia,14538791.33
+1995,Philippines,Southeast Asia,14883315.74
+1996,Philippines,Southeast Asia,15220727.42
+1997,Philippines,Southeast Asia,15549790.11
+1998,Philippines,Southeast Asia,15871928.2
+1999,Philippines,Southeast Asia,16185567.57
+2000,Philippines,Southeast Asia,16486567.06
+2001,Philippines,Southeast Asia,16766497.94
+2002,Philippines,Southeast Asia,17028299.4
+2003,Philippines,Southeast Asia,17259877.1
+2004,Philippines,Southeast Asia,17406372.5
+2005,Philippines,Southeast Asia,17523554.37
+2006,Philippines,Southeast Asia,17591269.62
+2007,Philippines,Southeast Asia,17661411.33
+2008,Philippines,Southeast Asia,17714589.12
+2009,Philippines,Southeast Asia,17753691.11
+2010,Philippines,Southeast Asia,17801459.22
+2011,Philippines,Southeast Asia,17824499.69
+2012,Philippines,Southeast Asia,17844189.93
+2013,Philippines,Southeast Asia,17877983.62
+2014,Philippines,Southeast Asia,17966798.46
+2015,Philippines,Southeast Asia,18087361.95
+2016,Philippines,Southeast Asia,18244156.19
+2017,Philippines,Southeast Asia,18459841.66
+2018,Philippines,Southeast Asia,18756350.68
+2019,Philippines,Southeast Asia,19090126.59
+1990,Sri Lanka,Southeast Asia,2606806.575
+1991,Sri Lanka,Southeast Asia,2596544.988
+1992,Sri Lanka,Southeast Asia,2585685.634
+1993,Sri Lanka,Southeast Asia,2573961.416
+1994,Sri Lanka,Southeast Asia,2560515.536
+1995,Sri Lanka,Southeast Asia,2541109.04
+1996,Sri Lanka,Southeast Asia,2515251.272
+1997,Sri Lanka,Southeast Asia,2482992.655
+1998,Sri Lanka,Southeast Asia,2446341.77
+1999,Sri Lanka,Southeast Asia,2407219.827
+2000,Sri Lanka,Southeast Asia,2366340.885
+2001,Sri Lanka,Southeast Asia,2326761.968
+2002,Sri Lanka,Southeast Asia,2298270.247
+2003,Sri Lanka,Southeast Asia,2274785.63
+2004,Sri Lanka,Southeast Asia,2250635.906
+2005,Sri Lanka,Southeast Asia,2230948.899
+2006,Sri Lanka,Southeast Asia,2219277.102
+2007,Sri Lanka,Southeast Asia,2225333.098
+2008,Sri Lanka,Southeast Asia,2237117.294
+2009,Sri Lanka,Southeast Asia,2254639.65
+2010,Sri Lanka,Southeast Asia,2277241.094
+2011,Sri Lanka,Southeast Asia,2303918.513
+2012,Sri Lanka,Southeast Asia,2335480.754
+2013,Sri Lanka,Southeast Asia,2368858.033
+2014,Sri Lanka,Southeast Asia,2410131.141
+2015,Sri Lanka,Southeast Asia,2447801.169
+2016,Sri Lanka,Southeast Asia,2485204.477
+2017,Sri Lanka,Southeast Asia,2522452.035
+2018,Sri Lanka,Southeast Asia,2553842.937
+2019,Sri Lanka,Southeast Asia,2587368.394
+1990,Thailand,Southeast Asia,11516693.02
+1991,Thailand,Southeast Asia,11635880.66
+1992,Thailand,Southeast Asia,11701429.99
+1993,Thailand,Southeast Asia,11737228.36
+1994,Thailand,Southeast Asia,11781568.54
+1995,Thailand,Southeast Asia,11814752.47
+1996,Thailand,Southeast Asia,11841288.28
+1997,Thailand,Southeast Asia,11839023.35
+1998,Thailand,Southeast Asia,11829291.67
+1999,Thailand,Southeast Asia,11808741.5
+2000,Thailand,Southeast Asia,11748028.64
+2001,Thailand,Southeast Asia,11699978.54
+2002,Thailand,Southeast Asia,11637704.37
+2003,Thailand,Southeast Asia,11593904.87
+2004,Thailand,Southeast Asia,11613603.58
+2005,Thailand,Southeast Asia,11664955.69
+2006,Thailand,Southeast Asia,11944446.47
+2007,Thailand,Southeast Asia,12466014.55
+2008,Thailand,Southeast Asia,12692557.98
+2009,Thailand,Southeast Asia,12547981.14
+2010,Thailand,Southeast Asia,12546811.52
+2011,Thailand,Southeast Asia,12674093.68
+2012,Thailand,Southeast Asia,12754325.15
+2013,Thailand,Southeast Asia,12766828.85
+2014,Thailand,Southeast Asia,12733888.37
+2015,Thailand,Southeast Asia,12689139.76
+2016,Thailand,Southeast Asia,12650773.71
+2017,Thailand,Southeast Asia,12625299.53
+2018,Thailand,Southeast Asia,12652223.24
+2019,Thailand,Southeast Asia,12695916.05
+1990,Timor-Leste,Southeast Asia,158864.3026
+1991,Timor-Leste,Southeast Asia,161505.1995
+1992,Timor-Leste,Southeast Asia,163706.174
+1993,Timor-Leste,Southeast Asia,165580.5378
+1994,Timor-Leste,Southeast Asia,167239.5287
+1995,Timor-Leste,Southeast Asia,169022.5172
+1996,Timor-Leste,Southeast Asia,170611.2555
+1997,Timor-Leste,Southeast Asia,172142.2485
+1998,Timor-Leste,Southeast Asia,173615.4094
+1999,Timor-Leste,Southeast Asia,174783.2833
+2000,Timor-Leste,Southeast Asia,176174.886
+2001,Timor-Leste,Southeast Asia,178364.0081
+2002,Timor-Leste,Southeast Asia,180957.3764
+2003,Timor-Leste,Southeast Asia,184081.4348
+2004,Timor-Leste,Southeast Asia,188306.5124
+2005,Timor-Leste,Southeast Asia,193247.8156
+2006,Timor-Leste,Southeast Asia,198947.8279
+2007,Timor-Leste,Southeast Asia,205086.1974
+2008,Timor-Leste,Southeast Asia,211815.7619
+2009,Timor-Leste,Southeast Asia,218934.805
+2010,Timor-Leste,Southeast Asia,224791.7845
+2011,Timor-Leste,Southeast Asia,230929.9728
+2012,Timor-Leste,Southeast Asia,237234.9363
+2013,Timor-Leste,Southeast Asia,243712.374
+2014,Timor-Leste,Southeast Asia,250107.4277
+2015,Timor-Leste,Southeast Asia,255808.6265
+2016,Timor-Leste,Southeast Asia,262142.6872
+2017,Timor-Leste,Southeast Asia,268697.4728
+2018,Timor-Leste,Southeast Asia,275607.0601
+2019,Timor-Leste,Southeast Asia,282707.5977
+1990,Viet Nam,Southeast Asia,11855353.52
+1991,Viet Nam,Southeast Asia,12305023.64
+1992,Viet Nam,Southeast Asia,12759535.3
+1993,Viet Nam,Southeast Asia,13219667.59
+1994,Viet Nam,Southeast Asia,13634481.91
+1995,Viet Nam,Southeast Asia,14042342.19
+1996,Viet Nam,Southeast Asia,14430812.08
+1997,Viet Nam,Southeast Asia,14791536.48
+1998,Viet Nam,Southeast Asia,15083905.55
+1999,Viet Nam,Southeast Asia,15338065.31
+2000,Viet Nam,Southeast Asia,15549467.75
+2001,Viet Nam,Southeast Asia,15718296.63
+2002,Viet Nam,Southeast Asia,15850871.91
+2003,Viet Nam,Southeast Asia,15926875.7
+2004,Viet Nam,Southeast Asia,15999578.84
+2005,Viet Nam,Southeast Asia,16073176.53
+2006,Viet Nam,Southeast Asia,16166012.73
+2007,Viet Nam,Southeast Asia,16286614.57
+2008,Viet Nam,Southeast Asia,16425016.66
+2009,Viet Nam,Southeast Asia,16583773.47
+2010,Viet Nam,Southeast Asia,16774666.1
+2011,Viet Nam,Southeast Asia,16974465.86
+2012,Viet Nam,Southeast Asia,17210209.41
+2013,Viet Nam,Southeast Asia,17436063.01
+2014,Viet Nam,Southeast Asia,17657077.1
+2015,Viet Nam,Southeast Asia,17892246.9
+2016,Viet Nam,Southeast Asia,18192606.1
+2017,Viet Nam,Southeast Asia,18515534.33
+2018,Viet Nam,Southeast Asia,18855061.52
+2019,Viet Nam,Southeast Asia,19199684.88
+1990,Fiji,Oceania,169265.4924
+1991,Fiji,Oceania,169758.6668
+1992,Fiji,Oceania,170404.6811
+1993,Fiji,Oceania,171188.4737
+1994,Fiji,Oceania,172116.2812
+1995,Fiji,Oceania,173191.7424
+1996,Fiji,Oceania,174485.457
+1997,Fiji,Oceania,176080.655
+1998,Fiji,Oceania,178082.5501
+1999,Fiji,Oceania,180361.9897
+2000,Fiji,Oceania,182651.889
+2001,Fiji,Oceania,184790.8054
+2002,Fiji,Oceania,186821.6491
+2003,Fiji,Oceania,187241.2622
+2004,Fiji,Oceania,187540.8989
+2005,Fiji,Oceania,187464.2619
+2006,Fiji,Oceania,187299.8799
+2007,Fiji,Oceania,186934.7087
+2008,Fiji,Oceania,186649.8815
+2009,Fiji,Oceania,186581.3202
+2010,Fiji,Oceania,186686.9317
+2011,Fiji,Oceania,186786.4717
+2012,Fiji,Oceania,187511.2884
+2013,Fiji,Oceania,188043.083
+2014,Fiji,Oceania,188438.0381
+2015,Fiji,Oceania,188986.6904
+2016,Fiji,Oceania,189637.0198
+2017,Fiji,Oceania,190389.5522
+2018,Fiji,Oceania,191234.2519
+2019,Fiji,Oceania,192111.7498
+1990,Kiribati,Oceania,21116.76764
+1991,Kiribati,Oceania,21567.99576
+1992,Kiribati,Oceania,21950.22102
+1993,Kiribati,Oceania,22318.72127
+1994,Kiribati,Oceania,22720.44757
+1995,Kiribati,Oceania,23198.78836
+1996,Kiribati,Oceania,23796.94055
+1997,Kiribati,Oceania,24486.25352
+1998,Kiribati,Oceania,25257.91526
+1999,Kiribati,Oceania,26079.4045
+2000,Kiribati,Oceania,26891.35773
+2001,Kiribati,Oceania,27689.22342
+2002,Kiribati,Oceania,28480.54922
+2003,Kiribati,Oceania,29274.95838
+2004,Kiribati,Oceania,30104.75238
+2005,Kiribati,Oceania,30879.24013
+2006,Kiribati,Oceania,31649.06948
+2007,Kiribati,Oceania,32371.95711
+2008,Kiribati,Oceania,33050.44077
+2009,Kiribati,Oceania,33678.92622
+2010,Kiribati,Oceania,34293.48575
+2011,Kiribati,Oceania,34810.19483
+2012,Kiribati,Oceania,35259.26721
+2013,Kiribati,Oceania,35601.81226
+2014,Kiribati,Oceania,35917.33832
+2015,Kiribati,Oceania,36226.88998
+2016,Kiribati,Oceania,36616.41923
+2017,Kiribati,Oceania,37038.69146
+2018,Kiribati,Oceania,37466.27342
+2019,Kiribati,Oceania,37924.57272
+1990,Marshall Islands,Oceania,5458.423184
+1991,Marshall Islands,Oceania,5609.354817
+1992,Marshall Islands,Oceania,5763.099119
+1993,Marshall Islands,Oceania,5930.99552
+1994,Marshall Islands,Oceania,6117.959577
+1995,Marshall Islands,Oceania,6312.99137
+1996,Marshall Islands,Oceania,6505.468093
+1997,Marshall Islands,Oceania,6694.348212
+1998,Marshall Islands,Oceania,6880.424918
+1999,Marshall Islands,Oceania,7062.28481
+2000,Marshall Islands,Oceania,7231.445001
+2001,Marshall Islands,Oceania,7385.807441
+2002,Marshall Islands,Oceania,7517.219094
+2003,Marshall Islands,Oceania,7684.033625
+2004,Marshall Islands,Oceania,7843.167818
+2005,Marshall Islands,Oceania,7965.307338
+2006,Marshall Islands,Oceania,8074.435122
+2007,Marshall Islands,Oceania,8168.014685
+2008,Marshall Islands,Oceania,8261.010681
+2009,Marshall Islands,Oceania,8366.513171
+2010,Marshall Islands,Oceania,8468.275066
+2011,Marshall Islands,Oceania,8561.604037
+2012,Marshall Islands,Oceania,8669.790739
+2013,Marshall Islands,Oceania,8773.504999
+2014,Marshall Islands,Oceania,8877.213262
+2015,Marshall Islands,Oceania,8982.383654
+2016,Marshall Islands,Oceania,9075.965823
+2017,Marshall Islands,Oceania,9163.542575
+2018,Marshall Islands,Oceania,9250.644317
+2019,Marshall Islands,Oceania,9338.00116
+1990,Micronesia (Federated States of),Oceania,27605.08077
+1991,Micronesia (Federated States of),Oceania,28054.1919
+1992,Micronesia (Federated States of),Oceania,28495.02516
+1993,Micronesia (Federated States of),Oceania,28930.30337
+1994,Micronesia (Federated States of),Oceania,29354.55778
+1995,Micronesia (Federated States of),Oceania,29748.14361
+1996,Micronesia (Federated States of),Oceania,30110.50495
+1997,Micronesia (Federated States of),Oceania,30449.40569
+1998,Micronesia (Federated States of),Oceania,30779.2641
+1999,Micronesia (Federated States of),Oceania,31113.89755
+2000,Micronesia (Federated States of),Oceania,31424.1187
+2001,Micronesia (Federated States of),Oceania,31716.71821
+2002,Micronesia (Federated States of),Oceania,31970.55052
+2003,Micronesia (Federated States of),Oceania,32250.29207
+2004,Micronesia (Federated States of),Oceania,32539.09717
+2005,Micronesia (Federated States of),Oceania,32759.92825
+2006,Micronesia (Federated States of),Oceania,33003.53606
+2007,Micronesia (Federated States of),Oceania,33247.32432
+2008,Micronesia (Federated States of),Oceania,33596.75579
+2009,Micronesia (Federated States of),Oceania,33991.77384
+2010,Micronesia (Federated States of),Oceania,34448.52718
+2011,Micronesia (Federated States of),Oceania,34881.53078
+2012,Micronesia (Federated States of),Oceania,35401.38619
+2013,Micronesia (Federated States of),Oceania,35542.89719
+2014,Micronesia (Federated States of),Oceania,35698.65734
+2015,Micronesia (Federated States of),Oceania,35871.13568
+2016,Micronesia (Federated States of),Oceania,36028.45122
+2017,Micronesia (Federated States of),Oceania,36202.02352
+2018,Micronesia (Federated States of),Oceania,36371.70943
+2019,Micronesia (Federated States of),Oceania,36524.50074
+1990,Papua New Guinea,Oceania,944235.7513
+1991,Papua New Guinea,Oceania,974828.5605
+1992,Papua New Guinea,Oceania,1006487.353
+1993,Papua New Guinea,Oceania,1040512.497
+1994,Papua New Guinea,Oceania,1077121.119
+1995,Papua New Guinea,Oceania,1115710.919
+1996,Papua New Guinea,Oceania,1155858.342
+1997,Papua New Guinea,Oceania,1196182.048
+1998,Papua New Guinea,Oceania,1237533.653
+1999,Papua New Guinea,Oceania,1280224.336
+2000,Papua New Guinea,Oceania,1323510.983
+2001,Papua New Guinea,Oceania,1366500.875
+2002,Papua New Guinea,Oceania,1406560.816
+2003,Papua New Guinea,Oceania,1445544.985
+2004,Papua New Guinea,Oceania,1481901.832
+2005,Papua New Guinea,Oceania,1514766.331
+2006,Papua New Guinea,Oceania,1542849.852
+2007,Papua New Guinea,Oceania,1565196.776
+2008,Papua New Guinea,Oceania,1569962.488
+2009,Papua New Guinea,Oceania,1574217.717
+2010,Papua New Guinea,Oceania,1580266.239
+2011,Papua New Guinea,Oceania,1602591.804
+2012,Papua New Guinea,Oceania,1631652.937
+2013,Papua New Guinea,Oceania,1667562.33
+2014,Papua New Guinea,Oceania,1709115.0
+2015,Papua New Guinea,Oceania,1755750.629
+2016,Papua New Guinea,Oceania,1805445.563
+2017,Papua New Guinea,Oceania,1857005.877
+2018,Papua New Guinea,Oceania,1911179.135
+2019,Papua New Guinea,Oceania,1967982.121
+1990,Samoa,Oceania,28815.30093
+1991,Samoa,Oceania,29231.31814
+1992,Samoa,Oceania,29686.37136
+1993,Samoa,Oceania,30188.43505
+1994,Samoa,Oceania,30721.98205
+1995,Samoa,Oceania,31251.08035
+1996,Samoa,Oceania,31774.37732
+1997,Samoa,Oceania,32329.72935
+1998,Samoa,Oceania,32849.92371
+1999,Samoa,Oceania,33315.32239
+2000,Samoa,Oceania,33714.98079
+2001,Samoa,Oceania,34031.47228
+2002,Samoa,Oceania,34240.28105
+2003,Samoa,Oceania,34312.71855
+2004,Samoa,Oceania,34301.38741
+2005,Samoa,Oceania,34101.58183
+2006,Samoa,Oceania,33835.42985
+2007,Samoa,Oceania,33526.1251
+2008,Samoa,Oceania,33233.52975
+2009,Samoa,Oceania,32966.76601
+2010,Samoa,Oceania,32816.96843
+2011,Samoa,Oceania,32761.12673
+2012,Samoa,Oceania,32854.88722
+2013,Samoa,Oceania,33062.65255
+2014,Samoa,Oceania,33481.56577
+2015,Samoa,Oceania,34053.67308
+2016,Samoa,Oceania,34683.40023
+2017,Samoa,Oceania,35385.98942
+2018,Samoa,Oceania,36121.72183
+2019,Samoa,Oceania,36894.65156
+1990,Solomon Islands,Oceania,65388.27385
+1991,Solomon Islands,Oceania,67117.8132
+1992,Solomon Islands,Oceania,68921.66905
+1993,Solomon Islands,Oceania,70838.76629
+1994,Solomon Islands,Oceania,72851.12439
+1995,Solomon Islands,Oceania,74895.46639
+1996,Solomon Islands,Oceania,76963.94741
+1997,Solomon Islands,Oceania,78954.02188
+1998,Solomon Islands,Oceania,80919.99546
+1999,Solomon Islands,Oceania,82921.60519
+2000,Solomon Islands,Oceania,84987.21416
+2001,Solomon Islands,Oceania,87202.56926
+2002,Solomon Islands,Oceania,89511.27821
+2003,Solomon Islands,Oceania,91976.11367
+2004,Solomon Islands,Oceania,94626.62885
+2005,Solomon Islands,Oceania,97235.54397
+2006,Solomon Islands,Oceania,100154.2464
+2007,Solomon Islands,Oceania,103254.5291
+2008,Solomon Islands,Oceania,106989.3448
+2009,Solomon Islands,Oceania,110731.8574
+2010,Solomon Islands,Oceania,114625.3684
+2011,Solomon Islands,Oceania,118547.5949
+2012,Solomon Islands,Oceania,122692.6516
+2013,Solomon Islands,Oceania,125984.4187
+2014,Solomon Islands,Oceania,129129.5573
+2015,Solomon Islands,Oceania,132247.7957
+2016,Solomon Islands,Oceania,135537.2052
+2017,Solomon Islands,Oceania,138915.5962
+2018,Solomon Islands,Oceania,142370.9097
+2019,Solomon Islands,Oceania,145907.3898
+1990,Tonga,Oceania,18465.37197
+1991,Tonga,Oceania,18647.15869
+1992,Tonga,Oceania,18766.48763
+1993,Tonga,Oceania,18901.78192
+1994,Tonga,Oceania,19052.57353
+1995,Tonga,Oceania,19207.93726
+1996,Tonga,Oceania,19352.36611
+1997,Tonga,Oceania,19486.74794
+1998,Tonga,Oceania,19613.24865
+1999,Tonga,Oceania,19724.33224
+2000,Tonga,Oceania,19810.9678
+2001,Tonga,Oceania,19872.73672
+2002,Tonga,Oceania,19891.32945
+2003,Tonga,Oceania,19885.27264
+2004,Tonga,Oceania,19848.52954
+2005,Tonga,Oceania,19794.6665
+2006,Tonga,Oceania,19728.54622
+2007,Tonga,Oceania,19545.42096
+2008,Tonga,Oceania,19324.45818
+2009,Tonga,Oceania,19086.91022
+2010,Tonga,Oceania,18837.81594
+2011,Tonga,Oceania,18620.54592
+2012,Tonga,Oceania,18415.32943
+2013,Tonga,Oceania,18284.14826
+2014,Tonga,Oceania,18158.94132
+2015,Tonga,Oceania,18054.31541
+2016,Tonga,Oceania,17974.49965
+2017,Tonga,Oceania,17912.87134
+2018,Tonga,Oceania,17926.70647
+2019,Tonga,Oceania,17971.01316
+1990,Vanuatu,Oceania,22959.48638
+1991,Vanuatu,Oceania,23548.48491
+1992,Vanuatu,Oceania,24222.01001
+1993,Vanuatu,Oceania,24991.9513
+1994,Vanuatu,Oceania,25878.92575
+1995,Vanuatu,Oceania,26876.81524
+1996,Vanuatu,Oceania,27932.91949
+1997,Vanuatu,Oceania,29026.27661
+1998,Vanuatu,Oceania,30132.11015
+1999,Vanuatu,Oceania,31167.46385
+2000,Vanuatu,Oceania,32180.69114
+2001,Vanuatu,Oceania,33149.28348
+2002,Vanuatu,Oceania,34071.42533
+2003,Vanuatu,Oceania,35037.59537
+2004,Vanuatu,Oceania,35936.44124
+2005,Vanuatu,Oceania,36743.94503
+2006,Vanuatu,Oceania,37345.22015
+2007,Vanuatu,Oceania,37847.44458
+2008,Vanuatu,Oceania,38213.95989
+2009,Vanuatu,Oceania,38620.32957
+2010,Vanuatu,Oceania,38895.79799
+2011,Vanuatu,Oceania,39078.06919
+2012,Vanuatu,Oceania,39252.91567
+2013,Vanuatu,Oceania,39476.06729
+2014,Vanuatu,Oceania,39884.39845
+2015,Vanuatu,Oceania,40286.73015
+2016,Vanuatu,Oceania,40697.39955
+2017,Vanuatu,Oceania,41142.99646
+2018,Vanuatu,Oceania,41636.74367
+2019,Vanuatu,Oceania,42164.70254
+1990,Cook Islands,Oceania,4236.277862
+1991,Cook Islands,Oceania,4266.388433
+1992,Cook Islands,Oceania,4296.064417
+1993,Cook Islands,Oceania,4328.798154
+1994,Cook Islands,Oceania,4364.043232
+1995,Cook Islands,Oceania,4395.679207
+1996,Cook Islands,Oceania,4416.542167
+1997,Cook Islands,Oceania,4423.258322
+1998,Cook Islands,Oceania,4427.915686
+1999,Cook Islands,Oceania,4438.674155
+2000,Cook Islands,Oceania,4455.300906
+2001,Cook Islands,Oceania,4478.782127
+2002,Cook Islands,Oceania,4509.026037
+2003,Cook Islands,Oceania,4544.629651
+2004,Cook Islands,Oceania,4569.058614
+2005,Cook Islands,Oceania,4556.927776
+2006,Cook Islands,Oceania,4518.208406
+2007,Cook Islands,Oceania,4441.224788
+2008,Cook Islands,Oceania,4352.071703
+2009,Cook Islands,Oceania,4264.758924
+2010,Cook Islands,Oceania,4180.365886
+2011,Cook Islands,Oceania,4107.751146
+2012,Cook Islands,Oceania,4067.45019
+2013,Cook Islands,Oceania,4042.284563
+2014,Cook Islands,Oceania,4028.847155
+2015,Cook Islands,Oceania,4016.475082
+2016,Cook Islands,Oceania,4007.691187
+2017,Cook Islands,Oceania,4005.235262
+2018,Cook Islands,Oceania,4008.433629
+2019,Cook Islands,Oceania,4014.799328
+1990,Guam,Oceania,29829.86424
+1991,Guam,Oceania,30461.95293
+1992,Guam,Oceania,30997.46571
+1993,Guam,Oceania,31490.58614
+1994,Guam,Oceania,31962.44199
+1995,Guam,Oceania,32406.1456
+1996,Guam,Oceania,32772.45305
+1997,Guam,Oceania,33063.60286
+1998,Guam,Oceania,33317.72787
+1999,Guam,Oceania,33561.96805
+2000,Guam,Oceania,33750.25153
+2001,Guam,Oceania,33881.17921
+2002,Guam,Oceania,33884.27065
+2003,Guam,Oceania,33810.87652
+2004,Guam,Oceania,33653.50658
+2005,Guam,Oceania,33374.16278
+2006,Guam,Oceania,33072.52405
+2007,Guam,Oceania,32732.43586
+2008,Guam,Oceania,32401.54661
+2009,Guam,Oceania,32181.63989
+2010,Guam,Oceania,32087.50633
+2011,Guam,Oceania,32017.32786
+2012,Guam,Oceania,32001.21205
+2013,Guam,Oceania,31993.33679
+2014,Guam,Oceania,31938.56755
+2015,Guam,Oceania,31810.64894
+2016,Guam,Oceania,31669.84504
+2017,Guam,Oceania,31585.38613
+2018,Guam,Oceania,31522.13741
+2019,Guam,Oceania,31502.35302
+1990,Nauru,Oceania,2776.997789
+1991,Nauru,Oceania,2810.37011
+1992,Nauru,Oceania,2848.862512
+1993,Nauru,Oceania,2893.855091
+1994,Nauru,Oceania,2945.035997
+1995,Nauru,Oceania,2999.591775
+1996,Nauru,Oceania,3054.819167
+1997,Nauru,Oceania,3108.500116
+1998,Nauru,Oceania,3160.505094
+1999,Nauru,Oceania,3209.322609
+2000,Nauru,Oceania,3251.284013
+2001,Nauru,Oceania,3284.079409
+2002,Nauru,Oceania,3304.883875
+2003,Nauru,Oceania,3316.724452
+2004,Nauru,Oceania,3318.295099
+2005,Nauru,Oceania,3285.471367
+2006,Nauru,Oceania,3246.307954
+2007,Nauru,Oceania,3200.467799
+2008,Nauru,Oceania,3155.936525
+2009,Nauru,Oceania,3113.225824
+2010,Nauru,Oceania,3073.732254
+2011,Nauru,Oceania,3035.05509
+2012,Nauru,Oceania,3009.768323
+2013,Nauru,Oceania,2991.956664
+2014,Nauru,Oceania,2981.184219
+2015,Nauru,Oceania,2977.403994
+2016,Nauru,Oceania,2973.630157
+2017,Nauru,Oceania,2976.300695
+2018,Nauru,Oceania,2984.648276
+2019,Nauru,Oceania,2997.009037
+1990,Niue,Oceania,329.9626584
+1991,Niue,Oceania,327.8938531
+1992,Niue,Oceania,328.7541207
+1993,Niue,Oceania,331.4115842
+1994,Niue,Oceania,334.0431851
+1995,Niue,Oceania,334.7476912
+1996,Niue,Oceania,333.2455048
+1997,Niue,Oceania,329.7394457
+1998,Niue,Oceania,321.6474969
+1999,Niue,Oceania,310.9929533
+2000,Niue,Oceania,299.4311207
+2001,Niue,Oceania,288.3339825
+2002,Niue,Oceania,278.3746122
+2003,Niue,Oceania,269.484191
+2004,Niue,Oceania,261.7938979
+2005,Niue,Oceania,254.8088169
+2006,Niue,Oceania,249.4357804
+2007,Niue,Oceania,245.6466074
+2008,Niue,Oceania,243.1901585
+2009,Niue,Oceania,242.1644883
+2010,Niue,Oceania,241.8529263
+2011,Niue,Oceania,242.0097627
+2012,Niue,Oceania,243.6627035
+2013,Niue,Oceania,245.6805798
+2014,Niue,Oceania,248.0767433
+2015,Niue,Oceania,251.0794974
+2016,Niue,Oceania,253.9922424
+2017,Niue,Oceania,256.9523639
+2018,Niue,Oceania,259.9785635
+2019,Niue,Oceania,263.1397513
+1990,Northern Mariana Islands,Oceania,12682.5763
+1991,Northern Mariana Islands,Oceania,13384.59272
+1992,Northern Mariana Islands,Oceania,13333.63945
+1993,Northern Mariana Islands,Oceania,12927.8117
+1994,Northern Mariana Islands,Oceania,12626.29869
+1995,Northern Mariana Islands,Oceania,12705.99099
+1996,Northern Mariana Islands,Oceania,13374.14445
+1997,Northern Mariana Islands,Oceania,14598.57304
+1998,Northern Mariana Islands,Oceania,16191.11677
+1999,Northern Mariana Islands,Oceania,17805.90968
+2000,Northern Mariana Islands,Oceania,18901.75442
+2001,Northern Mariana Islands,Oceania,18919.62479
+2002,Northern Mariana Islands,Oceania,18043.55941
+2003,Northern Mariana Islands,Oceania,16960.13382
+2004,Northern Mariana Islands,Oceania,16098.47429
+2005,Northern Mariana Islands,Oceania,15472.82482
+2006,Northern Mariana Islands,Oceania,15086.95815
+2007,Northern Mariana Islands,Oceania,14783.4749
+2008,Northern Mariana Islands,Oceania,14423.85812
+2009,Northern Mariana Islands,Oceania,13920.78183
+2010,Northern Mariana Islands,Oceania,13267.71772
+2011,Northern Mariana Islands,Oceania,12580.77743
+2012,Northern Mariana Islands,Oceania,11999.08598
+2013,Northern Mariana Islands,Oceania,11537.43686
+2014,Northern Mariana Islands,Oceania,11239.71033
+2015,Northern Mariana Islands,Oceania,11075.20776
+2016,Northern Mariana Islands,Oceania,10964.98844
+2017,Northern Mariana Islands,Oceania,10882.21082
+2018,Northern Mariana Islands,Oceania,10769.89127
+2019,Northern Mariana Islands,Oceania,10606.9222
+1990,Palau,Oceania,2731.975802
+1991,Palau,Oceania,2810.913339
+1992,Palau,Oceania,2894.660315
+1993,Palau,Oceania,2991.781754
+1994,Palau,Oceania,3107.507572
+1995,Palau,Oceania,3244.287686
+1996,Palau,Oceania,3404.62762
+1997,Palau,Oceania,3578.345873
+1998,Palau,Oceania,3754.846607
+1999,Palau,Oceania,3922.918936
+2000,Palau,Oceania,4067.23251
+2001,Palau,Oceania,4169.907567
+2002,Palau,Oceania,4231.19667
+2003,Palau,Oceania,4252.266976
+2004,Palau,Oceania,4236.0049
+2005,Palau,Oceania,4165.863383
+2006,Palau,Oceania,4063.346208
+2007,Palau,Oceania,3936.053968
+2008,Palau,Oceania,3802.90638
+2009,Palau,Oceania,3675.944969
+2010,Palau,Oceania,3556.644855
+2011,Palau,Oceania,3461.147889
+2012,Palau,Oceania,3402.374482
+2013,Palau,Oceania,3377.873647
+2014,Palau,Oceania,3368.82848
+2015,Palau,Oceania,3367.656723
+2016,Palau,Oceania,3363.831806
+2017,Palau,Oceania,3385.611085
+2018,Palau,Oceania,3403.86018
+2019,Palau,Oceania,3418.105723
+1990,Tokelau,Oceania,279.6997113
+1991,Tokelau,Oceania,274.407402
+1992,Tokelau,Oceania,271.8010755
+1993,Tokelau,Oceania,270.5885028
+1994,Tokelau,Oceania,269.5516521
+1995,Tokelau,Oceania,268.1064969
+1996,Tokelau,Oceania,266.6414123
+1997,Tokelau,Oceania,266.3470273
+1998,Tokelau,Oceania,267.6991786
+1999,Tokelau,Oceania,270.3134826
+2000,Tokelau,Oceania,272.9367967
+2001,Tokelau,Oceania,273.3503628
+2002,Tokelau,Oceania,268.3018676
+2003,Tokelau,Oceania,258.8164373
+2004,Tokelau,Oceania,247.3955303
+2005,Tokelau,Oceania,236.1268429
+2006,Tokelau,Oceania,227.8901083
+2007,Tokelau,Oceania,224.282719
+2008,Tokelau,Oceania,224.3664116
+2009,Tokelau,Oceania,227.2064726
+2010,Tokelau,Oceania,231.3895216
+2011,Tokelau,Oceania,235.1007023
+2012,Tokelau,Oceania,238.5205035
+2013,Tokelau,Oceania,241.3154263
+2014,Tokelau,Oceania,244.5013322
+2015,Tokelau,Oceania,248.3032695
+2016,Tokelau,Oceania,251.9493723
+2017,Tokelau,Oceania,256.3803903
+2018,Tokelau,Oceania,261.2483778
+2019,Tokelau,Oceania,266.0063087
+1990,Tuvalu,Oceania,1872.701515
+1991,Tuvalu,Oceania,1874.383212
+1992,Tuvalu,Oceania,1877.433233
+1993,Tuvalu,Oceania,1884.280912
+1994,Tuvalu,Oceania,1895.846887
+1995,Tuvalu,Oceania,1909.775134
+1996,Tuvalu,Oceania,1924.683719
+1997,Tuvalu,Oceania,1941.967643
+1998,Tuvalu,Oceania,1962.049742
+1999,Tuvalu,Oceania,1985.221347
+2000,Tuvalu,Oceania,2008.802663
+2001,Tuvalu,Oceania,2034.524522
+2002,Tuvalu,Oceania,2062.068233
+2003,Tuvalu,Oceania,2093.159479
+2004,Tuvalu,Oceania,2126.76399
+2005,Tuvalu,Oceania,2154.702487
+2006,Tuvalu,Oceania,2183.726646
+2007,Tuvalu,Oceania,2222.513929
+2008,Tuvalu,Oceania,2266.843682
+2009,Tuvalu,Oceania,2317.882611
+2010,Tuvalu,Oceania,2372.688996
+2011,Tuvalu,Oceania,2425.981647
+2012,Tuvalu,Oceania,2486.202581
+2013,Tuvalu,Oceania,2546.518455
+2014,Tuvalu,Oceania,2603.347424
+2015,Tuvalu,Oceania,2660.389467
+2016,Tuvalu,Oceania,2703.68755
+2017,Tuvalu,Oceania,2748.316576
+2018,Tuvalu,Oceania,2793.366367
+2019,Tuvalu,Oceania,2838.661435
