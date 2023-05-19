@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 location_name,val
 Global,0.09073968
 "Southeast Asia, East Asia, and Oceania",0.046064935
@@ -232,3 +233,239 @@ Tuvalu,0.197971785
 United States Virgin Islands,0.066306407
 South Sudan,0.029996522
 Sudan,0.024956286
+=======
+location_name,val
+Global,9.073968
+"Southeast Asia, East Asia, and Oceania",4.6064935
+East Asia,4.0186629
+China,3.975311
+Democratic People's Republic of Korea,4.440637
+Taiwan (Province of China),6.462420600000001
+Southeast Asia,6.0285825
+Cambodia,6.4951644
+Indonesia,4.1663509
+Lao People's Democratic Republic,5.37747
+Malaysia,4.3967483000000005
+Maldives,6.916227699999999
+Myanmar,13.405503699999999
+Philippines,12.7125824
+Sri Lanka,2.1519839999999997
+Thailand,4.8992412
+Timor-Leste,5.2510041
+Viet Nam,3.6030838000000003
+Oceania,22.4212446
+Fiji,15.764508
+Kiribati,39.8264533
+Marshall Islands,7.677935199999999
+Micronesia (Federated States of),33.684982000000005
+Papua New Guinea,24.4718184
+Samoa,16.7896194
+Solomon Islands,16.716979900000002
+Tonga,14.0333136
+Vanuatu,7.9512307
+"Central Europe, Eastern Europe, and Central Asia",17.5347254
+Central Asia,4.2712365000000005
+Armenia,3.2910964000000003
+Azerbaijan,2.4806891
+Georgia,6.6257684
+Kazakhstan,9.0859006
+Kyrgyzstan,3.7993014
+Mongolia,6.6908267
+Tajikistan,1.699717
+Turkmenistan,4.7605273
+Uzbekistan,1.8915233999999999
+Central Europe,26.675353
+Albania,8.0783648
+Bosnia and Herzegovina,25.273330700000002
+Bulgaria,36.6053971
+Croatia,30.3720031
+Czechia,28.104516699999998
+Hungary,33.8353571
+North Macedonia,28.8549552
+Montenegro,37.0586696
+Poland,25.7102473
+Romania,22.2168047
+Serbia,31.1578462
+Slovakia,23.3280519
+Slovenia,21.6670554
+Eastern Europe,17.2507684
+Belarus,17.001501
+Estonia,22.9794981
+Latvia,20.6066075
+Lithuania,16.5104152
+Republic of Moldova,7.0520155
+Russian Federation,17.6705433
+Ukraine,16.642162499999998
+High-income,22.5159358
+High-income Asia Pacific,12.1384455
+Brunei Darussalam,5.324104
+Japan,14.7664027
+Republic of Korea,6.2244925
+Singapore,8.7080228
+Australasia,21.4467039
+Australia,20.565044800000003
+New Zealand,25.883749700000003
+Western Europe,27.49682
+Andorra,27.7694992
+Austria,33.6077542
+Belgium,26.4287277
+Cyprus,23.1322085
+Denmark,30.0095916
+Finland,21.6851243
+France,30.7584721
+Germany,27.065760500000003
+Greece,36.4955693
+Iceland,22.4707631
+Ireland,28.6070556
+Israel,17.5746938
+Italy,22.7512811
+Luxembourg,27.7891416
+Malta,18.655395
+Netherlands,28.8742554
+Norway,25.8391054
+Portugal,19.2188274
+Spain,32.5552737
+Sweden,21.2427878
+Switzerland,26.1442708
+United Kingdom,26.771699799999997
+Southern Latin America,27.96524
+Argentina,24.0887302
+Chile,36.369191699999995
+Uruguay,30.457218400000002
+High-income North America,21.2850894
+Canada,22.1570139
+United States of America,21.1801192
+Latin America and Caribbean,13.866533
+Caribbean,13.262228700000001
+Antigua and Barbuda,4.8610942
+Bahamas,3.4151046999999997
+Barbados,4.965817899999999
+Belize,3.8433124999999997
+Cuba,23.597397
+Dominica,6.4338878
+Dominican Republic,12.992174100000002
+Grenada,5.7918999
+Guyana,4.5013777
+Haiti,4.1991244
+Jamaica,9.160182
+Saint Lucia,6.1005785999999995
+Saint Vincent and the Grenadines,4.7105016
+Suriname,11.5460683
+Trinidad and Tobago,7.773328
+Andean Latin America,5.6581093
+Bolivia (Plurinational State of),5.3434886
+Ecuador,5.7292574
+Peru,5.7268633
+Central Latin America,11.872620000000001
+Colombia,13.5572368
+Costa Rica,12.4600156
+El Salvador,3.0470816000000003
+Guatemala,4.4027709
+Honduras,5.3810007
+Mexico,12.695573900000001
+Nicaragua,5.9381018
+Panama,6.5923518
+Venezuela (Bolivarian Republic of),14.016799299999999
+Tropical Latin America,17.8532223
+Brazil,17.997295299999998
+Paraguay,12.1594394
+North Africa and Middle East,5.9261036
+North Africa and Middle East,5.9261036
+Algeria,2.0894685
+Bahrain,4.7598583
+Egypt,1.3163154
+Iran (Islamic Republic of),4.5287896000000005
+Iraq,4.1091198
+Jordan,10.2394423
+Kuwait,5.0091554
+Lebanon,23.6960183
+Libya,1.2652599
+Morocco,1.2043696
+Palestine,4.255109399999999
+Oman,1.6500233999999998
+Qatar,2.9673236
+Saudi Arabia,2.0425906
+Syrian Arab Republic,7.0019851
+Tunisia,3.1104905
+Turkey,17.915940199999998
+United Arab Emirates,4.5967801
+Yemen,8.561121100000001
+South Asia,4.6137496
+South Asia,4.6137496
+Afghanistan,1.8789239
+Bangladesh,2.353916
+Bhutan,4.5361953
+India,4.242611999999999
+Nepal,28.4392876
+Pakistan,5.9192912
+Sub-Saharan Africa,4.012084300000001
+Central Sub-Saharan Africa,1.6048892
+Angola,2.6204099000000003
+Central African Republic,1.7091497
+Congo,1.8910417999999998
+Democratic Republic of the Congo,1.230918
+Equatorial Guinea,2.3296096
+Gabon,3.2020134
+Eastern Sub-Saharan Africa,4.0552167
+Burundi,5.2155186
+Comoros,3.3975449999999996
+Djibouti,4.7352176
+Eritrea,0.7888134
+Ethiopia,1.0567082
+Kenya,4.8338734
+Madagascar,3.0303359
+Malawi,4.4028875
+Mauritius,5.1028275999999995
+Mozambique,6.9792232
+Rwanda,9.328664700000001
+Seychelles,8.0724654
+Somalia,3.1493140000000004
+United Republic of Tanzania,4.6621194
+Uganda,5.3425348
+Zambia,8.570509099999999
+Southern Sub-Saharan Africa,11.0655731
+Botswana,9.4328288
+Lesotho,2.023481
+Namibia,14.3483167
+South Africa,12.9870995
+Eswatini,3.5869367
+Zimbabwe,4.3299354999999995
+Western Sub-Saharan Africa,2.4861568
+Benin,3.1461595
+Burkina Faso,2.5045454
+Cameroon,1.9144312
+Cabo Verde,3.5210929
+Chad,4.671056
+Côte d'Ivoire,4.3878205
+Gambia,1.6448623
+Ghana,2.0530168
+Guinea,2.0687035
+Guinea-Bissau,0.8331569000000001
+Liberia,2.9235317
+Mali,2.1744822
+Mauritania,9.1210622
+Niger,2.0255704
+Nigeria,1.8283249000000001
+Sao Tome and Principe,1.9356820000000001
+Senegal,2.5773193
+Sierra Leone,10.217139
+Togo,3.1675329000000003
+American Samoa,23.963631799999998
+Bermuda,8.9695931
+Cook Islands,25.479827399999998
+Greenland,47.2615555
+Guam,22.2068676
+Monaco,26.489529499999996
+Nauru,48.1408136
+Niue,16.0429338
+Northern Mariana Islands,21.6880665
+Palau,13.5019218
+Puerto Rico,9.3505155
+Saint Kitts and Nevis,3.2716974000000003
+San Marino,23.560942400000002
+Tokelau,17.150335899999998
+Tuvalu,19.7971785
+United States Virgin Islands,6.6306407
+South Sudan,2.9996522000000003
+Sudan,2.4956286000000003
+>>>>>>> 7e8bd89236eaa86abd56d27badc77149a7eb9b1f
