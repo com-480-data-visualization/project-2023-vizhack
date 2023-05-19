@@ -1,1 +1,234 @@
 location_name,val
+Global,27.3515671
+"Southeast Asia, East Asia, and Oceania",32.317642299999996
+East Asia,32.9591773
+China,33.2066716
+Democratic People's Republic of Korea,24.442625
+Taiwan (Province of China),27.8027207
+Southeast Asia,30.027061
+Cambodia,26.128802699999998
+Indonesia,28.781691799999997
+Lao People's Democratic Republic,23.8487975
+Malaysia,27.9862024
+Maldives,29.2965483
+Myanmar,36.749971599999995
+Philippines,35.196937299999995
+Sri Lanka,22.2756913
+Thailand,28.3097222
+Timor-Leste,35.079170999999995
+Viet Nam,29.991591
+Oceania,35.6647653
+Fiji,33.4427113
+Kiribati,47.5258447
+Marshall Islands,21.0784631
+Micronesia (Federated States of),46.3407264
+Papua New Guinea,36.7127044
+Samoa,31.141804899999997
+Solomon Islands,34.167512900000006
+Tonga,33.3952036
+Vanuatu,25.703715199999998
+"Central Europe, Eastern Europe, and Central Asia",32.2613857
+Central Asia,20.2805461
+Armenia,30.204481100000002
+Azerbaijan,21.838959799999998
+Georgia,26.2840379
+Kazakhstan,27.7366785
+Kyrgyzstan,22.815822
+Mongolia,26.0438711
+Tajikistan,15.6760662
+Turkmenistan,21.3629001
+Uzbekistan,9.3688222
+Central Europe,37.0485225
+Albania,24.0468286
+Bosnia and Herzegovina,30.2806507
+Bulgaria,45.5800857
+Croatia,40.123203000000004
+Czechia,36.350926799999996
+Hungary,37.3376279
+North Macedonia,39.0520895
+Montenegro,37.1096543
+Poland,39.851743899999995
+Romania,33.9713406
+Serbia,36.716144
+Slovakia,33.1318318
+Slovenia,27.157551
+Eastern Europe,33.3501196
+Belarus,33.8772983
+Estonia,31.650664699999997
+Latvia,35.8338778
+Lithuania,29.2671751
+Republic of Moldova,22.2295156
+Russian Federation,33.056453000000005
+Ukraine,35.2548873
+High-income,31.475031599999998
+High-income Asia Pacific,33.4551992
+Brunei Darussalam,25.1688005
+Japan,34.653167
+Republic of Korea,31.134563
+Singapore,19.3898762
+Australasia,28.193839999999998
+Australia,28.3941632
+New Zealand,27.259671899999997
+Western Europe,34.323321
+Andorra,36.3408153
+Austria,36.1935302
+Belgium,34.7442413
+Cyprus,35.8795907
+Denmark,43.6095765
+Finland,29.8019431
+France,37.3764074
+Germany,32.3448338
+Greece,42.5770701
+Iceland,30.0050886
+Ireland,33.2740832
+Israel,31.0550471
+Italy,31.5460406
+Luxembourg,33.5610493
+Malta,32.3924572
+Netherlands,38.930609
+Norway,39.426924
+Portugal,28.1704758
+Spain,40.2170615
+Sweden,23.8509071
+Switzerland,33.6781286
+United Kingdom,31.961673
+Southern Latin America,33.0571977
+Argentina,29.8926866
+Chile,39.4216175
+Uruguay,34.5877901
+High-income North America,26.702423600000003
+Canada,31.883758
+United States of America,26.129543599999998
+Latin America and Caribbean,26.177057599999998
+Caribbean,20.9419538
+Antigua and Barbuda,7.0572686
+Bahamas,7.2833127
+Barbados,10.3504458
+Belize,12.696611999999998
+Cuba,33.169781199999996
+Dominica,10.9490462
+Dominican Republic,13.5847845
+Grenada,11.0392022
+Guyana,13.7571107
+Haiti,11.526720899999999
+Jamaica,18.426441800000003
+Saint Lucia,13.8435585
+Saint Vincent and the Grenadines,12.9120406
+Suriname,27.0213879
+Trinidad and Tobago,20.1518781
+Andean Latin America,10.956726999999999
+Bolivia (Plurinational State of),12.2387227
+Ecuador,15.6134717
+Peru,8.4725793
+Central Latin America,25.2404816
+Colombia,22.0434731
+Costa Rica,20.1879512
+El Salvador,7.185266899999999
+Guatemala,13.715332
+Honduras,17.317164400000003
+Mexico,30.023527100000003
+Nicaragua,16.0242717
+Panama,13.5395258
+Venezuela (Bolivarian Republic of),24.877506699999998
+Tropical Latin America,31.6566068
+Brazil,31.7514293
+Paraguay,27.603509300000002
+North Africa and Middle East,21.255901299999998
+North Africa and Middle East,21.255901299999998
+Algeria,18.5758375
+Bahrain,16.0478608
+Egypt,20.0953066
+Iran (Islamic Republic of),14.196729999999999
+Iraq,25.644046999999997
+Jordan,29.4856391
+Kuwait,25.7238296
+Lebanon,27.865748800000002
+Libya,20.9990973
+Morocco,16.8703972
+Palestine,23.9342535
+Oman,13.708360299999999
+Qatar,17.0969969
+Saudi Arabia,11.0851838
+Syrian Arab Republic,29.082182699999997
+Tunisia,27.199823000000002
+Turkey,35.4959719
+United Arab Emirates,17.234548
+Yemen,20.632873099999998
+South Asia,22.791574
+South Asia,22.791574
+Afghanistan,3.5321858999999995
+Bangladesh,27.2693391
+Bhutan,11.038940799999999
+India,21.716503200000002
+Nepal,40.1135818
+Pakistan,24.4389577
+Sub-Saharan Africa,13.1349153
+Central Sub-Saharan Africa,11.287815499999999
+Angola,12.2023638
+Central African Republic,10.654304100000001
+Congo,8.3304601
+Democratic Republic of the Congo,11.296041299999999
+Equatorial Guinea,13.1068616
+Gabon,10.8825101
+Eastern Sub-Saharan Africa,12.986578100000001
+Burundi,14.232019300000001
+Comoros,14.977475300000002
+Djibouti,21.2801645
+Eritrea,7.9840409
+Ethiopia,6.4351252
+Kenya,16.9486683
+Madagascar,21.002315499999998
+Malawi,13.6497876
+Mauritius,25.689341300000002
+Mozambique,14.579625900000002
+Rwanda,15.232101100000001
+Seychelles,26.003017899999996
+Somalia,13.3448849
+United Republic of Tanzania,16.288032
+Uganda,11.880673
+Zambia,15.638712299999998
+Southern Sub-Saharan Africa,27.073407300000003
+Botswana,23.1880199
+Lesotho,15.964878900000002
+Namibia,21.3197801
+South Africa,30.306187499999997
+Eswatini,11.662823
+Zimbabwe,17.5774571
+Western Sub-Saharan Africa,9.5437058
+Benin,9.9402542
+Burkina Faso,11.66434
+Cameroon,11.6545085
+Cabo Verde,9.659443099999999
+Chad,12.9653467
+Côte d'Ivoire,12.3274801
+Gambia,18.475613199999998
+Ghana,6.2572380999999995
+Guinea,16.4882761
+Guinea-Bissau,3.6228518000000003
+Liberia,9.033650399999999
+Mali,9.6147108
+Mauritania,22.9315318
+Niger,7.3096837
+Nigeria,7.376269100000001
+Sao Tome and Principe,3.9557586
+Senegal,15.533972400000001
+Sierra Leone,21.8726339
+Togo,12.992588799999998
+American Samoa,33.9961207
+Bermuda,13.446223600000001
+Cook Islands,32.9773934
+Greenland,47.2179336
+Guam,29.3635587
+Monaco,33.4026907
+Nauru,44.7118892
+Niue,22.6058651
+Northern Mariana Islands,36.1007792
+Palau,23.9146696
+Puerto Rico,14.602194099999998
+Saint Kitts and Nevis,6.8069336
+San Marino,31.6271445
+Tokelau,28.707116
+Tuvalu,30.3489173
+United States Virgin Islands,8.780840600000001
+South Sudan,14.9478102
+Sudan,12.2284382
