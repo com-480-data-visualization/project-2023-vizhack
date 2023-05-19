@@ -1,7 +1,11 @@
 location_name,val
+Global,27.8178785
+"Southeast Asia, East Asia, and Oceania",32.4671479
+East Asia,33.146901899999996
 China,33.396704
 Democratic People's Republic of Korea,24.0719076
 Taiwan (Province of China),28.3775555
+Southeast Asia,30.1393064
 Cambodia,25.4625239
 Indonesia,28.4533918
 Lao People's Democratic Republic,24.3652224
@@ -13,6 +17,7 @@ Sri Lanka,23.3433842
 Thailand,29.3465601
 Timor-Leste,35.3060938
 Viet Nam,29.4386182
+Oceania,35.6424538
 Fiji,34.0615481
 Kiribati,46.9154737
 Marshall Islands,21.2150511
@@ -22,6 +27,8 @@ Samoa,30.939763399999997
 Solomon Islands,35.0090685
 Tonga,33.471825700000004
 Vanuatu,25.714545500000003
+"Central Europe, Eastern Europe, and Central Asia",32.456682
+Central Asia,20.7905694
 Armenia,30.526125599999997
 Azerbaijan,21.7749156
 Georgia,26.483788800000003
@@ -31,6 +38,7 @@ Mongolia,26.0269605
 Tajikistan,16.489012
 Turkmenistan,22.0268572
 Uzbekistan,9.5472688
+Central Europe,37.665780500000004
 Albania,24.2299502
 Bosnia and Herzegovina,29.9035227
 Bulgaria,46.070534699999996
@@ -44,6 +52,7 @@ Romania,34.3247539
 Serbia,36.40734
 Slovakia,33.7376605
 Slovenia,28.2108087
+Eastern Europe,33.1849292
 Belarus,34.1311017
 Estonia,32.3052987
 Latvia,36.9208614
@@ -51,6 +60,8 @@ Lithuania,30.2213705
 Republic of Moldova,21.957316199999998
 Russian Federation,32.632665100000004
 Ukraine,35.554419100000004
+High-income,32.0171097
+High-income Asia Pacific,33.8521095
 Brunei Darussalam,26.6141201
 Japan,35.0736107
 Republic of Korea,31.2837676
@@ -58,6 +69,7 @@ Singapore,20.1061616
 Australasia,29.074817400000004
 Australia,29.302538500000004
 New Zealand,28.0081403
+Western Europe,35.0018257
 Andorra,36.6421187
 Austria,35.3890233
 Belgium,35.3962407
@@ -80,11 +92,15 @@ Spain,41.2299089
 Sweden,24.7034805
 Switzerland,33.4036986
 United Kingdom,32.5879913
+Southern Latin America,33.3661433
 Argentina,30.364087499999997
 Chile,39.5104528
 Uruguay,34.082676299999996
+High-income North America,27.1550094
 Canada,32.483823699999995
 United States of America,26.5693077
+Latin America and Caribbean,27.136216299999997
+Caribbean,20.9434394
 Antigua and Barbuda,6.804732199999999
 Bahamas,7.450599700000001
 Barbados,10.372139800000001
@@ -100,9 +116,11 @@ Saint Lucia,13.860082600000002
 Saint Vincent and the Grenadines,12.7583801
 Suriname,26.8194474
 Trinidad and Tobago,21.0074097
+Andean Latin America,11.2565804
 Bolivia (Plurinational State of),13.420680099999998
 Ecuador,16.4145753
 Peru,8.3252503
+Central Latin America,26.201013699999997
 Colombia,23.0729064
 Costa Rica,21.1297704
 El Salvador,7.6011348000000005
@@ -112,8 +130,11 @@ Mexico,30.9920185
 Nicaragua,16.882501899999998
 Panama,13.909158099999999
 Venezuela (Bolivarian Republic of),26.2337719
+Tropical Latin America,32.9858816
 Brazil,33.1104899
 Paraguay,27.6340456
+North Africa and Middle East,21.5117294
+North Africa and Middle East,21.5117294
 Algeria,18.8900672
 Bahrain,16.77078
 Egypt,20.019709
@@ -141,12 +162,15 @@ Bhutan,11.3702707
 India,22.517221000000003
 Nepal,39.6925297
 Pakistan,24.6299147
+Sub-Saharan Africa,13.4557489
+Central Sub-Saharan Africa,11.639651500000001
 Angola,12.464700200000001
 Central African Republic,10.8442355
 Congo,8.4382895
 Democratic Republic of the Congo,11.7117962
 Equatorial Guinea,13.3943277
 Gabon,10.8521579
+Eastern Sub-Saharan Africa,13.1824522
 Burundi,15.3410143
 Comoros,15.023931099999999
 Djibouti,21.7030021
@@ -163,11 +187,14 @@ Somalia,13.6832757
 United Republic of Tanzania,16.188454099999998
 Uganda,11.5670797
 Zambia,15.6809658
+Southern Sub-Saharan Africa,28.389748100000002
 Botswana,23.552194800000002
 Lesotho,16.3489916
 Namibia,21.8552102
+South Africa,31.8946026
 Eswatini,12.0929534
 Zimbabwe,18.1278032
+Western Sub-Saharan Africa,9.6913602
 Benin,10.1786633
 Burkina Faso,11.8482266
 Cameroon,11.8496699
