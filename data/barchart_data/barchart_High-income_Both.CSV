@@ -1,34 +1,34 @@
 date,name,category,value
-1990-01-01,Brunei Darussalam,High-income Asia Pacific,47125.22005
-1991-01-01,Brunei Darussalam,High-income Asia Pacific,47521.32667
-1992-01-01,Brunei Darussalam,High-income Asia Pacific,47716.37913
-1993-01-01,Brunei Darussalam,High-income Asia Pacific,47743.4508
-1994-01-01,Brunei Darussalam,High-income Asia Pacific,47581.85462
-1995-01-01,Brunei Darussalam,High-income Asia Pacific,47295.64972
-1996-01-01,Brunei Darussalam,High-income Asia Pacific,46856.89208
-1997-01-01,Brunei Darussalam,High-income Asia Pacific,46356.47658
-1998-01-01,Brunei Darussalam,High-income Asia Pacific,45863.59561
-1999-01-01,Brunei Darussalam,High-income Asia Pacific,45396.23572
-2000-01-01,Brunei Darussalam,High-income Asia Pacific,45023.36516
-2001-01-01,Brunei Darussalam,High-income Asia Pacific,44730.6684
-2002-01-01,Brunei Darussalam,High-income Asia Pacific,45133.02851
-2003-01-01,Brunei Darussalam,High-income Asia Pacific,45734.91869
-2004-01-01,Brunei Darussalam,High-income Asia Pacific,46453.47681
-2005-01-01,Brunei Darussalam,High-income Asia Pacific,47214.87237
-2006-01-01,Brunei Darussalam,High-income Asia Pacific,48033.75796
-2007-01-01,Brunei Darussalam,High-income Asia Pacific,48857.32958
-2008-01-01,Brunei Darussalam,High-income Asia Pacific,49678.62074
-2009-01-01,Brunei Darussalam,High-income Asia Pacific,50495.89534
-2010-01-01,Brunei Darussalam,High-income Asia Pacific,51263.38846
-2011-01-01,Brunei Darussalam,High-income Asia Pacific,52069.4612
-2012-01-01,Brunei Darussalam,High-income Asia Pacific,52989.36279
-2013-01-01,Brunei Darussalam,High-income Asia Pacific,54583.44616
-2014-01-01,Brunei Darussalam,High-income Asia Pacific,56029.81861
-2015-01-01,Brunei Darussalam,High-income Asia Pacific,57516.40742
-2016-01-01,Brunei Darussalam,High-income Asia Pacific,58972.78673
-2017-01-01,Brunei Darussalam,High-income Asia Pacific,60393.43145
-2018-01-01,Brunei Darussalam,High-income Asia Pacific,61816.79121
-2019-01-01,Brunei Darussalam,High-income Asia Pacific,63137.91104
+1990-01-01,Brunei Darussalam,High-income Asia Pacific,47125.22
+1991-01-01,Brunei Darussalam,High-income Asia Pacific,47521.33
+1992-01-01,Brunei Darussalam,High-income Asia Pacific,47716.38
+1993-01-01,Brunei Darussalam,High-income Asia Pacific,47743.45
+1994-01-01,Brunei Darussalam,High-income Asia Pacific,47581.85
+1995-01-01,Brunei Darussalam,High-income Asia Pacific,47295.65
+1996-01-01,Brunei Darussalam,High-income Asia Pacific,46856.89
+1997-01-01,Brunei Darussalam,High-income Asia Pacific,46356.48
+1998-01-01,Brunei Darussalam,High-income Asia Pacific,45863.6
+1999-01-01,Brunei Darussalam,High-income Asia Pacific,45396.24
+2000-01-01,Brunei Darussalam,High-income Asia Pacific,45023.37
+2001-01-01,Brunei Darussalam,High-income Asia Pacific,44730.67
+2002-01-01,Brunei Darussalam,High-income Asia Pacific,45133.03
+2003-01-01,Brunei Darussalam,High-income Asia Pacific,45734.92
+2004-01-01,Brunei Darussalam,High-income Asia Pacific,46453.48
+2005-01-01,Brunei Darussalam,High-income Asia Pacific,47214.87
+2006-01-01,Brunei Darussalam,High-income Asia Pacific,48033.76
+2007-01-01,Brunei Darussalam,High-income Asia Pacific,48857.33
+2008-01-01,Brunei Darussalam,High-income Asia Pacific,49678.62
+2009-01-01,Brunei Darussalam,High-income Asia Pacific,50495.9
+2010-01-01,Brunei Darussalam,High-income Asia Pacific,51263.39
+2011-01-01,Brunei Darussalam,High-income Asia Pacific,52069.46
+2012-01-01,Brunei Darussalam,High-income Asia Pacific,52989.36
+2013-01-01,Brunei Darussalam,High-income Asia Pacific,54583.45
+2014-01-01,Brunei Darussalam,High-income Asia Pacific,56029.82
+2015-01-01,Brunei Darussalam,High-income Asia Pacific,57516.41
+2016-01-01,Brunei Darussalam,High-income Asia Pacific,58972.79
+2017-01-01,Brunei Darussalam,High-income Asia Pacific,60393.43
+2018-01-01,Brunei Darussalam,High-income Asia Pacific,61816.79
+2019-01-01,Brunei Darussalam,High-income Asia Pacific,63137.91
 1990-01-01,Japan,High-income Asia Pacific,35593185.56
 1991-01-01,Japan,High-income Asia Pacific,35654440.04
 1992-01-01,Japan,High-income Asia Pacific,35748821.54
@@ -89,276 +89,276 @@ date,name,category,value
 2017-01-01,Republic of Korea,High-income Asia Pacific,10995811.03
 2018-01-01,Republic of Korea,High-income Asia Pacific,11084769.27
 2019-01-01,Republic of Korea,High-income Asia Pacific,11163546.37
-1990-01-01,Singapore,High-income Asia Pacific,504693.5409
-1991-01-01,Singapore,High-income Asia Pacific,511846.2164
-1992-01-01,Singapore,High-income Asia Pacific,518809.3272
-1993-01-01,Singapore,High-income Asia Pacific,523406.1147
-1994-01-01,Singapore,High-income Asia Pacific,532048.5381
-1995-01-01,Singapore,High-income Asia Pacific,539969.2253
-1996-01-01,Singapore,High-income Asia Pacific,559296.2425
-1997-01-01,Singapore,High-income Asia Pacific,573530.9657
-1998-01-01,Singapore,High-income Asia Pacific,589487.8667
-1999-01-01,Singapore,High-income Asia Pacific,586467.5883
-2000-01-01,Singapore,High-income Asia Pacific,592762.4034
-2001-01-01,Singapore,High-income Asia Pacific,604199.5244
-2002-01-01,Singapore,High-income Asia Pacific,604957.1996
-2003-01-01,Singapore,High-income Asia Pacific,587087.9152
-2004-01-01,Singapore,High-income Asia Pacific,591072.2623
-2005-01-01,Singapore,High-income Asia Pacific,605192.7599
-2006-01-01,Singapore,High-income Asia Pacific,628086.7757
-2007-01-01,Singapore,High-income Asia Pacific,660336.5425
-2008-01-01,Singapore,High-income Asia Pacific,708320.1657
-2009-01-01,Singapore,High-income Asia Pacific,725888.8814
-2010-01-01,Singapore,High-income Asia Pacific,729194.8227
-2011-01-01,Singapore,High-income Asia Pacific,735873.5401
-2012-01-01,Singapore,High-income Asia Pacific,745961.2518
-2013-01-01,Singapore,High-income Asia Pacific,749894.2453
-2014-01-01,Singapore,High-income Asia Pacific,746352.1355
-2015-01-01,Singapore,High-income Asia Pacific,738811.8201
-2016-01-01,Singapore,High-income Asia Pacific,733027.1711
-2017-01-01,Singapore,High-income Asia Pacific,712374.1966
-2018-01-01,Singapore,High-income Asia Pacific,699796.8553
-2019-01-01,Singapore,High-income Asia Pacific,690375.4018
-1990-01-01,Australia,Australasia,3791496.659
-1991-01-01,Australia,Australasia,3776953.654
-1992-01-01,Australia,Australasia,3761202.993
-1993-01-01,Australia,Australasia,3738693.425
-1994-01-01,Australia,Australasia,3707519.958
-1995-01-01,Australia,Australasia,3673299.265
-1996-01-01,Australia,Australasia,3629127.676
-1997-01-01,Australia,Australasia,3583375.492
+1990-01-01,Singapore,High-income Asia Pacific,504693.54
+1991-01-01,Singapore,High-income Asia Pacific,511846.22
+1992-01-01,Singapore,High-income Asia Pacific,518809.33
+1993-01-01,Singapore,High-income Asia Pacific,523406.11
+1994-01-01,Singapore,High-income Asia Pacific,532048.54
+1995-01-01,Singapore,High-income Asia Pacific,539969.23
+1996-01-01,Singapore,High-income Asia Pacific,559296.24
+1997-01-01,Singapore,High-income Asia Pacific,573530.97
+1998-01-01,Singapore,High-income Asia Pacific,589487.87
+1999-01-01,Singapore,High-income Asia Pacific,586467.59
+2000-01-01,Singapore,High-income Asia Pacific,592762.4
+2001-01-01,Singapore,High-income Asia Pacific,604199.52
+2002-01-01,Singapore,High-income Asia Pacific,604957.2
+2003-01-01,Singapore,High-income Asia Pacific,587087.92
+2004-01-01,Singapore,High-income Asia Pacific,591072.26
+2005-01-01,Singapore,High-income Asia Pacific,605192.76
+2006-01-01,Singapore,High-income Asia Pacific,628086.78
+2007-01-01,Singapore,High-income Asia Pacific,660336.54
+2008-01-01,Singapore,High-income Asia Pacific,708320.17
+2009-01-01,Singapore,High-income Asia Pacific,725888.88
+2010-01-01,Singapore,High-income Asia Pacific,729194.82
+2011-01-01,Singapore,High-income Asia Pacific,735873.54
+2012-01-01,Singapore,High-income Asia Pacific,745961.25
+2013-01-01,Singapore,High-income Asia Pacific,749894.25
+2014-01-01,Singapore,High-income Asia Pacific,746352.14
+2015-01-01,Singapore,High-income Asia Pacific,738811.82
+2016-01-01,Singapore,High-income Asia Pacific,733027.17
+2017-01-01,Singapore,High-income Asia Pacific,712374.2
+2018-01-01,Singapore,High-income Asia Pacific,699796.86
+2019-01-01,Singapore,High-income Asia Pacific,690375.4
+1990-01-01,Australia,Australasia,3791496.66
+1991-01-01,Australia,Australasia,3776953.65
+1992-01-01,Australia,Australasia,3761202.99
+1993-01-01,Australia,Australasia,3738693.42
+1994-01-01,Australia,Australasia,3707519.96
+1995-01-01,Australia,Australasia,3673299.26
+1996-01-01,Australia,Australasia,3629127.68
+1997-01-01,Australia,Australasia,3583375.49
 1998-01-01,Australia,Australasia,3538680.77
-1999-01-01,Australia,Australasia,3497309.867
+1999-01-01,Australia,Australasia,3497309.87
 2000-01-01,Australia,Australasia,3463991.8
-2001-01-01,Australia,Australasia,3434610.823
-2002-01-01,Australia,Australasia,3406684.624
-2003-01-01,Australia,Australasia,3378381.389
-2004-01-01,Australia,Australasia,3346716.728
-2005-01-01,Australia,Australasia,3313114.624
-2006-01-01,Australia,Australasia,3273151.207
-2007-01-01,Australia,Australasia,3227266.003
-2008-01-01,Australia,Australasia,3180542.582
-2009-01-01,Australia,Australasia,3130489.709
-2010-01-01,Australia,Australasia,3080312.982
-2011-01-01,Australia,Australasia,3032843.662
+2001-01-01,Australia,Australasia,3434610.82
+2002-01-01,Australia,Australasia,3406684.62
+2003-01-01,Australia,Australasia,3378381.39
+2004-01-01,Australia,Australasia,3346716.73
+2005-01-01,Australia,Australasia,3313114.62
+2006-01-01,Australia,Australasia,3273151.21
+2007-01-01,Australia,Australasia,3227266.0
+2008-01-01,Australia,Australasia,3180542.58
+2009-01-01,Australia,Australasia,3130489.71
+2010-01-01,Australia,Australasia,3080312.98
+2011-01-01,Australia,Australasia,3032843.66
 2012-01-01,Australia,Australasia,2986108.78
-2013-01-01,Australia,Australasia,2947547.681
-2014-01-01,Australia,Australasia,2914918.678
-2015-01-01,Australia,Australasia,2890089.944
-2016-01-01,Australia,Australasia,2872936.156
-2017-01-01,Australia,Australasia,2873436.087
-2018-01-01,Australia,Australasia,2887874.942
-2019-01-01,Australia,Australasia,2905758.209
-1990-01-01,New Zealand,Australasia,728051.8501
-1991-01-01,New Zealand,Australasia,723623.844
-1992-01-01,New Zealand,Australasia,723796.8558
-1993-01-01,New Zealand,Australasia,726923.6304
-1994-01-01,New Zealand,Australasia,732162.5942
-1995-01-01,New Zealand,Australasia,738810.1683
-1996-01-01,New Zealand,Australasia,745451.9525
-1997-01-01,New Zealand,Australasia,751050.8277
-1998-01-01,New Zealand,Australasia,755532.025
-1999-01-01,New Zealand,Australasia,758501.2303
-2000-01-01,New Zealand,Australasia,759672.0427
-2001-01-01,New Zealand,Australasia,758886.129
-2002-01-01,New Zealand,Australasia,756635.6662
-2003-01-01,New Zealand,Australasia,751960.8009
-2004-01-01,New Zealand,Australasia,742472.7858
-2005-01-01,New Zealand,Australasia,729318.4474
-2006-01-01,New Zealand,Australasia,713852.3016
-2007-01-01,New Zealand,Australasia,697869.5605
-2008-01-01,New Zealand,Australasia,682106.6402
-2009-01-01,New Zealand,Australasia,665978.737
-2010-01-01,New Zealand,Australasia,649450.2971
+2013-01-01,Australia,Australasia,2947547.68
+2014-01-01,Australia,Australasia,2914918.68
+2015-01-01,Australia,Australasia,2890089.94
+2016-01-01,Australia,Australasia,2872936.16
+2017-01-01,Australia,Australasia,2873436.09
+2018-01-01,Australia,Australasia,2887874.94
+2019-01-01,Australia,Australasia,2905758.21
+1990-01-01,New Zealand,Australasia,728051.85
+1991-01-01,New Zealand,Australasia,723623.84
+1992-01-01,New Zealand,Australasia,723796.86
+1993-01-01,New Zealand,Australasia,726923.63
+1994-01-01,New Zealand,Australasia,732162.59
+1995-01-01,New Zealand,Australasia,738810.17
+1996-01-01,New Zealand,Australasia,745451.95
+1997-01-01,New Zealand,Australasia,751050.83
+1998-01-01,New Zealand,Australasia,755532.02
+1999-01-01,New Zealand,Australasia,758501.23
+2000-01-01,New Zealand,Australasia,759672.04
+2001-01-01,New Zealand,Australasia,758886.13
+2002-01-01,New Zealand,Australasia,756635.67
+2003-01-01,New Zealand,Australasia,751960.8
+2004-01-01,New Zealand,Australasia,742472.79
+2005-01-01,New Zealand,Australasia,729318.45
+2006-01-01,New Zealand,Australasia,713852.3
+2007-01-01,New Zealand,Australasia,697869.56
+2008-01-01,New Zealand,Australasia,682106.64
+2009-01-01,New Zealand,Australasia,665978.74
+2010-01-01,New Zealand,Australasia,649450.3
 2011-01-01,New Zealand,Australasia,633194.66
-2012-01-01,New Zealand,Australasia,616949.8713
-2013-01-01,New Zealand,Australasia,601952.6257
-2014-01-01,New Zealand,Australasia,588420.9328
-2015-01-01,New Zealand,Australasia,576885.5703
-2016-01-01,New Zealand,Australasia,567414.1704
-2017-01-01,New Zealand,Australasia,560159.7137
-2018-01-01,New Zealand,Australasia,556934.0641
-2019-01-01,New Zealand,Australasia,555384.8381
-1990-01-01,Andorra,Western Europe,16846.08292
-1991-01-01,Andorra,Western Europe,18475.75131
-1992-01-01,Andorra,Western Europe,19328.64073
-1993-01-01,Andorra,Western Europe,20347.31554
-1994-01-01,Andorra,Western Europe,19937.85708
-1995-01-01,Andorra,Western Europe,19483.65157
-1996-01-01,Andorra,Western Europe,19444.7581
-1997-01-01,Andorra,Western Europe,19493.06638
-1998-01-01,Andorra,Western Europe,19416.68877
-1999-01-01,Andorra,Western Europe,19101.2557
-2000-01-01,Andorra,Western Europe,18679.32634
-2001-01-01,Andorra,Western Europe,18465.72895
-2002-01-01,Andorra,Western Europe,18466.89781
-2003-01-01,Andorra,Western Europe,19837.10172
-2004-01-01,Andorra,Western Europe,21052.65636
-2005-01-01,Andorra,Western Europe,21300.48709
-2006-01-01,Andorra,Western Europe,21777.55607
-2007-01-01,Andorra,Western Europe,22017.30774
-2008-01-01,Andorra,Western Europe,22035.82935
-2009-01-01,Andorra,Western Europe,21532.10299
-2010-01-01,Andorra,Western Europe,21201.99033
-2011-01-01,Andorra,Western Europe,19142.7876
-2012-01-01,Andorra,Western Europe,18378.79874
-2013-01-01,Andorra,Western Europe,18072.24256
-2014-01-01,Andorra,Western Europe,18105.43277
-2015-01-01,Andorra,Western Europe,18159.59431
-2016-01-01,Andorra,Western Europe,18111.43462
-2017-01-01,Andorra,Western Europe,18509.50851
-2018-01-01,Andorra,Western Europe,18898.99416
-2019-01-01,Andorra,Western Europe,19286.70652
-1990-01-01,Austria,Western Europe,2157906.984
-1991-01-01,Austria,Western Europe,2190108.828
-1992-01-01,Austria,Western Europe,2217110.498
-1993-01-01,Austria,Western Europe,2244445.432
+2012-01-01,New Zealand,Australasia,616949.87
+2013-01-01,New Zealand,Australasia,601952.63
+2014-01-01,New Zealand,Australasia,588420.93
+2015-01-01,New Zealand,Australasia,576885.57
+2016-01-01,New Zealand,Australasia,567414.17
+2017-01-01,New Zealand,Australasia,560159.71
+2018-01-01,New Zealand,Australasia,556934.06
+2019-01-01,New Zealand,Australasia,555384.84
+1990-01-01,Andorra,Western Europe,16846.08
+1991-01-01,Andorra,Western Europe,18475.75
+1992-01-01,Andorra,Western Europe,19328.64
+1993-01-01,Andorra,Western Europe,20347.32
+1994-01-01,Andorra,Western Europe,19937.86
+1995-01-01,Andorra,Western Europe,19483.65
+1996-01-01,Andorra,Western Europe,19444.76
+1997-01-01,Andorra,Western Europe,19493.07
+1998-01-01,Andorra,Western Europe,19416.69
+1999-01-01,Andorra,Western Europe,19101.26
+2000-01-01,Andorra,Western Europe,18679.33
+2001-01-01,Andorra,Western Europe,18465.73
+2002-01-01,Andorra,Western Europe,18466.9
+2003-01-01,Andorra,Western Europe,19837.1
+2004-01-01,Andorra,Western Europe,21052.66
+2005-01-01,Andorra,Western Europe,21300.49
+2006-01-01,Andorra,Western Europe,21777.56
+2007-01-01,Andorra,Western Europe,22017.31
+2008-01-01,Andorra,Western Europe,22035.83
+2009-01-01,Andorra,Western Europe,21532.1
+2010-01-01,Andorra,Western Europe,21201.99
+2011-01-01,Andorra,Western Europe,19142.79
+2012-01-01,Andorra,Western Europe,18378.8
+2013-01-01,Andorra,Western Europe,18072.24
+2014-01-01,Andorra,Western Europe,18105.43
+2015-01-01,Andorra,Western Europe,18159.59
+2016-01-01,Andorra,Western Europe,18111.43
+2017-01-01,Andorra,Western Europe,18509.51
+2018-01-01,Andorra,Western Europe,18898.99
+2019-01-01,Andorra,Western Europe,19286.71
+1990-01-01,Austria,Western Europe,2157906.98
+1991-01-01,Austria,Western Europe,2190108.83
+1992-01-01,Austria,Western Europe,2217110.5
+1993-01-01,Austria,Western Europe,2244445.43
 1994-01-01,Austria,Western Europe,2270722.5
 1995-01-01,Austria,Western Europe,2295643.4
-1996-01-01,Austria,Western Europe,2321374.391
+1996-01-01,Austria,Western Europe,2321374.39
 1997-01-01,Austria,Western Europe,2345670.93
-1998-01-01,Austria,Western Europe,2371001.521
-1999-01-01,Austria,Western Europe,2388968.778
-2000-01-01,Austria,Western Europe,2394139.277
-2001-01-01,Austria,Western Europe,2395112.159
-2002-01-01,Austria,Western Europe,2389358.345
-2003-01-01,Austria,Western Europe,2379140.438
-2004-01-01,Austria,Western Europe,2363406.626
-2005-01-01,Austria,Western Europe,2339356.604
-2006-01-01,Austria,Western Europe,2313607.754
-2007-01-01,Austria,Western Europe,2286818.536
-2008-01-01,Austria,Western Europe,2260867.141
+1998-01-01,Austria,Western Europe,2371001.52
+1999-01-01,Austria,Western Europe,2388968.78
+2000-01-01,Austria,Western Europe,2394139.28
+2001-01-01,Austria,Western Europe,2395112.16
+2002-01-01,Austria,Western Europe,2389358.35
+2003-01-01,Austria,Western Europe,2379140.44
+2004-01-01,Austria,Western Europe,2363406.63
+2005-01-01,Austria,Western Europe,2339356.6
+2006-01-01,Austria,Western Europe,2313607.75
+2007-01-01,Austria,Western Europe,2286818.54
+2008-01-01,Austria,Western Europe,2260867.14
 2009-01-01,Austria,Western Europe,2234757.98
-2010-01-01,Austria,Western Europe,2211452.943
-2011-01-01,Austria,Western Europe,2196267.314
-2012-01-01,Austria,Western Europe,2184312.915
-2013-01-01,Austria,Western Europe,2178616.037
-2014-01-01,Austria,Western Europe,2175720.974
-2015-01-01,Austria,Western Europe,2178589.412
-2016-01-01,Austria,Western Europe,2181968.579
-2017-01-01,Austria,Western Europe,2181585.691
-2018-01-01,Austria,Western Europe,2184048.468
-2019-01-01,Austria,Western Europe,2185980.663
-1990-01-01,Belgium,Western Europe,2783487.184
-1991-01-01,Belgium,Western Europe,2762061.024
-1992-01-01,Belgium,Western Europe,2739614.451
-1993-01-01,Belgium,Western Europe,2715453.172
-1994-01-01,Belgium,Western Europe,2690273.889
-1995-01-01,Belgium,Western Europe,2664453.341
-1996-01-01,Belgium,Western Europe,2638918.178
-1997-01-01,Belgium,Western Europe,2612995.537
-1998-01-01,Belgium,Western Europe,2588452.538
-1999-01-01,Belgium,Western Europe,2562927.161
-2000-01-01,Belgium,Western Europe,2532494.185
-2001-01-01,Belgium,Western Europe,2500581.702
-2002-01-01,Belgium,Western Europe,2467687.722
+2010-01-01,Austria,Western Europe,2211452.94
+2011-01-01,Austria,Western Europe,2196267.31
+2012-01-01,Austria,Western Europe,2184312.92
+2013-01-01,Austria,Western Europe,2178616.04
+2014-01-01,Austria,Western Europe,2175720.97
+2015-01-01,Austria,Western Europe,2178589.41
+2016-01-01,Austria,Western Europe,2181968.58
+2017-01-01,Austria,Western Europe,2181585.69
+2018-01-01,Austria,Western Europe,2184048.47
+2019-01-01,Austria,Western Europe,2185980.66
+1990-01-01,Belgium,Western Europe,2783487.18
+1991-01-01,Belgium,Western Europe,2762061.02
+1992-01-01,Belgium,Western Europe,2739614.45
+1993-01-01,Belgium,Western Europe,2715453.17
+1994-01-01,Belgium,Western Europe,2690273.89
+1995-01-01,Belgium,Western Europe,2664453.34
+1996-01-01,Belgium,Western Europe,2638918.18
+1997-01-01,Belgium,Western Europe,2612995.54
+1998-01-01,Belgium,Western Europe,2588452.54
+1999-01-01,Belgium,Western Europe,2562927.16
+2000-01-01,Belgium,Western Europe,2532494.18
+2001-01-01,Belgium,Western Europe,2500581.7
+2002-01-01,Belgium,Western Europe,2467687.72
 2003-01-01,Belgium,Western Europe,2433386.96
-2004-01-01,Belgium,Western Europe,2401611.657
-2005-01-01,Belgium,Western Europe,2371959.991
-2006-01-01,Belgium,Western Europe,2345802.047
-2007-01-01,Belgium,Western Europe,2321534.197
-2008-01-01,Belgium,Western Europe,2299938.467
-2009-01-01,Belgium,Western Europe,2278251.009
-2010-01-01,Belgium,Western Europe,2255083.564
-2011-01-01,Belgium,Western Europe,2230668.965
+2004-01-01,Belgium,Western Europe,2401611.66
+2005-01-01,Belgium,Western Europe,2371959.99
+2006-01-01,Belgium,Western Europe,2345802.05
+2007-01-01,Belgium,Western Europe,2321534.2
+2008-01-01,Belgium,Western Europe,2299938.47
+2009-01-01,Belgium,Western Europe,2278251.01
+2010-01-01,Belgium,Western Europe,2255083.56
+2011-01-01,Belgium,Western Europe,2230668.96
 2012-01-01,Belgium,Western Europe,2205411.86
-2013-01-01,Belgium,Western Europe,2179574.128
+2013-01-01,Belgium,Western Europe,2179574.13
 2014-01-01,Belgium,Western Europe,2151927.52
-2015-01-01,Belgium,Western Europe,2122703.156
-2016-01-01,Belgium,Western Europe,2095628.391
-2017-01-01,Belgium,Western Europe,2071755.862
-2018-01-01,Belgium,Western Europe,2059047.111
-2019-01-01,Belgium,Western Europe,2049334.145
-1990-01-01,Cyprus,Western Europe,208625.1606
-1991-01-01,Cyprus,Western Europe,212744.5708
-1992-01-01,Cyprus,Western Europe,216849.1553
-1993-01-01,Cyprus,Western Europe,220909.536
-1994-01-01,Cyprus,Western Europe,224970.6687
-1995-01-01,Cyprus,Western Europe,229167.4055
-1996-01-01,Cyprus,Western Europe,233493.7032
-1997-01-01,Cyprus,Western Europe,238065.7236
-1998-01-01,Cyprus,Western Europe,243015.8991
-1999-01-01,Cyprus,Western Europe,248287.609
-2000-01-01,Cyprus,Western Europe,253751.9139
-2001-01-01,Cyprus,Western Europe,259649.0545
-2002-01-01,Cyprus,Western Europe,266103.4336
-2003-01-01,Cyprus,Western Europe,273331.8511
-2004-01-01,Cyprus,Western Europe,280975.3965
-2005-01-01,Cyprus,Western Europe,288902.2069
-2006-01-01,Cyprus,Western Europe,297173.6597
-2007-01-01,Cyprus,Western Europe,305744.5631
-2008-01-01,Cyprus,Western Europe,313822.1856
-2009-01-01,Cyprus,Western Europe,321175.0117
-2010-01-01,Cyprus,Western Europe,327337.9308
-2011-01-01,Cyprus,Western Europe,332757.3974
-2012-01-01,Cyprus,Western Europe,337326.6152
-2013-01-01,Cyprus,Western Europe,341583.1746
-2014-01-01,Cyprus,Western Europe,345322.6532
-2015-01-01,Cyprus,Western Europe,348561.9529
-2016-01-01,Cyprus,Western Europe,351415.9973
-2017-01-01,Cyprus,Western Europe,354008.5945
-2018-01-01,Cyprus,Western Europe,357108.442
-2019-01-01,Cyprus,Western Europe,359805.3534
-1990-01-01,Denmark,Western Europe,1876479.477
-1991-01-01,Denmark,Western Europe,1863954.647
-1992-01-01,Denmark,Western Europe,1851358.236
-1993-01-01,Denmark,Western Europe,1837290.224
-1994-01-01,Denmark,Western Europe,1820475.916
-1995-01-01,Denmark,Western Europe,1795827.169
-1996-01-01,Denmark,Western Europe,1764591.013
-1997-01-01,Denmark,Western Europe,1725618.277
-1998-01-01,Denmark,Western Europe,1680954.887
-1999-01-01,Denmark,Western Europe,1629120.435
+2015-01-01,Belgium,Western Europe,2122703.16
+2016-01-01,Belgium,Western Europe,2095628.39
+2017-01-01,Belgium,Western Europe,2071755.86
+2018-01-01,Belgium,Western Europe,2059047.11
+2019-01-01,Belgium,Western Europe,2049334.14
+1990-01-01,Cyprus,Western Europe,208625.16
+1991-01-01,Cyprus,Western Europe,212744.57
+1992-01-01,Cyprus,Western Europe,216849.16
+1993-01-01,Cyprus,Western Europe,220909.54
+1994-01-01,Cyprus,Western Europe,224970.67
+1995-01-01,Cyprus,Western Europe,229167.41
+1996-01-01,Cyprus,Western Europe,233493.7
+1997-01-01,Cyprus,Western Europe,238065.72
+1998-01-01,Cyprus,Western Europe,243015.9
+1999-01-01,Cyprus,Western Europe,248287.61
+2000-01-01,Cyprus,Western Europe,253751.91
+2001-01-01,Cyprus,Western Europe,259649.05
+2002-01-01,Cyprus,Western Europe,266103.43
+2003-01-01,Cyprus,Western Europe,273331.85
+2004-01-01,Cyprus,Western Europe,280975.4
+2005-01-01,Cyprus,Western Europe,288902.21
+2006-01-01,Cyprus,Western Europe,297173.66
+2007-01-01,Cyprus,Western Europe,305744.56
+2008-01-01,Cyprus,Western Europe,313822.19
+2009-01-01,Cyprus,Western Europe,321175.01
+2010-01-01,Cyprus,Western Europe,327337.93
+2011-01-01,Cyprus,Western Europe,332757.4
+2012-01-01,Cyprus,Western Europe,337326.62
+2013-01-01,Cyprus,Western Europe,341583.17
+2014-01-01,Cyprus,Western Europe,345322.65
+2015-01-01,Cyprus,Western Europe,348561.95
+2016-01-01,Cyprus,Western Europe,351416.0
+2017-01-01,Cyprus,Western Europe,354008.59
+2018-01-01,Cyprus,Western Europe,357108.44
+2019-01-01,Cyprus,Western Europe,359805.35
+1990-01-01,Denmark,Western Europe,1876479.48
+1991-01-01,Denmark,Western Europe,1863954.65
+1992-01-01,Denmark,Western Europe,1851358.24
+1993-01-01,Denmark,Western Europe,1837290.22
+1994-01-01,Denmark,Western Europe,1820475.92
+1995-01-01,Denmark,Western Europe,1795827.17
+1996-01-01,Denmark,Western Europe,1764591.01
+1997-01-01,Denmark,Western Europe,1725618.28
+1998-01-01,Denmark,Western Europe,1680954.89
+1999-01-01,Denmark,Western Europe,1629120.44
 2000-01-01,Denmark,Western Europe,1572076.84
-2001-01-01,Denmark,Western Europe,1511098.688
-2002-01-01,Denmark,Western Europe,1449852.129
-2003-01-01,Denmark,Western Europe,1390236.368
-2004-01-01,Denmark,Western Europe,1336072.534
-2005-01-01,Denmark,Western Europe,1287069.453
-2006-01-01,Denmark,Western Europe,1242115.423
-2007-01-01,Denmark,Western Europe,1203148.577
-2008-01-01,Denmark,Western Europe,1170062.279
-2009-01-01,Denmark,Western Europe,1139694.758
-2010-01-01,Denmark,Western Europe,1113303.893
-2011-01-01,Denmark,Western Europe,1090461.196
-2012-01-01,Denmark,Western Europe,1070896.842
-2013-01-01,Denmark,Western Europe,1056314.109
-2014-01-01,Denmark,Western Europe,1046055.024
-2015-01-01,Denmark,Western Europe,1040447.152
-2016-01-01,Denmark,Western Europe,1038950.705
-2017-01-01,Denmark,Western Europe,1041104.437
-2018-01-01,Denmark,Western Europe,1049699.674
-2019-01-01,Denmark,Western Europe,1058879.074
-1990-01-01,Finland,Western Europe,1176062.809
-1991-01-01,Finland,Western Europe,1170867.408
-1992-01-01,Finland,Western Europe,1163166.138
-1993-01-01,Finland,Western Europe,1154453.192
-1994-01-01,Finland,Western Europe,1143668.396
-1995-01-01,Finland,Western Europe,1133405.137
-1996-01-01,Finland,Western Europe,1121397.316
-1997-01-01,Finland,Western Europe,1113634.569
-1998-01-01,Finland,Western Europe,1104378.568
-1999-01-01,Finland,Western Europe,1093551.477
-2000-01-01,Finland,Western Europe,1079055.591
-2001-01-01,Finland,Western Europe,1060544.161
-2002-01-01,Finland,Western Europe,1044126.438
-2003-01-01,Finland,Western Europe,1027774.563
-2004-01-01,Finland,Western Europe,1013628.253
-2005-01-01,Finland,Western Europe,1000558.732
-2006-01-01,Finland,Western Europe,987682.6269
-2007-01-01,Finland,Western Europe,976069.2007
-2008-01-01,Finland,Western Europe,965629.3828
-2009-01-01,Finland,Western Europe,956003.892
-2010-01-01,Finland,Western Europe,947276.0842
-2011-01-01,Finland,Western Europe,937176.871
-2012-01-01,Finland,Western Europe,928768.091
-2013-01-01,Finland,Western Europe,918798.947
-2014-01-01,Finland,Western Europe,908522.4225
-2015-01-01,Finland,Western Europe,899836.8372
-2016-01-01,Finland,Western Europe,891587.5799
-2017-01-01,Finland,Western Europe,885474.8309
-2018-01-01,Finland,Western Europe,883577.1106
-2019-01-01,Finland,Western Europe,882599.9497
+2001-01-01,Denmark,Western Europe,1511098.69
+2002-01-01,Denmark,Western Europe,1449852.13
+2003-01-01,Denmark,Western Europe,1390236.37
+2004-01-01,Denmark,Western Europe,1336072.53
+2005-01-01,Denmark,Western Europe,1287069.45
+2006-01-01,Denmark,Western Europe,1242115.42
+2007-01-01,Denmark,Western Europe,1203148.58
+2008-01-01,Denmark,Western Europe,1170062.28
+2009-01-01,Denmark,Western Europe,1139694.76
+2010-01-01,Denmark,Western Europe,1113303.89
+2011-01-01,Denmark,Western Europe,1090461.2
+2012-01-01,Denmark,Western Europe,1070896.84
+2013-01-01,Denmark,Western Europe,1056314.11
+2014-01-01,Denmark,Western Europe,1046055.02
+2015-01-01,Denmark,Western Europe,1040447.15
+2016-01-01,Denmark,Western Europe,1038950.7
+2017-01-01,Denmark,Western Europe,1041104.44
+2018-01-01,Denmark,Western Europe,1049699.67
+2019-01-01,Denmark,Western Europe,1058879.07
+1990-01-01,Finland,Western Europe,1176062.81
+1991-01-01,Finland,Western Europe,1170867.41
+1992-01-01,Finland,Western Europe,1163166.14
+1993-01-01,Finland,Western Europe,1154453.19
+1994-01-01,Finland,Western Europe,1143668.4
+1995-01-01,Finland,Western Europe,1133405.14
+1996-01-01,Finland,Western Europe,1121397.32
+1997-01-01,Finland,Western Europe,1113634.57
+1998-01-01,Finland,Western Europe,1104378.57
+1999-01-01,Finland,Western Europe,1093551.48
+2000-01-01,Finland,Western Europe,1079055.59
+2001-01-01,Finland,Western Europe,1060544.16
+2002-01-01,Finland,Western Europe,1044126.44
+2003-01-01,Finland,Western Europe,1027774.56
+2004-01-01,Finland,Western Europe,1013628.25
+2005-01-01,Finland,Western Europe,1000558.73
+2006-01-01,Finland,Western Europe,987682.63
+2007-01-01,Finland,Western Europe,976069.2
+2008-01-01,Finland,Western Europe,965629.38
+2009-01-01,Finland,Western Europe,956003.89
+2010-01-01,Finland,Western Europe,947276.08
+2011-01-01,Finland,Western Europe,937176.87
+2012-01-01,Finland,Western Europe,928768.09
+2013-01-01,Finland,Western Europe,918798.95
+2014-01-01,Finland,Western Europe,908522.42
+2015-01-01,Finland,Western Europe,899836.84
+2016-01-01,Finland,Western Europe,891587.58
+2017-01-01,Finland,Western Europe,885474.83
+2018-01-01,Finland,Western Europe,883577.11
+2019-01-01,Finland,Western Europe,882599.95
 1990-01-01,France,Western Europe,16571620.52
 1991-01-01,France,Western Europe,16495354.62
 1992-01-01,France,Western Europe,16382844.64
@@ -419,126 +419,126 @@ date,name,category,value
 2017-01-01,Germany,Western Europe,17609433.09
 2018-01-01,Germany,Western Europe,17586363.02
 2019-01-01,Germany,Western Europe,17515653.93
-1990-01-01,Greece,Western Europe,3437090.018
-1991-01-01,Greece,Western Europe,3458120.785
-1992-01-01,Greece,Western Europe,3492033.624
-1993-01-01,Greece,Western Europe,3523044.687
-1994-01-01,Greece,Western Europe,3554498.301
-1995-01-01,Greece,Western Europe,3595313.589
-1996-01-01,Greece,Western Europe,3631714.838
-1997-01-01,Greece,Western Europe,3664798.084
-1998-01-01,Greece,Western Europe,3706988.202
-1999-01-01,Greece,Western Europe,3745147.607
-2000-01-01,Greece,Western Europe,3782115.339
-2001-01-01,Greece,Western Europe,3821648.454
+1990-01-01,Greece,Western Europe,3437090.02
+1991-01-01,Greece,Western Europe,3458120.78
+1992-01-01,Greece,Western Europe,3492033.62
+1993-01-01,Greece,Western Europe,3523044.69
+1994-01-01,Greece,Western Europe,3554498.3
+1995-01-01,Greece,Western Europe,3595313.59
+1996-01-01,Greece,Western Europe,3631714.84
+1997-01-01,Greece,Western Europe,3664798.08
+1998-01-01,Greece,Western Europe,3706988.2
+1999-01-01,Greece,Western Europe,3745147.61
+2000-01-01,Greece,Western Europe,3782115.34
+2001-01-01,Greece,Western Europe,3821648.45
 2002-01-01,Greece,Western Europe,3855516.46
-2003-01-01,Greece,Western Europe,3883719.106
-2004-01-01,Greece,Western Europe,3905676.279
-2005-01-01,Greece,Western Europe,3919480.802
-2006-01-01,Greece,Western Europe,3921930.694
-2007-01-01,Greece,Western Europe,3911535.495
-2008-01-01,Greece,Western Europe,3892998.195
-2009-01-01,Greece,Western Europe,3860344.456
-2010-01-01,Greece,Western Europe,3809453.603
-2011-01-01,Greece,Western Europe,3736061.524
-2012-01-01,Greece,Western Europe,3648596.348
-2013-01-01,Greece,Western Europe,3555905.015
-2014-01-01,Greece,Western Europe,3465170.205
-2015-01-01,Greece,Western Europe,3378265.342
-2016-01-01,Greece,Western Europe,3303346.221
-2017-01-01,Greece,Western Europe,3242505.254
-2018-01-01,Greece,Western Europe,3188994.858
-2019-01-01,Greece,Western Europe,3134499.574
-1990-01-01,Iceland,Western Europe,58266.42963
-1991-01-01,Iceland,Western Europe,58242.08612
-1992-01-01,Iceland,Western Europe,58148.61233
-1993-01-01,Iceland,Western Europe,57819.78153
-1994-01-01,Iceland,Western Europe,57380.73291
-1995-01-01,Iceland,Western Europe,56892.87476
-1996-01-01,Iceland,Western Europe,56273.1896
-1997-01-01,Iceland,Western Europe,55537.52381
-1998-01-01,Iceland,Western Europe,54851.1826
-1999-01-01,Iceland,Western Europe,54117.68081
-2000-01-01,Iceland,Western Europe,53279.84249
-2001-01-01,Iceland,Western Europe,52344.11248
-2002-01-01,Iceland,Western Europe,51233.17512
-2003-01-01,Iceland,Western Europe,50039.72346
-2004-01-01,Iceland,Western Europe,48995.70218
-2005-01-01,Iceland,Western Europe,48150.20191
-2006-01-01,Iceland,Western Europe,47597.23109
-2007-01-01,Iceland,Western Europe,47079.07471
-2008-01-01,Iceland,Western Europe,46363.54869
-2009-01-01,Iceland,Western Europe,45252.61891
-2010-01-01,Iceland,Western Europe,43808.96967
-2011-01-01,Iceland,Western Europe,42451.10076
-2012-01-01,Iceland,Western Europe,41519.48178
-2013-01-01,Iceland,Western Europe,40952.43493
-2014-01-01,Iceland,Western Europe,40683.20874
-2015-01-01,Iceland,Western Europe,40610.63776
-2016-01-01,Iceland,Western Europe,40766.55393
-2017-01-01,Iceland,Western Europe,41041.60934
-2018-01-01,Iceland,Western Europe,41333.61312
-2019-01-01,Iceland,Western Europe,41785.37535
-1990-01-01,Ireland,Western Europe,871354.7876
-1991-01-01,Ireland,Western Europe,871446.0706
-1992-01-01,Ireland,Western Europe,874314.1698
-1993-01-01,Ireland,Western Europe,879598.1935
-1994-01-01,Ireland,Western Europe,887501.102
-1995-01-01,Ireland,Western Europe,897701.5384
-1996-01-01,Ireland,Western Europe,907982.128
-1997-01-01,Ireland,Western Europe,917321.817
-1998-01-01,Ireland,Western Europe,927110.4907
-1999-01-01,Ireland,Western Europe,935361.1903
-2000-01-01,Ireland,Western Europe,942458.4678
-2001-01-01,Ireland,Western Europe,949562.9772
-2002-01-01,Ireland,Western Europe,956882.7067
-2003-01-01,Ireland,Western Europe,964185.6346
-2004-01-01,Ireland,Western Europe,972012.1709
-2005-01-01,Ireland,Western Europe,979806.9549
-2006-01-01,Ireland,Western Europe,986077.4654
-2007-01-01,Ireland,Western Europe,988492.8887
-2008-01-01,Ireland,Western Europe,986311.5089
-2009-01-01,Ireland,Western Europe,979708.5749
-2010-01-01,Ireland,Western Europe,967917.2314
-2011-01-01,Ireland,Western Europe,952613.9149
-2012-01-01,Ireland,Western Europe,933663.7226
-2013-01-01,Ireland,Western Europe,911395.6813
-2014-01-01,Ireland,Western Europe,888468.7292
-2015-01-01,Ireland,Western Europe,866519.7661
-2016-01-01,Ireland,Western Europe,847310.7526
-2017-01-01,Ireland,Western Europe,832719.4388
-2018-01-01,Ireland,Western Europe,824565.4948
-2019-01-01,Ireland,Western Europe,818789.1609
-1990-01-01,Israel,Western Europe,1093768.955
-1991-01-01,Israel,Western Europe,1110435.275
-1992-01-01,Israel,Western Europe,1124399.039
-1993-01-01,Israel,Western Europe,1137371.494
-1994-01-01,Israel,Western Europe,1149882.058
-1995-01-01,Israel,Western Europe,1160334.122
-1996-01-01,Israel,Western Europe,1170002.033
+2003-01-01,Greece,Western Europe,3883719.11
+2004-01-01,Greece,Western Europe,3905676.28
+2005-01-01,Greece,Western Europe,3919480.8
+2006-01-01,Greece,Western Europe,3921930.69
+2007-01-01,Greece,Western Europe,3911535.5
+2008-01-01,Greece,Western Europe,3892998.2
+2009-01-01,Greece,Western Europe,3860344.46
+2010-01-01,Greece,Western Europe,3809453.6
+2011-01-01,Greece,Western Europe,3736061.52
+2012-01-01,Greece,Western Europe,3648596.35
+2013-01-01,Greece,Western Europe,3555905.02
+2014-01-01,Greece,Western Europe,3465170.2
+2015-01-01,Greece,Western Europe,3378265.34
+2016-01-01,Greece,Western Europe,3303346.22
+2017-01-01,Greece,Western Europe,3242505.25
+2018-01-01,Greece,Western Europe,3188994.86
+2019-01-01,Greece,Western Europe,3134499.57
+1990-01-01,Iceland,Western Europe,58266.43
+1991-01-01,Iceland,Western Europe,58242.09
+1992-01-01,Iceland,Western Europe,58148.61
+1993-01-01,Iceland,Western Europe,57819.78
+1994-01-01,Iceland,Western Europe,57380.73
+1995-01-01,Iceland,Western Europe,56892.87
+1996-01-01,Iceland,Western Europe,56273.19
+1997-01-01,Iceland,Western Europe,55537.52
+1998-01-01,Iceland,Western Europe,54851.18
+1999-01-01,Iceland,Western Europe,54117.68
+2000-01-01,Iceland,Western Europe,53279.84
+2001-01-01,Iceland,Western Europe,52344.11
+2002-01-01,Iceland,Western Europe,51233.18
+2003-01-01,Iceland,Western Europe,50039.72
+2004-01-01,Iceland,Western Europe,48995.7
+2005-01-01,Iceland,Western Europe,48150.2
+2006-01-01,Iceland,Western Europe,47597.23
+2007-01-01,Iceland,Western Europe,47079.07
+2008-01-01,Iceland,Western Europe,46363.55
+2009-01-01,Iceland,Western Europe,45252.62
+2010-01-01,Iceland,Western Europe,43808.97
+2011-01-01,Iceland,Western Europe,42451.1
+2012-01-01,Iceland,Western Europe,41519.48
+2013-01-01,Iceland,Western Europe,40952.43
+2014-01-01,Iceland,Western Europe,40683.21
+2015-01-01,Iceland,Western Europe,40610.64
+2016-01-01,Iceland,Western Europe,40766.55
+2017-01-01,Iceland,Western Europe,41041.61
+2018-01-01,Iceland,Western Europe,41333.61
+2019-01-01,Iceland,Western Europe,41785.38
+1990-01-01,Ireland,Western Europe,871354.79
+1991-01-01,Ireland,Western Europe,871446.07
+1992-01-01,Ireland,Western Europe,874314.17
+1993-01-01,Ireland,Western Europe,879598.19
+1994-01-01,Ireland,Western Europe,887501.1
+1995-01-01,Ireland,Western Europe,897701.54
+1996-01-01,Ireland,Western Europe,907982.13
+1997-01-01,Ireland,Western Europe,917321.82
+1998-01-01,Ireland,Western Europe,927110.49
+1999-01-01,Ireland,Western Europe,935361.19
+2000-01-01,Ireland,Western Europe,942458.47
+2001-01-01,Ireland,Western Europe,949562.98
+2002-01-01,Ireland,Western Europe,956882.71
+2003-01-01,Ireland,Western Europe,964185.63
+2004-01-01,Ireland,Western Europe,972012.17
+2005-01-01,Ireland,Western Europe,979806.95
+2006-01-01,Ireland,Western Europe,986077.47
+2007-01-01,Ireland,Western Europe,988492.89
+2008-01-01,Ireland,Western Europe,986311.51
+2009-01-01,Ireland,Western Europe,979708.57
+2010-01-01,Ireland,Western Europe,967917.23
+2011-01-01,Ireland,Western Europe,952613.91
+2012-01-01,Ireland,Western Europe,933663.72
+2013-01-01,Ireland,Western Europe,911395.68
+2014-01-01,Ireland,Western Europe,888468.73
+2015-01-01,Ireland,Western Europe,866519.77
+2016-01-01,Ireland,Western Europe,847310.75
+2017-01-01,Ireland,Western Europe,832719.44
+2018-01-01,Ireland,Western Europe,824565.49
+2019-01-01,Ireland,Western Europe,818789.16
+1990-01-01,Israel,Western Europe,1093768.96
+1991-01-01,Israel,Western Europe,1110435.27
+1992-01-01,Israel,Western Europe,1124399.04
+1993-01-01,Israel,Western Europe,1137371.49
+1994-01-01,Israel,Western Europe,1149882.06
+1995-01-01,Israel,Western Europe,1160334.12
+1996-01-01,Israel,Western Europe,1170002.03
 1997-01-01,Israel,Western Europe,1177973.59
-1998-01-01,Israel,Western Europe,1186343.266
-1999-01-01,Israel,Western Europe,1193277.124
-2000-01-01,Israel,Western Europe,1197710.288
-2001-01-01,Israel,Western Europe,1199372.283
-2002-01-01,Israel,Western Europe,1199216.872
-2003-01-01,Israel,Western Europe,1198603.479
-2004-01-01,Israel,Western Europe,1197874.029
-2005-01-01,Israel,Western Europe,1197099.447
-2006-01-01,Israel,Western Europe,1196557.596
-2007-01-01,Israel,Western Europe,1197612.679
+1998-01-01,Israel,Western Europe,1186343.27
+1999-01-01,Israel,Western Europe,1193277.12
+2000-01-01,Israel,Western Europe,1197710.29
+2001-01-01,Israel,Western Europe,1199372.28
+2002-01-01,Israel,Western Europe,1199216.87
+2003-01-01,Israel,Western Europe,1198603.48
+2004-01-01,Israel,Western Europe,1197874.03
+2005-01-01,Israel,Western Europe,1197099.45
+2006-01-01,Israel,Western Europe,1196557.6
+2007-01-01,Israel,Western Europe,1197612.68
 2008-01-01,Israel,Western Europe,1200984.97
-2009-01-01,Israel,Western Europe,1205824.237
-2010-01-01,Israel,Western Europe,1213609.606
-2011-01-01,Israel,Western Europe,1222539.033
-2012-01-01,Israel,Western Europe,1232414.278
-2013-01-01,Israel,Western Europe,1239904.305
-2014-01-01,Israel,Western Europe,1249266.856
-2015-01-01,Israel,Western Europe,1260889.025
-2016-01-01,Israel,Western Europe,1275489.172
-2017-01-01,Israel,Western Europe,1293796.972
-2018-01-01,Israel,Western Europe,1319650.524
-2019-01-01,Israel,Western Europe,1346189.234
+2009-01-01,Israel,Western Europe,1205824.24
+2010-01-01,Israel,Western Europe,1213609.61
+2011-01-01,Israel,Western Europe,1222539.03
+2012-01-01,Israel,Western Europe,1232414.28
+2013-01-01,Israel,Western Europe,1239904.3
+2014-01-01,Israel,Western Europe,1249266.86
+2015-01-01,Israel,Western Europe,1260889.02
+2016-01-01,Israel,Western Europe,1275489.17
+2017-01-01,Israel,Western Europe,1293796.97
+2018-01-01,Israel,Western Europe,1319650.52
+2019-01-01,Israel,Western Europe,1346189.23
 1990-01-01,Italy,Western Europe,14992270.21
 1991-01-01,Italy,Western Europe,14769304.04
 1992-01-01,Italy,Western Europe,14519998.65
@@ -569,156 +569,156 @@ date,name,category,value
 2017-01-01,Italy,Western Europe,11084744.42
 2018-01-01,Italy,Western Europe,10961526.55
 2019-01-01,Italy,Western Europe,10855957.67
-1990-01-01,Luxembourg,Western Europe,104303.1391
-1991-01-01,Luxembourg,Western Europe,104339.1633
-1992-01-01,Luxembourg,Western Europe,104500.5073
-1993-01-01,Luxembourg,Western Europe,104773.5869
-1994-01-01,Luxembourg,Western Europe,105065.6621
-1995-01-01,Luxembourg,Western Europe,105559.7342
-1996-01-01,Luxembourg,Western Europe,106254.246
-1997-01-01,Luxembourg,Western Europe,106919.0999
-1998-01-01,Luxembourg,Western Europe,107629.7687
-1999-01-01,Luxembourg,Western Europe,108248.2672
-2000-01-01,Luxembourg,Western Europe,108489.4453
-2001-01-01,Luxembourg,Western Europe,108419.6568
-2002-01-01,Luxembourg,Western Europe,108088.7824
-2003-01-01,Luxembourg,Western Europe,107440.0088
-2004-01-01,Luxembourg,Western Europe,107089.1656
-2005-01-01,Luxembourg,Western Europe,106512.368
-2006-01-01,Luxembourg,Western Europe,105915.7825
-2007-01-01,Luxembourg,Western Europe,105282.1115
-2008-01-01,Luxembourg,Western Europe,104817.9373
-2009-01-01,Luxembourg,Western Europe,104638.6359
-2010-01-01,Luxembourg,Western Europe,104364.5645
-2011-01-01,Luxembourg,Western Europe,104386.8079
-2012-01-01,Luxembourg,Western Europe,105067.467
-2013-01-01,Luxembourg,Western Europe,105756.1451
-2014-01-01,Luxembourg,Western Europe,106419.5731
-2015-01-01,Luxembourg,Western Europe,107530.1223
-2016-01-01,Luxembourg,Western Europe,109067.9175
-2017-01-01,Luxembourg,Western Europe,111029.5442
-2018-01-01,Luxembourg,Western Europe,113419.883
-2019-01-01,Luxembourg,Western Europe,115732.1367
-1990-01-01,Malta,Western Europe,95320.79402
-1991-01-01,Malta,Western Europe,94297.70969
-1992-01-01,Malta,Western Europe,93082.60716
-1993-01-01,Malta,Western Europe,91634.54921
-1994-01-01,Malta,Western Europe,90009.34728
-1995-01-01,Malta,Western Europe,88212.14451
-1996-01-01,Malta,Western Europe,86274.7153
-1997-01-01,Malta,Western Europe,84352.98085
-1998-01-01,Malta,Western Europe,82415.84709
-1999-01-01,Malta,Western Europe,80512.22554
-2000-01-01,Malta,Western Europe,78689.82527
-2001-01-01,Malta,Western Europe,76996.58405
-2002-01-01,Malta,Western Europe,75665.23989
-2003-01-01,Malta,Western Europe,74759.93351
-2004-01-01,Malta,Western Europe,74675.06961
-2005-01-01,Malta,Western Europe,74986.12925
-2006-01-01,Malta,Western Europe,75653.52087
-2007-01-01,Malta,Western Europe,76818.21723
-2008-01-01,Malta,Western Europe,78041.34491
-2009-01-01,Malta,Western Europe,79146.1857
-2010-01-01,Malta,Western Europe,80173.14679
-2011-01-01,Malta,Western Europe,81144.85346
-2012-01-01,Malta,Western Europe,81891.44532
-2013-01-01,Malta,Western Europe,82504.48821
-2014-01-01,Malta,Western Europe,82864.76948
-2015-01-01,Malta,Western Europe,83021.02108
-2016-01-01,Malta,Western Europe,83022.83261
-2017-01-01,Malta,Western Europe,82906.93251
-2018-01-01,Malta,Western Europe,82750.6809
-2019-01-01,Malta,Western Europe,82341.91557
-1990-01-01,Netherlands,Western Europe,4925889.012
-1991-01-01,Netherlands,Western Europe,4848135.564
-1992-01-01,Netherlands,Western Europe,4767025.285
+1990-01-01,Luxembourg,Western Europe,104303.14
+1991-01-01,Luxembourg,Western Europe,104339.16
+1992-01-01,Luxembourg,Western Europe,104500.51
+1993-01-01,Luxembourg,Western Europe,104773.59
+1994-01-01,Luxembourg,Western Europe,105065.66
+1995-01-01,Luxembourg,Western Europe,105559.73
+1996-01-01,Luxembourg,Western Europe,106254.25
+1997-01-01,Luxembourg,Western Europe,106919.1
+1998-01-01,Luxembourg,Western Europe,107629.77
+1999-01-01,Luxembourg,Western Europe,108248.27
+2000-01-01,Luxembourg,Western Europe,108489.45
+2001-01-01,Luxembourg,Western Europe,108419.66
+2002-01-01,Luxembourg,Western Europe,108088.78
+2003-01-01,Luxembourg,Western Europe,107440.01
+2004-01-01,Luxembourg,Western Europe,107089.17
+2005-01-01,Luxembourg,Western Europe,106512.37
+2006-01-01,Luxembourg,Western Europe,105915.78
+2007-01-01,Luxembourg,Western Europe,105282.11
+2008-01-01,Luxembourg,Western Europe,104817.94
+2009-01-01,Luxembourg,Western Europe,104638.64
+2010-01-01,Luxembourg,Western Europe,104364.56
+2011-01-01,Luxembourg,Western Europe,104386.81
+2012-01-01,Luxembourg,Western Europe,105067.47
+2013-01-01,Luxembourg,Western Europe,105756.15
+2014-01-01,Luxembourg,Western Europe,106419.57
+2015-01-01,Luxembourg,Western Europe,107530.12
+2016-01-01,Luxembourg,Western Europe,109067.92
+2017-01-01,Luxembourg,Western Europe,111029.54
+2018-01-01,Luxembourg,Western Europe,113419.88
+2019-01-01,Luxembourg,Western Europe,115732.14
+1990-01-01,Malta,Western Europe,95320.79
+1991-01-01,Malta,Western Europe,94297.71
+1992-01-01,Malta,Western Europe,93082.61
+1993-01-01,Malta,Western Europe,91634.55
+1994-01-01,Malta,Western Europe,90009.35
+1995-01-01,Malta,Western Europe,88212.14
+1996-01-01,Malta,Western Europe,86274.72
+1997-01-01,Malta,Western Europe,84352.98
+1998-01-01,Malta,Western Europe,82415.85
+1999-01-01,Malta,Western Europe,80512.23
+2000-01-01,Malta,Western Europe,78689.83
+2001-01-01,Malta,Western Europe,76996.58
+2002-01-01,Malta,Western Europe,75665.24
+2003-01-01,Malta,Western Europe,74759.93
+2004-01-01,Malta,Western Europe,74675.07
+2005-01-01,Malta,Western Europe,74986.13
+2006-01-01,Malta,Western Europe,75653.52
+2007-01-01,Malta,Western Europe,76818.22
+2008-01-01,Malta,Western Europe,78041.34
+2009-01-01,Malta,Western Europe,79146.19
+2010-01-01,Malta,Western Europe,80173.15
+2011-01-01,Malta,Western Europe,81144.85
+2012-01-01,Malta,Western Europe,81891.45
+2013-01-01,Malta,Western Europe,82504.49
+2014-01-01,Malta,Western Europe,82864.77
+2015-01-01,Malta,Western Europe,83021.02
+2016-01-01,Malta,Western Europe,83022.83
+2017-01-01,Malta,Western Europe,82906.93
+2018-01-01,Malta,Western Europe,82750.68
+2019-01-01,Malta,Western Europe,82341.92
+1990-01-01,Netherlands,Western Europe,4925889.01
+1991-01-01,Netherlands,Western Europe,4848135.56
+1992-01-01,Netherlands,Western Europe,4767025.28
 1993-01-01,Netherlands,Western Europe,4683212.24
-1994-01-01,Netherlands,Western Europe,4597576.093
-1995-01-01,Netherlands,Western Europe,4518099.917
+1994-01-01,Netherlands,Western Europe,4597576.09
+1995-01-01,Netherlands,Western Europe,4518099.92
 1996-01-01,Netherlands,Western Europe,4449079.55
-1997-01-01,Netherlands,Western Europe,4375580.001
-1998-01-01,Netherlands,Western Europe,4323644.506
-1999-01-01,Netherlands,Western Europe,4291099.768
-2000-01-01,Netherlands,Western Europe,4259222.971
-2001-01-01,Netherlands,Western Europe,4223268.607
-2002-01-01,Netherlands,Western Europe,4182132.911
-2003-01-01,Netherlands,Western Europe,4127882.994
-2004-01-01,Netherlands,Western Europe,4067053.215
-2005-01-01,Netherlands,Western Europe,3996426.633
-2006-01-01,Netherlands,Western Europe,3918425.176
-2007-01-01,Netherlands,Western Europe,3820883.463
-2008-01-01,Netherlands,Western Europe,3715230.087
-2009-01-01,Netherlands,Western Europe,3601111.352
-2010-01-01,Netherlands,Western Europe,3492377.361
-2011-01-01,Netherlands,Western Europe,3391774.125
+1997-01-01,Netherlands,Western Europe,4375580.0
+1998-01-01,Netherlands,Western Europe,4323644.51
+1999-01-01,Netherlands,Western Europe,4291099.77
+2000-01-01,Netherlands,Western Europe,4259222.97
+2001-01-01,Netherlands,Western Europe,4223268.61
+2002-01-01,Netherlands,Western Europe,4182132.91
+2003-01-01,Netherlands,Western Europe,4127882.99
+2004-01-01,Netherlands,Western Europe,4067053.22
+2005-01-01,Netherlands,Western Europe,3996426.63
+2006-01-01,Netherlands,Western Europe,3918425.18
+2007-01-01,Netherlands,Western Europe,3820883.46
+2008-01-01,Netherlands,Western Europe,3715230.09
+2009-01-01,Netherlands,Western Europe,3601111.35
+2010-01-01,Netherlands,Western Europe,3492377.36
+2011-01-01,Netherlands,Western Europe,3391774.12
 2012-01-01,Netherlands,Western Europe,3300519.24
-2013-01-01,Netherlands,Western Europe,3224364.814
-2014-01-01,Netherlands,Western Europe,3166043.872
-2015-01-01,Netherlands,Western Europe,3125614.212
-2016-01-01,Netherlands,Western Europe,3100631.023
-2017-01-01,Netherlands,Western Europe,3085951.721
-2018-01-01,Netherlands,Western Europe,3091044.539
-2019-01-01,Netherlands,Western Europe,3101172.864
-1990-01-01,Norway,Western Europe,1296406.223
-1991-01-01,Norway,Western Europe,1301301.107
-1992-01-01,Norway,Western Europe,1302179.168
-1993-01-01,Norway,Western Europe,1297218.292
-1994-01-01,Norway,Western Europe,1290542.525
-1995-01-01,Norway,Western Europe,1279189.299
-1996-01-01,Norway,Western Europe,1263251.963
-1997-01-01,Norway,Western Europe,1243145.805
-1998-01-01,Norway,Western Europe,1220793.552
-1999-01-01,Norway,Western Europe,1192855.871
+2013-01-01,Netherlands,Western Europe,3224364.81
+2014-01-01,Netherlands,Western Europe,3166043.87
+2015-01-01,Netherlands,Western Europe,3125614.21
+2016-01-01,Netherlands,Western Europe,3100631.02
+2017-01-01,Netherlands,Western Europe,3085951.72
+2018-01-01,Netherlands,Western Europe,3091044.54
+2019-01-01,Netherlands,Western Europe,3101172.86
+1990-01-01,Norway,Western Europe,1296406.22
+1991-01-01,Norway,Western Europe,1301301.11
+1992-01-01,Norway,Western Europe,1302179.17
+1993-01-01,Norway,Western Europe,1297218.29
+1994-01-01,Norway,Western Europe,1290542.52
+1995-01-01,Norway,Western Europe,1279189.3
+1996-01-01,Norway,Western Europe,1263251.96
+1997-01-01,Norway,Western Europe,1243145.8
+1998-01-01,Norway,Western Europe,1220793.55
+1999-01-01,Norway,Western Europe,1192855.87
 2000-01-01,Norway,Western Europe,1151504.27
-2001-01-01,Norway,Western Europe,1105400.275
+2001-01-01,Norway,Western Europe,1105400.27
 2002-01-01,Norway,Western Europe,1058177.88
-2003-01-01,Norway,Western Europe,1010951.073
-2004-01-01,Norway,Western Europe,968086.5082
-2005-01-01,Norway,Western Europe,928072.5234
-2006-01-01,Norway,Western Europe,892351.8582
-2007-01-01,Norway,Western Europe,861150.9732
-2008-01-01,Norway,Western Europe,834446.4646
-2009-01-01,Norway,Western Europe,811495.7264
-2010-01-01,Norway,Western Europe,791305.8038
-2011-01-01,Norway,Western Europe,776535.7351
-2012-01-01,Norway,Western Europe,764449.7068
-2013-01-01,Norway,Western Europe,757757.9688
-2014-01-01,Norway,Western Europe,752930.1434
-2015-01-01,Norway,Western Europe,750534.4175
-2016-01-01,Norway,Western Europe,750095.9338
-2017-01-01,Norway,Western Europe,751619.3896
-2018-01-01,Norway,Western Europe,756736.7097
-2019-01-01,Norway,Western Europe,762715.2131
-1990-01-01,Portugal,Western Europe,2182399.879
-1991-01-01,Portugal,Western Europe,2176075.753
-1992-01-01,Portugal,Western Europe,2172373.248
-1993-01-01,Portugal,Western Europe,2170196.311
+2003-01-01,Norway,Western Europe,1010951.07
+2004-01-01,Norway,Western Europe,968086.51
+2005-01-01,Norway,Western Europe,928072.52
+2006-01-01,Norway,Western Europe,892351.86
+2007-01-01,Norway,Western Europe,861150.97
+2008-01-01,Norway,Western Europe,834446.46
+2009-01-01,Norway,Western Europe,811495.73
+2010-01-01,Norway,Western Europe,791305.8
+2011-01-01,Norway,Western Europe,776535.74
+2012-01-01,Norway,Western Europe,764449.71
+2013-01-01,Norway,Western Europe,757757.97
+2014-01-01,Norway,Western Europe,752930.14
+2015-01-01,Norway,Western Europe,750534.42
+2016-01-01,Norway,Western Europe,750095.93
+2017-01-01,Norway,Western Europe,751619.39
+2018-01-01,Norway,Western Europe,756736.71
+2019-01-01,Norway,Western Europe,762715.21
+1990-01-01,Portugal,Western Europe,2182399.88
+1991-01-01,Portugal,Western Europe,2176075.75
+1992-01-01,Portugal,Western Europe,2172373.25
+1993-01-01,Portugal,Western Europe,2170196.31
 1994-01-01,Portugal,Western Europe,2169410.14
-1995-01-01,Portugal,Western Europe,2174109.643
-1996-01-01,Portugal,Western Europe,2186254.305
-1997-01-01,Portugal,Western Europe,2207202.472
-1998-01-01,Portugal,Western Europe,2234334.583
-1999-01-01,Portugal,Western Europe,2260943.994
-2000-01-01,Portugal,Western Europe,2283543.714
+1995-01-01,Portugal,Western Europe,2174109.64
+1996-01-01,Portugal,Western Europe,2186254.31
+1997-01-01,Portugal,Western Europe,2207202.47
+1998-01-01,Portugal,Western Europe,2234334.58
+1999-01-01,Portugal,Western Europe,2260943.99
+2000-01-01,Portugal,Western Europe,2283543.71
 2001-01-01,Portugal,Western Europe,2299713.25
-2002-01-01,Portugal,Western Europe,2310530.958
-2003-01-01,Portugal,Western Europe,2313158.676
-2004-01-01,Portugal,Western Europe,2312725.396
+2002-01-01,Portugal,Western Europe,2310530.96
+2003-01-01,Portugal,Western Europe,2313158.68
+2004-01-01,Portugal,Western Europe,2312725.4
 2005-01-01,Portugal,Western Europe,2310510.29
-2006-01-01,Portugal,Western Europe,2300738.339
-2007-01-01,Portugal,Western Europe,2292009.374
-2008-01-01,Portugal,Western Europe,2281374.832
-2009-01-01,Portugal,Western Europe,2270653.211
-2010-01-01,Portugal,Western Europe,2260878.142
-2011-01-01,Portugal,Western Europe,2253193.223
-2012-01-01,Portugal,Western Europe,2250956.402
-2013-01-01,Portugal,Western Europe,2249575.283
-2014-01-01,Portugal,Western Europe,2245306.775
-2015-01-01,Portugal,Western Europe,2236669.507
+2006-01-01,Portugal,Western Europe,2300738.34
+2007-01-01,Portugal,Western Europe,2292009.37
+2008-01-01,Portugal,Western Europe,2281374.83
+2009-01-01,Portugal,Western Europe,2270653.21
+2010-01-01,Portugal,Western Europe,2260878.14
+2011-01-01,Portugal,Western Europe,2253193.22
+2012-01-01,Portugal,Western Europe,2250956.4
+2013-01-01,Portugal,Western Europe,2249575.28
+2014-01-01,Portugal,Western Europe,2245306.78
+2015-01-01,Portugal,Western Europe,2236669.51
 2016-01-01,Portugal,Western Europe,2225407.98
-2017-01-01,Portugal,Western Europe,2208358.385
-2018-01-01,Portugal,Western Europe,2187082.204
-2019-01-01,Portugal,Western Europe,2159643.496
+2017-01-01,Portugal,Western Europe,2208358.38
+2018-01-01,Portugal,Western Europe,2187082.2
+2019-01-01,Portugal,Western Europe,2159643.5
 1990-01-01,Spain,Western Europe,12108893.86
 1991-01-01,Spain,Western Europe,12084132.74
 1992-01-01,Spain,Western Europe,12038844.14
@@ -748,67 +748,67 @@ date,name,category,value
 2016-01-01,Spain,Western Europe,10705555.4
 2017-01-01,Spain,Western Europe,10314785.44
 2018-01-01,Spain,Western Europe,10014269.21
-2019-01-01,Spain,Western Europe,9748202.722
-1990-01-01,Sweden,Western Europe,1644302.372
-1991-01-01,Sweden,Western Europe,1621746.193
-1992-01-01,Sweden,Western Europe,1599322.102
-1993-01-01,Sweden,Western Europe,1576682.613
-1994-01-01,Sweden,Western Europe,1554961.305
-1995-01-01,Sweden,Western Europe,1533707.615
-1996-01-01,Sweden,Western Europe,1510416.498
-1997-01-01,Sweden,Western Europe,1488260.716
-1998-01-01,Sweden,Western Europe,1465725.798
-1999-01-01,Sweden,Western Europe,1442639.326
-2000-01-01,Sweden,Western Europe,1418512.138
-2001-01-01,Sweden,Western Europe,1394915.293
-2002-01-01,Sweden,Western Europe,1370469.932
-2003-01-01,Sweden,Western Europe,1342128.297
-2004-01-01,Sweden,Western Europe,1311533.499
-2005-01-01,Sweden,Western Europe,1281983.957
-2006-01-01,Sweden,Western Europe,1250943.661
-2007-01-01,Sweden,Western Europe,1221780.915
+2019-01-01,Spain,Western Europe,9748202.72
+1990-01-01,Sweden,Western Europe,1644302.37
+1991-01-01,Sweden,Western Europe,1621746.19
+1992-01-01,Sweden,Western Europe,1599322.1
+1993-01-01,Sweden,Western Europe,1576682.61
+1994-01-01,Sweden,Western Europe,1554961.3
+1995-01-01,Sweden,Western Europe,1533707.62
+1996-01-01,Sweden,Western Europe,1510416.5
+1997-01-01,Sweden,Western Europe,1488260.72
+1998-01-01,Sweden,Western Europe,1465725.8
+1999-01-01,Sweden,Western Europe,1442639.33
+2000-01-01,Sweden,Western Europe,1418512.14
+2001-01-01,Sweden,Western Europe,1394915.29
+2002-01-01,Sweden,Western Europe,1370469.93
+2003-01-01,Sweden,Western Europe,1342128.3
+2004-01-01,Sweden,Western Europe,1311533.5
+2005-01-01,Sweden,Western Europe,1281983.96
+2006-01-01,Sweden,Western Europe,1250943.66
+2007-01-01,Sweden,Western Europe,1221780.92
 2008-01-01,Sweden,Western Europe,1192548.77
-2009-01-01,Sweden,Western Europe,1164361.036
-2010-01-01,Sweden,Western Europe,1137781.925
-2011-01-01,Sweden,Western Europe,1113208.888
-2012-01-01,Sweden,Western Europe,1092472.848
-2013-01-01,Sweden,Western Europe,1077455.382
-2014-01-01,Sweden,Western Europe,1070066.668
-2015-01-01,Sweden,Western Europe,1067123.166
+2009-01-01,Sweden,Western Europe,1164361.04
+2010-01-01,Sweden,Western Europe,1137781.92
+2011-01-01,Sweden,Western Europe,1113208.89
+2012-01-01,Sweden,Western Europe,1092472.85
+2013-01-01,Sweden,Western Europe,1077455.38
+2014-01-01,Sweden,Western Europe,1070066.67
+2015-01-01,Sweden,Western Europe,1067123.17
 2016-01-01,Sweden,Western Europe,1067187.35
-2017-01-01,Sweden,Western Europe,1070558.774
-2018-01-01,Sweden,Western Europe,1079822.531
-2019-01-01,Sweden,Western Europe,1091120.845
-1990-01-01,Switzerland,Western Europe,1860800.842
-1991-01-01,Switzerland,Western Europe,1879349.687
-1992-01-01,Switzerland,Western Europe,1894752.294
-1993-01-01,Switzerland,Western Europe,1911160.262
-1994-01-01,Switzerland,Western Europe,1924297.576
-1995-01-01,Switzerland,Western Europe,1933544.862
-1996-01-01,Switzerland,Western Europe,1940088.093
+2017-01-01,Sweden,Western Europe,1070558.77
+2018-01-01,Sweden,Western Europe,1079822.53
+2019-01-01,Sweden,Western Europe,1091120.84
+1990-01-01,Switzerland,Western Europe,1860800.84
+1991-01-01,Switzerland,Western Europe,1879349.69
+1992-01-01,Switzerland,Western Europe,1894752.29
+1993-01-01,Switzerland,Western Europe,1911160.26
+1994-01-01,Switzerland,Western Europe,1924297.58
+1995-01-01,Switzerland,Western Europe,1933544.86
+1996-01-01,Switzerland,Western Europe,1940088.09
 1997-01-01,Switzerland,Western Europe,1942041.01
-1998-01-01,Switzerland,Western Europe,1936839.862
-1999-01-01,Switzerland,Western Europe,1920351.284
-2000-01-01,Switzerland,Western Europe,1892394.954
-2001-01-01,Switzerland,Western Europe,1859973.169
-2002-01-01,Switzerland,Western Europe,1828776.675
-2003-01-01,Switzerland,Western Europe,1796014.658
-2004-01-01,Switzerland,Western Europe,1769868.198
-2005-01-01,Switzerland,Western Europe,1752679.241
-2006-01-01,Switzerland,Western Europe,1743126.723
-2007-01-01,Switzerland,Western Europe,1740134.065
-2008-01-01,Switzerland,Western Europe,1743005.434
+1998-01-01,Switzerland,Western Europe,1936839.86
+1999-01-01,Switzerland,Western Europe,1920351.28
+2000-01-01,Switzerland,Western Europe,1892394.95
+2001-01-01,Switzerland,Western Europe,1859973.17
+2002-01-01,Switzerland,Western Europe,1828776.68
+2003-01-01,Switzerland,Western Europe,1796014.66
+2004-01-01,Switzerland,Western Europe,1769868.2
+2005-01-01,Switzerland,Western Europe,1752679.24
+2006-01-01,Switzerland,Western Europe,1743126.72
+2007-01-01,Switzerland,Western Europe,1740134.06
+2008-01-01,Switzerland,Western Europe,1743005.43
 2009-01-01,Switzerland,Western Europe,1750465.7
-2010-01-01,Switzerland,Western Europe,1761325.098
-2011-01-01,Switzerland,Western Europe,1775123.549
-2012-01-01,Switzerland,Western Europe,1788396.429
-2013-01-01,Switzerland,Western Europe,1802489.478
-2014-01-01,Switzerland,Western Europe,1814912.931
-2015-01-01,Switzerland,Western Europe,1828085.062
-2016-01-01,Switzerland,Western Europe,1841316.136
-2017-01-01,Switzerland,Western Europe,1855994.725
-2018-01-01,Switzerland,Western Europe,1870453.856
-2019-01-01,Switzerland,Western Europe,1882863.258
+2010-01-01,Switzerland,Western Europe,1761325.1
+2011-01-01,Switzerland,Western Europe,1775123.55
+2012-01-01,Switzerland,Western Europe,1788396.43
+2013-01-01,Switzerland,Western Europe,1802489.48
+2014-01-01,Switzerland,Western Europe,1814912.93
+2015-01-01,Switzerland,Western Europe,1828085.06
+2016-01-01,Switzerland,Western Europe,1841316.14
+2017-01-01,Switzerland,Western Europe,1855994.72
+2018-01-01,Switzerland,Western Europe,1870453.86
+2019-01-01,Switzerland,Western Europe,1882863.26
 1990-01-01,United Kingdom,Western Europe,14675190.65
 1991-01-01,United Kingdom,Western Europe,14494491.07
 1992-01-01,United Kingdom,Western Europe,14338071.94
@@ -839,126 +839,126 @@ date,name,category,value
 2017-01-01,United Kingdom,Western Europe,10733873.54
 2018-01-01,United Kingdom,Western Europe,10521143.76
 2019-01-01,United Kingdom,Western Europe,10356007.42
-1990-01-01,Argentina,Southern Latin America,6940514.514
-1991-01-01,Argentina,Southern Latin America,6966964.584
-1992-01-01,Argentina,Southern Latin America,7004676.498
-1993-01-01,Argentina,Southern Latin America,7048437.008
-1994-01-01,Argentina,Southern Latin America,7098706.325
-1995-01-01,Argentina,Southern Latin America,7153931.833
-1996-01-01,Argentina,Southern Latin America,7212600.258
-1997-01-01,Argentina,Southern Latin America,7272352.593
-1998-01-01,Argentina,Southern Latin America,7329646.729
+1990-01-01,Argentina,Southern Latin America,6940514.51
+1991-01-01,Argentina,Southern Latin America,6966964.58
+1992-01-01,Argentina,Southern Latin America,7004676.5
+1993-01-01,Argentina,Southern Latin America,7048437.01
+1994-01-01,Argentina,Southern Latin America,7098706.32
+1995-01-01,Argentina,Southern Latin America,7153931.83
+1996-01-01,Argentina,Southern Latin America,7212600.26
+1997-01-01,Argentina,Southern Latin America,7272352.59
+1998-01-01,Argentina,Southern Latin America,7329646.73
 1999-01-01,Argentina,Southern Latin America,7385090.76
-2000-01-01,Argentina,Southern Latin America,7439169.387
-2001-01-01,Argentina,Southern Latin America,7503655.008
-2002-01-01,Argentina,Southern Latin America,7571667.941
-2003-01-01,Argentina,Southern Latin America,7645116.608
-2004-01-01,Argentina,Southern Latin America,7713137.093
-2005-01-01,Argentina,Southern Latin America,7765966.167
-2006-01-01,Argentina,Southern Latin America,7811635.211
-2007-01-01,Argentina,Southern Latin America,7815869.162
-2008-01-01,Argentina,Southern Latin America,7821636.576
-2009-01-01,Argentina,Southern Latin America,7828867.227
-2010-01-01,Argentina,Southern Latin America,7841882.774
-2011-01-01,Argentina,Southern Latin America,7848484.011
+2000-01-01,Argentina,Southern Latin America,7439169.39
+2001-01-01,Argentina,Southern Latin America,7503655.01
+2002-01-01,Argentina,Southern Latin America,7571667.94
+2003-01-01,Argentina,Southern Latin America,7645116.61
+2004-01-01,Argentina,Southern Latin America,7713137.09
+2005-01-01,Argentina,Southern Latin America,7765966.17
+2006-01-01,Argentina,Southern Latin America,7811635.21
+2007-01-01,Argentina,Southern Latin America,7815869.16
+2008-01-01,Argentina,Southern Latin America,7821636.58
+2009-01-01,Argentina,Southern Latin America,7828867.23
+2010-01-01,Argentina,Southern Latin America,7841882.77
+2011-01-01,Argentina,Southern Latin America,7848484.01
 2012-01-01,Argentina,Southern Latin America,7852215.92
-2013-01-01,Argentina,Southern Latin America,7879240.352
-2014-01-01,Argentina,Southern Latin America,7916203.869
-2015-01-01,Argentina,Southern Latin America,7960872.573
-2016-01-01,Argentina,Southern Latin America,8020018.012
+2013-01-01,Argentina,Southern Latin America,7879240.35
+2014-01-01,Argentina,Southern Latin America,7916203.87
+2015-01-01,Argentina,Southern Latin America,7960872.57
+2016-01-01,Argentina,Southern Latin America,8020018.01
 2017-01-01,Argentina,Southern Latin America,8093550.93
-2018-01-01,Argentina,Southern Latin America,8185729.873
-2019-01-01,Argentina,Southern Latin America,8284487.426
-1990-01-01,Chile,Southern Latin America,3871350.112
-1991-01-01,Chile,Southern Latin America,3930909.309
-1992-01-01,Chile,Southern Latin America,3989090.737
-1993-01-01,Chile,Southern Latin America,4049315.513
+2018-01-01,Argentina,Southern Latin America,8185729.87
+2019-01-01,Argentina,Southern Latin America,8284487.43
+1990-01-01,Chile,Southern Latin America,3871350.11
+1991-01-01,Chile,Southern Latin America,3930909.31
+1992-01-01,Chile,Southern Latin America,3989090.74
+1993-01-01,Chile,Southern Latin America,4049315.51
 1994-01-01,Chile,Southern Latin America,4107897.13
-1995-01-01,Chile,Southern Latin America,4163835.953
-1996-01-01,Chile,Southern Latin America,4218239.538
-1997-01-01,Chile,Southern Latin America,4270846.297
-1998-01-01,Chile,Southern Latin America,4318899.426
-1999-01-01,Chile,Southern Latin America,4364975.008
+1995-01-01,Chile,Southern Latin America,4163835.95
+1996-01-01,Chile,Southern Latin America,4218239.54
+1997-01-01,Chile,Southern Latin America,4270846.3
+1998-01-01,Chile,Southern Latin America,4318899.43
+1999-01-01,Chile,Southern Latin America,4364975.01
 2000-01-01,Chile,Southern Latin America,4412691.66
 2001-01-01,Chile,Southern Latin America,4464122.87
-2002-01-01,Chile,Southern Latin America,4515338.285
-2003-01-01,Chile,Southern Latin America,4557580.409
+2002-01-01,Chile,Southern Latin America,4515338.28
+2003-01-01,Chile,Southern Latin America,4557580.41
 2004-01-01,Chile,Southern Latin America,4590733.83
-2005-01-01,Chile,Southern Latin America,4623018.353
-2006-01-01,Chile,Southern Latin America,4651669.872
-2007-01-01,Chile,Southern Latin America,4684209.143
+2005-01-01,Chile,Southern Latin America,4623018.35
+2006-01-01,Chile,Southern Latin America,4651669.87
+2007-01-01,Chile,Southern Latin America,4684209.14
 2008-01-01,Chile,Southern Latin America,4719013.93
-2009-01-01,Chile,Southern Latin America,4754291.447
+2009-01-01,Chile,Southern Latin America,4754291.45
 2010-01-01,Chile,Southern Latin America,4773050.04
 2011-01-01,Chile,Southern Latin America,4784820.93
-2012-01-01,Chile,Southern Latin America,4796342.793
-2013-01-01,Chile,Southern Latin America,4802840.969
-2014-01-01,Chile,Southern Latin America,4804882.443
-2015-01-01,Chile,Southern Latin America,4809771.484
-2016-01-01,Chile,Southern Latin America,4839527.344
-2017-01-01,Chile,Southern Latin America,4873274.607
-2018-01-01,Chile,Southern Latin America,4879395.926
-2019-01-01,Chile,Southern Latin America,4860679.018
-1990-01-01,Uruguay,Southern Latin America,764367.6885
-1991-01-01,Uruguay,Southern Latin America,775759.9966
-1992-01-01,Uruguay,Southern Latin America,787548.1841
-1993-01-01,Uruguay,Southern Latin America,796583.0377
-1994-01-01,Uruguay,Southern Latin America,805014.9326
-1995-01-01,Uruguay,Southern Latin America,812587.7751
-1996-01-01,Uruguay,Southern Latin America,819353.4244
-1997-01-01,Uruguay,Southern Latin America,825181.4373
-1998-01-01,Uruguay,Southern Latin America,829736.9207
-1999-01-01,Uruguay,Southern Latin America,832630.9327
-2000-01-01,Uruguay,Southern Latin America,833060.4406
-2001-01-01,Uruguay,Southern Latin America,830975.2021
-2002-01-01,Uruguay,Southern Latin America,826200.4456
-2003-01-01,Uruguay,Southern Latin America,817586.9753
-2004-01-01,Uruguay,Southern Latin America,805473.0641
-2005-01-01,Uruguay,Southern Latin America,786840.9744
-2006-01-01,Uruguay,Southern Latin America,766649.3592
+2012-01-01,Chile,Southern Latin America,4796342.79
+2013-01-01,Chile,Southern Latin America,4802840.97
+2014-01-01,Chile,Southern Latin America,4804882.44
+2015-01-01,Chile,Southern Latin America,4809771.48
+2016-01-01,Chile,Southern Latin America,4839527.34
+2017-01-01,Chile,Southern Latin America,4873274.61
+2018-01-01,Chile,Southern Latin America,4879395.93
+2019-01-01,Chile,Southern Latin America,4860679.02
+1990-01-01,Uruguay,Southern Latin America,764367.69
+1991-01-01,Uruguay,Southern Latin America,775760.0
+1992-01-01,Uruguay,Southern Latin America,787548.18
+1993-01-01,Uruguay,Southern Latin America,796583.04
+1994-01-01,Uruguay,Southern Latin America,805014.93
+1995-01-01,Uruguay,Southern Latin America,812587.78
+1996-01-01,Uruguay,Southern Latin America,819353.42
+1997-01-01,Uruguay,Southern Latin America,825181.44
+1998-01-01,Uruguay,Southern Latin America,829736.92
+1999-01-01,Uruguay,Southern Latin America,832630.93
+2000-01-01,Uruguay,Southern Latin America,833060.44
+2001-01-01,Uruguay,Southern Latin America,830975.2
+2002-01-01,Uruguay,Southern Latin America,826200.45
+2003-01-01,Uruguay,Southern Latin America,817586.98
+2004-01-01,Uruguay,Southern Latin America,805473.06
+2005-01-01,Uruguay,Southern Latin America,786840.97
+2006-01-01,Uruguay,Southern Latin America,766649.36
 2007-01-01,Uruguay,Southern Latin America,749307.84
-2008-01-01,Uruguay,Southern Latin America,732630.4459
-2009-01-01,Uruguay,Southern Latin America,717170.1035
-2010-01-01,Uruguay,Southern Latin America,705939.9563
-2011-01-01,Uruguay,Southern Latin America,696899.9503
-2012-01-01,Uruguay,Southern Latin America,690165.9227
-2013-01-01,Uruguay,Southern Latin America,685797.1601
-2014-01-01,Uruguay,Southern Latin America,683072.4764
-2015-01-01,Uruguay,Southern Latin America,682437.1428
-2016-01-01,Uruguay,Southern Latin America,683184.4891
-2017-01-01,Uruguay,Southern Latin America,685348.7004
-2018-01-01,Uruguay,Southern Latin America,689050.4244
-2019-01-01,Uruguay,Southern Latin America,693081.0165
-1990-01-01,Canada,High-income North America,6988162.567
+2008-01-01,Uruguay,Southern Latin America,732630.45
+2009-01-01,Uruguay,Southern Latin America,717170.1
+2010-01-01,Uruguay,Southern Latin America,705939.96
+2011-01-01,Uruguay,Southern Latin America,696899.95
+2012-01-01,Uruguay,Southern Latin America,690165.92
+2013-01-01,Uruguay,Southern Latin America,685797.16
+2014-01-01,Uruguay,Southern Latin America,683072.48
+2015-01-01,Uruguay,Southern Latin America,682437.14
+2016-01-01,Uruguay,Southern Latin America,683184.49
+2017-01-01,Uruguay,Southern Latin America,685348.7
+2018-01-01,Uruguay,Southern Latin America,689050.42
+2019-01-01,Uruguay,Southern Latin America,693081.02
+1990-01-01,Canada,High-income North America,6988162.57
 1991-01-01,Canada,High-income North America,7011657.96
-1992-01-01,Canada,High-income North America,7029282.736
-1993-01-01,Canada,High-income North America,7041428.519
-1994-01-01,Canada,High-income North America,7040627.353
-1995-01-01,Canada,High-income North America,7016496.082
-1996-01-01,Canada,High-income North America,6961226.531
-1997-01-01,Canada,High-income North America,6875169.656
-1998-01-01,Canada,High-income North America,6765346.926
-1999-01-01,Canada,High-income North America,6633610.118
-2000-01-01,Canada,High-income North America,6485477.389
-2001-01-01,Canada,High-income North America,6328574.468
-2002-01-01,Canada,High-income North America,6171398.385
-2003-01-01,Canada,High-income North America,6021933.469
-2004-01-01,Canada,High-income North America,5885414.252
-2005-01-01,Canada,High-income North America,5759531.978
-2006-01-01,Canada,High-income North America,5642794.599
-2007-01-01,Canada,High-income North America,5532073.373
-2008-01-01,Canada,High-income North America,5427525.219
-2009-01-01,Canada,High-income North America,5334764.103
-2010-01-01,Canada,High-income North America,5247701.797
-2011-01-01,Canada,High-income North America,5163845.572
-2012-01-01,Canada,High-income North America,5081422.105
+1992-01-01,Canada,High-income North America,7029282.74
+1993-01-01,Canada,High-income North America,7041428.52
+1994-01-01,Canada,High-income North America,7040627.35
+1995-01-01,Canada,High-income North America,7016496.08
+1996-01-01,Canada,High-income North America,6961226.53
+1997-01-01,Canada,High-income North America,6875169.66
+1998-01-01,Canada,High-income North America,6765346.93
+1999-01-01,Canada,High-income North America,6633610.12
+2000-01-01,Canada,High-income North America,6485477.39
+2001-01-01,Canada,High-income North America,6328574.47
+2002-01-01,Canada,High-income North America,6171398.38
+2003-01-01,Canada,High-income North America,6021933.47
+2004-01-01,Canada,High-income North America,5885414.25
+2005-01-01,Canada,High-income North America,5759531.98
+2006-01-01,Canada,High-income North America,5642794.6
+2007-01-01,Canada,High-income North America,5532073.37
+2008-01-01,Canada,High-income North America,5427525.22
+2009-01-01,Canada,High-income North America,5334764.1
+2010-01-01,Canada,High-income North America,5247701.8
+2011-01-01,Canada,High-income North America,5163845.57
+2012-01-01,Canada,High-income North America,5081422.11
 2013-01-01,Canada,High-income North America,5010146.43
-2014-01-01,Canada,High-income North America,4946554.803
-2015-01-01,Canada,High-income North America,4902567.975
+2014-01-01,Canada,High-income North America,4946554.8
+2015-01-01,Canada,High-income North America,4902567.97
 2016-01-01,Canada,High-income North America,4877565.66
-2017-01-01,Canada,High-income North America,4870526.197
-2018-01-01,Canada,High-income North America,4890539.276
-2019-01-01,Canada,High-income North America,4915262.002
+2017-01-01,Canada,High-income North America,4870526.2
+2018-01-01,Canada,High-income North America,4890539.28
+2019-01-01,Canada,High-income North America,4915262.0
 1990-01-01,United States of America,High-income North America,51877377.75
 1991-01-01,United States of America,High-income North America,51835621.46
 1992-01-01,United States of America,High-income North America,51863109.27
@@ -989,93 +989,93 @@ date,name,category,value
 2017-01-01,United States of America,High-income North America,45466635.5
 2018-01-01,United States of America,High-income North America,45216926.55
 2019-01-01,United States of America,High-income North America,45079736.04
-1990-01-01,Greenland,Western Europe,20581.41167
-1991-01-01,Greenland,Western Europe,20392.51473
-1992-01-01,Greenland,Western Europe,20143.90076
-1993-01-01,Greenland,Western Europe,19978.05501
-1994-01-01,Greenland,Western Europe,19949.45168
-1995-01-01,Greenland,Western Europe,20007.13992
-1996-01-01,Greenland,Western Europe,20043.72149
-1997-01-01,Greenland,Western Europe,20117.27975
-1998-01-01,Greenland,Western Europe,20223.48375
-1999-01-01,Greenland,Western Europe,20255.96259
-2000-01-01,Greenland,Western Europe,20316.79421
-2001-01-01,Greenland,Western Europe,20472.31451
-2002-01-01,Greenland,Western Europe,20660.20195
-2003-01-01,Greenland,Western Europe,20836.54496
-2004-01-01,Greenland,Western Europe,21102.01159
-2005-01-01,Greenland,Western Europe,21337.97443
-2006-01-01,Greenland,Western Europe,21483.64141
-2007-01-01,Greenland,Western Europe,21255.14371
-2008-01-01,Greenland,Western Europe,21054.2343
-2009-01-01,Greenland,Western Europe,20896.18249
-2010-01-01,Greenland,Western Europe,20819.7918
-2011-01-01,Greenland,Western Europe,20711.37292
-2012-01-01,Greenland,Western Europe,20557.77745
-2013-01-01,Greenland,Western Europe,20343.74446
-2014-01-01,Greenland,Western Europe,20062.35722
-2015-01-01,Greenland,Western Europe,19777.53397
-2016-01-01,Greenland,Western Europe,19518.07177
-2017-01-01,Greenland,Western Europe,19331.24533
-2018-01-01,Greenland,Western Europe,19220.56964
-2019-01-01,Greenland,Western Europe,19078.28113
-1990-01-01,Monaco,Western Europe,8158.171287
-1991-01-01,Monaco,Western Europe,8154.227801
-1992-01-01,Monaco,Western Europe,8141.647322
-1993-01-01,Monaco,Western Europe,8126.919765
-1994-01-01,Monaco,Western Europe,8097.666841
-1995-01-01,Monaco,Western Europe,8062.724548
-1996-01-01,Monaco,Western Europe,8027.532984
-1997-01-01,Monaco,Western Europe,7985.817165
-1998-01-01,Monaco,Western Europe,7945.170751
-1999-01-01,Monaco,Western Europe,7906.590361
-2000-01-01,Monaco,Western Europe,7865.424946
-2001-01-01,Monaco,Western Europe,7821.777941
-2002-01-01,Monaco,Western Europe,7775.847608
-2003-01-01,Monaco,Western Europe,7732.255687
-2004-01-01,Monaco,Western Europe,7691.163634
-2005-01-01,Monaco,Western Europe,7657.572657
-2006-01-01,Monaco,Western Europe,7627.275725
-2007-01-01,Monaco,Western Europe,7593.14669
-2008-01-01,Monaco,Western Europe,7565.009416
-2009-01-01,Monaco,Western Europe,7533.020039
-2010-01-01,Monaco,Western Europe,7513.075693
-2011-01-01,Monaco,Western Europe,7485.011957
-2012-01-01,Monaco,Western Europe,7457.126041
-2013-01-01,Monaco,Western Europe,7430.214053
-2014-01-01,Monaco,Western Europe,7396.556308
-2015-01-01,Monaco,Western Europe,7386.932939
-2016-01-01,Monaco,Western Europe,7380.685395
-2017-01-01,Monaco,Western Europe,7360.870588
-2018-01-01,Monaco,Western Europe,7372.091694
-2019-01-01,Monaco,Western Europe,7374.660488
-1990-01-01,San Marino,Western Europe,5952.664969
-1991-01-01,San Marino,Western Europe,5979.148711
-1992-01-01,San Marino,Western Europe,5997.154763
-1993-01-01,San Marino,Western Europe,6007.788069
-1994-01-01,San Marino,Western Europe,6009.387847
-1995-01-01,San Marino,Western Europe,6001.837114
-1996-01-01,San Marino,Western Europe,5986.464439
-1997-01-01,San Marino,Western Europe,5963.443933
-1998-01-01,San Marino,Western Europe,5938.358275
-1999-01-01,San Marino,Western Europe,5906.912955
-2000-01-01,San Marino,Western Europe,5862.474987
-2001-01-01,San Marino,Western Europe,5808.587275
-2002-01-01,San Marino,Western Europe,5747.216215
-2003-01-01,San Marino,Western Europe,5672.781312
-2004-01-01,San Marino,Western Europe,5592.951412
-2005-01-01,San Marino,Western Europe,5507.554193
-2006-01-01,San Marino,Western Europe,5419.816191
-2007-01-01,San Marino,Western Europe,5331.594037
-2008-01-01,San Marino,Western Europe,5244.153143
-2009-01-01,San Marino,Western Europe,5157.043298
-2010-01-01,San Marino,Western Europe,5071.097932
-2011-01-01,San Marino,Western Europe,4992.023147
-2012-01-01,San Marino,Western Europe,4921.747859
-2013-01-01,San Marino,Western Europe,4863.006246
-2014-01-01,San Marino,Western Europe,4850.43908
-2015-01-01,San Marino,Western Europe,4852.590337
-2016-01-01,San Marino,Western Europe,4873.471237
-2017-01-01,San Marino,Western Europe,4912.169511
-2018-01-01,San Marino,Western Europe,4973.551469
-2019-01-01,San Marino,Western Europe,5042.261459
+1990-01-01,Greenland,Western Europe,20581.41
+1991-01-01,Greenland,Western Europe,20392.51
+1992-01-01,Greenland,Western Europe,20143.9
+1993-01-01,Greenland,Western Europe,19978.06
+1994-01-01,Greenland,Western Europe,19949.45
+1995-01-01,Greenland,Western Europe,20007.14
+1996-01-01,Greenland,Western Europe,20043.72
+1997-01-01,Greenland,Western Europe,20117.28
+1998-01-01,Greenland,Western Europe,20223.48
+1999-01-01,Greenland,Western Europe,20255.96
+2000-01-01,Greenland,Western Europe,20316.79
+2001-01-01,Greenland,Western Europe,20472.31
+2002-01-01,Greenland,Western Europe,20660.2
+2003-01-01,Greenland,Western Europe,20836.54
+2004-01-01,Greenland,Western Europe,21102.01
+2005-01-01,Greenland,Western Europe,21337.97
+2006-01-01,Greenland,Western Europe,21483.64
+2007-01-01,Greenland,Western Europe,21255.14
+2008-01-01,Greenland,Western Europe,21054.23
+2009-01-01,Greenland,Western Europe,20896.18
+2010-01-01,Greenland,Western Europe,20819.79
+2011-01-01,Greenland,Western Europe,20711.37
+2012-01-01,Greenland,Western Europe,20557.78
+2013-01-01,Greenland,Western Europe,20343.74
+2014-01-01,Greenland,Western Europe,20062.36
+2015-01-01,Greenland,Western Europe,19777.53
+2016-01-01,Greenland,Western Europe,19518.07
+2017-01-01,Greenland,Western Europe,19331.25
+2018-01-01,Greenland,Western Europe,19220.57
+2019-01-01,Greenland,Western Europe,19078.28
+1990-01-01,Monaco,Western Europe,8158.17
+1991-01-01,Monaco,Western Europe,8154.23
+1992-01-01,Monaco,Western Europe,8141.65
+1993-01-01,Monaco,Western Europe,8126.92
+1994-01-01,Monaco,Western Europe,8097.67
+1995-01-01,Monaco,Western Europe,8062.72
+1996-01-01,Monaco,Western Europe,8027.53
+1997-01-01,Monaco,Western Europe,7985.82
+1998-01-01,Monaco,Western Europe,7945.17
+1999-01-01,Monaco,Western Europe,7906.59
+2000-01-01,Monaco,Western Europe,7865.42
+2001-01-01,Monaco,Western Europe,7821.78
+2002-01-01,Monaco,Western Europe,7775.85
+2003-01-01,Monaco,Western Europe,7732.26
+2004-01-01,Monaco,Western Europe,7691.16
+2005-01-01,Monaco,Western Europe,7657.57
+2006-01-01,Monaco,Western Europe,7627.28
+2007-01-01,Monaco,Western Europe,7593.15
+2008-01-01,Monaco,Western Europe,7565.01
+2009-01-01,Monaco,Western Europe,7533.02
+2010-01-01,Monaco,Western Europe,7513.08
+2011-01-01,Monaco,Western Europe,7485.01
+2012-01-01,Monaco,Western Europe,7457.13
+2013-01-01,Monaco,Western Europe,7430.21
+2014-01-01,Monaco,Western Europe,7396.56
+2015-01-01,Monaco,Western Europe,7386.93
+2016-01-01,Monaco,Western Europe,7380.69
+2017-01-01,Monaco,Western Europe,7360.87
+2018-01-01,Monaco,Western Europe,7372.09
+2019-01-01,Monaco,Western Europe,7374.66
+1990-01-01,San Marino,Western Europe,5952.66
+1991-01-01,San Marino,Western Europe,5979.15
+1992-01-01,San Marino,Western Europe,5997.15
+1993-01-01,San Marino,Western Europe,6007.79
+1994-01-01,San Marino,Western Europe,6009.39
+1995-01-01,San Marino,Western Europe,6001.84
+1996-01-01,San Marino,Western Europe,5986.46
+1997-01-01,San Marino,Western Europe,5963.44
+1998-01-01,San Marino,Western Europe,5938.36
+1999-01-01,San Marino,Western Europe,5906.91
+2000-01-01,San Marino,Western Europe,5862.47
+2001-01-01,San Marino,Western Europe,5808.59
+2002-01-01,San Marino,Western Europe,5747.22
+2003-01-01,San Marino,Western Europe,5672.78
+2004-01-01,San Marino,Western Europe,5592.95
+2005-01-01,San Marino,Western Europe,5507.55
+2006-01-01,San Marino,Western Europe,5419.82
+2007-01-01,San Marino,Western Europe,5331.59
+2008-01-01,San Marino,Western Europe,5244.15
+2009-01-01,San Marino,Western Europe,5157.04
+2010-01-01,San Marino,Western Europe,5071.1
+2011-01-01,San Marino,Western Europe,4992.02
+2012-01-01,San Marino,Western Europe,4921.75
+2013-01-01,San Marino,Western Europe,4863.01
+2014-01-01,San Marino,Western Europe,4850.44
+2015-01-01,San Marino,Western Europe,4852.59
+2016-01-01,San Marino,Western Europe,4873.47
+2017-01-01,San Marino,Western Europe,4912.17
+2018-01-01,San Marino,Western Europe,4973.55
+2019-01-01,San Marino,Western Europe,5042.26

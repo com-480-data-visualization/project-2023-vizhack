@@ -1,514 +1,514 @@
 date,name,category,value
-1990-01-01,Armenia,Central Asia,745441.6942
-1991-01-01,Armenia,Central Asia,743661.4064
-1992-01-01,Armenia,Central Asia,740504.9277
-1993-01-01,Armenia,Central Asia,736900.9961
-1994-01-01,Armenia,Central Asia,733294.3032
-1995-01-01,Armenia,Central Asia,729675.9877
-1996-01-01,Armenia,Central Asia,727024.3349
-1997-01-01,Armenia,Central Asia,724543.8406
-1998-01-01,Armenia,Central Asia,723500.9895
-1999-01-01,Armenia,Central Asia,723940.2331
-2000-01-01,Armenia,Central Asia,724602.4042
-2001-01-01,Armenia,Central Asia,725279.2545
-2002-01-01,Armenia,Central Asia,725466.2203
-2003-01-01,Armenia,Central Asia,726384.5235
-2004-01-01,Armenia,Central Asia,728007.8455
-2005-01-01,Armenia,Central Asia,728288.9963
-2006-01-01,Armenia,Central Asia,726715.2859
-2007-01-01,Armenia,Central Asia,724374.0121
-2008-01-01,Armenia,Central Asia,721601.376
-2009-01-01,Armenia,Central Asia,718852.389
-2010-01-01,Armenia,Central Asia,717500.946
-2011-01-01,Armenia,Central Asia,715264.7273
-2012-01-01,Armenia,Central Asia,712979.8191
-2013-01-01,Armenia,Central Asia,710109.3801
-2014-01-01,Armenia,Central Asia,706647.4249
-2015-01-01,Armenia,Central Asia,703203.1344
-2016-01-01,Armenia,Central Asia,699658.7193
-2017-01-01,Armenia,Central Asia,695906.238
-2018-01-01,Armenia,Central Asia,692290.7155
-2019-01-01,Armenia,Central Asia,688319.0944
-1990-01-01,Azerbaijan,Central Asia,1072119.865
-1991-01-01,Azerbaijan,Central Asia,1092490.715
-1992-01-01,Azerbaijan,Central Asia,1111031.662
-1993-01-01,Azerbaijan,Central Asia,1128942.874
-1994-01-01,Azerbaijan,Central Asia,1148296.727
+1990-01-01,Armenia,Central Asia,745441.69
+1991-01-01,Armenia,Central Asia,743661.41
+1992-01-01,Armenia,Central Asia,740504.93
+1993-01-01,Armenia,Central Asia,736901.0
+1994-01-01,Armenia,Central Asia,733294.3
+1995-01-01,Armenia,Central Asia,729675.99
+1996-01-01,Armenia,Central Asia,727024.33
+1997-01-01,Armenia,Central Asia,724543.84
+1998-01-01,Armenia,Central Asia,723500.99
+1999-01-01,Armenia,Central Asia,723940.23
+2000-01-01,Armenia,Central Asia,724602.4
+2001-01-01,Armenia,Central Asia,725279.25
+2002-01-01,Armenia,Central Asia,725466.22
+2003-01-01,Armenia,Central Asia,726384.52
+2004-01-01,Armenia,Central Asia,728007.85
+2005-01-01,Armenia,Central Asia,728289.0
+2006-01-01,Armenia,Central Asia,726715.29
+2007-01-01,Armenia,Central Asia,724374.01
+2008-01-01,Armenia,Central Asia,721601.38
+2009-01-01,Armenia,Central Asia,718852.39
+2010-01-01,Armenia,Central Asia,717500.95
+2011-01-01,Armenia,Central Asia,715264.73
+2012-01-01,Armenia,Central Asia,712979.82
+2013-01-01,Armenia,Central Asia,710109.38
+2014-01-01,Armenia,Central Asia,706647.42
+2015-01-01,Armenia,Central Asia,703203.13
+2016-01-01,Armenia,Central Asia,699658.72
+2017-01-01,Armenia,Central Asia,695906.24
+2018-01-01,Armenia,Central Asia,692290.72
+2019-01-01,Armenia,Central Asia,688319.09
+1990-01-01,Azerbaijan,Central Asia,1072119.86
+1991-01-01,Azerbaijan,Central Asia,1092490.72
+1992-01-01,Azerbaijan,Central Asia,1111031.66
+1993-01-01,Azerbaijan,Central Asia,1128942.87
+1994-01-01,Azerbaijan,Central Asia,1148296.73
 1995-01-01,Azerbaijan,Central Asia,1168433.0
 1996-01-01,Azerbaijan,Central Asia,1191655.03
-1997-01-01,Azerbaijan,Central Asia,1218870.591
-1998-01-01,Azerbaijan,Central Asia,1247207.316
-1999-01-01,Azerbaijan,Central Asia,1276908.502
-2000-01-01,Azerbaijan,Central Asia,1307949.652
-2001-01-01,Azerbaijan,Central Asia,1341075.229
-2002-01-01,Azerbaijan,Central Asia,1377868.716
-2003-01-01,Azerbaijan,Central Asia,1418425.645
-2004-01-01,Azerbaijan,Central Asia,1462827.937
-2005-01-01,Azerbaijan,Central Asia,1508876.891
+1997-01-01,Azerbaijan,Central Asia,1218870.59
+1998-01-01,Azerbaijan,Central Asia,1247207.32
+1999-01-01,Azerbaijan,Central Asia,1276908.5
+2000-01-01,Azerbaijan,Central Asia,1307949.65
+2001-01-01,Azerbaijan,Central Asia,1341075.23
+2002-01-01,Azerbaijan,Central Asia,1377868.72
+2003-01-01,Azerbaijan,Central Asia,1418425.64
+2004-01-01,Azerbaijan,Central Asia,1462827.94
+2005-01-01,Azerbaijan,Central Asia,1508876.89
 2006-01-01,Azerbaijan,Central Asia,1556072.41
-2007-01-01,Azerbaijan,Central Asia,1596154.052
-2008-01-01,Azerbaijan,Central Asia,1628313.947
-2009-01-01,Azerbaijan,Central Asia,1657258.857
-2010-01-01,Azerbaijan,Central Asia,1680007.681
-2011-01-01,Azerbaijan,Central Asia,1695463.502
-2012-01-01,Azerbaijan,Central Asia,1712045.422
-2013-01-01,Azerbaijan,Central Asia,1723428.522
-2014-01-01,Azerbaijan,Central Asia,1746445.548
-2015-01-01,Azerbaijan,Central Asia,1769939.798
-2016-01-01,Azerbaijan,Central Asia,1793678.502
-2017-01-01,Azerbaijan,Central Asia,1817189.442
-2018-01-01,Azerbaijan,Central Asia,1844684.271
-2019-01-01,Azerbaijan,Central Asia,1872967.853
-1990-01-01,Georgia,Central Asia,1096358.044
-1991-01-01,Georgia,Central Asia,1085417.117
-1992-01-01,Georgia,Central Asia,1070490.909
-1993-01-01,Georgia,Central Asia,1052033.524
-1994-01-01,Georgia,Central Asia,1032584.725
-1995-01-01,Georgia,Central Asia,1014510.588
-1996-01-01,Georgia,Central Asia,999752.2494
-1997-01-01,Georgia,Central Asia,986975.3538
-1998-01-01,Georgia,Central Asia,974603.9106
-1999-01-01,Georgia,Central Asia,963346.8678
-2000-01-01,Georgia,Central Asia,952788.1654
-2001-01-01,Georgia,Central Asia,942638.2158
-2002-01-01,Georgia,Central Asia,933872.4398
-2003-01-01,Georgia,Central Asia,925888.6033
-2004-01-01,Georgia,Central Asia,918261.4936
-2005-01-01,Georgia,Central Asia,912220.8512
-2006-01-01,Georgia,Central Asia,907766.6221
-2007-01-01,Georgia,Central Asia,902958.4998
-2008-01-01,Georgia,Central Asia,897895.2745
-2009-01-01,Georgia,Central Asia,893652.0136
-2010-01-01,Georgia,Central Asia,889596.0735
-2011-01-01,Georgia,Central Asia,882603.3406
-2012-01-01,Georgia,Central Asia,875715.8269
-2013-01-01,Georgia,Central Asia,869631.484
-2014-01-01,Georgia,Central Asia,861903.9053
-2015-01-01,Georgia,Central Asia,853692.8861
-2016-01-01,Georgia,Central Asia,844512.518
-2017-01-01,Georgia,Central Asia,834045.5654
-2018-01-01,Georgia,Central Asia,822700.3676
-2019-01-01,Georgia,Central Asia,810862.7229
-1990-01-01,Kazakhstan,Central Asia,3249005.687
-1991-01-01,Kazakhstan,Central Asia,3219557.794
-1992-01-01,Kazakhstan,Central Asia,3181047.006
-1993-01-01,Kazakhstan,Central Asia,3139651.138
+2007-01-01,Azerbaijan,Central Asia,1596154.05
+2008-01-01,Azerbaijan,Central Asia,1628313.95
+2009-01-01,Azerbaijan,Central Asia,1657258.86
+2010-01-01,Azerbaijan,Central Asia,1680007.68
+2011-01-01,Azerbaijan,Central Asia,1695463.5
+2012-01-01,Azerbaijan,Central Asia,1712045.42
+2013-01-01,Azerbaijan,Central Asia,1723428.52
+2014-01-01,Azerbaijan,Central Asia,1746445.55
+2015-01-01,Azerbaijan,Central Asia,1769939.8
+2016-01-01,Azerbaijan,Central Asia,1793678.5
+2017-01-01,Azerbaijan,Central Asia,1817189.44
+2018-01-01,Azerbaijan,Central Asia,1844684.27
+2019-01-01,Azerbaijan,Central Asia,1872967.85
+1990-01-01,Georgia,Central Asia,1096358.04
+1991-01-01,Georgia,Central Asia,1085417.12
+1992-01-01,Georgia,Central Asia,1070490.91
+1993-01-01,Georgia,Central Asia,1052033.52
+1994-01-01,Georgia,Central Asia,1032584.72
+1995-01-01,Georgia,Central Asia,1014510.59
+1996-01-01,Georgia,Central Asia,999752.25
+1997-01-01,Georgia,Central Asia,986975.35
+1998-01-01,Georgia,Central Asia,974603.91
+1999-01-01,Georgia,Central Asia,963346.87
+2000-01-01,Georgia,Central Asia,952788.17
+2001-01-01,Georgia,Central Asia,942638.22
+2002-01-01,Georgia,Central Asia,933872.44
+2003-01-01,Georgia,Central Asia,925888.6
+2004-01-01,Georgia,Central Asia,918261.49
+2005-01-01,Georgia,Central Asia,912220.85
+2006-01-01,Georgia,Central Asia,907766.62
+2007-01-01,Georgia,Central Asia,902958.5
+2008-01-01,Georgia,Central Asia,897895.27
+2009-01-01,Georgia,Central Asia,893652.01
+2010-01-01,Georgia,Central Asia,889596.07
+2011-01-01,Georgia,Central Asia,882603.34
+2012-01-01,Georgia,Central Asia,875715.83
+2013-01-01,Georgia,Central Asia,869631.48
+2014-01-01,Georgia,Central Asia,861903.91
+2015-01-01,Georgia,Central Asia,853692.89
+2016-01-01,Georgia,Central Asia,844512.52
+2017-01-01,Georgia,Central Asia,834045.57
+2018-01-01,Georgia,Central Asia,822700.37
+2019-01-01,Georgia,Central Asia,810862.72
+1990-01-01,Kazakhstan,Central Asia,3249005.69
+1991-01-01,Kazakhstan,Central Asia,3219557.79
+1992-01-01,Kazakhstan,Central Asia,3181047.01
+1993-01-01,Kazakhstan,Central Asia,3139651.14
 1994-01-01,Kazakhstan,Central Asia,3101461.61
-1995-01-01,Kazakhstan,Central Asia,3067899.004
-1996-01-01,Kazakhstan,Central Asia,3041198.258
-1997-01-01,Kazakhstan,Central Asia,3026136.485
-1998-01-01,Kazakhstan,Central Asia,3022017.696
-1999-01-01,Kazakhstan,Central Asia,3035028.354
+1995-01-01,Kazakhstan,Central Asia,3067899.0
+1996-01-01,Kazakhstan,Central Asia,3041198.26
+1997-01-01,Kazakhstan,Central Asia,3026136.48
+1998-01-01,Kazakhstan,Central Asia,3022017.7
+1999-01-01,Kazakhstan,Central Asia,3035028.35
 2000-01-01,Kazakhstan,Central Asia,3063410.68
 2001-01-01,Kazakhstan,Central Asia,3101836.09
-2002-01-01,Kazakhstan,Central Asia,3150024.422
-2003-01-01,Kazakhstan,Central Asia,3208959.988
-2004-01-01,Kazakhstan,Central Asia,3274553.511
-2005-01-01,Kazakhstan,Central Asia,3338914.733
+2002-01-01,Kazakhstan,Central Asia,3150024.42
+2003-01-01,Kazakhstan,Central Asia,3208959.99
+2004-01-01,Kazakhstan,Central Asia,3274553.51
+2005-01-01,Kazakhstan,Central Asia,3338914.73
 2006-01-01,Kazakhstan,Central Asia,3398343.61
-2007-01-01,Kazakhstan,Central Asia,3449281.818
-2008-01-01,Kazakhstan,Central Asia,3489399.352
+2007-01-01,Kazakhstan,Central Asia,3449281.82
+2008-01-01,Kazakhstan,Central Asia,3489399.35
 2009-01-01,Kazakhstan,Central Asia,3517480.49
-2010-01-01,Kazakhstan,Central Asia,3526332.558
-2011-01-01,Kazakhstan,Central Asia,3508356.918
-2012-01-01,Kazakhstan,Central Asia,3477955.378
-2013-01-01,Kazakhstan,Central Asia,3453922.817
-2014-01-01,Kazakhstan,Central Asia,3433888.778
-2015-01-01,Kazakhstan,Central Asia,3425032.961
-2016-01-01,Kazakhstan,Central Asia,3420537.263
-2017-01-01,Kazakhstan,Central Asia,3422899.654
-2018-01-01,Kazakhstan,Central Asia,3435197.219
-2019-01-01,Kazakhstan,Central Asia,3451983.827
-1990-01-01,Kyrgyzstan,Central Asia,667210.5209
-1991-01-01,Kyrgyzstan,Central Asia,664396.0122
-1992-01-01,Kyrgyzstan,Central Asia,661650.7815
-1993-01-01,Kyrgyzstan,Central Asia,659678.9611
-1994-01-01,Kyrgyzstan,Central Asia,659312.844
-1995-01-01,Kyrgyzstan,Central Asia,659689.274
-1996-01-01,Kyrgyzstan,Central Asia,662006.5047
-1997-01-01,Kyrgyzstan,Central Asia,666162.4826
-1998-01-01,Kyrgyzstan,Central Asia,671483.7256
-1999-01-01,Kyrgyzstan,Central Asia,682296.3452
-2000-01-01,Kyrgyzstan,Central Asia,696657.1083
-2001-01-01,Kyrgyzstan,Central Asia,713206.1533
-2002-01-01,Kyrgyzstan,Central Asia,732313.4758
-2003-01-01,Kyrgyzstan,Central Asia,753371.5564
-2004-01-01,Kyrgyzstan,Central Asia,778519.1633
-2005-01-01,Kyrgyzstan,Central Asia,804557.838
-2006-01-01,Kyrgyzstan,Central Asia,830074.5148
-2007-01-01,Kyrgyzstan,Central Asia,850788.2257
-2008-01-01,Kyrgyzstan,Central Asia,870991.0989
-2009-01-01,Kyrgyzstan,Central Asia,892016.6687
-2010-01-01,Kyrgyzstan,Central Asia,911263.1856
-2011-01-01,Kyrgyzstan,Central Asia,928777.0476
-2012-01-01,Kyrgyzstan,Central Asia,944514.1022
-2013-01-01,Kyrgyzstan,Central Asia,960417.7593
-2014-01-01,Kyrgyzstan,Central Asia,976331.6835
-2015-01-01,Kyrgyzstan,Central Asia,993352.4756
-2016-01-01,Kyrgyzstan,Central Asia,1011063.729
-2017-01-01,Kyrgyzstan,Central Asia,1028978.984
+2010-01-01,Kazakhstan,Central Asia,3526332.56
+2011-01-01,Kazakhstan,Central Asia,3508356.92
+2012-01-01,Kazakhstan,Central Asia,3477955.38
+2013-01-01,Kazakhstan,Central Asia,3453922.82
+2014-01-01,Kazakhstan,Central Asia,3433888.78
+2015-01-01,Kazakhstan,Central Asia,3425032.96
+2016-01-01,Kazakhstan,Central Asia,3420537.26
+2017-01-01,Kazakhstan,Central Asia,3422899.65
+2018-01-01,Kazakhstan,Central Asia,3435197.22
+2019-01-01,Kazakhstan,Central Asia,3451983.83
+1990-01-01,Kyrgyzstan,Central Asia,667210.52
+1991-01-01,Kyrgyzstan,Central Asia,664396.01
+1992-01-01,Kyrgyzstan,Central Asia,661650.78
+1993-01-01,Kyrgyzstan,Central Asia,659678.96
+1994-01-01,Kyrgyzstan,Central Asia,659312.84
+1995-01-01,Kyrgyzstan,Central Asia,659689.27
+1996-01-01,Kyrgyzstan,Central Asia,662006.5
+1997-01-01,Kyrgyzstan,Central Asia,666162.48
+1998-01-01,Kyrgyzstan,Central Asia,671483.73
+1999-01-01,Kyrgyzstan,Central Asia,682296.35
+2000-01-01,Kyrgyzstan,Central Asia,696657.11
+2001-01-01,Kyrgyzstan,Central Asia,713206.15
+2002-01-01,Kyrgyzstan,Central Asia,732313.48
+2003-01-01,Kyrgyzstan,Central Asia,753371.56
+2004-01-01,Kyrgyzstan,Central Asia,778519.16
+2005-01-01,Kyrgyzstan,Central Asia,804557.84
+2006-01-01,Kyrgyzstan,Central Asia,830074.51
+2007-01-01,Kyrgyzstan,Central Asia,850788.23
+2008-01-01,Kyrgyzstan,Central Asia,870991.1
+2009-01-01,Kyrgyzstan,Central Asia,892016.67
+2010-01-01,Kyrgyzstan,Central Asia,911263.19
+2011-01-01,Kyrgyzstan,Central Asia,928777.05
+2012-01-01,Kyrgyzstan,Central Asia,944514.1
+2013-01-01,Kyrgyzstan,Central Asia,960417.76
+2014-01-01,Kyrgyzstan,Central Asia,976331.68
+2015-01-01,Kyrgyzstan,Central Asia,993352.48
+2016-01-01,Kyrgyzstan,Central Asia,1011063.73
+2017-01-01,Kyrgyzstan,Central Asia,1028978.98
 2018-01-01,Kyrgyzstan,Central Asia,1047359.51
-2019-01-01,Kyrgyzstan,Central Asia,1066061.161
-1990-01-01,Mongolia,Central Asia,320981.5027
-1991-01-01,Mongolia,Central Asia,329614.0006
-1992-01-01,Mongolia,Central Asia,338362.4117
-1993-01-01,Mongolia,Central Asia,347122.4998
-1994-01-01,Mongolia,Central Asia,356414.859
-1995-01-01,Mongolia,Central Asia,365600.7038
-1996-01-01,Mongolia,Central Asia,374945.5483
-1997-01-01,Mongolia,Central Asia,385137.4247
-1998-01-01,Mongolia,Central Asia,396881.9868
-1999-01-01,Mongolia,Central Asia,408819.5578
-2000-01-01,Mongolia,Central Asia,421729.3957
-2001-01-01,Mongolia,Central Asia,435312.6484
-2002-01-01,Mongolia,Central Asia,450840.7965
-2003-01-01,Mongolia,Central Asia,468023.572
-2004-01-01,Mongolia,Central Asia,486305.4822
-2005-01-01,Mongolia,Central Asia,505879.0145
-2006-01-01,Mongolia,Central Asia,526196.8329
-2007-01-01,Mongolia,Central Asia,546759.5153
-2008-01-01,Mongolia,Central Asia,566962.0045
-2009-01-01,Mongolia,Central Asia,586625.9777
-2010-01-01,Mongolia,Central Asia,606821.1893
-2011-01-01,Mongolia,Central Asia,625823.7853
-2012-01-01,Mongolia,Central Asia,644267.9786
-2013-01-01,Mongolia,Central Asia,660592.8773
-2014-01-01,Mongolia,Central Asia,675477.5823
-2015-01-01,Mongolia,Central Asia,690480.9041
-2016-01-01,Mongolia,Central Asia,704225.1498
-2017-01-01,Mongolia,Central Asia,717050.491
-2018-01-01,Mongolia,Central Asia,728607.0185
-2019-01-01,Mongolia,Central Asia,739138.5991
-1990-01-01,Tajikistan,Central Asia,475215.6147
-1991-01-01,Tajikistan,Central Asia,472862.2399
-1992-01-01,Tajikistan,Central Asia,468510.312
-1993-01-01,Tajikistan,Central Asia,461450.7693
-1994-01-01,Tajikistan,Central Asia,454141.4024
-1995-01-01,Tajikistan,Central Asia,448514.5082
-1996-01-01,Tajikistan,Central Asia,442651.2669
-1997-01-01,Tajikistan,Central Asia,437313.9368
-1998-01-01,Tajikistan,Central Asia,432577.6981
-1999-01-01,Tajikistan,Central Asia,429397.8141
-2000-01-01,Tajikistan,Central Asia,430084.4087
-2001-01-01,Tajikistan,Central Asia,432587.6356
-2002-01-01,Tajikistan,Central Asia,437520.5923
-2003-01-01,Tajikistan,Central Asia,444883.3387
-2004-01-01,Tajikistan,Central Asia,452466.5364
-2005-01-01,Tajikistan,Central Asia,462454.5738
-2006-01-01,Tajikistan,Central Asia,472417.0894
-2007-01-01,Tajikistan,Central Asia,481730.5666
-2008-01-01,Tajikistan,Central Asia,484799.4045
-2009-01-01,Tajikistan,Central Asia,487539.5456
-2010-01-01,Tajikistan,Central Asia,491634.062
-2011-01-01,Tajikistan,Central Asia,491972.0263
-2012-01-01,Tajikistan,Central Asia,490314.9074
-2013-01-01,Tajikistan,Central Asia,489205.2325
-2014-01-01,Tajikistan,Central Asia,501328.9805
-2015-01-01,Tajikistan,Central Asia,514185.9246
-2016-01-01,Tajikistan,Central Asia,526471.3792
-2017-01-01,Tajikistan,Central Asia,541220.1206
-2018-01-01,Tajikistan,Central Asia,556348.197
-2019-01-01,Tajikistan,Central Asia,572508.4911
-1990-01-01,Turkmenistan,Central Asia,489996.8916
-1991-01-01,Turkmenistan,Central Asia,494918.3533
-1992-01-01,Turkmenistan,Central Asia,499886.2861
-1993-01-01,Turkmenistan,Central Asia,504937.7829
-1994-01-01,Turkmenistan,Central Asia,510066.8003
-1995-01-01,Turkmenistan,Central Asia,515761.1958
-1996-01-01,Turkmenistan,Central Asia,522539.0191
-1997-01-01,Turkmenistan,Central Asia,530142.6476
-1998-01-01,Turkmenistan,Central Asia,538394.6499
-1999-01-01,Turkmenistan,Central Asia,546952.973
-2000-01-01,Turkmenistan,Central Asia,555522.7718
-2001-01-01,Turkmenistan,Central Asia,563510.1742
-2002-01-01,Turkmenistan,Central Asia,570937.4451
-2003-01-01,Turkmenistan,Central Asia,577565.1304
-2004-01-01,Turkmenistan,Central Asia,583646.9102
-2005-01-01,Turkmenistan,Central Asia,588895.0068
-2006-01-01,Turkmenistan,Central Asia,593336.8424
-2007-01-01,Turkmenistan,Central Asia,596183.4329
-2008-01-01,Turkmenistan,Central Asia,597878.4415
-2009-01-01,Turkmenistan,Central Asia,598897.7792
-2010-01-01,Turkmenistan,Central Asia,594615.5941
-2011-01-01,Turkmenistan,Central Asia,587889.0572
-2012-01-01,Turkmenistan,Central Asia,577012.1577
-2013-01-01,Turkmenistan,Central Asia,560956.0342
-2014-01-01,Turkmenistan,Central Asia,543505.8581
-2015-01-01,Turkmenistan,Central Asia,524924.0371
-2016-01-01,Turkmenistan,Central Asia,505889.8752
-2017-01-01,Turkmenistan,Central Asia,487101.471
-2018-01-01,Turkmenistan,Central Asia,469138.5153
-2019-01-01,Turkmenistan,Central Asia,470148.7386
-1990-01-01,Uzbekistan,Central Asia,1104245.908
-1991-01-01,Uzbekistan,Central Asia,1126017.732
-1992-01-01,Uzbekistan,Central Asia,1149396.136
-1993-01-01,Uzbekistan,Central Asia,1201970.923
-1994-01-01,Uzbekistan,Central Asia,1282325.532
+2019-01-01,Kyrgyzstan,Central Asia,1066061.16
+1990-01-01,Mongolia,Central Asia,320981.5
+1991-01-01,Mongolia,Central Asia,329614.0
+1992-01-01,Mongolia,Central Asia,338362.41
+1993-01-01,Mongolia,Central Asia,347122.5
+1994-01-01,Mongolia,Central Asia,356414.86
+1995-01-01,Mongolia,Central Asia,365600.7
+1996-01-01,Mongolia,Central Asia,374945.55
+1997-01-01,Mongolia,Central Asia,385137.42
+1998-01-01,Mongolia,Central Asia,396881.99
+1999-01-01,Mongolia,Central Asia,408819.56
+2000-01-01,Mongolia,Central Asia,421729.4
+2001-01-01,Mongolia,Central Asia,435312.65
+2002-01-01,Mongolia,Central Asia,450840.8
+2003-01-01,Mongolia,Central Asia,468023.57
+2004-01-01,Mongolia,Central Asia,486305.48
+2005-01-01,Mongolia,Central Asia,505879.01
+2006-01-01,Mongolia,Central Asia,526196.83
+2007-01-01,Mongolia,Central Asia,546759.52
+2008-01-01,Mongolia,Central Asia,566962.0
+2009-01-01,Mongolia,Central Asia,586625.98
+2010-01-01,Mongolia,Central Asia,606821.19
+2011-01-01,Mongolia,Central Asia,625823.79
+2012-01-01,Mongolia,Central Asia,644267.98
+2013-01-01,Mongolia,Central Asia,660592.88
+2014-01-01,Mongolia,Central Asia,675477.58
+2015-01-01,Mongolia,Central Asia,690480.9
+2016-01-01,Mongolia,Central Asia,704225.15
+2017-01-01,Mongolia,Central Asia,717050.49
+2018-01-01,Mongolia,Central Asia,728607.02
+2019-01-01,Mongolia,Central Asia,739138.6
+1990-01-01,Tajikistan,Central Asia,475215.61
+1991-01-01,Tajikistan,Central Asia,472862.24
+1992-01-01,Tajikistan,Central Asia,468510.31
+1993-01-01,Tajikistan,Central Asia,461450.77
+1994-01-01,Tajikistan,Central Asia,454141.4
+1995-01-01,Tajikistan,Central Asia,448514.51
+1996-01-01,Tajikistan,Central Asia,442651.27
+1997-01-01,Tajikistan,Central Asia,437313.94
+1998-01-01,Tajikistan,Central Asia,432577.7
+1999-01-01,Tajikistan,Central Asia,429397.81
+2000-01-01,Tajikistan,Central Asia,430084.41
+2001-01-01,Tajikistan,Central Asia,432587.64
+2002-01-01,Tajikistan,Central Asia,437520.59
+2003-01-01,Tajikistan,Central Asia,444883.34
+2004-01-01,Tajikistan,Central Asia,452466.54
+2005-01-01,Tajikistan,Central Asia,462454.57
+2006-01-01,Tajikistan,Central Asia,472417.09
+2007-01-01,Tajikistan,Central Asia,481730.57
+2008-01-01,Tajikistan,Central Asia,484799.4
+2009-01-01,Tajikistan,Central Asia,487539.55
+2010-01-01,Tajikistan,Central Asia,491634.06
+2011-01-01,Tajikistan,Central Asia,491972.03
+2012-01-01,Tajikistan,Central Asia,490314.91
+2013-01-01,Tajikistan,Central Asia,489205.23
+2014-01-01,Tajikistan,Central Asia,501328.98
+2015-01-01,Tajikistan,Central Asia,514185.92
+2016-01-01,Tajikistan,Central Asia,526471.38
+2017-01-01,Tajikistan,Central Asia,541220.12
+2018-01-01,Tajikistan,Central Asia,556348.2
+2019-01-01,Tajikistan,Central Asia,572508.49
+1990-01-01,Turkmenistan,Central Asia,489996.89
+1991-01-01,Turkmenistan,Central Asia,494918.35
+1992-01-01,Turkmenistan,Central Asia,499886.29
+1993-01-01,Turkmenistan,Central Asia,504937.78
+1994-01-01,Turkmenistan,Central Asia,510066.8
+1995-01-01,Turkmenistan,Central Asia,515761.2
+1996-01-01,Turkmenistan,Central Asia,522539.02
+1997-01-01,Turkmenistan,Central Asia,530142.65
+1998-01-01,Turkmenistan,Central Asia,538394.65
+1999-01-01,Turkmenistan,Central Asia,546952.97
+2000-01-01,Turkmenistan,Central Asia,555522.77
+2001-01-01,Turkmenistan,Central Asia,563510.17
+2002-01-01,Turkmenistan,Central Asia,570937.45
+2003-01-01,Turkmenistan,Central Asia,577565.13
+2004-01-01,Turkmenistan,Central Asia,583646.91
+2005-01-01,Turkmenistan,Central Asia,588895.01
+2006-01-01,Turkmenistan,Central Asia,593336.84
+2007-01-01,Turkmenistan,Central Asia,596183.43
+2008-01-01,Turkmenistan,Central Asia,597878.44
+2009-01-01,Turkmenistan,Central Asia,598897.78
+2010-01-01,Turkmenistan,Central Asia,594615.59
+2011-01-01,Turkmenistan,Central Asia,587889.06
+2012-01-01,Turkmenistan,Central Asia,577012.16
+2013-01-01,Turkmenistan,Central Asia,560956.03
+2014-01-01,Turkmenistan,Central Asia,543505.86
+2015-01-01,Turkmenistan,Central Asia,524924.04
+2016-01-01,Turkmenistan,Central Asia,505889.88
+2017-01-01,Turkmenistan,Central Asia,487101.47
+2018-01-01,Turkmenistan,Central Asia,469138.52
+2019-01-01,Turkmenistan,Central Asia,470148.74
+1990-01-01,Uzbekistan,Central Asia,1104245.91
+1991-01-01,Uzbekistan,Central Asia,1126017.73
+1992-01-01,Uzbekistan,Central Asia,1149396.14
+1993-01-01,Uzbekistan,Central Asia,1201970.92
+1994-01-01,Uzbekistan,Central Asia,1282325.53
 1995-01-01,Uzbekistan,Central Asia,1361628.81
-1996-01-01,Uzbekistan,Central Asia,1450516.234
-1997-01-01,Uzbekistan,Central Asia,1546411.808
-1998-01-01,Uzbekistan,Central Asia,1641527.468
-1999-01-01,Uzbekistan,Central Asia,1737546.796
-2000-01-01,Uzbekistan,Central Asia,1836662.541
-2001-01-01,Uzbekistan,Central Asia,1932131.858
-2002-01-01,Uzbekistan,Central Asia,2027794.131
-2003-01-01,Uzbekistan,Central Asia,2124513.466
-2004-01-01,Uzbekistan,Central Asia,2223172.598
-2005-01-01,Uzbekistan,Central Asia,2323497.251
+1996-01-01,Uzbekistan,Central Asia,1450516.23
+1997-01-01,Uzbekistan,Central Asia,1546411.81
+1998-01-01,Uzbekistan,Central Asia,1641527.47
+1999-01-01,Uzbekistan,Central Asia,1737546.8
+2000-01-01,Uzbekistan,Central Asia,1836662.54
+2001-01-01,Uzbekistan,Central Asia,1932131.86
+2002-01-01,Uzbekistan,Central Asia,2027794.13
+2003-01-01,Uzbekistan,Central Asia,2124513.47
+2004-01-01,Uzbekistan,Central Asia,2223172.6
+2005-01-01,Uzbekistan,Central Asia,2323497.25
 2006-01-01,Uzbekistan,Central Asia,2423158.74
-2007-01-01,Uzbekistan,Central Asia,2502265.692
-2008-01-01,Uzbekistan,Central Asia,2577242.647
-2009-01-01,Uzbekistan,Central Asia,2655152.947
-2010-01-01,Uzbekistan,Central Asia,2726111.246
-2011-01-01,Uzbekistan,Central Asia,2774101.253
-2012-01-01,Uzbekistan,Central Asia,2828894.619
-2013-01-01,Uzbekistan,Central Asia,2890764.939
-2014-01-01,Uzbekistan,Central Asia,2950738.253
+2007-01-01,Uzbekistan,Central Asia,2502265.69
+2008-01-01,Uzbekistan,Central Asia,2577242.65
+2009-01-01,Uzbekistan,Central Asia,2655152.95
+2010-01-01,Uzbekistan,Central Asia,2726111.25
+2011-01-01,Uzbekistan,Central Asia,2774101.25
+2012-01-01,Uzbekistan,Central Asia,2828894.62
+2013-01-01,Uzbekistan,Central Asia,2890764.94
+2014-01-01,Uzbekistan,Central Asia,2950738.25
 2015-01-01,Uzbekistan,Central Asia,3003917.48
-2016-01-01,Uzbekistan,Central Asia,3054322.654
-2017-01-01,Uzbekistan,Central Asia,3103509.219
-2018-01-01,Uzbekistan,Central Asia,3152190.268
-2019-01-01,Uzbekistan,Central Asia,3199478.269
-1990-01-01,Albania,Central Europe,523353.6414
-1991-01-01,Albania,Central Europe,527089.5289
-1992-01-01,Albania,Central Europe,529660.2848
-1993-01-01,Albania,Central Europe,531367.1584
-1994-01-01,Albania,Central Europe,532514.8235
-1995-01-01,Albania,Central Europe,533262.8058
-1996-01-01,Albania,Central Europe,534976.8123
-1997-01-01,Albania,Central Europe,556423.4522
-1998-01-01,Albania,Central Europe,577244.2174
-1999-01-01,Albania,Central Europe,553971.5746
-2000-01-01,Albania,Central Europe,533704.8992
-2001-01-01,Albania,Central Europe,534734.2232
-2002-01-01,Albania,Central Europe,537682.955
-2003-01-01,Albania,Central Europe,542180.1123
-2004-01-01,Albania,Central Europe,549792.1551
-2005-01-01,Albania,Central Europe,562030.1313
-2006-01-01,Albania,Central Europe,579083.7223
-2007-01-01,Albania,Central Europe,598216.2543
-2008-01-01,Albania,Central Europe,618659.1671
-2009-01-01,Albania,Central Europe,640528.1782
-2010-01-01,Albania,Central Europe,660437.5511
-2011-01-01,Albania,Central Europe,675605.4367
-2012-01-01,Albania,Central Europe,687011.4331
-2013-01-01,Albania,Central Europe,694018.904
-2014-01-01,Albania,Central Europe,698082.6825
-2015-01-01,Albania,Central Europe,704487.601
-2016-01-01,Albania,Central Europe,709413.8179
-2017-01-01,Albania,Central Europe,710421.8926
-2018-01-01,Albania,Central Europe,708845.7785
-2019-01-01,Albania,Central Europe,705286.7397
-1990-01-01,Bosnia and Herzegovina,Central Europe,1054442.791
-1991-01-01,Bosnia and Herzegovina,Central Europe,1057112.898
-1992-01-01,Bosnia and Herzegovina,Central Europe,1033924.455
-1993-01-01,Bosnia and Herzegovina,Central Europe,1007264.236
-1994-01-01,Bosnia and Herzegovina,Central Europe,978223.8479
-1995-01-01,Bosnia and Herzegovina,Central Europe,943116.1876
-1996-01-01,Bosnia and Herzegovina,Central Europe,951759.8392
-1997-01-01,Bosnia and Herzegovina,Central Europe,1002489.809
-1998-01-01,Bosnia and Herzegovina,Central Europe,1052318.469
-1999-01-01,Bosnia and Herzegovina,Central Europe,1082946.061
-2000-01-01,Bosnia and Herzegovina,Central Europe,1101188.107
-2001-01-01,Bosnia and Herzegovina,Central Europe,1124205.596
-2002-01-01,Bosnia and Herzegovina,Central Europe,1157920.832
-2003-01-01,Bosnia and Herzegovina,Central Europe,1195459.146
-2004-01-01,Bosnia and Herzegovina,Central Europe,1215756.656
-2005-01-01,Bosnia and Herzegovina,Central Europe,1224122.785
+2016-01-01,Uzbekistan,Central Asia,3054322.65
+2017-01-01,Uzbekistan,Central Asia,3103509.22
+2018-01-01,Uzbekistan,Central Asia,3152190.27
+2019-01-01,Uzbekistan,Central Asia,3199478.27
+1990-01-01,Albania,Central Europe,523353.64
+1991-01-01,Albania,Central Europe,527089.53
+1992-01-01,Albania,Central Europe,529660.28
+1993-01-01,Albania,Central Europe,531367.16
+1994-01-01,Albania,Central Europe,532514.82
+1995-01-01,Albania,Central Europe,533262.81
+1996-01-01,Albania,Central Europe,534976.81
+1997-01-01,Albania,Central Europe,556423.45
+1998-01-01,Albania,Central Europe,577244.22
+1999-01-01,Albania,Central Europe,553971.57
+2000-01-01,Albania,Central Europe,533704.9
+2001-01-01,Albania,Central Europe,534734.22
+2002-01-01,Albania,Central Europe,537682.95
+2003-01-01,Albania,Central Europe,542180.11
+2004-01-01,Albania,Central Europe,549792.16
+2005-01-01,Albania,Central Europe,562030.13
+2006-01-01,Albania,Central Europe,579083.72
+2007-01-01,Albania,Central Europe,598216.25
+2008-01-01,Albania,Central Europe,618659.17
+2009-01-01,Albania,Central Europe,640528.18
+2010-01-01,Albania,Central Europe,660437.55
+2011-01-01,Albania,Central Europe,675605.44
+2012-01-01,Albania,Central Europe,687011.43
+2013-01-01,Albania,Central Europe,694018.9
+2014-01-01,Albania,Central Europe,698082.68
+2015-01-01,Albania,Central Europe,704487.6
+2016-01-01,Albania,Central Europe,709413.82
+2017-01-01,Albania,Central Europe,710421.89
+2018-01-01,Albania,Central Europe,708845.78
+2019-01-01,Albania,Central Europe,705286.74
+1990-01-01,Bosnia and Herzegovina,Central Europe,1054442.79
+1991-01-01,Bosnia and Herzegovina,Central Europe,1057112.9
+1992-01-01,Bosnia and Herzegovina,Central Europe,1033924.46
+1993-01-01,Bosnia and Herzegovina,Central Europe,1007264.24
+1994-01-01,Bosnia and Herzegovina,Central Europe,978223.85
+1995-01-01,Bosnia and Herzegovina,Central Europe,943116.19
+1996-01-01,Bosnia and Herzegovina,Central Europe,951759.84
+1997-01-01,Bosnia and Herzegovina,Central Europe,1002489.81
+1998-01-01,Bosnia and Herzegovina,Central Europe,1052318.47
+1999-01-01,Bosnia and Herzegovina,Central Europe,1082946.06
+2000-01-01,Bosnia and Herzegovina,Central Europe,1101188.11
+2001-01-01,Bosnia and Herzegovina,Central Europe,1124205.6
+2002-01-01,Bosnia and Herzegovina,Central Europe,1157920.83
+2003-01-01,Bosnia and Herzegovina,Central Europe,1195459.15
+2004-01-01,Bosnia and Herzegovina,Central Europe,1215756.66
+2005-01-01,Bosnia and Herzegovina,Central Europe,1224122.78
 2006-01-01,Bosnia and Herzegovina,Central Europe,1240226.89
-2007-01-01,Bosnia and Herzegovina,Central Europe,1252620.713
-2008-01-01,Bosnia and Herzegovina,Central Europe,1250060.552
+2007-01-01,Bosnia and Herzegovina,Central Europe,1252620.71
+2008-01-01,Bosnia and Herzegovina,Central Europe,1250060.55
 2009-01-01,Bosnia and Herzegovina,Central Europe,1242396.5
-2010-01-01,Bosnia and Herzegovina,Central Europe,1233127.748
+2010-01-01,Bosnia and Herzegovina,Central Europe,1233127.75
 2011-01-01,Bosnia and Herzegovina,Central Europe,1221173.14
-2012-01-01,Bosnia and Herzegovina,Central Europe,1205749.304
-2013-01-01,Bosnia and Herzegovina,Central Europe,1184795.595
-2014-01-01,Bosnia and Herzegovina,Central Europe,1160105.866
-2015-01-01,Bosnia and Herzegovina,Central Europe,1133843.338
-2016-01-01,Bosnia and Herzegovina,Central Europe,1107629.261
-2017-01-01,Bosnia and Herzegovina,Central Europe,1080839.622
-2018-01-01,Bosnia and Herzegovina,Central Europe,1055400.854
-2019-01-01,Bosnia and Herzegovina,Central Europe,1029695.272
-1990-01-01,Bulgaria,Central Europe,3024410.563
-1991-01-01,Bulgaria,Central Europe,2983932.138
-1992-01-01,Bulgaria,Central Europe,2945584.096
-1993-01-01,Bulgaria,Central Europe,2909588.963
-1994-01-01,Bulgaria,Central Europe,2876196.352
+2012-01-01,Bosnia and Herzegovina,Central Europe,1205749.3
+2013-01-01,Bosnia and Herzegovina,Central Europe,1184795.6
+2014-01-01,Bosnia and Herzegovina,Central Europe,1160105.87
+2015-01-01,Bosnia and Herzegovina,Central Europe,1133843.34
+2016-01-01,Bosnia and Herzegovina,Central Europe,1107629.26
+2017-01-01,Bosnia and Herzegovina,Central Europe,1080839.62
+2018-01-01,Bosnia and Herzegovina,Central Europe,1055400.85
+2019-01-01,Bosnia and Herzegovina,Central Europe,1029695.27
+1990-01-01,Bulgaria,Central Europe,3024410.56
+1991-01-01,Bulgaria,Central Europe,2983932.14
+1992-01-01,Bulgaria,Central Europe,2945584.1
+1993-01-01,Bulgaria,Central Europe,2909588.96
+1994-01-01,Bulgaria,Central Europe,2876196.35
 1995-01-01,Bulgaria,Central Europe,2843181.85
-1996-01-01,Bulgaria,Central Europe,2811323.702
+1996-01-01,Bulgaria,Central Europe,2811323.7
 1997-01-01,Bulgaria,Central Europe,2782585.27
-1998-01-01,Bulgaria,Central Europe,2754361.198
-1999-01-01,Bulgaria,Central Europe,2726055.811
-2000-01-01,Bulgaria,Central Europe,2698986.998
-2001-01-01,Bulgaria,Central Europe,2673151.408
-2002-01-01,Bulgaria,Central Europe,2649583.476
-2003-01-01,Bulgaria,Central Europe,2625814.606
-2004-01-01,Bulgaria,Central Europe,2600554.975
-2005-01-01,Bulgaria,Central Europe,2571054.043
-2006-01-01,Bulgaria,Central Europe,2535595.358
-2007-01-01,Bulgaria,Central Europe,2497028.975
-2008-01-01,Bulgaria,Central Europe,2452414.234
-2009-01-01,Bulgaria,Central Europe,2400686.051
-2010-01-01,Bulgaria,Central Europe,2338863.109
-2011-01-01,Bulgaria,Central Europe,2273938.872
-2012-01-01,Bulgaria,Central Europe,2221486.507
-2013-01-01,Bulgaria,Central Europe,2171914.055
-2014-01-01,Bulgaria,Central Europe,2125812.706
-2015-01-01,Bulgaria,Central Europe,2082785.774
-2016-01-01,Bulgaria,Central Europe,2042513.979
+1998-01-01,Bulgaria,Central Europe,2754361.2
+1999-01-01,Bulgaria,Central Europe,2726055.81
+2000-01-01,Bulgaria,Central Europe,2698987.0
+2001-01-01,Bulgaria,Central Europe,2673151.41
+2002-01-01,Bulgaria,Central Europe,2649583.48
+2003-01-01,Bulgaria,Central Europe,2625814.61
+2004-01-01,Bulgaria,Central Europe,2600554.98
+2005-01-01,Bulgaria,Central Europe,2571054.04
+2006-01-01,Bulgaria,Central Europe,2535595.36
+2007-01-01,Bulgaria,Central Europe,2497028.98
+2008-01-01,Bulgaria,Central Europe,2452414.23
+2009-01-01,Bulgaria,Central Europe,2400686.05
+2010-01-01,Bulgaria,Central Europe,2338863.11
+2011-01-01,Bulgaria,Central Europe,2273938.87
+2012-01-01,Bulgaria,Central Europe,2221486.51
+2013-01-01,Bulgaria,Central Europe,2171914.06
+2014-01-01,Bulgaria,Central Europe,2125812.71
+2015-01-01,Bulgaria,Central Europe,2082785.77
+2016-01-01,Bulgaria,Central Europe,2042513.98
 2017-01-01,Bulgaria,Central Europe,2006096.33
-2018-01-01,Bulgaria,Central Europe,1968946.316
-2019-01-01,Bulgaria,Central Europe,1932860.949
-1990-01-01,Croatia,Central Europe,1608069.152
-1991-01-01,Croatia,Central Europe,1565083.559
-1992-01-01,Croatia,Central Europe,1520878.113
-1993-01-01,Croatia,Central Europe,1477683.179
-1994-01-01,Croatia,Central Europe,1436871.926
+2018-01-01,Bulgaria,Central Europe,1968946.32
+2019-01-01,Bulgaria,Central Europe,1932860.95
+1990-01-01,Croatia,Central Europe,1608069.15
+1991-01-01,Croatia,Central Europe,1565083.56
+1992-01-01,Croatia,Central Europe,1520878.11
+1993-01-01,Croatia,Central Europe,1477683.18
+1994-01-01,Croatia,Central Europe,1436871.93
 1995-01-01,Croatia,Central Europe,1398545.58
-1996-01-01,Croatia,Central Europe,1363343.351
-1997-01-01,Croatia,Central Europe,1332558.257
-1998-01-01,Croatia,Central Europe,1304697.806
-1999-01-01,Croatia,Central Europe,1280706.912
-2000-01-01,Croatia,Central Europe,1261262.434
-2001-01-01,Croatia,Central Europe,1245714.058
+1996-01-01,Croatia,Central Europe,1363343.35
+1997-01-01,Croatia,Central Europe,1332558.26
+1998-01-01,Croatia,Central Europe,1304697.81
+1999-01-01,Croatia,Central Europe,1280706.91
+2000-01-01,Croatia,Central Europe,1261262.43
+2001-01-01,Croatia,Central Europe,1245714.06
 2002-01-01,Croatia,Central Europe,1231576.06
-2003-01-01,Croatia,Central Europe,1222346.309
-2004-01-01,Croatia,Central Europe,1218006.232
-2005-01-01,Croatia,Central Europe,1216753.648
-2006-01-01,Croatia,Central Europe,1218796.874
-2007-01-01,Croatia,Central Europe,1221935.852
-2008-01-01,Croatia,Central Europe,1224668.671
-2009-01-01,Croatia,Central Europe,1227485.745
-2010-01-01,Croatia,Central Europe,1228035.527
-2011-01-01,Croatia,Central Europe,1229194.538
-2012-01-01,Croatia,Central Europe,1226287.206
-2013-01-01,Croatia,Central Europe,1221456.701
-2014-01-01,Croatia,Central Europe,1215646.351
-2015-01-01,Croatia,Central Europe,1209738.767
-2016-01-01,Croatia,Central Europe,1204774.419
-2017-01-01,Croatia,Central Europe,1200192.266
-2018-01-01,Croatia,Central Europe,1195565.749
-2019-01-01,Croatia,Central Europe,1190321.191
-1990-01-01,Czechia,Central Europe,2875349.081
-1991-01-01,Czechia,Central Europe,2898062.827
-1992-01-01,Czechia,Central Europe,2920934.772
-1993-01-01,Czechia,Central Europe,2944111.197
-1994-01-01,Czechia,Central Europe,2965569.779
-1995-01-01,Czechia,Central Europe,2982032.142
-1996-01-01,Czechia,Central Europe,2989039.165
-1997-01-01,Czechia,Central Europe,2986652.713
-1998-01-01,Czechia,Central Europe,2977845.297
-1999-01-01,Czechia,Central Europe,2949247.811
-2000-01-01,Czechia,Central Europe,2910608.469
-2001-01-01,Czechia,Central Europe,2864781.108
-2002-01-01,Czechia,Central Europe,2818889.984
-2003-01-01,Czechia,Central Europe,2778626.503
-2004-01-01,Czechia,Central Europe,2745100.868
-2005-01-01,Czechia,Central Europe,2719761.082
-2006-01-01,Czechia,Central Europe,2696202.176
-2007-01-01,Czechia,Central Europe,2674610.223
-2008-01-01,Czechia,Central Europe,2652485.567
-2009-01-01,Czechia,Central Europe,2628961.926
-2010-01-01,Czechia,Central Europe,2604420.658
-2011-01-01,Czechia,Central Europe,2576789.928
-2012-01-01,Czechia,Central Europe,2545411.508
-2013-01-01,Czechia,Central Europe,2514185.414
-2014-01-01,Czechia,Central Europe,2480995.417
+2003-01-01,Croatia,Central Europe,1222346.31
+2004-01-01,Croatia,Central Europe,1218006.23
+2005-01-01,Croatia,Central Europe,1216753.65
+2006-01-01,Croatia,Central Europe,1218796.87
+2007-01-01,Croatia,Central Europe,1221935.85
+2008-01-01,Croatia,Central Europe,1224668.67
+2009-01-01,Croatia,Central Europe,1227485.75
+2010-01-01,Croatia,Central Europe,1228035.53
+2011-01-01,Croatia,Central Europe,1229194.54
+2012-01-01,Croatia,Central Europe,1226287.21
+2013-01-01,Croatia,Central Europe,1221456.7
+2014-01-01,Croatia,Central Europe,1215646.35
+2015-01-01,Croatia,Central Europe,1209738.77
+2016-01-01,Croatia,Central Europe,1204774.42
+2017-01-01,Croatia,Central Europe,1200192.27
+2018-01-01,Croatia,Central Europe,1195565.75
+2019-01-01,Croatia,Central Europe,1190321.19
+1990-01-01,Czechia,Central Europe,2875349.08
+1991-01-01,Czechia,Central Europe,2898062.83
+1992-01-01,Czechia,Central Europe,2920934.77
+1993-01-01,Czechia,Central Europe,2944111.2
+1994-01-01,Czechia,Central Europe,2965569.78
+1995-01-01,Czechia,Central Europe,2982032.14
+1996-01-01,Czechia,Central Europe,2989039.16
+1997-01-01,Czechia,Central Europe,2986652.71
+1998-01-01,Czechia,Central Europe,2977845.3
+1999-01-01,Czechia,Central Europe,2949247.81
+2000-01-01,Czechia,Central Europe,2910608.47
+2001-01-01,Czechia,Central Europe,2864781.11
+2002-01-01,Czechia,Central Europe,2818889.98
+2003-01-01,Czechia,Central Europe,2778626.5
+2004-01-01,Czechia,Central Europe,2745100.87
+2005-01-01,Czechia,Central Europe,2719761.08
+2006-01-01,Czechia,Central Europe,2696202.18
+2007-01-01,Czechia,Central Europe,2674610.22
+2008-01-01,Czechia,Central Europe,2652485.57
+2009-01-01,Czechia,Central Europe,2628961.93
+2010-01-01,Czechia,Central Europe,2604420.66
+2011-01-01,Czechia,Central Europe,2576789.93
+2012-01-01,Czechia,Central Europe,2545411.51
+2013-01-01,Czechia,Central Europe,2514185.41
+2014-01-01,Czechia,Central Europe,2480995.42
 2015-01-01,Czechia,Central Europe,2450780.72
-2016-01-01,Czechia,Central Europe,2419724.047
-2017-01-01,Czechia,Central Europe,2390738.647
-2018-01-01,Czechia,Central Europe,2365702.824
+2016-01-01,Czechia,Central Europe,2419724.05
+2017-01-01,Czechia,Central Europe,2390738.65
+2018-01-01,Czechia,Central Europe,2365702.82
 2019-01-01,Czechia,Central Europe,2345078.47
-1990-01-01,Hungary,Central Europe,2987117.086
-1991-01-01,Hungary,Central Europe,2974277.215
-1992-01-01,Hungary,Central Europe,2963802.654
-1993-01-01,Hungary,Central Europe,2954202.699
-1994-01-01,Hungary,Central Europe,2949056.617
-1995-01-01,Hungary,Central Europe,2946582.472
-1996-01-01,Hungary,Central Europe,2953544.139
-1997-01-01,Hungary,Central Europe,2970325.811
-1998-01-01,Hungary,Central Europe,2987006.921
+1990-01-01,Hungary,Central Europe,2987117.09
+1991-01-01,Hungary,Central Europe,2974277.22
+1992-01-01,Hungary,Central Europe,2963802.65
+1993-01-01,Hungary,Central Europe,2954202.7
+1994-01-01,Hungary,Central Europe,2949056.62
+1995-01-01,Hungary,Central Europe,2946582.47
+1996-01-01,Hungary,Central Europe,2953544.14
+1997-01-01,Hungary,Central Europe,2970325.81
+1998-01-01,Hungary,Central Europe,2987006.92
 1999-01-01,Hungary,Central Europe,3000131.74
-2000-01-01,Hungary,Central Europe,3008054.329
-2001-01-01,Hungary,Central Europe,3011043.947
-2002-01-01,Hungary,Central Europe,3008008.304
-2003-01-01,Hungary,Central Europe,2997008.256
-2004-01-01,Hungary,Central Europe,2976525.299
-2005-01-01,Hungary,Central Europe,2954484.749
-2006-01-01,Hungary,Central Europe,2935258.236
-2007-01-01,Hungary,Central Europe,2912003.895
+2000-01-01,Hungary,Central Europe,3008054.33
+2001-01-01,Hungary,Central Europe,3011043.95
+2002-01-01,Hungary,Central Europe,3008008.3
+2003-01-01,Hungary,Central Europe,2997008.26
+2004-01-01,Hungary,Central Europe,2976525.3
+2005-01-01,Hungary,Central Europe,2954484.75
+2006-01-01,Hungary,Central Europe,2935258.24
+2007-01-01,Hungary,Central Europe,2912003.9
 2008-01-01,Hungary,Central Europe,2880514.6
-2009-01-01,Hungary,Central Europe,2843467.422
-2010-01-01,Hungary,Central Europe,2795168.674
-2011-01-01,Hungary,Central Europe,2741758.849
-2012-01-01,Hungary,Central Europe,2682271.919
-2013-01-01,Hungary,Central Europe,2611681.431
-2014-01-01,Hungary,Central Europe,2534274.999
-2015-01-01,Hungary,Central Europe,2459641.208
-2016-01-01,Hungary,Central Europe,2394294.065
-2017-01-01,Hungary,Central Europe,2340513.322
-2018-01-01,Hungary,Central Europe,2298744.112
-2019-01-01,Hungary,Central Europe,2260309.538
-1990-01-01,North Macedonia,Central Europe,588602.855
-1991-01-01,North Macedonia,Central Europe,591656.8078
-1992-01-01,North Macedonia,Central Europe,593538.6644
-1993-01-01,North Macedonia,Central Europe,592927.0156
-1994-01-01,North Macedonia,Central Europe,592495.1343
-1995-01-01,North Macedonia,Central Europe,595119.9887
-1996-01-01,North Macedonia,Central Europe,600711.9661
-1997-01-01,North Macedonia,Central Europe,627626.6965
-1998-01-01,North Macedonia,Central Europe,657585.6334
-1999-01-01,North Macedonia,Central Europe,634775.8225
-2000-01-01,North Macedonia,Central Europe,607567.2194
-2001-01-01,North Macedonia,Central Europe,615127.8574
-2002-01-01,North Macedonia,Central Europe,627000.7045
-2003-01-01,North Macedonia,Central Europe,632564.5669
-2004-01-01,North Macedonia,Central Europe,636275.1941
-2005-01-01,North Macedonia,Central Europe,640303.8068
-2006-01-01,North Macedonia,Central Europe,646329.9985
-2007-01-01,North Macedonia,Central Europe,653089.009
-2008-01-01,North Macedonia,Central Europe,660453.9242
-2009-01-01,North Macedonia,Central Europe,667983.4885
-2010-01-01,North Macedonia,Central Europe,677174.6441
-2011-01-01,North Macedonia,Central Europe,688096.0197
-2012-01-01,North Macedonia,Central Europe,695953.0351
-2013-01-01,North Macedonia,Central Europe,701732.133
-2014-01-01,North Macedonia,Central Europe,704959.3958
-2015-01-01,North Macedonia,Central Europe,708614.4373
-2016-01-01,North Macedonia,Central Europe,712303.1208
-2017-01-01,North Macedonia,Central Europe,713907.1266
-2018-01-01,North Macedonia,Central Europe,714019.7418
-2019-01-01,North Macedonia,Central Europe,712801.4819
-1990-01-01,Montenegro,Central Europe,171856.7866
-1991-01-01,Montenegro,Central Europe,174252.0251
-1992-01-01,Montenegro,Central Europe,176791.4192
-1993-01-01,Montenegro,Central Europe,179477.3694
-1994-01-01,Montenegro,Central Europe,182127.2524
-1995-01-01,Montenegro,Central Europe,184705.821
-1996-01-01,Montenegro,Central Europe,187574.0942
-1997-01-01,Montenegro,Central Europe,190535.3774
-1998-01-01,Montenegro,Central Europe,193708.0445
-1999-01-01,Montenegro,Central Europe,196596.1185
-2000-01-01,Montenegro,Central Europe,199074.7045
-2001-01-01,Montenegro,Central Europe,201176.9041
-2002-01-01,Montenegro,Central Europe,203216.1618
-2003-01-01,Montenegro,Central Europe,205180.6016
-2004-01-01,Montenegro,Central Europe,206248.8561
-2005-01-01,Montenegro,Central Europe,206682.1898
-2006-01-01,Montenegro,Central Europe,206612.4171
-2007-01-01,Montenegro,Central Europe,206198.8411
-2008-01-01,Montenegro,Central Europe,205706.0688
-2009-01-01,Montenegro,Central Europe,204865.5088
-2010-01-01,Montenegro,Central Europe,202984.7494
-2011-01-01,Montenegro,Central Europe,200559.5183
-2012-01-01,Montenegro,Central Europe,198080.5091
-2013-01-01,Montenegro,Central Europe,195424.9628
-2014-01-01,Montenegro,Central Europe,192548.7354
-2015-01-01,Montenegro,Central Europe,189582.4087
-2016-01-01,Montenegro,Central Europe,186761.2716
-2017-01-01,Montenegro,Central Europe,184099.1162
-2018-01-01,Montenegro,Central Europe,182415.8377
-2019-01-01,Montenegro,Central Europe,180916.3373
+2009-01-01,Hungary,Central Europe,2843467.42
+2010-01-01,Hungary,Central Europe,2795168.67
+2011-01-01,Hungary,Central Europe,2741758.85
+2012-01-01,Hungary,Central Europe,2682271.92
+2013-01-01,Hungary,Central Europe,2611681.43
+2014-01-01,Hungary,Central Europe,2534275.0
+2015-01-01,Hungary,Central Europe,2459641.21
+2016-01-01,Hungary,Central Europe,2394294.06
+2017-01-01,Hungary,Central Europe,2340513.32
+2018-01-01,Hungary,Central Europe,2298744.11
+2019-01-01,Hungary,Central Europe,2260309.54
+1990-01-01,North Macedonia,Central Europe,588602.86
+1991-01-01,North Macedonia,Central Europe,591656.81
+1992-01-01,North Macedonia,Central Europe,593538.66
+1993-01-01,North Macedonia,Central Europe,592927.02
+1994-01-01,North Macedonia,Central Europe,592495.13
+1995-01-01,North Macedonia,Central Europe,595119.99
+1996-01-01,North Macedonia,Central Europe,600711.97
+1997-01-01,North Macedonia,Central Europe,627626.7
+1998-01-01,North Macedonia,Central Europe,657585.63
+1999-01-01,North Macedonia,Central Europe,634775.82
+2000-01-01,North Macedonia,Central Europe,607567.22
+2001-01-01,North Macedonia,Central Europe,615127.86
+2002-01-01,North Macedonia,Central Europe,627000.7
+2003-01-01,North Macedonia,Central Europe,632564.57
+2004-01-01,North Macedonia,Central Europe,636275.19
+2005-01-01,North Macedonia,Central Europe,640303.81
+2006-01-01,North Macedonia,Central Europe,646330.0
+2007-01-01,North Macedonia,Central Europe,653089.01
+2008-01-01,North Macedonia,Central Europe,660453.92
+2009-01-01,North Macedonia,Central Europe,667983.49
+2010-01-01,North Macedonia,Central Europe,677174.64
+2011-01-01,North Macedonia,Central Europe,688096.02
+2012-01-01,North Macedonia,Central Europe,695953.04
+2013-01-01,North Macedonia,Central Europe,701732.13
+2014-01-01,North Macedonia,Central Europe,704959.4
+2015-01-01,North Macedonia,Central Europe,708614.44
+2016-01-01,North Macedonia,Central Europe,712303.12
+2017-01-01,North Macedonia,Central Europe,713907.13
+2018-01-01,North Macedonia,Central Europe,714019.74
+2019-01-01,North Macedonia,Central Europe,712801.48
+1990-01-01,Montenegro,Central Europe,171856.79
+1991-01-01,Montenegro,Central Europe,174252.03
+1992-01-01,Montenegro,Central Europe,176791.42
+1993-01-01,Montenegro,Central Europe,179477.37
+1994-01-01,Montenegro,Central Europe,182127.25
+1995-01-01,Montenegro,Central Europe,184705.82
+1996-01-01,Montenegro,Central Europe,187574.09
+1997-01-01,Montenegro,Central Europe,190535.38
+1998-01-01,Montenegro,Central Europe,193708.04
+1999-01-01,Montenegro,Central Europe,196596.12
+2000-01-01,Montenegro,Central Europe,199074.7
+2001-01-01,Montenegro,Central Europe,201176.9
+2002-01-01,Montenegro,Central Europe,203216.16
+2003-01-01,Montenegro,Central Europe,205180.6
+2004-01-01,Montenegro,Central Europe,206248.86
+2005-01-01,Montenegro,Central Europe,206682.19
+2006-01-01,Montenegro,Central Europe,206612.42
+2007-01-01,Montenegro,Central Europe,206198.84
+2008-01-01,Montenegro,Central Europe,205706.07
+2009-01-01,Montenegro,Central Europe,204865.51
+2010-01-01,Montenegro,Central Europe,202984.75
+2011-01-01,Montenegro,Central Europe,200559.52
+2012-01-01,Montenegro,Central Europe,198080.51
+2013-01-01,Montenegro,Central Europe,195424.96
+2014-01-01,Montenegro,Central Europe,192548.74
+2015-01-01,Montenegro,Central Europe,189582.41
+2016-01-01,Montenegro,Central Europe,186761.27
+2017-01-01,Montenegro,Central Europe,184099.12
+2018-01-01,Montenegro,Central Europe,182415.84
+2019-01-01,Montenegro,Central Europe,180916.34
 1990-01-01,Poland,Central Europe,11704480.59
 1991-01-01,Poland,Central Europe,11576469.57
 1992-01-01,Poland,Central Europe,11445059.0
@@ -520,295 +520,295 @@ date,name,category,value
 1998-01-01,Poland,Central Europe,10474421.99
 1999-01-01,Poland,Central Europe,10314177.42
 2000-01-01,Poland,Central Europe,10149754.59
-2001-01-01,Poland,Central Europe,9988361.749
-2002-01-01,Poland,Central Europe,9845932.021
-2003-01-01,Poland,Central Europe,9735058.188
-2004-01-01,Poland,Central Europe,9657596.552
-2005-01-01,Poland,Central Europe,9636582.192
-2006-01-01,Poland,Central Europe,9631582.182
-2007-01-01,Poland,Central Europe,9651839.904
-2008-01-01,Poland,Central Europe,9674385.392
-2009-01-01,Poland,Central Europe,9691580.757
-2010-01-01,Poland,Central Europe,9671306.719
-2011-01-01,Poland,Central Europe,9625298.542
-2012-01-01,Poland,Central Europe,9542766.605
+2001-01-01,Poland,Central Europe,9988361.75
+2002-01-01,Poland,Central Europe,9845932.02
+2003-01-01,Poland,Central Europe,9735058.19
+2004-01-01,Poland,Central Europe,9657596.55
+2005-01-01,Poland,Central Europe,9636582.19
+2006-01-01,Poland,Central Europe,9631582.18
+2007-01-01,Poland,Central Europe,9651839.9
+2008-01-01,Poland,Central Europe,9674385.39
+2009-01-01,Poland,Central Europe,9691580.76
+2010-01-01,Poland,Central Europe,9671306.72
+2011-01-01,Poland,Central Europe,9625298.54
+2012-01-01,Poland,Central Europe,9542766.6
 2013-01-01,Poland,Central Europe,9430693.81
-2014-01-01,Poland,Central Europe,9306822.523
-2015-01-01,Poland,Central Europe,9174107.198
-2016-01-01,Poland,Central Europe,9038816.152
-2017-01-01,Poland,Central Europe,8910715.341
-2018-01-01,Poland,Central Europe,8811197.272
-2019-01-01,Poland,Central Europe,8719167.705
-1990-01-01,Romania,Central Europe,6003824.411
-1991-01-01,Romania,Central Europe,5990909.138
-1992-01-01,Romania,Central Europe,5976040.561
-1993-01-01,Romania,Central Europe,5962942.721
-1994-01-01,Romania,Central Europe,5966373.489
-1995-01-01,Romania,Central Europe,5969148.413
-1996-01-01,Romania,Central Europe,5966578.071
+2014-01-01,Poland,Central Europe,9306822.52
+2015-01-01,Poland,Central Europe,9174107.2
+2016-01-01,Poland,Central Europe,9038816.15
+2017-01-01,Poland,Central Europe,8910715.34
+2018-01-01,Poland,Central Europe,8811197.27
+2019-01-01,Poland,Central Europe,8719167.7
+1990-01-01,Romania,Central Europe,6003824.41
+1991-01-01,Romania,Central Europe,5990909.14
+1992-01-01,Romania,Central Europe,5976040.56
+1993-01-01,Romania,Central Europe,5962942.72
+1994-01-01,Romania,Central Europe,5966373.49
+1995-01-01,Romania,Central Europe,5969148.41
+1996-01-01,Romania,Central Europe,5966578.07
 1997-01-01,Romania,Central Europe,5949682.84
 1998-01-01,Romania,Central Europe,5930230.71
-1999-01-01,Romania,Central Europe,5899923.651
-2000-01-01,Romania,Central Europe,5861915.622
-2001-01-01,Romania,Central Europe,5819936.598
-2002-01-01,Romania,Central Europe,5764674.448
+1999-01-01,Romania,Central Europe,5899923.65
+2000-01-01,Romania,Central Europe,5861915.62
+2001-01-01,Romania,Central Europe,5819936.6
+2002-01-01,Romania,Central Europe,5764674.45
 2003-01-01,Romania,Central Europe,5694021.24
-2004-01-01,Romania,Central Europe,5620012.341
-2005-01-01,Romania,Central Europe,5535908.534
-2006-01-01,Romania,Central Europe,5436397.988
+2004-01-01,Romania,Central Europe,5620012.34
+2005-01-01,Romania,Central Europe,5535908.53
+2006-01-01,Romania,Central Europe,5436397.99
 2007-01-01,Romania,Central Europe,5331368.96
-2008-01-01,Romania,Central Europe,5214299.471
-2009-01-01,Romania,Central Europe,5089434.162
-2010-01-01,Romania,Central Europe,4970719.805
-2011-01-01,Romania,Central Europe,4863324.428
-2012-01-01,Romania,Central Europe,4786136.288
-2013-01-01,Romania,Central Europe,4731888.351
-2014-01-01,Romania,Central Europe,4686187.279
-2015-01-01,Romania,Central Europe,4638232.384
-2016-01-01,Romania,Central Europe,4601530.181
-2017-01-01,Romania,Central Europe,4578545.268
-2018-01-01,Romania,Central Europe,4560186.146
-2019-01-01,Romania,Central Europe,4533762.795
-1990-01-01,Serbia,Central Europe,2672496.207
-1991-01-01,Serbia,Central Europe,2747982.883
-1992-01-01,Serbia,Central Europe,2797585.077
-1993-01-01,Serbia,Central Europe,2827139.462
-1994-01-01,Serbia,Central Europe,2866193.019
+2008-01-01,Romania,Central Europe,5214299.47
+2009-01-01,Romania,Central Europe,5089434.16
+2010-01-01,Romania,Central Europe,4970719.8
+2011-01-01,Romania,Central Europe,4863324.43
+2012-01-01,Romania,Central Europe,4786136.29
+2013-01-01,Romania,Central Europe,4731888.35
+2014-01-01,Romania,Central Europe,4686187.28
+2015-01-01,Romania,Central Europe,4638232.38
+2016-01-01,Romania,Central Europe,4601530.18
+2017-01-01,Romania,Central Europe,4578545.27
+2018-01-01,Romania,Central Europe,4560186.15
+2019-01-01,Romania,Central Europe,4533762.8
+1990-01-01,Serbia,Central Europe,2672496.21
+1991-01-01,Serbia,Central Europe,2747982.88
+1992-01-01,Serbia,Central Europe,2797585.08
+1993-01-01,Serbia,Central Europe,2827139.46
+1994-01-01,Serbia,Central Europe,2866193.02
 1995-01-01,Serbia,Central Europe,2887013.44
-1996-01-01,Serbia,Central Europe,2902006.613
-1997-01-01,Serbia,Central Europe,2849914.238
-1998-01-01,Serbia,Central Europe,2778369.975
-1999-01-01,Serbia,Central Europe,2828575.868
+1996-01-01,Serbia,Central Europe,2902006.61
+1997-01-01,Serbia,Central Europe,2849914.24
+1998-01-01,Serbia,Central Europe,2778369.98
+1999-01-01,Serbia,Central Europe,2828575.87
 2000-01-01,Serbia,Central Europe,2883788.13
-2001-01-01,Serbia,Central Europe,2843363.632
-2002-01-01,Serbia,Central Europe,2804844.753
-2003-01-01,Serbia,Central Europe,2780488.789
+2001-01-01,Serbia,Central Europe,2843363.63
+2002-01-01,Serbia,Central Europe,2804844.75
+2003-01-01,Serbia,Central Europe,2780488.79
 2004-01-01,Serbia,Central Europe,2745496.08
-2005-01-01,Serbia,Central Europe,2712144.866
-2006-01-01,Serbia,Central Europe,2688141.791
-2007-01-01,Serbia,Central Europe,2675789.345
-2008-01-01,Serbia,Central Europe,2666994.673
-2009-01-01,Serbia,Central Europe,2669241.784
-2010-01-01,Serbia,Central Europe,2678296.459
-2011-01-01,Serbia,Central Europe,2690669.314
-2012-01-01,Serbia,Central Europe,2703345.107
-2013-01-01,Serbia,Central Europe,2702045.176
-2014-01-01,Serbia,Central Europe,2689372.921
-2015-01-01,Serbia,Central Europe,2682332.139
+2005-01-01,Serbia,Central Europe,2712144.87
+2006-01-01,Serbia,Central Europe,2688141.79
+2007-01-01,Serbia,Central Europe,2675789.35
+2008-01-01,Serbia,Central Europe,2666994.67
+2009-01-01,Serbia,Central Europe,2669241.78
+2010-01-01,Serbia,Central Europe,2678296.46
+2011-01-01,Serbia,Central Europe,2690669.31
+2012-01-01,Serbia,Central Europe,2703345.11
+2013-01-01,Serbia,Central Europe,2702045.18
+2014-01-01,Serbia,Central Europe,2689372.92
+2015-01-01,Serbia,Central Europe,2682332.14
 2016-01-01,Serbia,Central Europe,2673237.56
-2017-01-01,Serbia,Central Europe,2661178.956
-2018-01-01,Serbia,Central Europe,2646160.062
-2019-01-01,Serbia,Central Europe,2628353.893
-1990-01-01,Slovakia,Central Europe,1316892.046
-1991-01-01,Slovakia,Central Europe,1316731.756
-1992-01-01,Slovakia,Central Europe,1317311.987
-1993-01-01,Slovakia,Central Europe,1318318.875
-1994-01-01,Slovakia,Central Europe,1319514.411
-1995-01-01,Slovakia,Central Europe,1319502.719
-1996-01-01,Slovakia,Central Europe,1319659.885
-1997-01-01,Slovakia,Central Europe,1320986.148
-1998-01-01,Slovakia,Central Europe,1325329.117
-1999-01-01,Slovakia,Central Europe,1329323.055
-2000-01-01,Slovakia,Central Europe,1331143.078
-2001-01-01,Slovakia,Central Europe,1329720.198
-2002-01-01,Slovakia,Central Europe,1324787.362
-2003-01-01,Slovakia,Central Europe,1317433.746
-2004-01-01,Slovakia,Central Europe,1302946.159
-2005-01-01,Slovakia,Central Europe,1287544.012
-2006-01-01,Slovakia,Central Europe,1271119.537
-2007-01-01,Slovakia,Central Europe,1253783.125
-2008-01-01,Slovakia,Central Europe,1236391.116
-2009-01-01,Slovakia,Central Europe,1220360.013
-2010-01-01,Slovakia,Central Europe,1206065.749
-2011-01-01,Slovakia,Central Europe,1193604.225
-2012-01-01,Slovakia,Central Europe,1182349.984
-2013-01-01,Slovakia,Central Europe,1174246.912
-2014-01-01,Slovakia,Central Europe,1167619.393
+2017-01-01,Serbia,Central Europe,2661178.96
+2018-01-01,Serbia,Central Europe,2646160.06
+2019-01-01,Serbia,Central Europe,2628353.89
+1990-01-01,Slovakia,Central Europe,1316892.05
+1991-01-01,Slovakia,Central Europe,1316731.76
+1992-01-01,Slovakia,Central Europe,1317311.99
+1993-01-01,Slovakia,Central Europe,1318318.88
+1994-01-01,Slovakia,Central Europe,1319514.41
+1995-01-01,Slovakia,Central Europe,1319502.72
+1996-01-01,Slovakia,Central Europe,1319659.88
+1997-01-01,Slovakia,Central Europe,1320986.15
+1998-01-01,Slovakia,Central Europe,1325329.12
+1999-01-01,Slovakia,Central Europe,1329323.06
+2000-01-01,Slovakia,Central Europe,1331143.08
+2001-01-01,Slovakia,Central Europe,1329720.2
+2002-01-01,Slovakia,Central Europe,1324787.36
+2003-01-01,Slovakia,Central Europe,1317433.75
+2004-01-01,Slovakia,Central Europe,1302946.16
+2005-01-01,Slovakia,Central Europe,1287544.01
+2006-01-01,Slovakia,Central Europe,1271119.54
+2007-01-01,Slovakia,Central Europe,1253783.12
+2008-01-01,Slovakia,Central Europe,1236391.12
+2009-01-01,Slovakia,Central Europe,1220360.01
+2010-01-01,Slovakia,Central Europe,1206065.75
+2011-01-01,Slovakia,Central Europe,1193604.23
+2012-01-01,Slovakia,Central Europe,1182349.98
+2013-01-01,Slovakia,Central Europe,1174246.91
+2014-01-01,Slovakia,Central Europe,1167619.39
 2015-01-01,Slovakia,Central Europe,1164745.27
-2016-01-01,Slovakia,Central Europe,1162477.827
-2017-01-01,Slovakia,Central Europe,1160443.902
-2018-01-01,Slovakia,Central Europe,1158734.446
-2019-01-01,Slovakia,Central Europe,1156863.894
-1990-01-01,Slovenia,Central Europe,429533.8097
-1991-01-01,Slovenia,Central Europe,423572.1446
-1992-01-01,Slovenia,Central Europe,417663.953
-1993-01-01,Slovenia,Central Europe,411822.8111
-1994-01-01,Slovenia,Central Europe,406784.6354
-1995-01-01,Slovenia,Central Europe,402380.1618
-1996-01-01,Slovenia,Central Europe,399088.4012
-1997-01-01,Slovenia,Central Europe,397625.6161
-1998-01-01,Slovenia,Central Europe,397576.5067
-1999-01-01,Slovenia,Central Europe,398460.0778
-2000-01-01,Slovenia,Central Europe,400096.1012
-2001-01-01,Slovenia,Central Europe,402921.4124
-2002-01-01,Slovenia,Central Europe,406582.1061
-2003-01-01,Slovenia,Central Europe,411370.0766
-2004-01-01,Slovenia,Central Europe,417835.2184
-2005-01-01,Slovenia,Central Europe,425033.4666
-2006-01-01,Slovenia,Central Europe,432415.1311
-2007-01-01,Slovenia,Central Europe,440362.7934
-2008-01-01,Slovenia,Central Europe,447172.9614
-2009-01-01,Slovenia,Central Europe,453050.117
-2010-01-01,Slovenia,Central Europe,456849.1117
-2011-01-01,Slovenia,Central Europe,458463.1385
-2012-01-01,Slovenia,Central Europe,457703.508
-2013-01-01,Slovenia,Central Europe,454711.0844
-2014-01-01,Slovenia,Central Europe,450207.4985
-2015-01-01,Slovenia,Central Europe,445648.194
-2016-01-01,Slovenia,Central Europe,441650.8409
-2017-01-01,Slovenia,Central Europe,437384.882
-2018-01-01,Slovenia,Central Europe,432415.5943
-2019-01-01,Slovenia,Central Europe,427019.1661
-1990-01-01,Belarus,Eastern Europe,2696938.515
-1991-01-01,Belarus,Eastern Europe,2695019.469
-1992-01-01,Belarus,Eastern Europe,2690682.855
-1993-01-01,Belarus,Eastern Europe,2683137.436
-1994-01-01,Belarus,Eastern Europe,2673570.366
-1995-01-01,Belarus,Eastern Europe,2663643.284
-1996-01-01,Belarus,Eastern Europe,2653778.713
-1997-01-01,Belarus,Eastern Europe,2643957.695
-1998-01-01,Belarus,Eastern Europe,2637060.512
-1999-01-01,Belarus,Eastern Europe,2630742.365
-2000-01-01,Belarus,Eastern Europe,2625173.365
-2001-01-01,Belarus,Eastern Europe,2617584.241
-2002-01-01,Belarus,Eastern Europe,2606660.065
-2003-01-01,Belarus,Eastern Europe,2599529.385
-2004-01-01,Belarus,Eastern Europe,2595354.887
-2005-01-01,Belarus,Eastern Europe,2593200.074
-2006-01-01,Belarus,Eastern Europe,2594231.604
-2007-01-01,Belarus,Eastern Europe,2598335.737
-2008-01-01,Belarus,Eastern Europe,2604580.074
-2009-01-01,Belarus,Eastern Europe,2613815.923
-2010-01-01,Belarus,Eastern Europe,2624177.192
-2011-01-01,Belarus,Eastern Europe,2651563.442
+2016-01-01,Slovakia,Central Europe,1162477.83
+2017-01-01,Slovakia,Central Europe,1160443.9
+2018-01-01,Slovakia,Central Europe,1158734.45
+2019-01-01,Slovakia,Central Europe,1156863.89
+1990-01-01,Slovenia,Central Europe,429533.81
+1991-01-01,Slovenia,Central Europe,423572.14
+1992-01-01,Slovenia,Central Europe,417663.95
+1993-01-01,Slovenia,Central Europe,411822.81
+1994-01-01,Slovenia,Central Europe,406784.64
+1995-01-01,Slovenia,Central Europe,402380.16
+1996-01-01,Slovenia,Central Europe,399088.4
+1997-01-01,Slovenia,Central Europe,397625.62
+1998-01-01,Slovenia,Central Europe,397576.51
+1999-01-01,Slovenia,Central Europe,398460.08
+2000-01-01,Slovenia,Central Europe,400096.1
+2001-01-01,Slovenia,Central Europe,402921.41
+2002-01-01,Slovenia,Central Europe,406582.11
+2003-01-01,Slovenia,Central Europe,411370.08
+2004-01-01,Slovenia,Central Europe,417835.22
+2005-01-01,Slovenia,Central Europe,425033.47
+2006-01-01,Slovenia,Central Europe,432415.13
+2007-01-01,Slovenia,Central Europe,440362.79
+2008-01-01,Slovenia,Central Europe,447172.96
+2009-01-01,Slovenia,Central Europe,453050.12
+2010-01-01,Slovenia,Central Europe,456849.11
+2011-01-01,Slovenia,Central Europe,458463.14
+2012-01-01,Slovenia,Central Europe,457703.51
+2013-01-01,Slovenia,Central Europe,454711.08
+2014-01-01,Slovenia,Central Europe,450207.5
+2015-01-01,Slovenia,Central Europe,445648.19
+2016-01-01,Slovenia,Central Europe,441650.84
+2017-01-01,Slovenia,Central Europe,437384.88
+2018-01-01,Slovenia,Central Europe,432415.59
+2019-01-01,Slovenia,Central Europe,427019.17
+1990-01-01,Belarus,Eastern Europe,2696938.52
+1991-01-01,Belarus,Eastern Europe,2695019.47
+1992-01-01,Belarus,Eastern Europe,2690682.86
+1993-01-01,Belarus,Eastern Europe,2683137.44
+1994-01-01,Belarus,Eastern Europe,2673570.37
+1995-01-01,Belarus,Eastern Europe,2663643.28
+1996-01-01,Belarus,Eastern Europe,2653778.71
+1997-01-01,Belarus,Eastern Europe,2643957.69
+1998-01-01,Belarus,Eastern Europe,2637060.51
+1999-01-01,Belarus,Eastern Europe,2630742.37
+2000-01-01,Belarus,Eastern Europe,2625173.37
+2001-01-01,Belarus,Eastern Europe,2617584.24
+2002-01-01,Belarus,Eastern Europe,2606660.06
+2003-01-01,Belarus,Eastern Europe,2599529.38
+2004-01-01,Belarus,Eastern Europe,2595354.89
+2005-01-01,Belarus,Eastern Europe,2593200.07
+2006-01-01,Belarus,Eastern Europe,2594231.6
+2007-01-01,Belarus,Eastern Europe,2598335.74
+2008-01-01,Belarus,Eastern Europe,2604580.07
+2009-01-01,Belarus,Eastern Europe,2613815.92
+2010-01-01,Belarus,Eastern Europe,2624177.19
+2011-01-01,Belarus,Eastern Europe,2651563.44
 2012-01-01,Belarus,Eastern Europe,2676388.41
 2013-01-01,Belarus,Eastern Europe,2695504.87
-2014-01-01,Belarus,Eastern Europe,2707931.493
-2015-01-01,Belarus,Eastern Europe,2712097.664
-2016-01-01,Belarus,Eastern Europe,2709639.267
-2017-01-01,Belarus,Eastern Europe,2699679.844
-2018-01-01,Belarus,Eastern Europe,2687128.555
-2019-01-01,Belarus,Eastern Europe,2671131.146
-1990-01-01,Estonia,Eastern Europe,382541.466
-1991-01-01,Estonia,Eastern Europe,376790.3624
-1992-01-01,Estonia,Eastern Europe,368564.4445
-1993-01-01,Estonia,Eastern Europe,358528.888
-1994-01-01,Estonia,Eastern Europe,348833.1339
-1995-01-01,Estonia,Eastern Europe,340991.9171
-1996-01-01,Estonia,Eastern Europe,336508.8539
-1997-01-01,Estonia,Eastern Europe,334921.6479
-1998-01-01,Estonia,Eastern Europe,336750.5755
-1999-01-01,Estonia,Eastern Europe,341694.3632
-2000-01-01,Estonia,Eastern Europe,348437.6683
-2001-01-01,Estonia,Eastern Europe,354578.314
-2002-01-01,Estonia,Eastern Europe,359217.2818
-2003-01-01,Estonia,Eastern Europe,363385.8036
-2004-01-01,Estonia,Eastern Europe,366206.4237
-2005-01-01,Estonia,Eastern Europe,367102.7784
-2006-01-01,Estonia,Eastern Europe,365704.3345
-2007-01-01,Estonia,Eastern Europe,361273.7834
-2008-01-01,Estonia,Eastern Europe,355106.6115
-2009-01-01,Estonia,Eastern Europe,347548.3508
-2010-01-01,Estonia,Eastern Europe,338530.1412
-2011-01-01,Estonia,Eastern Europe,328214.8207
-2012-01-01,Estonia,Eastern Europe,316649.0224
-2013-01-01,Estonia,Eastern Europe,304972.3666
-2014-01-01,Estonia,Eastern Europe,293832.3231
-2015-01-01,Estonia,Eastern Europe,284132.1509
-2016-01-01,Estonia,Eastern Europe,275719.9951
-2017-01-01,Estonia,Eastern Europe,268026.8975
-2018-01-01,Estonia,Eastern Europe,261956.7885
-2019-01-01,Estonia,Eastern Europe,256972.7614
-1990-01-01,Latvia,Eastern Europe,742232.836
-1991-01-01,Latvia,Eastern Europe,728496.5647
-1992-01-01,Latvia,Eastern Europe,712973.0667
-1993-01-01,Latvia,Eastern Europe,695559.3436
-1994-01-01,Latvia,Eastern Europe,676931.6803
-1995-01-01,Latvia,Eastern Europe,659404.2439
-1996-01-01,Latvia,Eastern Europe,644696.7457
-1997-01-01,Latvia,Eastern Europe,633022.9235
-1998-01-01,Latvia,Eastern Europe,624092.4726
-1999-01-01,Latvia,Eastern Europe,618360.9685
-2000-01-01,Latvia,Eastern Europe,614662.4938
-2001-01-01,Latvia,Eastern Europe,612961.4909
-2002-01-01,Latvia,Eastern Europe,613167.7869
-2003-01-01,Latvia,Eastern Europe,614151.3372
-2004-01-01,Latvia,Eastern Europe,613865.6304
-2005-01-01,Latvia,Eastern Europe,613832.5889
-2006-01-01,Latvia,Eastern Europe,613306.0654
-2007-01-01,Latvia,Eastern Europe,611271.2429
-2008-01-01,Latvia,Eastern Europe,607419.1793
-2009-01-01,Latvia,Eastern Europe,600835.7563
-2010-01-01,Latvia,Eastern Europe,591071.9314
-2011-01-01,Latvia,Eastern Europe,579369.169
-2012-01-01,Latvia,Eastern Europe,566334.9202
-2013-01-01,Latvia,Eastern Europe,552269.5856
-2014-01-01,Latvia,Eastern Europe,538304.4114
-2015-01-01,Latvia,Eastern Europe,525211.9905
-2016-01-01,Latvia,Eastern Europe,513777.9986
-2017-01-01,Latvia,Eastern Europe,502838.9671
-2018-01-01,Latvia,Eastern Europe,494007.324
-2019-01-01,Latvia,Eastern Europe,485457.0501
-1990-01-01,Lithuania,Eastern Europe,840867.2888
-1991-01-01,Lithuania,Eastern Europe,828616.8822
-1992-01-01,Lithuania,Eastern Europe,817030.1372
-1993-01-01,Lithuania,Eastern Europe,805464.684
-1994-01-01,Lithuania,Eastern Europe,794336.4349
-1995-01-01,Lithuania,Eastern Europe,786481.8943
-1996-01-01,Lithuania,Eastern Europe,779413.284
-1997-01-01,Lithuania,Eastern Europe,774067.0635
-1998-01-01,Lithuania,Eastern Europe,772262.4751
-1999-01-01,Lithuania,Eastern Europe,771026.2307
-2000-01-01,Lithuania,Eastern Europe,769059.9931
-2001-01-01,Lithuania,Eastern Europe,765570.5904
-2002-01-01,Lithuania,Eastern Europe,761366.0831
-2003-01-01,Lithuania,Eastern Europe,757077.5783
-2004-01-01,Lithuania,Eastern Europe,753107.058
-2005-01-01,Lithuania,Eastern Europe,750806.8332
-2006-01-01,Lithuania,Eastern Europe,746609.8804
-2007-01-01,Lithuania,Eastern Europe,741999.1179
-2008-01-01,Lithuania,Eastern Europe,735317.8688
-2009-01-01,Lithuania,Eastern Europe,727378.4114
-2010-01-01,Lithuania,Eastern Europe,715724.8581
-2011-01-01,Lithuania,Eastern Europe,703592.4446
-2012-01-01,Lithuania,Eastern Europe,691404.8291
-2013-01-01,Lithuania,Eastern Europe,678179.2267
-2014-01-01,Lithuania,Eastern Europe,664934.9688
-2015-01-01,Lithuania,Eastern Europe,651781.8919
-2016-01-01,Lithuania,Eastern Europe,639356.7183
-2017-01-01,Lithuania,Eastern Europe,627842.9691
-2018-01-01,Lithuania,Eastern Europe,617566.4007
-2019-01-01,Lithuania,Eastern Europe,607388.8368
-1990-01-01,Republic of Moldova,Eastern Europe,714831.2905
-1991-01-01,Republic of Moldova,Eastern Europe,718730.9561
-1992-01-01,Republic of Moldova,Eastern Europe,722919.9447
-1993-01-01,Republic of Moldova,Eastern Europe,727421.6391
-1994-01-01,Republic of Moldova,Eastern Europe,732350.0138
-1995-01-01,Republic of Moldova,Eastern Europe,737404.119
-1996-01-01,Republic of Moldova,Eastern Europe,743090.0484
-1997-01-01,Republic of Moldova,Eastern Europe,748848.0933
-1998-01-01,Republic of Moldova,Eastern Europe,753728.0861
-1999-01-01,Republic of Moldova,Eastern Europe,757685.0863
-2000-01-01,Republic of Moldova,Eastern Europe,762029.2605
-2001-01-01,Republic of Moldova,Eastern Europe,766711.9502
-2002-01-01,Republic of Moldova,Eastern Europe,770548.021
-2003-01-01,Republic of Moldova,Eastern Europe,777398.1938
-2004-01-01,Republic of Moldova,Eastern Europe,785671.4935
-2005-01-01,Republic of Moldova,Eastern Europe,790685.7703
-2006-01-01,Republic of Moldova,Eastern Europe,791457.6068
-2007-01-01,Republic of Moldova,Eastern Europe,789196.0002
-2008-01-01,Republic of Moldova,Eastern Europe,785124.7825
-2009-01-01,Republic of Moldova,Eastern Europe,781337.0471
-2010-01-01,Republic of Moldova,Eastern Europe,777625.9682
-2011-01-01,Republic of Moldova,Eastern Europe,775986.0405
-2012-01-01,Republic of Moldova,Eastern Europe,769940.6858
-2013-01-01,Republic of Moldova,Eastern Europe,761394.4597
-2014-01-01,Republic of Moldova,Eastern Europe,752310.9562
-2015-01-01,Republic of Moldova,Eastern Europe,742501.6313
-2016-01-01,Republic of Moldova,Eastern Europe,733091.4828
-2017-01-01,Republic of Moldova,Eastern Europe,723758.4328
-2018-01-01,Republic of Moldova,Eastern Europe,715319.3428
-2019-01-01,Republic of Moldova,Eastern Europe,706608.8917
+2014-01-01,Belarus,Eastern Europe,2707931.49
+2015-01-01,Belarus,Eastern Europe,2712097.66
+2016-01-01,Belarus,Eastern Europe,2709639.27
+2017-01-01,Belarus,Eastern Europe,2699679.84
+2018-01-01,Belarus,Eastern Europe,2687128.56
+2019-01-01,Belarus,Eastern Europe,2671131.15
+1990-01-01,Estonia,Eastern Europe,382541.47
+1991-01-01,Estonia,Eastern Europe,376790.36
+1992-01-01,Estonia,Eastern Europe,368564.44
+1993-01-01,Estonia,Eastern Europe,358528.89
+1994-01-01,Estonia,Eastern Europe,348833.13
+1995-01-01,Estonia,Eastern Europe,340991.92
+1996-01-01,Estonia,Eastern Europe,336508.85
+1997-01-01,Estonia,Eastern Europe,334921.65
+1998-01-01,Estonia,Eastern Europe,336750.58
+1999-01-01,Estonia,Eastern Europe,341694.36
+2000-01-01,Estonia,Eastern Europe,348437.67
+2001-01-01,Estonia,Eastern Europe,354578.31
+2002-01-01,Estonia,Eastern Europe,359217.28
+2003-01-01,Estonia,Eastern Europe,363385.8
+2004-01-01,Estonia,Eastern Europe,366206.42
+2005-01-01,Estonia,Eastern Europe,367102.78
+2006-01-01,Estonia,Eastern Europe,365704.33
+2007-01-01,Estonia,Eastern Europe,361273.78
+2008-01-01,Estonia,Eastern Europe,355106.61
+2009-01-01,Estonia,Eastern Europe,347548.35
+2010-01-01,Estonia,Eastern Europe,338530.14
+2011-01-01,Estonia,Eastern Europe,328214.82
+2012-01-01,Estonia,Eastern Europe,316649.02
+2013-01-01,Estonia,Eastern Europe,304972.37
+2014-01-01,Estonia,Eastern Europe,293832.32
+2015-01-01,Estonia,Eastern Europe,284132.15
+2016-01-01,Estonia,Eastern Europe,275720.0
+2017-01-01,Estonia,Eastern Europe,268026.9
+2018-01-01,Estonia,Eastern Europe,261956.79
+2019-01-01,Estonia,Eastern Europe,256972.76
+1990-01-01,Latvia,Eastern Europe,742232.84
+1991-01-01,Latvia,Eastern Europe,728496.56
+1992-01-01,Latvia,Eastern Europe,712973.07
+1993-01-01,Latvia,Eastern Europe,695559.34
+1994-01-01,Latvia,Eastern Europe,676931.68
+1995-01-01,Latvia,Eastern Europe,659404.24
+1996-01-01,Latvia,Eastern Europe,644696.75
+1997-01-01,Latvia,Eastern Europe,633022.92
+1998-01-01,Latvia,Eastern Europe,624092.47
+1999-01-01,Latvia,Eastern Europe,618360.97
+2000-01-01,Latvia,Eastern Europe,614662.49
+2001-01-01,Latvia,Eastern Europe,612961.49
+2002-01-01,Latvia,Eastern Europe,613167.79
+2003-01-01,Latvia,Eastern Europe,614151.34
+2004-01-01,Latvia,Eastern Europe,613865.63
+2005-01-01,Latvia,Eastern Europe,613832.59
+2006-01-01,Latvia,Eastern Europe,613306.07
+2007-01-01,Latvia,Eastern Europe,611271.24
+2008-01-01,Latvia,Eastern Europe,607419.18
+2009-01-01,Latvia,Eastern Europe,600835.76
+2010-01-01,Latvia,Eastern Europe,591071.93
+2011-01-01,Latvia,Eastern Europe,579369.17
+2012-01-01,Latvia,Eastern Europe,566334.92
+2013-01-01,Latvia,Eastern Europe,552269.59
+2014-01-01,Latvia,Eastern Europe,538304.41
+2015-01-01,Latvia,Eastern Europe,525211.99
+2016-01-01,Latvia,Eastern Europe,513778.0
+2017-01-01,Latvia,Eastern Europe,502838.97
+2018-01-01,Latvia,Eastern Europe,494007.32
+2019-01-01,Latvia,Eastern Europe,485457.05
+1990-01-01,Lithuania,Eastern Europe,840867.29
+1991-01-01,Lithuania,Eastern Europe,828616.88
+1992-01-01,Lithuania,Eastern Europe,817030.14
+1993-01-01,Lithuania,Eastern Europe,805464.68
+1994-01-01,Lithuania,Eastern Europe,794336.43
+1995-01-01,Lithuania,Eastern Europe,786481.89
+1996-01-01,Lithuania,Eastern Europe,779413.28
+1997-01-01,Lithuania,Eastern Europe,774067.06
+1998-01-01,Lithuania,Eastern Europe,772262.48
+1999-01-01,Lithuania,Eastern Europe,771026.23
+2000-01-01,Lithuania,Eastern Europe,769059.99
+2001-01-01,Lithuania,Eastern Europe,765570.59
+2002-01-01,Lithuania,Eastern Europe,761366.08
+2003-01-01,Lithuania,Eastern Europe,757077.58
+2004-01-01,Lithuania,Eastern Europe,753107.06
+2005-01-01,Lithuania,Eastern Europe,750806.83
+2006-01-01,Lithuania,Eastern Europe,746609.88
+2007-01-01,Lithuania,Eastern Europe,741999.12
+2008-01-01,Lithuania,Eastern Europe,735317.87
+2009-01-01,Lithuania,Eastern Europe,727378.41
+2010-01-01,Lithuania,Eastern Europe,715724.86
+2011-01-01,Lithuania,Eastern Europe,703592.44
+2012-01-01,Lithuania,Eastern Europe,691404.83
+2013-01-01,Lithuania,Eastern Europe,678179.23
+2014-01-01,Lithuania,Eastern Europe,664934.97
+2015-01-01,Lithuania,Eastern Europe,651781.89
+2016-01-01,Lithuania,Eastern Europe,639356.72
+2017-01-01,Lithuania,Eastern Europe,627842.97
+2018-01-01,Lithuania,Eastern Europe,617566.4
+2019-01-01,Lithuania,Eastern Europe,607388.84
+1990-01-01,Republic of Moldova,Eastern Europe,714831.29
+1991-01-01,Republic of Moldova,Eastern Europe,718730.96
+1992-01-01,Republic of Moldova,Eastern Europe,722919.94
+1993-01-01,Republic of Moldova,Eastern Europe,727421.64
+1994-01-01,Republic of Moldova,Eastern Europe,732350.01
+1995-01-01,Republic of Moldova,Eastern Europe,737404.12
+1996-01-01,Republic of Moldova,Eastern Europe,743090.05
+1997-01-01,Republic of Moldova,Eastern Europe,748848.09
+1998-01-01,Republic of Moldova,Eastern Europe,753728.09
+1999-01-01,Republic of Moldova,Eastern Europe,757685.09
+2000-01-01,Republic of Moldova,Eastern Europe,762029.26
+2001-01-01,Republic of Moldova,Eastern Europe,766711.95
+2002-01-01,Republic of Moldova,Eastern Europe,770548.02
+2003-01-01,Republic of Moldova,Eastern Europe,777398.19
+2004-01-01,Republic of Moldova,Eastern Europe,785671.49
+2005-01-01,Republic of Moldova,Eastern Europe,790685.77
+2006-01-01,Republic of Moldova,Eastern Europe,791457.61
+2007-01-01,Republic of Moldova,Eastern Europe,789196.0
+2008-01-01,Republic of Moldova,Eastern Europe,785124.78
+2009-01-01,Republic of Moldova,Eastern Europe,781337.05
+2010-01-01,Republic of Moldova,Eastern Europe,777625.97
+2011-01-01,Republic of Moldova,Eastern Europe,775986.04
+2012-01-01,Republic of Moldova,Eastern Europe,769940.69
+2013-01-01,Republic of Moldova,Eastern Europe,761394.46
+2014-01-01,Republic of Moldova,Eastern Europe,752310.96
+2015-01-01,Republic of Moldova,Eastern Europe,742501.63
+2016-01-01,Republic of Moldova,Eastern Europe,733091.48
+2017-01-01,Republic of Moldova,Eastern Europe,723758.43
+2018-01-01,Republic of Moldova,Eastern Europe,715319.34
+2019-01-01,Republic of Moldova,Eastern Europe,706608.89
 1990-01-01,Russian Federation,Eastern Europe,37358582.03
 1991-01-01,Russian Federation,Eastern Europe,37695430.66
 1992-01-01,Russian Federation,Eastern Europe,38103646.29
@@ -866,6 +866,6 @@ date,name,category,value
 2014-01-01,Ukraine,Eastern Europe,10836431.9
 2015-01-01,Ukraine,Eastern Europe,10478853.03
 2016-01-01,Ukraine,Eastern Europe,10138235.67
-2017-01-01,Ukraine,Eastern Europe,9862013.921
-2018-01-01,Ukraine,Eastern Europe,9645897.972
-2019-01-01,Ukraine,Eastern Europe,9462328.288
+2017-01-01,Ukraine,Eastern Europe,9862013.92
+2018-01-01,Ukraine,Eastern Europe,9645897.97
+2019-01-01,Ukraine,Eastern Europe,9462328.29
