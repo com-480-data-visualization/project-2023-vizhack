@@ -1,3 +1,239 @@
+<<<<<<< HEAD
+location_name,val
+Global,0.240839136
+"Southeast Asia, East Asia, and Oceania",0.28461476
+East Asia,0.278875209
+China,0.279868805
+Democratic People's Republic of Korea,0.254441609
+Taiwan (Province of China),0.248598421
+Southeast Asia,0.295144916
+Cambodia,0.271861751
+Indonesia,0.32472669
+Lao People's Democratic Republic,0.236233894
+Malaysia,0.271243001
+Maldives,0.253053349
+Myanmar,0.300702415
+Philippines,0.331427203
+Sri Lanka,0.165153862
+Thailand,0.235941171
+Timor-Leste,0.339897932
+Viet Nam,0.282344656
+Oceania,0.357858093
+Fiji,0.315587821
+Kiribati,0.518765261
+Marshall Islands,0.212782996
+Micronesia (Federated States of),0.467907743
+Papua New Guinea,0.371045812
+Samoa,0.316820921
+Solomon Islands,0.322407262
+Tonga,0.318557722
+Vanuatu,0.266745849
+"Central Europe, Eastern Europe, and Central Asia",0.325948391
+Central Asia,0.202590164
+Armenia,0.29253673
+Azerbaijan,0.229823941
+Georgia,0.269116957
+Kazakhstan,0.280676975
+Kyrgyzstan,0.218807861
+Mongolia,0.26894198
+Tajikistan,0.119747978
+Turkmenistan,0.19603141
+Uzbekistan,0.125717465
+Central Europe,0.338586211
+Albania,0.2415504
+Bosnia and Herzegovina,0.346379071
+Bulgaria,0.43048847
+Croatia,0.349696959
+Czechia,0.338370902
+Hungary,0.376236324
+North Macedonia,0.38227898
+Montenegro,0.402926406
+Poland,0.321295294
+Romania,0.328627185
+Serbia,0.372864427
+Slovakia,0.305950198
+Slovenia,0.255601087
+Eastern Europe,0.360739798
+Belarus,0.322907372
+Estonia,0.329398779
+Latvia,0.338120786
+Lithuania,0.287639636
+Republic of Moldova,0.238175826
+Russian Federation,0.368404085
+Ukraine,0.362276234
+High-income,0.289439445
+High-income Asia Pacific,0.303967899
+Brunei Darussalam,0.178951409
+Japan,0.317678251
+Republic of Korea,0.282685715
+Singapore,0.16941754
+Australasia,0.237709646
+Australia,0.232552329
+New Zealand,0.264426518
+Western Europe,0.317139145
+Andorra,0.329867392
+Austria,0.382010082
+Belgium,0.30727613
+Cyprus,0.355339095
+Denmark,0.330661614
+Finland,0.261455937
+France,0.348826791
+Germany,0.319175815
+Greece,0.427472643
+Iceland,0.236453606
+Ireland,0.306718185
+Israel,0.253686661
+Italy,0.275825782
+Luxembourg,0.312086017
+Malta,0.237247244
+Netherlands,0.32752321
+Norway,0.304748333
+Portugal,0.280136235
+Spain,0.375319142
+Sweden,0.193013369
+Switzerland,0.311922353
+United Kingdom,0.284416965
+Southern Latin America,0.316229907
+Argentina,0.283383715
+Chile,0.383557766
+Uruguay,0.344910229
+High-income North America,0.243091932
+Canada,0.252935378
+United States of America,0.241890202
+Latin America and Caribbean,0.206422072
+Caribbean,0.197619975
+Antigua and Barbuda,0.075667317
+Bahamas,0.068982452
+Barbados,0.105888204
+Belize,0.122464381
+Cuba,0.325781748
+Dominica,0.102553931
+Dominican Republic,0.14778568
+Grenada,0.118655088
+Guyana,0.139624187
+Haiti,0.090248667
+Jamaica,0.182212594
+Saint Lucia,0.139653815
+Saint Vincent and the Grenadines,0.125468591
+Suriname,0.26236987
+Trinidad and Tobago,0.181182438
+Andean Latin America,0.105901698
+Bolivia (Plurinational State of),0.092396752
+Ecuador,0.143366701
+Peru,0.092029435
+Central Latin America,0.206639665
+Colombia,0.200153041
+Costa Rica,0.17746858
+El Salvador,0.078559406
+Guatemala,0.131294761
+Honduras,0.161338793
+Mexico,0.23341393
+Nicaragua,0.137960284
+Panama,0.11638147
+Venezuela (Bolivarian Republic of),0.205167852
+Tropical Latin America,0.230326166
+Brazil,0.229940798
+Paraguay,0.246516529
+North Africa and Middle East,0.204307294
+North Africa and Middle East,0.204307294
+Algeria,0.170037644
+Bahrain,0.13500234
+Egypt,0.206401086
+Iran (Islamic Republic of),0.142977091
+Iraq,0.228780877
+Jordan,0.267009867
+Kuwait,0.247250911
+Lebanon,0.32655304
+Libya,0.184045802
+Morocco,0.141348919
+Palestine,0.247363349
+Oman,0.091333931
+Qatar,0.159552774
+Saudi Arabia,0.13692223
+Syrian Arab Republic,0.269698525
+Tunisia,0.261192892
+Turkey,0.339541473
+United Arab Emirates,0.188751778
+Yemen,0.196376167
+South Asia,0.193876982
+South Asia,0.193876982
+Afghanistan,0.064418327
+Bangladesh,0.244631869
+Bhutan,0.098681879
+India,0.181820911
+Nepal,0.380829738
+Pakistan,0.217460499
+Sub-Saharan Africa,0.116045884
+Central Sub-Saharan Africa,0.098968827
+Angola,0.101548804
+Central African Republic,0.088026271
+Congo,0.086978316
+Democratic Republic of the Congo,0.099381872
+Equatorial Guinea,0.123853806
+Gabon,0.116612393
+Eastern Sub-Saharan Africa,0.118886958
+Burundi,0.099005294
+Comoros,0.144910198
+Djibouti,0.209116555
+Eritrea,0.071025058
+Ethiopia,0.050676659
+Kenya,0.154309835
+Madagascar,0.154313726
+Malawi,0.136262173
+Mauritius,0.219325066
+Mozambique,0.143554412
+Rwanda,0.148398308
+Seychelles,0.249926117
+Somalia,0.122180983
+United Republic of Tanzania,0.15363427
+Uganda,0.131786061
+Zambia,0.165360155
+Southern Sub-Saharan Africa,0.220131998
+Botswana,0.206508421
+Lesotho,0.159270219
+Namibia,0.202307934
+South Africa,0.239101554
+Eswatini,0.102179277
+Zimbabwe,0.162156814
+Western Sub-Saharan Africa,0.088619252
+Benin,0.094390232
+Burkina Faso,0.111309378
+Cameroon,0.105334244
+Cabo Verde,0.076517915
+Chad,0.126298602
+Côte d'Ivoire,0.136652746
+Gambia,0.150682985
+Ghana,0.059294156
+Guinea,0.159063487
+Guinea-Bissau,0.030801223
+Liberia,0.092240672
+Mali,0.11667496
+Mauritania,0.203896881
+Niger,0.08737564
+Nigeria,0.062032016
+Sao Tome and Principe,0.048149153
+Senegal,0.137298894
+Sierra Leone,0.209752496
+Togo,0.107221712
+American Samoa,0.337875057
+Bermuda,0.138198625
+Cook Islands,0.331511799
+Greenland,0.480048314
+Guam,0.289789065
+Monaco,0.303911239
+Nauru,0.472456573
+Niue,0.222693342
+Northern Mariana Islands,0.335236792
+Palau,0.260277095
+Puerto Rico,0.138054372
+Saint Kitts and Nevis,0.078763443
+San Marino,0.26478263
+Tokelau,0.286934403
+Tuvalu,0.315924585
+United States Virgin Islands,0.087358927
+South Sudan,0.132666595
+Sudan,0.127333968
+=======
 location_name,val
 Global,24.083913600000002
 "Southeast Asia, East Asia, and Oceania",28.461476
@@ -232,3 +468,4 @@ Tuvalu,31.5924585
 United States Virgin Islands,8.7358927
 South Sudan,13.2666595
 Sudan,12.7333968
+>>>>>>> 7e8bd89236eaa86abd56d27badc77149a7eb9b1f
