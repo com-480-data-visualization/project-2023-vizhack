@@ -12,27 +12,27 @@
           "children": [
             {
               "name": "Angola",
-              "value": 565662.16
+              "value": 578844.83
             },
             {
               "name": "Central African Republic",
-              "value": 146584.22
+              "value": 149738.68
             },
             {
               "name": "Congo",
-              "value": 101326.73
+              "value": 104204.44
             },
             {
               "name": "Democratic Republic of the Congo",
-              "value": 2148184.77
+              "value": 2170902.93
             },
             {
               "name": "Equatorial Guinea",
-              "value": 27569.43
+              "value": 28179.96
             },
             {
               "name": "Gabon",
-              "value": 54809.91
+              "value": 56407.43
             }
           ]
         },
@@ -42,75 +42,75 @@
           "children": [
             {
               "name": "Burundi",
-              "value": 329336.45
+              "value": 312529.25
             },
             {
               "name": "Comoros",
-              "value": 31659.8
+              "value": 32561.11
             },
             {
               "name": "Djibouti",
-              "value": 47499.26
+              "value": 46494.05
             },
             {
               "name": "Eritrea",
-              "value": 122224.66
+              "value": 119845.63
             },
             {
               "name": "Ethiopia",
-              "value": 1446907.25
+              "value": 1445327.99
             },
             {
               "name": "Kenya",
-              "value": 1616682.74
+              "value": 1689321.54
             },
             {
               "name": "Madagascar",
-              "value": 1307780.52
+              "value": 1316998.8
             },
             {
               "name": "Malawi",
-              "value": 508334.74
+              "value": 529491.86
             },
             {
               "name": "Mauritius",
-              "value": 185369.63
+              "value": 185907.41
             },
             {
               "name": "Mozambique",
-              "value": 748432.72
+              "value": 733833.1
             },
             {
               "name": "Rwanda",
-              "value": 320102.22
+              "value": 331581.6
             },
             {
               "name": "Seychelles",
-              "value": 10917.36
+              "value": 11132.12
             },
             {
               "name": "Somalia",
-              "value": 416826.83
+              "value": 414950.55
             },
             {
               "name": "United Republic of Tanzania",
-              "value": 1728135.68
+              "value": 1788933.56
             },
             {
               "name": "Uganda",
-              "value": 761410.14
+              "value": 792453.83
             },
             {
               "name": "Zambia",
-              "value": 458223.01
+              "value": 467981.97
             },
             {
               "name": "South Sudan",
-              "value": 401963.09
+              "value": 406867.64
             },
             {
               "name": "Sudan",
-              "value": 1210513.28
+              "value": 1260430.7
             }
           ]
         },
@@ -120,27 +120,27 @@
           "children": [
             {
               "name": "Botswana",
-              "value": 125229.11
+              "value": 130115.29
             },
             {
               "name": "Lesotho",
-              "value": 156331.74
+              "value": 157136.97
             },
             {
               "name": "Namibia",
-              "value": 107996.81
+              "value": 109780.68
             },
             {
               "name": "South Africa",
-              "value": 5326700.29
+              "value": 5350045.42
             },
             {
               "name": "Eswatini",
-              "value": 39500.53
+              "value": 40148.53
             },
             {
               "name": "Zimbabwe",
-              "value": 776001.82
+              "value": 787933.42
             }
           ]
         },
@@ -150,79 +150,79 @@
           "children": [
             {
               "name": "Benin",
-              "value": 189995.21
+              "value": 194135.18
             },
             {
               "name": "Burkina Faso",
-              "value": 524708.23
+              "value": 531479.87
             },
             {
               "name": "Cameroon",
-              "value": 566714.11
+              "value": 580448.95
             },
             {
               "name": "Cabo Verde",
-              "value": 13400.86
+              "value": 13496.51
             },
             {
               "name": "Chad",
-              "value": 319945.19
+              "value": 327640.42
             },
             {
               "name": "Côte d'Ivoire",
-              "value": 713217.29
+              "value": 751920.84
             },
             {
               "name": "Gambia",
-              "value": 90292.55
+              "value": 93393.38
             },
             {
               "name": "Ghana",
-              "value": 406788.41
+              "value": 409500.73
             },
             {
               "name": "Guinea",
-              "value": 496566.25
+              "value": 520812.85
             },
             {
               "name": "Guinea-Bissau",
-              "value": 17358.15
+              "value": 17012.18
             },
             {
               "name": "Liberia",
-              "value": 77416.12
+              "value": 80008.08
             },
             {
               "name": "Mali",
-              "value": 379360.42
+              "value": 392491.38
             },
             {
               "name": "Mauritania",
-              "value": 217455.41
+              "value": 223069.15
             },
             {
               "name": "Niger",
-              "value": 269848.85
+              "value": 288565.27
             },
             {
               "name": "Nigeria",
-              "value": 3229006.06
+              "value": 3271809.66
             },
             {
               "name": "Sao Tome and Principe",
-              "value": 1698.15
+              "value": 1755.22
             },
             {
               "name": "Senegal",
-              "value": 591778.15
+              "value": 609988.54
             },
             {
               "name": "Sierra Leone",
-              "value": 340590
+              "value": 323404.8
             },
             {
               "name": "Togo",
-              "value": 196068.12
+              "value": 201488.25
             }
           ]
         }
