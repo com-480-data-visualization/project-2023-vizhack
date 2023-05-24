@@ -21,17 +21,6 @@ function _focus(Generators,chart){return(
 Generators.input(chart)
 )}
 
-function _8(altplot){return(
-altplot(`Plot.plot({
-  marks: [
-    Plot.line(smoking, {
-      x: "year", 
-      y: "smoking value", 
-      z: "location"
-    })
-  ]
-})`)
-)}
 
 function _LineChart(d3){return(
 function LineChart(data, {
@@ -183,7 +172,7 @@ export default function define(runtime, observer) {
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer("chart")).define("chart", ["LineChart","smoking","width"], _chart);
   main.variable(observer("smoking")).define("smoking", ["FileAttachment"], _smoking);
-  main.variable(observer("focus")).define("focus", ["Generators","chart"], _focus);
+  //main.variable(observer("focus")).define("focus", ["Generators","chart"], _focus);
   main.variable(observer("LineChart")).define("LineChart", ["d3"], _LineChart);
   return main;
 }
