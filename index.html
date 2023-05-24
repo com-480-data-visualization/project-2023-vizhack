@@ -1,97 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
-    <title>Tobacco Viz</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+  <meta charset="UTF-8">
+  <title>Data Visualizations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    .navbar {
+      overflow: hidden;
+      background-color: #333;
+    }
+
+    .navbar a {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .dropdown {
+      float: left;
+      overflow: hidden;
+    }
+
+    .dropdown .dropbtn {
+      cursor: pointer;
+      font-size: 16px;  
+      border: none;
+      outline: none;
+      color: white;
+      padding: 14px 16px;
+      background-color: inherit;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+
+    .dropdown-content a {
+      float: none;
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#visualizations">Visualizations</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-        <h1>VizHack Tobacco Tracker</h1>
-    </header>
-    <main>
-        <section id="home">
-            <h2>Welcome to VizHack Tobacco Tracker</h2>
-            <p>Explore the global and regional trends in smoking and chewing tobacco prevalence and its health implications from 1990 to 2019.</p>
-        </section>
-    
-        <section id="about">
-            <h2>About the Project</h2>
-            <p>The goal of our project is to develop an engaging and informative web-based platform that presents data-driven visualizations of global 
-                and regional trends in smoking and chewing tobacco prevalence from 1990 to 2019. By utilizing high-quality datasets published by the 
-                Institute for Health Metrics and Evaluation (IHME), we aim to provide valuable insights into the differences in tobacco use across 
-                genders, age groups, and countries, as well as the associated health implications. Our visualizations are designed to cater to public 
-                health professionals, policymakers, researchers, and the general public interested in tobacco control, health promotion, and disease 
-                prevention. Through this project, we hope to raise awareness about the prevalence and impact of tobacco use, supporting informed 
-                decision-making and inspiring action towards a healthier future.</p>
-        </section>
-    
-        <section id="visualizations">
-            <h2>Visualizations</h2>
-            <div class="viz-container">
-                <h3>Multi-line Chart</h3>
-                <div id="multiline-chart">
-                    <!-- The chart will be inserted here -->
-                </div>
-            </div>
-            <div class="viz-container">
-                <h3>Bar Chart Race</h3>
-                <div id="bar-chart-race">
-                    <img src="img/barchart.png" alt="Bar Chart Race Example">
-                </div>
-            </div>
-            <div class="viz-container">
-                <h3>Map Visualization</h3>
-                <div id="map-visualization">
-                    <img src="img/worldmap.png" alt="Map Visualization Example">
-                </div>
-            </div>
-            <div class="viz-container">
-                <h3>Zoomable Sunburst</h3>
-                <div id="zoomable-sunburst">
-                    <img src="img/zoomableburst.png" alt="Zoomable Sunburst Example">
-                </div>
-            </div>
-        </section>
-    
-        <section id="contact">
-            <h2>Contact Us</h2>
-            <p>If you have any questions or suggestions, feel free to reach out to us.</p>
-        </section>
-    </main>
-    
-    <footer>
-        <p>&copy 2023 VizHack. All rights reserved.</p>
-        <input id="numeric-input" type="number" min="1990" max="1990" value="2019" readonly>
-        <button id="increment-btn">+</button>
-        <button id="decrement-btn">-</button>
-        <button class="button active" onclick="changeColor(1)" value="Male">Male</button>
-        <button class="button" onclick="changeColor(2)" value="Female">Female</button>
-        <button class="button" onclick="changeColor(3)" value="Both">Both</button>
-    </footer>
-    
-    <script src="app.js"></script>
-    <script src="website/multi-line-chart/86944e959995fdeb@496.js"></script>
-    
+  <div class="navbar">
+    <a href="#main">Main</a>
+    <a href="#about">About</a>
+    <div class="dropdown">
+      <button class="dropbtn">Visualizations
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="website/bar_race_chart.html">Bar Race Chart</a>
+        <a href="website/world_map.html">World Map</a>
+        <a href="website/multi_line_chart.html">Multi-line Chart</a>
+        <a href="website/zoomable_sunburst.html">Zoomable Sunburst</a>
+      </div>
+    </div> 
+  </div>
 
+  <div id="content">
+    <h1>Main</h1>
+    <p>The goal of our project is to develop an engaging and informative web-based platform that presents data-driven visualizations of global 
+        and regional trends in smoking and chewing tobacco prevalence from 1990 to 2019. By utilizing high-quality datasets published by the 
+        Institute for Health Metrics and Evaluation (IHME), we aim to provide valuable insights into the differences in tobacco use across 
+        genders, age groups, and countries, as well as the associated health implications. Our visualizations are designed to cater to public 
+        health professionals, policymakers, researchers, and the general public interested in tobacco control, health promotion, and disease 
+        prevention. Through this project, we hope to raise awareness about the prevalence and impact of tobacco use, supporting informed 
+        decision-making and inspiring action towards a healthier future.</p>
 
-    <!-- Observable runtime and D3 Multi-line chart code -->
-    <script type="module">
-    import {Runtime, Inspector} from "./website/multi-line-chart/runtime.js";
-    import define from "./website/multi-line-chart/86944e959995fdeb@496.js";
-
-    new Runtime().module(define, Inspector.into(document.querySelector("#multiline-chart")));
-
-    </script>
+    <h1 id="about">About</h1>
+    <p>Information about the data visualizations...</p>
+  </div>
 </body>
 </html>
