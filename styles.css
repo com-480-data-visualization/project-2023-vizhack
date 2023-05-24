@@ -6,4 +6,41 @@ body {
 .world--img {
   width: 80vw;
   height: 80vh;
+}
+
+footer {
+  background: steelblue;
+  color: white;
+  display: flex;
+  height: 40px;
+  flex-direction: row;
+  align-items: center;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+}
+
+#numeric-input {
+  width: 50px;
+}
+
+#increment-btn,
+#decrement-btn {
+  width: 30px;
+  height: 30px;
+  font-weight: bold;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #eaeaea;
+  border: none;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #a9a9a9;
 }/*# sourceMappingURL=styles.css.map */
