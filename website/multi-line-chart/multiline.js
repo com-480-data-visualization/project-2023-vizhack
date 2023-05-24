@@ -10,6 +10,8 @@ LineChart(smoking, {
 })
 )}
 
+
+
 function _smoking(FileAttachment){return(
 FileAttachment("multiline_chart_Both.csv").csv({typed: true})
 )}
@@ -165,7 +167,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["multiline_chart_Both.csv", {url: new URL("./files/multiline_chart_Both.csv", import.meta.url), mimeType: "text/csv", toString}]
+    ["multiline_chart_Both.csv", {url: new URL(sessionStorage.getItem('pathWorldMap'), import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer("chart")).define("chart", ["LineChart","smoking","width"], _chart);

@@ -72,9 +72,18 @@
     
     <footer>
         <p>&copy 2023 VizHack. All rights reserved.</p>
+        <input id="numeric-input" type="number" min="1990" max="1990" value="2019" readonly>
+        <button id="increment-btn">+</button>
+        <button id="decrement-btn">-</button>
+        <button class="button active" onclick="changeColor(1)" value="Male">Male</button>
+        <button class="button" onclick="changeColor(2)" value="Female">Female</button>
+        <button class="button" onclick="changeColor(3)" value="Both">Both</button>
     </footer>
     
-    <script src="scripts.js"></script>
+    <script src="app.js"></script>
+    <script src="website/multi-line-chart/86944e959995fdeb@496.js"></script>
+    
+
 
     <!-- Observable runtime and D3 Multi-line chart code -->
     <script type="module">
