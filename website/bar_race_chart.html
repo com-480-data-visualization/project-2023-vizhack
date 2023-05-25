@@ -3,85 +3,65 @@
 <head>
   <meta charset="UTF-8">
   <title>Bar Race Chart</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    .navbar {
-      overflow: hidden;
-      background-color: #333;
-    }
-    .navbar a {
-      float: left;
-      display: block;
-      color: #f2f2f2;
-      text-align: center;
-      padding: 14px 16px;
-      text-decoration: none;
-    }
-    .dropdown {
-      float: left;
-      overflow: hidden;
-    }
-    .dropdown .dropbtn {
-      cursor: pointer;
-      font-size: 16px;  
-      border: none;
-      outline: none;
-      color: white;
-      padding: 14px 16px;
-      background-color: inherit;
-    }
-    .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
-    }
-    .dropdown-content a {
-      float: none;
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
-      text-align: left;
-    }
-    .dropdown:hover .dropdown-content {
-      display: block;
-    }
-  </style>
+  <link rel="stylesheet" href="styles/bar_chart.css"> 
 </head>
 <body>
-  <div class="navbar">
-    <a href="index.html">Main</a>
-    <a href="about.html">About</a>
-    <div class="dropdown">
-      <button class="dropbtn">Visualizations
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="bar_race_chart.html">Bar Race Chart</a>
-        <a href="world_map.html">World Map</a>
-        <a href="multi_line_chart.html">Multi-line Chart</a>
-        <a href="zoomable_sunburst.html">Zoomable Sunburst</a>
+  <header>
+    <nav>
+      <a href="index.html">Main</a>
+      <a href="about.html">About</a>
+      <div class="dropdown">
+        <button class="dropbtn">Visualizations
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="bar_race_chart.html">Bar Race Chart</a>
+          <a href="world_map.html">World Map</a>
+          <a href="multi_line_chart.html">Multi-line Chart</a>
+          <a href="zoomable_sunburst.html">Zoomable Sunburst</a>
+        </div>
       </div>
-    </div> 
-  </div>
+    </nav>
+  </header>
+  <main> 
+    <section id="bar-chart">
+      <div id="content">
+        <h1>Bar Race Chart</h1>
+        <p>This page displays a bar race chart.</p>
+    
+        <div id="bar-race-chart"></div>
+    
+        <script type="module">
+          import {Runtime, Inspector} from "./bar-race/runtime.js";
+          import define from "./bar-race/barrace.js";
+          
+          new Runtime().module(define, Inspector.into(document.querySelector("#bar-race-chart")));
+        </script>
+      </div>
+    </section>
+  
+  </main>
 
-  <div id="content">
-    <h1>Bar Race Chart</h1>
-    <p>This page displays a bar race chart.</p>
-
-    <div id="bar-race-chart"></div>
-
-    <script type="module">
-      import {Runtime, Inspector} from "./bar-race/runtime.js";
-      import define from "./bar-race/barrace.js";
-      
-      new Runtime().module(define, Inspector.into(document.querySelector("#bar-race-chart")));
-    </script>
-  </div>
+  <footer>
+    <div class="buttons-container">
+      <button id="button-Male" value="Male">Male</button>
+      <button id="button-Female" value="Female">Female</button>
+      <button id="button-Both" value="Both">Both</button>
+    </div>
+    <div class="dropdown">
+      <select id="regions" name="regions">
+        <option value="Southeast Asia, East Asia, and Oceania">Southeast Asia, East Asia, and Oceania</option>
+        <option value="Central Europe, Eastern Europe, and Central Asia">Central Europe, Eastern Europe, and Central Asia</option>
+        <option value="High-income">High-income</option>
+        <option value="Latin America and Caribbean">Latin America and Caribbean</option>
+        <option value="North Africa and Middle East">North Africa and Middle East</option>
+        <option value="South Asia">South Asia</option>
+        <option value="Sub-Saharan Africa">Sub-Saharan Africa</option>
+      </select>
+    </div>
+  </footer>
+  
+  <script src="scripts/barchart.js"></script>
+  
 </body>
 </html>
