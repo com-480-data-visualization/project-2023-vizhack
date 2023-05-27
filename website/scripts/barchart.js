@@ -1,4 +1,4 @@
-let path = '../../data/multiline_data/barchart_Central Europe, Eastern Europe, and Central Asia_Both.CSV';
+let path = '../../data/barchart_data/barchart_Central Europe, Eastern Europe, and Central Asia_Both.CSV';
 sessionStorage.setItem('pathBarchart', path);
 sessionStorage.setItem('barchartRegion', 'Central Europe, Eastern Europe, and Central Asia');
 sessionStorage.setItem('barchartSex', 'Male');
@@ -30,7 +30,7 @@ function handleClick(event) {
     document.getElementById("button-Female").classList.remove('focused-button');
   }
 
-  path = '../../data/multiline_data/barchart_'+ sessionStorage.getItem('barchartRegion')  + '_' + buttonValue + '.CSV';
+  path = '../../data/barchart_data/barchart_'+ sessionStorage.getItem('barchartRegion')  + '_' + buttonValue + '.CSV';
   sessionStorage.setItem('pathBarchart', path);
   sessionStorage.setItem('barchartSex', buttonValue);
 
@@ -48,7 +48,7 @@ var dropdown = document.getElementById('regions');
       console.log('Selected Value:', selectedValue);
       console.log('Selected Text:', selectedText);
 
-      path = '../../data/multiline_data/barchart_'+ selectedValue + '_' + sessionStorage.getItem('barchartSex') + '.CSV';
+      path = '../../data/barchart_data/barchart_'+ selectedValue + '_' + sessionStorage.getItem('barchartSex') + '.CSV';
       sessionStorage.setItem('pathBarchart', path);
       sessionStorage.setItem('barchartRegion', selectedValue);
 
