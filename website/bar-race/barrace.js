@@ -259,7 +259,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["barchart-any.csv", {url: new URL("../../data/barchart_data/barchart_High-income_Both.CSV", import.meta.url), mimeType: "text/csv", toString}]
+    ["barchart-any.csv", {url: new URL(sessionStorage.getItem('pathBarchart'), import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer("data")).define("data", ["FileAttachment"], _data);
