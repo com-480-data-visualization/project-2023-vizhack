@@ -80,8 +80,10 @@ footer {
   background-color: $bg-color-header-footer;
   color: $text-light;
   height: 60px;
-  position: sticky;
+  position: fixed;
   bottom: 0;
+  width: 100%;
+  left: 0;
   display: flex;
   justify-content: space-evenly;
 
@@ -91,6 +93,18 @@ footer {
       justify-content: space-evenly;
       align-items: center;
       width: 30%;
+
+
+      .focused-button{
+        background: white;
+        color: #20232e;
+        -webkit-box-shadow: 1px 1px 13px #20232e,
+                           -1px -1px 33px #545b78;
+        box-shadow: 1px 1px 13px #20232e,
+                   -1px -1px 33px #545b78;
+        -webkit-transition: 100ms;
+        transition: 100ms;
+      }
     }
   
     button {
@@ -191,6 +205,7 @@ footer {
     }
 
     .dropdown select {
+      text-align: center;
       font-size: 16px;
       color: white;
       appearance: none;
