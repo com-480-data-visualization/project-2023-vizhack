@@ -3,85 +3,59 @@
 <head>
   <meta charset="UTF-8">
   <title>World map</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    .navbar {
-      overflow: hidden;
-      background-color: #333;
-    }
-    .navbar a {
-      float: left;
-      display: block;
-      color: #f2f2f2;
-      text-align: center;
-      padding: 14px 16px;
-      text-decoration: none;
-    }
-    .dropdown {
-      float: left;
-      overflow: hidden;
-    }
-    .dropdown .dropbtn {
-      cursor: pointer;
-      font-size: 16px;  
-      border: none;
-      outline: none;
-      color: white;
-      padding: 14px 16px;
-      background-color: inherit;
-    }
-    .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
-    }
-    .dropdown-content a {
-      float: none;
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
-      text-align: left;
-    }
-    .dropdown:hover .dropdown-content {
-      display: block;
-    }
-  </style>
+  <link rel="stylesheet" href="styles/sunburst.css"> 
 </head>
 <body>
-  <div class="navbar">
-    <a href="index.html">Main</a>
-    <a href="about.html">About</a>
-    <div class="dropdown">
-      <button class="dropbtn">Visualizations
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="bar_race_chart.html">Bar Race Chart</a>
-        <a href="world_map.html">World Map</a>
-        <a href="multi_line_chart.html">Multi-line Chart</a>
-        <a href="zoomable_sunburst.html">Zoomable Sunburst</a>
+  <header>
+    <nav>
+      <a href="index.html">Main</a>
+      <a href="about.html">About</a>
+      <div class="dropdown">
+        <button class="dropbtn">Visualizations
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="bar_race_chart.html">Bar Race Chart</a>
+          <a href="world_map.html">World Map</a>
+          <a href="multi_line_chart.html">Multi-line Chart</a>
+          <a href="zoomable_sunburst.html">Zoomable Sunburst</a>
+        </div>
       </div>
-    </div> 
-  </div>
+    </nav>
+  </header>
 
-  <div id="content">
-    <h1>Zoomable Sunburst</h1>
-    <p>This page displays a zoomable sunburst.</p>
+  <main>
+    <section id="figure-sunburst">
+      <div id="content">
+        <h1>Zoomable Sunburst</h1>
+        <p>This page displays a zoomable sunburst.</p>
+    
+        <div id="zoomable_sunburst"></div>
+    
+        <script type="module">
+          import {Runtime, Inspector} from "./zoomable_sunburst/runtime.js";
+          import define from "./zoomable_sunburst/zoomablesunburst.js";
+          
+          new Runtime().module(define, Inspector.into(document.querySelector("#zoomable_sunburst")));
+        </script>
+      </div>
+    </section>
+  </main>
 
-    <div id="zoomable_sunburst"></div>
-
-    <script type="module">
-      import {Runtime, Inspector} from "./zoomable_sunburst/runtime.js";
-      import define from "./zoomable_sunburst/zoomablesunburst.js";
-      
-      new Runtime().module(define, Inspector.into(document.querySelector("#zoomable_sunburst")));
-    </script>
-  </div>
+  <footer>
+    <div class="buttons-container">
+      <button id="button-Male" value="Male">Male</button>
+      <button id="button-Female" value="Female">Female</button>
+      <button id="button-Both" value="Both">Both</button>
+    </div>
+    <div class="numeric-up-down">
+      <button onclick="decrement()">-</button>
+      <input type="number" id="numeric-input" value="1990" min="1990" max="2019" readonly>
+      <button onclick="increment()">+</button>
+    </div>
+    
+  </footer>
+  <script src="scripts/sunburst.js"></script>
+ 
 </body>
 </html>
