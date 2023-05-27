@@ -1,0 +1,188 @@
+@import 'variables.scss';
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: $bg-color-header-footer;
+    width: 100%;
+    height: 50px;
+    color: $text-light;
+
+    nav{
+        overflow: hidden;
+        a{
+            float: left;
+            color: $text-light;
+            display: block;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+    }
+
+    .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+        .dropdown .dropbtn {
+            cursor: pointer;
+            font-size: 16px;  
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 16px;
+            background-color: inherit;
+          }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+}
+
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    section{
+        margin: 0 auto;
+        width: 80%;
+    }
+}
+
+
+footer {
+    background-color: $bg-color-header-footer;
+    color: $text-light;
+    height: 60px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  
+      .buttons-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 30%;
+
+        button:focus{
+          background: white;
+          color: #20232e;
+          -webkit-box-shadow: 1px 1px 13px #20232e,
+                             -1px -1px 33px #545b78;
+          box-shadow: 1px 1px 13px #20232e,
+                     -1px -1px 33px #545b78;
+          -webkit-transition: 100ms;
+          transition: 100ms;
+        }
+
+        .focused-button{
+          background: white;
+          color: #20232e;
+          -webkit-box-shadow: 1px 1px 13px #20232e,
+                             -1px -1px 33px #545b78;
+          box-shadow: 1px 1px 13px #20232e,
+                     -1px -1px 33px #545b78;
+          -webkit-transition: 100ms;
+          transition: 100ms;
+        }
+      }
+    
+      button {
+        height: 40px;
+        margin: 5px;
+        width: 120px;
+        background: #333;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-family: $font;
+        border: solid #404C5D 1px;
+        font-size: 16px;
+        color: white;
+        -webkit-transition: 500ms;
+        transition: 500ms;
+        border-radius: 5px;
+        outline: none;
+        background: linear-gradient(145deg, #2e2d2d, #212121);
+        -webkit-box-shadow: -1px -5px 15px #41465B, 
+                     5px  5px 15px #41465B, 
+          inset      5px  5px 10px #212121, 
+          inset     -5px -5px 10px #212121;
+        box-shadow: -1px -5px 15px #41465B, 
+                     5px  5px 15px #41465B, 
+          inset      5px  5px 10px #212121, 
+          inset     -5px -5px 10px #212121;
+      }
+      
+      button:hover {
+        -webkit-box-shadow: 1px 1px 13px #20232e,
+                          -1px -1px 13px #545b78;
+        box-shadow: 1px 1px 13px #20232e,
+                   -1px -1px 13px #545b78;
+        color: #d6d6d6;
+        -webkit-transition: 500ms;
+        transition: 500ms;
+      }
+      
+      button:active {
+        -webkit-box-shadow: 1px 1px 13px #20232e,
+                           -1px -1px 33px #545b78;
+        box-shadow: 1px 1px 13px #20232e,
+                   -1px -1px 33px #545b78;
+        color: #d6d6d6;
+        -webkit-transition: 100ms;
+        transition: 100ms;
+      }
+  
+      
+      
+      .numeric-up-down{
+        button{
+          width: 40px;
+          font-size: 20px;
+        }
+
+
+        input{
+          font-size: 16px;
+          font-family: $font;
+          outline: none;
+          border-radius: 5px;
+          width: 70px;
+          height: 30px;
+          text-align: center;
+        }
+      }
+  }
+  
