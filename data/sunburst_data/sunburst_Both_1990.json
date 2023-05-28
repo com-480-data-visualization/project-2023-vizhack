@@ -1,1 +1,881 @@
-{"name": "Global", "value": 1, "children": [{"name": "Sub-Saharan Africa", "value": 1, "children": [{"name": "Central Sub-Saharan Africa", "value": 1, "children": [{"name": "Angola", "value": 640409.69}, {"name": "Central African Republic", "value": 163066.87}, {"name": "Congo", "value": 112151.0}, {"name": "Democratic Republic of the Congo", "value": 2286736.61}, {"name": "Equatorial Guinea", "value": 31031.77}, {"name": "Gabon", "value": 63726.94}]}, {"name": "Eastern Sub-Saharan Africa", "value": 1, "children": [{"name": "Burundi", "value": 414014.19}, {"name": "Comoros", "value": 35991.95}, {"name": "Djibouti", "value": 53060.56}, {"name": "Eritrea", "value": 129697.59}, {"name": "Ethiopia", "value": 1621256.92}, {"name": "Kenya", "value": 1832374.75}, {"name": "Madagascar", "value": 1446555.44}, {"name": "Malawi", "value": 587121.79}, {"name": "Mauritius", "value": 208613.72}, {"name": "Mozambique", "value": 974768.86}, {"name": "Rwanda", "value": 443428.31}, {"name": "Seychelles", "value": 12887.2}, {"name": "Somalia", "value": 476143.34}, {"name": "United Republic of Tanzania", "value": 1982815.61}, {"name": "Uganda", "value": 916228.09}, {"name": "Zambia", "value": 560718.17}, {"name": "South Sudan", "value": 443904.43}, {"name": "Sudan", "value": 1340049.52}]}, {"name": "Southern Sub-Saharan Africa", "value": 1, "children": [{"name": "Botswana", "value": 163486.81}, {"name": "Lesotho", "value": 165195.93}, {"name": "Namibia", "value": 160603.38}, {"name": "South Africa", "value": 7335131.56}, {"name": "Eswatini", "value": 46631.59}, {"name": "Zimbabwe", "value": 850261.55}]}, {"name": "Western Sub-Saharan Africa", "value": 1, "children": [{"name": "Benin", "value": 226817.96}, {"name": "Burkina Faso", "value": 584717.59}, {"name": "Cameroon", "value": 621036.6}, {"name": "Cabo Verde", "value": 17943.63}, {"name": "Chad", "value": 390044.7}, {"name": "C\u00f4te d'Ivoire", "value": 824419.56}, {"name": "Gambia", "value": 95137.98}, {"name": "Ghana", "value": 487697.37}, {"name": "Guinea", "value": 532668.94}, {"name": "Guinea-Bissau", "value": 20137.41}, {"name": "Liberia", "value": 90704.97}, {"name": "Mali", "value": 413558.54}, {"name": "Mauritania", "value": 277442.3}, {"name": "Niger", "value": 301303.03}, {"name": "Nigeria", "value": 3741352.88}, {"name": "Sao Tome and Principe", "value": 2128.36}, {"name": "Senegal", "value": 645140.98}, {"name": "Sierra Leone", "value": 458878.79}, {"name": "Togo", "value": 226964.92}]}]}]}
+{
+  "name": "Global",
+  "value": 1,
+  "children": [
+    {
+      "name": "Global",
+      "value": 1,
+      "children": []
+    },
+    {
+      "name": "Southeast Asia, East Asia, and Oceania",
+      "value": 1,
+      "children": [
+        {
+          "name": "East Asia",
+          "value": 1,
+          "children": [
+            {
+              "name": "China",
+              "value": 279346994.1
+            },
+            {
+              "name": "Democratic People's Republic of Korea",
+              "value": 3563398.72
+            },
+            {
+              "name": "Taiwan (Province of China)",
+              "value": 4295442.32
+            }
+          ]
+        },
+        {
+          "name": "Southeast Asia",
+          "value": 1,
+          "children": [
+            {
+              "name": "Cambodia",
+              "value": 1240208.78
+            },
+            {
+              "name": "Indonesia",
+              "value": 33342215.98
+            },
+            {
+              "name": "Lao People's Democratic Republic",
+              "value": 528983.75
+            },
+            {
+              "name": "Malaysia",
+              "value": 3180766.5
+            },
+            {
+              "name": "Maldives",
+              "value": 32350.94
+            },
+            {
+              "name": "Myanmar",
+              "value": 9073225.28
+            },
+            {
+              "name": "Philippines",
+              "value": 13108222.86
+            },
+            {
+              "name": "Sri Lanka",
+              "value": 2606806.58
+            },
+            {
+              "name": "Thailand",
+              "value": 11516693.02
+            },
+            {
+              "name": "Timor-Leste",
+              "value": 158864.3
+            },
+            {
+              "name": "Viet Nam",
+              "value": 11855353.52
+            }
+          ]
+        },
+        {
+          "name": "Oceania",
+          "value": 1,
+          "children": [
+            {
+              "name": "Fiji",
+              "value": 169265.49
+            },
+            {
+              "name": "Kiribati",
+              "value": 21116.77
+            },
+            {
+              "name": "Marshall Islands",
+              "value": 5458.42
+            },
+            {
+              "name": "Micronesia (Federated States of)",
+              "value": 27605.08
+            },
+            {
+              "name": "Papua New Guinea",
+              "value": 944235.75
+            },
+            {
+              "name": "Samoa",
+              "value": 28815.3
+            },
+            {
+              "name": "Solomon Islands",
+              "value": 65388.27
+            },
+            {
+              "name": "Tonga",
+              "value": 18465.37
+            },
+            {
+              "name": "Vanuatu",
+              "value": 22959.49
+            },
+            {
+              "name": "Cook Islands",
+              "value": 4236.28
+            },
+            {
+              "name": "Guam",
+              "value": 29829.86
+            },
+            {
+              "name": "Nauru",
+              "value": 2777
+            },
+            {
+              "name": "Niue",
+              "value": 329.96
+            },
+            {
+              "name": "Northern Mariana Islands",
+              "value": 12682.58
+            },
+            {
+              "name": "Palau",
+              "value": 2731.98
+            },
+            {
+              "name": "Tokelau",
+              "value": 279.7
+            },
+            {
+              "name": "Tuvalu",
+              "value": 1872.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Central Europe, Eastern Europe, and Central Asia",
+      "value": 1,
+      "children": [
+        {
+          "name": "Central Asia",
+          "value": 1,
+          "children": [
+            {
+              "name": "Armenia",
+              "value": 745441.69
+            },
+            {
+              "name": "Azerbaijan",
+              "value": 1072119.86
+            },
+            {
+              "name": "Georgia",
+              "value": 1096358.04
+            },
+            {
+              "name": "Kazakhstan",
+              "value": 3249005.69
+            },
+            {
+              "name": "Kyrgyzstan",
+              "value": 667210.52
+            },
+            {
+              "name": "Mongolia",
+              "value": 320981.5
+            },
+            {
+              "name": "Tajikistan",
+              "value": 475215.61
+            },
+            {
+              "name": "Turkmenistan",
+              "value": 489996.89
+            },
+            {
+              "name": "Uzbekistan",
+              "value": 1104245.91
+            }
+          ]
+        },
+        {
+          "name": "Central Europe",
+          "value": 1,
+          "children": [
+            {
+              "name": "Albania",
+              "value": 523353.64
+            },
+            {
+              "name": "Bosnia and Herzegovina",
+              "value": 1054442.79
+            },
+            {
+              "name": "Bulgaria",
+              "value": 3024410.56
+            },
+            {
+              "name": "Croatia",
+              "value": 1608069.15
+            },
+            {
+              "name": "Czechia",
+              "value": 2875349.08
+            },
+            {
+              "name": "Hungary",
+              "value": 2987117.09
+            },
+            {
+              "name": "North Macedonia",
+              "value": 588602.86
+            },
+            {
+              "name": "Montenegro",
+              "value": 171856.79
+            },
+            {
+              "name": "Poland",
+              "value": 11704480.59
+            },
+            {
+              "name": "Romania",
+              "value": 6003824.41
+            },
+            {
+              "name": "Serbia",
+              "value": 2672496.21
+            },
+            {
+              "name": "Slovakia",
+              "value": 1316892.05
+            },
+            {
+              "name": "Slovenia",
+              "value": 429533.81
+            }
+          ]
+        },
+        {
+          "name": "Eastern Europe",
+          "value": 1,
+          "children": [
+            {
+              "name": "Belarus",
+              "value": 2696938.52
+            },
+            {
+              "name": "Estonia",
+              "value": 382541.47
+            },
+            {
+              "name": "Latvia",
+              "value": 742232.84
+            },
+            {
+              "name": "Lithuania",
+              "value": 840867.29
+            },
+            {
+              "name": "Republic of Moldova",
+              "value": 714831.29
+            },
+            {
+              "name": "Russian Federation",
+              "value": 37358582.03
+            },
+            {
+              "name": "Ukraine",
+              "value": 14023828.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "High-income",
+      "value": 1,
+      "children": [
+        {
+          "name": "High-income Asia Pacific",
+          "value": 1,
+          "children": [
+            {
+              "name": "Brunei Darussalam",
+              "value": 47125.22
+            },
+            {
+              "name": "Japan",
+              "value": 35593185.56
+            },
+            {
+              "name": "Republic of Korea",
+              "value": 10674335.72
+            },
+            {
+              "name": "Singapore",
+              "value": 504693.54
+            }
+          ]
+        },
+        {
+          "name": "Australasia",
+          "value": 1,
+          "children": [
+            {
+              "name": "Australia",
+              "value": 3791496.66
+            },
+            {
+              "name": "New Zealand",
+              "value": 728051.85
+            }
+          ]
+        },
+        {
+          "name": "Western Europe",
+          "value": 1,
+          "children": [
+            {
+              "name": "Andorra",
+              "value": 16846.08
+            },
+            {
+              "name": "Austria",
+              "value": 2157906.98
+            },
+            {
+              "name": "Belgium",
+              "value": 2783487.18
+            },
+            {
+              "name": "Cyprus",
+              "value": 208625.16
+            },
+            {
+              "name": "Denmark",
+              "value": 1876479.48
+            },
+            {
+              "name": "Finland",
+              "value": 1176062.81
+            },
+            {
+              "name": "France",
+              "value": 16571620.52
+            },
+            {
+              "name": "Germany",
+              "value": 20944039.48
+            },
+            {
+              "name": "Greece",
+              "value": 3437090.02
+            },
+            {
+              "name": "Iceland",
+              "value": 58266.43
+            },
+            {
+              "name": "Ireland",
+              "value": 871354.79
+            },
+            {
+              "name": "Israel",
+              "value": 1093768.96
+            },
+            {
+              "name": "Italy",
+              "value": 14992270.21
+            },
+            {
+              "name": "Luxembourg",
+              "value": 104303.14
+            },
+            {
+              "name": "Malta",
+              "value": 95320.79
+            },
+            {
+              "name": "Netherlands",
+              "value": 4925889.01
+            },
+            {
+              "name": "Norway",
+              "value": 1296406.22
+            },
+            {
+              "name": "Portugal",
+              "value": 2182399.88
+            },
+            {
+              "name": "Spain",
+              "value": 12108893.86
+            },
+            {
+              "name": "Sweden",
+              "value": 1644302.37
+            },
+            {
+              "name": "Switzerland",
+              "value": 1860800.84
+            },
+            {
+              "name": "United Kingdom",
+              "value": 14675190.65
+            },
+            {
+              "name": "Greenland",
+              "value": 20581.41
+            },
+            {
+              "name": "Monaco",
+              "value": 8158.17
+            },
+            {
+              "name": "San Marino",
+              "value": 5952.66
+            }
+          ]
+        },
+        {
+          "name": "Southern Latin America",
+          "value": 1,
+          "children": [
+            {
+              "name": "Argentina",
+              "value": 6940514.51
+            },
+            {
+              "name": "Chile",
+              "value": 3871350.11
+            },
+            {
+              "name": "Uruguay",
+              "value": 764367.69
+            }
+          ]
+        },
+        {
+          "name": "High-income North America",
+          "value": 1,
+          "children": [
+            {
+              "name": "Canada",
+              "value": 6988162.57
+            },
+            {
+              "name": "United States of America",
+              "value": 51877377.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Latin America and Caribbean",
+      "value": 1,
+      "children": [
+        {
+          "name": "Caribbean",
+          "value": 1,
+          "children": [
+            {
+              "name": "Antigua and Barbuda",
+              "value": 2775.86
+            },
+            {
+              "name": "Bahamas",
+              "value": 13517.49
+            },
+            {
+              "name": "Barbados",
+              "value": 19880.59
+            },
+            {
+              "name": "Belize",
+              "value": 13655.38
+            },
+            {
+              "name": "Cuba",
+              "value": 2709132.2
+            },
+            {
+              "name": "Dominica",
+              "value": 5465.6
+            },
+            {
+              "name": "Dominican Republic",
+              "value": 497976.06
+            },
+            {
+              "name": "Grenada",
+              "value": 5529.87
+            },
+            {
+              "name": "Guyana",
+              "value": 69510.26
+            },
+            {
+              "name": "Haiti",
+              "value": 424677.72
+            },
+            {
+              "name": "Jamaica",
+              "value": 261513.03
+            },
+            {
+              "name": "Saint Lucia",
+              "value": 11726.23
+            },
+            {
+              "name": "Saint Vincent and the Grenadines",
+              "value": 8952.9
+            },
+            {
+              "name": "Suriname",
+              "value": 69304.7
+            },
+            {
+              "name": "Trinidad and Tobago",
+              "value": 171624.09
+            }
+          ]
+        },
+        {
+          "name": "Andean Latin America",
+          "value": 1,
+          "children": [
+            {
+              "name": "Bolivia (Plurinational State of)",
+              "value": 490119.2
+            },
+            {
+              "name": "Ecuador",
+              "value": 960219.17
+            },
+            {
+              "name": "Peru",
+              "value": 1199048.14
+            },
+            {
+              "name": "Bermuda",
+              "value": 6519.04
+            }
+          ]
+        },
+        {
+          "name": "Central Latin America",
+          "value": 1,
+          "children": [
+            {
+              "name": "Colombia",
+              "value": 5061522.06
+            },
+            {
+              "name": "Costa Rica",
+              "value": 418257.47
+            },
+            {
+              "name": "El Salvador",
+              "value": 254371.35
+            },
+            {
+              "name": "Guatemala",
+              "value": 626139.19
+            },
+            {
+              "name": "Honduras",
+              "value": 447237.37
+            },
+            {
+              "name": "Mexico",
+              "value": 16451443.94
+            },
+            {
+              "name": "Nicaragua",
+              "value": 371657.46
+            },
+            {
+              "name": "Panama",
+              "value": 217223.77
+            },
+            {
+              "name": "Venezuela (Bolivarian Republic of)",
+              "value": 3092173.87
+            },
+            {
+              "name": "Puerto Rico",
+              "value": 380722.49
+            },
+            {
+              "name": "Saint Kitts and Nevis",
+              "value": 1686.96
+            },
+            {
+              "name": "United States Virgin Islands",
+              "value": 6648.56
+            }
+          ]
+        },
+        {
+          "name": "Tropical Latin America",
+          "value": 1,
+          "children": [
+            {
+              "name": "Brazil",
+              "value": 32407943.72
+            },
+            {
+              "name": "Paraguay",
+              "value": 622585.27
+            },
+            {
+              "name": "American Samoa",
+              "value": 10445.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North Africa and Middle East",
+      "value": 1,
+      "children": []
+    },
+    {
+      "name": "South Asia",
+      "value": 1,
+      "children": []
+    },
+    {
+      "name": "Sub-Saharan Africa",
+      "value": 1,
+      "children": [
+        {
+          "name": "Central Sub-Saharan Africa",
+          "value": 1,
+          "children": [
+            {
+              "name": "Angola",
+              "value": 640409.69
+            },
+            {
+              "name": "Central African Republic",
+              "value": 163066.87
+            },
+            {
+              "name": "Congo",
+              "value": 112151
+            },
+            {
+              "name": "Democratic Republic of the Congo",
+              "value": 2286736.61
+            },
+            {
+              "name": "Equatorial Guinea",
+              "value": 31031.77
+            },
+            {
+              "name": "Gabon",
+              "value": 63726.94
+            }
+          ]
+        },
+        {
+          "name": "Eastern Sub-Saharan Africa",
+          "value": 1,
+          "children": [
+            {
+              "name": "Burundi",
+              "value": 414014.19
+            },
+            {
+              "name": "Comoros",
+              "value": 35991.95
+            },
+            {
+              "name": "Djibouti",
+              "value": 53060.56
+            },
+            {
+              "name": "Eritrea",
+              "value": 129697.59
+            },
+            {
+              "name": "Ethiopia",
+              "value": 1621256.92
+            },
+            {
+              "name": "Kenya",
+              "value": 1832374.75
+            },
+            {
+              "name": "Madagascar",
+              "value": 1446555.44
+            },
+            {
+              "name": "Malawi",
+              "value": 587121.79
+            },
+            {
+              "name": "Mauritius",
+              "value": 208613.72
+            },
+            {
+              "name": "Mozambique",
+              "value": 974768.86
+            },
+            {
+              "name": "Rwanda",
+              "value": 443428.31
+            },
+            {
+              "name": "Seychelles",
+              "value": 12887.2
+            },
+            {
+              "name": "Somalia",
+              "value": 476143.34
+            },
+            {
+              "name": "United Republic of Tanzania",
+              "value": 1982815.61
+            },
+            {
+              "name": "Uganda",
+              "value": 916228.09
+            },
+            {
+              "name": "Zambia",
+              "value": 560718.17
+            },
+            {
+              "name": "South Sudan",
+              "value": 443904.43
+            },
+            {
+              "name": "Sudan",
+              "value": 1340049.52
+            }
+          ]
+        },
+        {
+          "name": "Southern Sub-Saharan Africa",
+          "value": 1,
+          "children": [
+            {
+              "name": "Botswana",
+              "value": 163486.81
+            },
+            {
+              "name": "Lesotho",
+              "value": 165195.93
+            },
+            {
+              "name": "Namibia",
+              "value": 160603.38
+            },
+            {
+              "name": "South Africa",
+              "value": 7335131.56
+            },
+            {
+              "name": "Eswatini",
+              "value": 46631.59
+            },
+            {
+              "name": "Zimbabwe",
+              "value": 850261.55
+            }
+          ]
+        },
+        {
+          "name": "Western Sub-Saharan Africa",
+          "value": 1,
+          "children": [
+            {
+              "name": "Benin",
+              "value": 226817.96
+            },
+            {
+              "name": "Burkina Faso",
+              "value": 584717.59
+            },
+            {
+              "name": "Cameroon",
+              "value": 621036.6
+            },
+            {
+              "name": "Cabo Verde",
+              "value": 17943.63
+            },
+            {
+              "name": "Chad",
+              "value": 390044.7
+            },
+            {
+              "name": "Côte d'Ivoire",
+              "value": 824419.56
+            },
+            {
+              "name": "Gambia",
+              "value": 95137.98
+            },
+            {
+              "name": "Ghana",
+              "value": 487697.37
+            },
+            {
+              "name": "Guinea",
+              "value": 532668.94
+            },
+            {
+              "name": "Guinea-Bissau",
+              "value": 20137.41
+            },
+            {
+              "name": "Liberia",
+              "value": 90704.97
+            },
+            {
+              "name": "Mali",
+              "value": 413558.54
+            },
+            {
+              "name": "Mauritania",
+              "value": 277442.3
+            },
+            {
+              "name": "Niger",
+              "value": 301303.03
+            },
+            {
+              "name": "Nigeria",
+              "value": 3741352.88
+            },
+            {
+              "name": "Sao Tome and Principe",
+              "value": 2128.36
+            },
+            {
+              "name": "Senegal",
+              "value": 645140.98
+            },
+            {
+              "name": "Sierra Leone",
+              "value": 458878.79
+            },
+            {
+              "name": "Togo",
+              "value": 226964.92
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
