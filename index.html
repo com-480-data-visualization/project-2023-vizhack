@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  
   <title>Data Visualizations</title>
   <style>
     body {
@@ -58,9 +61,68 @@
     .dropdown:hover .dropdown-content {
       display: block;
     }
+
+    .page-link{
+    display: inline-block;
+    }
+    label {
+      display: block;
+    }
+
+    .space{
+      padding-top: 100px;
+    }
+    .button {
+      background-color: rgba(215, 215, 215, 0.2);
+      border-radius: 12px;
+      cursor: pointer;
+      display: inline-block;
+      font-weight: 700;
+      line-height: 10px;
+      list-style: none;
+      margin: 0;
+      padding: 12px 12px;
+      text-align: center;
+      transition: all 200ms;
+      vertical-align: baseline;
+      white-space: nowrap;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      font-size: 16px;
+    }
+
+    .flex-container {
+      flex-direction:row;
+      display: -webkit-flex;
+      display: flex;
+      margin: 15%;
+      margin-top: 10%;
+      margin-bottom: 10%;
+      align-content: center;
+      flex-flow: row wrap; 
+    }
+
+    .flex-item {
+      width: 45%;
+      order: 1;  
+      margin:auto;
+      text-align: center;
+      padding: 5px;
+    }
+
+
+    .p-index {
+      text-align: justify;
+      font-size: 20px;
+      line-height: 30px;
+    }
   </style>
 </head>
 <body>
+  <script>
+    AOS.init();
+  </script>
   <div class="navbar">
     <a href="#main">Main</a>
     <a href="#about">About</a>
@@ -90,5 +152,40 @@
     <h1 id="about">About</h1>
     <p>Information about the data visualizations...</p>
   </div>
+
+  <div class="flex-container" data-aos="fade-right">
+    <img src="images/1.gif" alt="to be updated" class="flex-item">
+    <div class="flex-item">
+      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Bar Chart Race</h2>
+      <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
+      <a href="website/bar_race_chart.html"><button class="button">Click</button></a>
+    </div>
+  </div>
+  <div class="flex-container" data-aos="fade-up">
+    <div class="flex-item">
+      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">World Map</h2>
+      <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out!</p>
+      <a href="website/world_map.html"><button class="button">Click</button></a>
+    </div>
+    <img src="images/2.gif" alt="to be updated" class="flex-item">
+  </div>
+  <div class="flex-container" data-aos="fade-up" data-aos-duration="1000">
+    <img src="images/3.gif" alt="to be updated"class="flex-item">
+    <div class="flex-item">
+      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Multi-line Chart</h2>
+      <p class="p-index"> Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
+      <a href="website/multi-line_chart.html"><button class="button">Click</button></a>
+    </div>
+  </div>
+  <div class="flex-container" data-aos="fade-up" data-aos-duration="1000">
+    <div class="flex-item">
+      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Zoomable Sunburst</h2>
+      <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
+      <a href="website/zoomable_sunburst.html"><button class="button">Click</button></a>
+    </div>
+    <img src="images/4.gif" alt="to be updated" class="flex-item">
+  </div>
+  <div class="flex-container">
+</div> 
 </body>
 </html>
