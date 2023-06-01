@@ -1,10 +1,6 @@
-let path = '../../data/sunburst_data/sunburst_Male_1990.json';
-sessionStorage.setItem('pathSunburst', path);
-sessionStorage.setItem('sunburstYear', 1990)
-sessionStorage.setItem('sunburstSex', 'Male');
-
-document.getElementById('button-Male').focus();
-
+let sex = "button-"+ sessionStorage.getItem("sunburstSex");
+document.getElementById(sex).classList.add('focused-button');
+document.getElementById("numeric-input").value = sessionStorage.getItem("sunburstYear");
 
 function increment() {
     var input = document.getElementById("numeric-input");

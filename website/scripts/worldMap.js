@@ -1,9 +1,6 @@
-let path = '../../data/world_map/world_map_1990_Male.CSV';
-sessionStorage.setItem('pathWorldMap', path);
-sessionStorage.setItem('worldMapYear', 1990)
-sessionStorage.setItem('worldMapSex', 'Male');
-
-document.getElementById('button-Male').focus();
+let sex = "button-"+ sessionStorage.getItem("worldMapSex");
+document.getElementById(sex).classList.add('focused-button');
+document.getElementById("numeric-input").value = sessionStorage.getItem("worldMapYear");
 
 
 function increment() {
@@ -25,7 +22,6 @@ function increment() {
     }
     console.log(input.value);
     path = '../../data/world_map/world_map_' +  input.value + '_' + sessionStorage.getItem('worldMapSex') + ".CSV";
-    console.log(path);
     sessionStorage.setItem('pathWorldMap', path);
     sessionStorage.setItem('worldMapYear', input.value);
   }
