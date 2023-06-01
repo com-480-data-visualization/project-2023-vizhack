@@ -1,11 +1,9 @@
-let path = '../../data/barchart_data/barchart_Central Europe, Eastern Europe, and Central Asia_Both.CSV';
-sessionStorage.setItem('pathBarchart', path);
-sessionStorage.setItem('barchartRegion', 'Central Europe, Eastern Europe, and Central Asia');
-sessionStorage.setItem('barchartSex', 'Male');
+let sex = "button-"+ sessionStorage.getItem("barchartSex");
+document.getElementById(sex).classList.add('focused-button');
 
 
-document.getElementById('button-Male').focus();
-
+var optionElement = document.getElementById(sessionStorage.getItem('barchartRegion'));
+optionElement.selected = true;
 
 document.getElementById("button-Male").addEventListener("click", handleClick);
 document.getElementById("button-Female").addEventListener("click", handleClick);
@@ -43,10 +41,6 @@ var dropdown = document.getElementById('regions');
     dropdown.addEventListener('change', function() {
       var selectedOption = dropdown.options[dropdown.selectedIndex];
       var selectedValue = selectedOption.value;
-      var selectedText = selectedOption.text;
-
-      console.log('Selected Value:', selectedValue);
-      console.log('Selected Text:', selectedText);
 
       path = '../../data/barchart_data/barchart_'+ selectedValue + '_' + sessionStorage.getItem('barchartSex') + '.CSV';
       sessionStorage.setItem('pathBarchart', path);

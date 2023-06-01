@@ -1,5 +1,5 @@
-let path = '../../data/multiline_data/multiline_chart_Male.CSV';
-sessionStorage.setItem('pathMultiLine', path);
+let sex = "button-"+ sessionStorage.getItem("multilineSex");
+document.getElementById(sex).classList.add('focused-button');
 
 
 document.getElementById("button-Male").addEventListener("click", handleClick);
@@ -28,4 +28,5 @@ function handleClick(event) {
 
   path = '../../data/multiline_data/multiline_chart_' + buttonValue + ".CSV";
   sessionStorage.setItem('pathMultiLine', path);
+  sessionStorage.setItem('multilineSex', buttonValue);
 }
