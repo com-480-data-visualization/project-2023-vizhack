@@ -81,7 +81,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["countries-50m.json", {url: new URL("../../data/countries-50m.json", import.meta.url), mimeType: "application/json", toString}],
+    ["countries-50m.json", {url: new URL("countries-50m.json", import.meta.url), mimeType: "application/json", toString}],
     ["hale.csv", {url: new URL("../../data/world_map/world_map_1990_Both.CSV", import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
