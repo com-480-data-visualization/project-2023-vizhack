@@ -9,6 +9,25 @@ document.getElementById("button-Male").addEventListener("click", handleClick);
 document.getElementById("button-Female").addEventListener("click", handleClick);
 document.getElementById("button-Both").addEventListener("click", handleClick);
 
+
+function deleteDivs(){
+  var divs = document.querySelectorAll('.observablehq');
+
+  // Iterate over the selected div elements
+  for (var i = 0; i < divs.length; i++) {
+    var div = divs[i];
+    
+    // Check if the div contains a span element
+    if (div.querySelector('span')) {
+      // Remove the div element
+      div.remove();
+      console.log('remove');
+    }
+  } 
+}
+setTimeout(deleteDivs, 100);
+// requestAnimationFrame(deleteDivs);
+
 function handleClick(event) {
   var buttonValue = event.target.value;  
   if(event.target.id == 'button-Male'){
@@ -31,8 +50,6 @@ function handleClick(event) {
   path = '../../data/barchart_data/barchart_'+ sessionStorage.getItem('barchartRegion')  + '_' + buttonValue + '.CSV';
   sessionStorage.setItem('pathBarchart', path);
   sessionStorage.setItem('barchartSex', buttonValue);
-
-
 }
 
 
