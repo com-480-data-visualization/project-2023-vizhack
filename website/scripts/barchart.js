@@ -18,14 +18,14 @@ function deleteDivs(){
     var div = divs[i];
     
     // Check if the div contains a span element
-    if (div.querySelector('span')) {
+    if (div.querySelector('span')||div.querySelector('h1')) {
       // Remove the div element
       div.remove();
       console.log('remove');
     }
   } 
 }
-setTimeout(deleteDivs, 100);
+setTimeout(deleteDivs, 200);
 // requestAnimationFrame(deleteDivs);
 
 function handleClick(event) {
