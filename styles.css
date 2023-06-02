@@ -153,6 +153,29 @@ footer {
   left: 0;
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+footer .member {
+  width: 250px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+p {
+  line-height: 28px;
+  text-align: justify;
 }/*# sourceMappingURL=styles.css.map */
 
 .page-link{
@@ -329,14 +352,6 @@ label {
   top: 0;
   left: 100%;
   visibility: visible;
-}
-@media (max-width: 1366px) {
-  .navbar .dropdown .dropdown ul {
-    left: -90%;
-  }
-  .navbar .dropdown .dropdown:hover > ul {
-    left: -100%;
-  }
 }
 
 /*--------------------------------------------------------------

@@ -164,4 +164,32 @@ footer {
   left: 0;
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+
+  .member{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;    
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+
+  img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
 }
+
+p{
+  line-height: 28px;
+  text-align: justify;
+}
+
+
