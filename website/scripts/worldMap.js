@@ -3,6 +3,23 @@ document.getElementById(sex).classList.add('focused-button');
 document.getElementById("numeric-input").value = sessionStorage.getItem("worldMapYear");
 
 
+function deleteDivs(){
+  var divs = document.querySelectorAll('.observablehq');
+
+  // Iterate over the selected div elements
+  for (var i = 0; i < divs.length; i++) {
+    var div = divs[i];
+    
+    // Check if the div contains a span element
+    if (div.querySelector('span')) {
+      // Remove the div element
+      div.remove();
+      console.log('remove');
+    }
+  } 
+}
+setTimeout(deleteDivs, 100);
+
 function increment() {
     var input = document.getElementById("numeric-input");
     var value = parseInt(input.value);
@@ -12,6 +29,8 @@ function increment() {
     path = '../../data/world_map/world_map_' +  input.value + '_' + sessionStorage.getItem('worldMapSex') + ".CSV";
     sessionStorage.setItem('pathWorldMap', path);
     sessionStorage.setItem('worldMapYear', input.value);
+    location.reload(true);
+
   }
   
   function decrement() {
@@ -24,6 +43,8 @@ function increment() {
     path = '../../data/world_map/world_map_' +  input.value + '_' + sessionStorage.getItem('worldMapSex') + ".CSV";
     sessionStorage.setItem('pathWorldMap', path);
     sessionStorage.setItem('worldMapYear', input.value);
+    location.reload(true);
+
   }
 
 document.getElementById("button-Male").addEventListener("click", handleClick);
@@ -53,6 +74,7 @@ function handleClick(event) {
   path = '../../data/world_map/world_map_' +  sessionStorage.getItem('worldMapYear')  + '_' + buttonValue + ".CSV";
   sessionStorage.setItem('pathWorldMap', path);
   sessionStorage.setItem('worldMapSex', buttonValue); 
+  location.reload(true);
 
 }
   
