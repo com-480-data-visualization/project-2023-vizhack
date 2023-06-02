@@ -2,5 +2,3 @@
 node_modules/
 styles.css.map
 .vscode
-website/styles/*.css.map
-website/styles/*.scss
