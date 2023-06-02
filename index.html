@@ -4,63 +4,9 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-  
+  <link rel="stylesheet" href="styles.css">
   <title>Data Visualizations</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-
-    .navbar {
-      overflow: hidden;
-      background-color: #333;
-    }
-
-    .navbar a {
-      float: left;
-      display: block;
-      color: #f2f2f2;
-      text-align: center;
-      padding: 14px 16px;
-      text-decoration: none;
-    }
-
-    .dropdown {
-      float: left;
-      overflow: hidden;
-    }
-
-    .dropdown .dropbtn {
-      cursor: pointer;
-      font-size: 16px;  
-      border: none;
-      outline: none;
-      color: white;
-      padding: 14px 16px;
-      background-color: inherit;
-    }
-
-    .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
-    }
-
-    .dropdown-content a {
-      float: none;
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
-      text-align: left;
-    }
-
-    .dropdown:hover .dropdown-content {
-      display: block;
-    }
 
     .page-link{
     display: inline-block;
@@ -123,70 +69,91 @@
   <script>
     AOS.init();
   </script>
-  <div class="navbar">
-    <a href="#main">Main</a>
-    <a href="#about">About</a>
-    <div class="dropdown">
-      <button class="dropbtn">Visualizations
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="website/bar_race_chart.html">Bar Race Chart</a>
-        <a href="website/world_map.html">World Map</a>
-        <a href="website/multi_line_chart.html">Multi-line Chart</a>
-        <a href="website/zoomable_sunburst.html">Zoomable Sunburst</a>
+  <header>
+    <div id="logo">
+      LOGO
+    </div>
+    <nav>
+      <a href="../index.html">Main</a>
+      <a href="about.html">About</a>
+      <div class="dropdown">
+        <button class="dropbtn">Visualizations
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="website/bar_race_chart.html">Bar Race Chart</a>
+          <a href="website/world_map.html">World Map</a>
+          <a href="website/multi_line_chart.html">Multi-line Chart</a>
+          <a href="website/zoomable_sunburst.html">Zoomable Sunburst</a>
+        </div>
       </div>
-    </div> 
-  </div>
+    </nav>
+  </header>
 
-  <div id="content">
-    <h1>Main</h1>
-    <p>The goal of our project is to develop an engaging and informative web-based platform that presents data-driven visualizations of global 
-        and regional trends in smoking and chewing tobacco prevalence from 1990 to 2019. By utilizing high-quality datasets published by the 
-        Institute for Health Metrics and Evaluation (IHME), we aim to provide valuable insights into the differences in tobacco use across 
-        genders, age groups, and countries, as well as the associated health implications. Our visualizations are designed to cater to public 
-        health professionals, policymakers, researchers, and the general public interested in tobacco control, health promotion, and disease 
-        prevention. Through this project, we hope to raise awareness about the prevalence and impact of tobacco use, supporting informed 
-        decision-making and inspiring action towards a healthier future.</p>
+  <main>
+    <section id="smoke">
+      <div class="smoked words">
+        <span>Smoking</span> <span>kills</span><span>!</span>
+      </div>
+      <div class="smoked letters">
+        <span>S</span><span>m</span><span>o</span><span>k</span><span>i</span><span>n</span><span>g</span> <span>k</span><span>i</span><span>l</span><span>l</span><span>s</span><span>!</span>
+      </div>
+    </div>
+    </section>
+    <section>
+      <div id="content">
+        <h1>Main</h1>
+        <p>The goal of our project is to develop an engaging and informative web-based platform that presents data-driven visualizations of global 
+            and regional trends in smoking and chewing tobacco prevalence from 1990 to 2019. By utilizing high-quality datasets published by the 
+            Institute for Health Metrics and Evaluation (IHME), we aim to provide valuable insights into the differences in tobacco use across 
+            genders, age groups, and countries, as well as the associated health implications. Our visualizations are designed to cater to public 
+            health professionals, policymakers, researchers, and the general public interested in tobacco control, health promotion, and disease 
+            prevention. Through this project, we hope to raise awareness about the prevalence and impact of tobacco use, supporting informed 
+            decision-making and inspiring action towards a healthier future.</p>
+    
+        <h1 id="about">About</h1>
+        <p>Information about the data visualizations...</p>
+      </div>
+    </section>
+  </main>
+   <section id="vizualization--items">
+    <div class="flex-container" data-aos="fade-right">
+      <img src="images/1.gif" alt="to be updated" class="flex-item">
+      <div class="flex-item">
+        <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Bar Chart Race</h2>
+        <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
+        <a href="website/bar_race_chart.html"><button class="button">Click</button></a>
+      </div>
+    </div>
+    <div class="flex-container" data-aos="fade-up">
+      <div class="flex-item">
+        <h2 style="text-align: left; color: #0e379f; font-size: 36px;">World Map</h2>
+        <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out!</p>
+        <a href="website/world_map.html"><button class="button">Click</button></a>
+      </div>
+      <img src="images/2.gif" alt="to be updated" class="flex-item">
+    </div>
+    <div class="flex-container" data-aos="fade-up" data-aos-duration="1000">
+      <img src="images/3.gif" alt="to be updated"class="flex-item">
+      <div class="flex-item">
+        <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Multi-line Chart</h2>
+        <p class="p-index"> Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
+        <a href="website/multi-line_chart.html"><button class="button">Click</button></a>
+      </div>
+    </div>
+    <div class="flex-container" data-aos="fade-up" data-aos-duration="1000">
+      <div class="flex-item">
+        <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Zoomable Sunburst</h2>
+        <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
+        <a href="website/zoomable_sunburst.html"><button class="button">Click</button></a>
+      </div>
+      <img src="images/4.gif" alt="to be updated" class="flex-item">
+    </div>
+    <div class="flex-container">
+  </div>
+   </section>
 
-    <h1 id="about">About</h1>
-    <p>Information about the data visualizations...</p>
-  </div>
-
-  <div class="flex-container" data-aos="fade-right">
-    <img src="images/1.gif" alt="to be updated" class="flex-item">
-    <div class="flex-item">
-      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Bar Chart Race</h2>
-      <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
-      <a href="website/bar_race_chart.html"><button class="button">Click</button></a>
-    </div>
-  </div>
-  <div class="flex-container" data-aos="fade-up">
-    <div class="flex-item">
-      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">World Map</h2>
-      <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out!</p>
-      <a href="website/world_map.html"><button class="button">Click</button></a>
-    </div>
-    <img src="images/2.gif" alt="to be updated" class="flex-item">
-  </div>
-  <div class="flex-container" data-aos="fade-up" data-aos-duration="1000">
-    <img src="images/3.gif" alt="to be updated"class="flex-item">
-    <div class="flex-item">
-      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Multi-line Chart</h2>
-      <p class="p-index"> Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
-      <a href="website/multi-line_chart.html"><button class="button">Click</button></a>
-    </div>
-  </div>
-  <div class="flex-container" data-aos="fade-up" data-aos-duration="1000">
-    <div class="flex-item">
-      <h2 style="text-align: left; color: #0e379f; font-size: 36px;">Zoomable Sunburst</h2>
-      <p class="p-index">Explore tobacco prevalence over the years across different countries and regions with an interactive graph. Click to find out! </p>
-      <a href="website/zoomable_sunburst.html"><button class="button">Click</button></a>
-    </div>
-    <img src="images/4.gif" alt="to be updated" class="flex-item">
-  </div>
-  <div class="flex-container">
-</div> 
+   
 <script src="app.js"></script>
 </body>
 </html>

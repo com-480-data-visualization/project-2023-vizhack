@@ -1,46 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background: #FFF;
-  color: #000;
+  font-family: "Open Sans", sans-serif;
 }
 
-.world--img {
-  width: 80vw;
-  height: 80vh;
-}
-
-footer {
-  background: steelblue;
-  color: white;
+header {
   display: flex;
-  height: 40px;
   flex-direction: row;
+  justify-content: space-around;
   align-items: center;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #333;
+  width: 100%;
+  height: 50px;
+  color: #FFF;
+}
+header nav {
+  z-index: 1;
+  overflow: hidden;
+}
+header nav a {
+  float: left;
+  color: #FFF;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+header .dropdown {
+  z-index: 2;
+  float: left;
+  overflow: hidden;
+}
+header .dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+}
+header .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+header .dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+header .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+main section {
+  margin: 10px auto;
+  width: 80%;
+}
+main section#smoke {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#smoke {
+  height: 70vh;
+  background-color: black;
+}
+
+.smoked {
+  color: white;
+  font-size: 4rem;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+}
+
+.smoked span {
+  position: relative;
+  display: inline-block;
+  cursor: default;
+}
+
+/* Words and Letters have separate animations since larger blocks didn't look as realistic with the letter keyframes */
+/* Words animation */
+.smoked.words span.active {
+  animation: smokeWords 2s linear forwards;
+}
+
+@keyframes smokeWords {
+  0% {
+    opacity: 1;
+    filter: blur(0px);
+    transform: translateX(0) translateY(0) rotate(0deg) scale(1);
+  }
+  50% {
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 0;
+    filter: blur(50px);
+    transform: translateX(300px) translateY(-300px) rotate(45deg) scale(3);
+  }
+}
+/* Letters animation */
+.smoked.letters span.active {
+  animation: smokeLetters 2s linear forwards;
+}
+
+@keyframes smokeLetters {
+  0% {
+    opacity: 1;
+    filter: blur(0px);
+    transform: translateX(0) translateY(0) rotate(0deg) scale(1);
+  }
+  50% {
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  100% {
+    opacity: 0;
+    filter: blur(30px);
+    transform: translateX(300px) translateY(-300px) rotate(360deg) scale(5);
+  }
+}
+footer {
+  background-color: #333;
+  color: #FFF;
+  height: 60px;
   position: fixed;
-  left: 0;
   bottom: 0;
   width: 100%;
-  padding: 20px;
-}
-
-#numeric-input {
-  width: 50px;
-}
-
-#increment-btn,
-#decrement-btn {
-  width: 30px;
-  height: 30px;
-  font-weight: bold;
-}
-
-.button {
-  padding: 10px 20px;
-  background-color: #eaeaea;
-  border: none;
-  cursor: pointer;
-}
-
-.active {
-  background-color: #a9a9a9;
+  left: 0;
+  display: flex;
+  justify-content: space-evenly;
 }/*# sourceMappingURL=styles.css.map */

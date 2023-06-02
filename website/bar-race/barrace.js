@@ -52,7 +52,7 @@ FileAttachment("barchart-any.csv").csv({typed: true})
 )}
 
 function _duration(){return(
-250
+70
 )}
 
 function _n(){return(

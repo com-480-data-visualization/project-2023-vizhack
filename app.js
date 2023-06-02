@@ -21,3 +21,14 @@ sessionStorage.setItem('worldMapSex', 'Male');
 
 sessionStorage.setItem('sunburstYear', 1990)
 sessionStorage.setItem('sunburstSex', 'Male');
+
+
+//=============================================================================
+let spans = document.querySelectorAll('span');
+
+for (let i = 0; i < spans.length; i++) {
+  spans[i].addEventListener("mouseover", function() {
+    spans[i].classList.add('active');
+  })
+}
+
