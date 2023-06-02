@@ -75,6 +75,5 @@ function handleClick(event) {
   sessionStorage.setItem('sunburstSex', buttonValue); 
   location.reload(true);
 
-
 }
   
