@@ -50,6 +50,7 @@ function handleClick(event) {
   path = '../../data/barchart_data/barchart_'+ sessionStorage.getItem('barchartRegion')  + '_' + buttonValue + '.CSV';
   sessionStorage.setItem('pathBarchart', path);
   sessionStorage.setItem('barchartSex', buttonValue);
+  location.reload(true);
 }
 
 
@@ -62,5 +63,5 @@ var dropdown = document.getElementById('regions');
       path = '../../data/barchart_data/barchart_'+ selectedValue + '_' + sessionStorage.getItem('barchartSex') + '.CSV';
       sessionStorage.setItem('pathBarchart', path);
       sessionStorage.setItem('barchartRegion', selectedValue);
-
+      location.reload(true);
 });
