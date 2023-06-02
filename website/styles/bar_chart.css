@@ -8,6 +8,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.observablehq {
+  color: white;
+}
+
 header {
   background-color: #333;
   width: 100%;
