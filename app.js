@@ -167,3 +167,7 @@ for (let i = 0; i < spans.length; i++) {
     }
   });
 })()
+
+document.getElementById("logo").addEventListener("click", function() {
+  location.reload();
+});
