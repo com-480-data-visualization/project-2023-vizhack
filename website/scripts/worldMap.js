@@ -6,19 +6,14 @@ document.getElementById("numeric-input").value = sessionStorage.getItem("worldMa
 function deleteDivs(){
   var divs = document.querySelectorAll('.observablehq');
 
-  // Iterate over the selected div elements
   for (var i = 0; i < divs.length; i++) {
     var div = divs[i];
-    
-    // Check if the div contains a span element
     if (div.querySelector('span')) {
-      // Remove the div element
       div.remove();
-      console.log('remove');
     }
   } 
 }
-setTimeout(deleteDivs, 100);
+setTimeout(deleteDivs, 150);
 
 function increment() {
     var input = document.getElementById("numeric-input");

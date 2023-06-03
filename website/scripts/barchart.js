@@ -25,7 +25,7 @@ function deleteDivs(){
     }
   } 
 }
-setTimeout(deleteDivs, 200);
+setTimeout(deleteDivs, 300);
 // requestAnimationFrame(deleteDivs);
 
 function handleClick(event) {

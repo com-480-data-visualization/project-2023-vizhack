@@ -5,15 +5,10 @@ document.getElementById(sex).classList.add('focused-button');
 function deleteDivs(){
   var divs = document.querySelectorAll('.observablehq');
 
-  // Iterate over the selected div elements
   for (var i = 0; i < divs.length; i++) {
     var div = divs[i];
-    
-    // Check if the div contains a span element
     if (div.querySelector('span')) {
-      // Remove the div element
       div.remove();
-      console.log('remove');
     }
   } 
 }
