@@ -81,7 +81,7 @@ main section#smoke {
 }
 
 #smoke {
-  height: 100vh;
+  height: 93vh;
   background-color: black;
 }
 
@@ -225,7 +225,7 @@ label {
 .intro {
   text-align: justify;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 150%;
   margin-top: 20px;
   margin-bottom: 30px;
 }
