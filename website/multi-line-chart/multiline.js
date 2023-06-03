@@ -5,7 +5,7 @@ LineChart(smoking, {
   z: d => d.location_name,
   yLabel: "↑ Smoking (%)",
   width,
-  height: 500,
+  height: 700,
   color: "steelblue",
 })
 )}

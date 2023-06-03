@@ -4,12 +4,24 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: $font;
 }
 
 .observablehq{
   span{
     color: white;
   }
+}
+
+#logo{
+  font-size: 12px;
+    color: #fff !important;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 550;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 
@@ -70,6 +82,7 @@ header{
 }
 
 main{
+  margin: 25px 0 60px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -77,9 +90,21 @@ main{
     flex-direction: column;
     
     section{
-        margin: 0 auto;
-        width: 80%;
-    }
+      margin: 0 auto;
+      width: 80%;
+      text-align: justify;
+      line-height: 25px;
+
+      div{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        p{
+          margin: 15px 0;
+        }
+      }
+  }
 }
 
 
