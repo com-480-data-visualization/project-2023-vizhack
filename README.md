@@ -59,6 +59,7 @@ Please, fill the following sections about your project.
 ## Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
+
 [Milestone 2 document](Milestone2.pdf)
 
 First skeleton of our website can be accessed [here](https://com-480-data-visualization.github.io/project-2023-vizhack/).
@@ -67,7 +68,8 @@ First skeleton of our website can be accessed [here](https://com-480-data-visual
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
-[Website](https://com-480-data-visualization.github.io/project-2023-vizhack/)|[Process Book]|[Screencast]
+
+[Website](https://com-480-data-visualization.github.io/project-2023-vizhack/)|Process Book|Screencast
 
 ## Late policy
 
