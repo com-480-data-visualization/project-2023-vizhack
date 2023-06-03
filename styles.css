@@ -157,7 +157,7 @@ footer {
   flex-direction: row;
 }
 footer .member {
-  width: 250px;
+  width: 300px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -211,16 +211,14 @@ label {
   margin-bottom: 10%;
   align-content: center;
   flex-flow: row wrap; 
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 .flex-item {
-  width: 40%;
+  width: 44%;
   order: 1;  
   margin:auto;
   text-align: center;
-  padding: 5px;
+  padding: 10px;
 }
 
 
@@ -257,9 +255,6 @@ label {
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-/**
-* Desktop Navigation 
-*/
 .navbar {
   padding: 0;
   font-size: 20px;
