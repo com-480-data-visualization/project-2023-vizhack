@@ -86,8 +86,8 @@ export default function define(runtime, observer) {
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer("key")).define("key", ["Legend","chart"], _key);
-  main.variable(observer("chart")).define("chart", ["Choropleth","hale","d3","countries","countrymesh","width"], _chart);
-  main.variable(observer("hale")).define("hale", ["FileAttachment","rename"], _val);
+  main.variable(observer("chart")).define("chart", ["Choropleth","val","d3","countries","countrymesh","width"], _chart);
+  main.variable(observer("val")).define("val", ["FileAttachment","rename"], _val);
   main.variable(observer("rename")).define("rename", _rename);
   main.variable(observer("world")).define("world", ["FileAttachment"], _world);
   main.variable(observer("countries")).define("countries", ["topojson","world"], _countries);
