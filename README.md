@@ -59,6 +59,7 @@ Please, fill the following sections about your project.
 ## Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
+
 [Milestone 2 document](Milestone2.pdf)
 
 First skeleton of our website can be accessed [here](https://com-480-data-visualization.github.io/project-2023-vizhack/).
@@ -68,6 +69,12 @@ First skeleton of our website can be accessed [here](https://com-480-data-visual
 
 **80% of the final grade**
 
+* [Website](https://com-480-data-visualization.github.io/project-2023-vizhack/)
+* Process Book
+* Screencast
+* Technical Setup
+  * To run our project, firstly you need to clone our repository: ```git clone https://github.com/com-480-data-visualization/project-2023-vizhack```.
+  * Then open the page http://localhost:5501/ in your browser.
 
 ## Late policy
 
