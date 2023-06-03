@@ -6,7 +6,7 @@ function _chart(partition,data,d3,width,color,arc,format,radius)
 
   const svg = d3.create("svg")
       .attr("viewBox", [0, 0, width, width])
-      .style("font", "9px sans-serif");
+      .style("font", "14px sans-serif");
 
   const g = svg.append("g")
       .attr("transform", `translate(${width / 2},${width / 2})`);
@@ -124,7 +124,7 @@ d3.format(",d")
 )}
 
 function _width(){return(
-750
+932
 )}
 
 function _radius(width){return(

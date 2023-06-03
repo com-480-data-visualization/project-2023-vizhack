@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500&display=swap");
 * {
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
 }
 
 .observablehq {
@@ -34,6 +34,7 @@ header {
   color: #FFF;
 }
 header nav {
+  font-size: 20px;
   overflow: hidden;
 }
 header nav a {
@@ -89,7 +90,8 @@ main section {
   margin: 0 auto;
   width: 80%;
   text-align: justify;
-  line-height: 25px;
+  line-height: 30px;
+  font-size: 24px;
 }
 main section div {
   display: flex;
@@ -131,9 +133,9 @@ footer button {
   background: #333;
   justify-content: center;
   align-items: center;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   border: solid #404C5D 1px;
-  font-size: 16px;
+  font-size: 24px;
   color: white;
   transition: 500ms;
   border-radius: 5px;
@@ -163,7 +165,7 @@ footer .dropdown {
   background: #333;
   justify-content: center;
   align-items: center;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   border: solid #404C5D 1px;
   border: none;
   font-size: 16px;
@@ -177,8 +179,9 @@ footer select:focus {
   outline: none;
 }
 footer .dropdown select {
+  font-family: "Darker Grotesque", sans-serif;
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   color: white;
   -webkit-appearance: none;
      -moz-appearance: none;
