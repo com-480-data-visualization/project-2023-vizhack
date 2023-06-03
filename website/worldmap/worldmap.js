@@ -8,8 +8,8 @@ function _key(Legend,chart){return(
 Legend(chart.scales.color, {title: "Percentage of smokers"})
 )}
 
-function _chart(Choropleth,hale,d3,countries,countrymesh,width){return(
-Choropleth(hale, {
+function _chart(Choropleth,val,d3,countries,countrymesh,width){return(
+Choropleth(val, {
   id: d => d.name, // country name, e.g. Zimbabwe
   value: d => d.val, // health-adjusted life expectancy
   range: d3.interpolateYlGnBu,
@@ -21,8 +21,8 @@ Choropleth(hale, {
 })
 )}
 
-async function _hale(FileAttachment,rename){return(
-(await FileAttachment("hale.csv").csv()).map(d => ({name: rename.get(d.location_name) || d.location_name, hale: +d.val}))
+async function _val(FileAttachment,rename){return(
+(await FileAttachment("hale.csv").csv()).map(d => ({name: rename.get(d.location_name) || d.location_name, val: +d.val}))
 )}
 
 function _rename(){return(
