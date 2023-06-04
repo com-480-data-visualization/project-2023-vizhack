@@ -72,7 +72,7 @@ First skeleton of our website can be accessed [here](https://com-480-data-visual
 * Technical Setup
   * We use html, css and Javascript for website design and d3.js to build visualizations.
   * To run our project, firstly you need to clone our repository: ```git clone https://github.com/com-480-data-visualization/project-2023-vizhack```.
-  * Then open the page http://localhost:5500/ in your browser.
+  * Then open the index.html in your browser.
 * Intended Usage
   * Policy and advocacy support: Policymakers and public health professionals can utilize the website as a reference for evidence-based decision-making. Thet can uncover disparities and identify target populations for tailored interventions.
   * Comparative analysis and demographic insights: Users can explore the tobacco prevalence on different demographic groups and geographic regions over the years.
