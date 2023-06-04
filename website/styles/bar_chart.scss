@@ -26,6 +26,7 @@ body {
 }
 
 header{
+  font-family: $font;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -36,7 +37,10 @@ header{
     color: $text-light;
 
     nav{
-      font-size: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
         overflow: hidden;
         a{
             float: left;

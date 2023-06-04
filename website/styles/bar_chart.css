@@ -24,6 +24,7 @@ body {
 }
 
 header {
+  font-family: "Darker Grotesque", sans-serif;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -34,7 +35,10 @@ header {
   color: #FFF;
 }
 header nav {
-  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
   overflow: hidden;
 }
 header nav a {
