@@ -77,8 +77,8 @@ First skeleton of our website can be accessed [here](https://com-480-data-visual
   * Policy and advocacy support: Policymakers and public health professionals can utilize the website as a reference for evidence-based decision-making. Thet can uncover disparities and identify target populations for tailored interventions.
   * Comparative analysis and demographic insights: Users can explore the tobacco prevalence on different demographic groups and geographic regions over the years.
 * [Website](https://com-480-data-visualization.github.io/project-2023-vizhack/)
-* Process Book
-* Screencast
+* [Process Book](Process Book.pdf)
+* [Screencast](https://youtu.be/sdlCMOrwBvM)
 
 ## Late policy
 
